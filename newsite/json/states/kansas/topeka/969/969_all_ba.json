@@ -1,0 +1,94 @@
+{
+    "success": true,
+    "location_id": 969,
+    "mode": "business-address",
+    "data": {
+        "header": {
+            "city": "Topeka",
+            "state": "KS",
+            "price": null,
+            "address": {
+                "line1": "2611 SW 17th Street",
+                "suite": null,
+                "city": "Topeka",
+                "state": "KS",
+                "zip": "66604",
+                "phone": "(785) 380-7268"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/969-Front-Building.jpg",
+                    "/wp-content-mgr/wp-content/uploads/969-Lobby-2.jpg",
+                    "/wp-content-mgr/wp-content/uploads/969-Common-Area.jpg",
+                    "/wp-content-mgr/wp-content/uploads/969-Lobby.jpg",
+                    "/wp-content-mgr/wp-content/uploads/969-Conference-Room.jpg",
+                    "/wp-content-mgr/wp-content/uploads/969-Conference-Room-2.jpg"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 1,
+            "addressOnlyUrl": "/business-address/kansas/topeka/location-969/",
+            "signupUrl": "/signup/?locid=969",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 1,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Topeka Virtual Office",
+            "body": "Secure a prestigious business address in Topeka without the financial strain of a physical location. With Opus VO, you can situate your enterprise within Topeka’s dynamic ecosystem, all while conserving your financial assets. Have a vital meeting or a game-changing client pitch? Our upscale conference rooms are meticulously designed to leave a lasting impression.  When you opt for a virtual setup in Topeka through Opus VO, a committed live receptionist is included in your royal package. We strive to make every client engagement a seamless reflection of your unique brand identity. Hand over your routine administrative tasks to us, enabling you to focus on realizing your grand business ambitions. ",
+            "map": {
+                "lat": 39.036579,
+                "lng": -95.710419,
+                "zoom": 14,
+                "city": "Topeka"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Topeka, Kansas even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Topeka. You can also adapt to better meet your clients’ unique needs within Kansas. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Topeka virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Topeka? Why a Virtual Office?",
+                "body": "Don’t overlook Topeka—it’s not just a political hub. It’s an increasingly vibrant venue for a multitude of businesses, ranging from tech startups to established enterprises. Having your base in Topeka gives you valuable access to influential industry events and networking opportunities.  Choosing Opus VO in Topeka is more than a financially astute move; it’s a strategic masterstroke. Are you prepared to elevate your business? Our exemplary virtual office services are standing by, awaiting your royal decree.  Opus VO, Topeka @ 2611 SW 17th Street, Topeka, KS 66604 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Prestigious Business Address 2611 SW 17th Street Topeka | $59/month",
+            "meta_description": "Impress clients with a virtual office at 2611 SW 17th Street Topeka enjoy a prime location mail handling digital alerts and privacy for only $59/month",
+            "canonical": "https://www.opusvirtualoffices.com/business-address/kansas/topeka/location-969/",
+            "og": {
+                "title": "Prestigious Business Address 2611 SW 17th Street Topeka | $59/month",
+                "description": "Impress clients with a virtual office at 2611 SW 17th Street Topeka enjoy a prime location mail handling digital alerts and privacy for only $59/month",
+                "url": "https://www.opusvirtualoffices.com/business-address/kansas/topeka/location-969/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/969-Front-Building.jpg"
+            }
+        }
+    }
+}

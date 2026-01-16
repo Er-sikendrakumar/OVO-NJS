@@ -1,0 +1,179 @@
+{
+    "success": true,
+    "count": 9,
+    "state": "tennessee",
+    "mode": "virtual-office",
+    "data": [
+        {
+            "id": 1476,
+            "location_name": "611 Commerce Street, Suite 2611, Nashville, TN 37203",
+            "city": "Nashville",
+            "state": "Tennessee",
+            "state_abbr": "TN",
+            "address": "611 Commerce Street, Suite 2611, Nashville, TN 37203",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 1,
+            "point_x": 36.160597,
+            "point_y": -86.7796539,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/Opus-Virtual-Office-Nashville-611-Commerce-Street-Downtown-Skyline-View.webp",
+                "alttext": "View of the downtown Nashville skyline from Opus Virtual Office at 611 Commerce Street, Nashville, TN."
+            },
+            "url": "/virtual-office/tennessee/nashville/location-1476/",
+            "phone": "6158574210"
+        },
+        {
+            "id": 1552,
+            "location_name": "214 Overlook Circle, Brentwood, TN 37027",
+            "city": "Brentwood",
+            "state": "Tennessee",
+            "state_abbr": "TN",
+            "address": "214 Overlook Circle, Brentwood, TN 37027",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 36.030699299,
+            "point_y": -86.7763624,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1552-building-1743185450376.png",
+                "alttext": "Exterior of building housing Opus Virtual Offices located in Brentwood, Tennessee"
+            },
+            "url": "/virtual-office/tennessee/brentwood/location-1552/",
+            "phone": "6159311748"
+        },
+        {
+            "id": 1089,
+            "location_name": "3712 Ringgold Road, Chattanooga, TN 37412",
+            "city": "Chattanooga",
+            "state": "Tennessee",
+            "state_abbr": "TN",
+            "address": "3712 Ringgold Road, Chattanooga, TN 37412",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 35.0004381,
+            "point_y": -85.2581557,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/tennessee/chattanooga/location-1089/",
+            "phone": "4237903185"
+        },
+        {
+            "id": 286,
+            "location_name": "625 Bakers Bridge Ave., Franklin, TN 37067",
+            "city": "Franklin",
+            "state": "Tennessee",
+            "state_abbr": "TN",
+            "address": "625 Bakers Bridge Ave., Franklin, TN 37067",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 35.958743,
+            "point_y": -86.80495,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/tennessee/franklin/location-286/",
+            "phone": "6154722126"
+        },
+        {
+            "id": 1464,
+            "location_name": "740C Conference Drive, Goodlettsville, TN 37072",
+            "city": "Goodlettsville",
+            "state": "Tennessee",
+            "state_abbr": "TN",
+            "address": "740C Conference Drive, Goodlettsville, TN 37072",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 36.3112387,
+            "point_y": -86.69881389,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1464-01.building.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/tennessee/goodlettsville/location-1464/",
+            "phone": "6154654842"
+        },
+        {
+            "id": 884,
+            "location_name": "9111 Cross Park Drive, Knoxville, TN 37923",
+            "city": "Knoxville",
+            "state": "Tennessee",
+            "state_abbr": "TN",
+            "address": "9111 Cross Park Drive, Knoxville, TN 37923",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 35.9228382,
+            "point_y": -84.0874553,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/884-Exterior.png",
+                "alttext": "Exterior of building that houses Opus Virtual Offices located in Knoxville, Tennessee"
+            },
+            "url": "/virtual-office/tennessee/knoxville/location-884/",
+            "phone": "8652920292"
+        },
+        {
+            "id": 921,
+            "location_name": "5865 Ridgeway Center Parkway, Memphis, TN 38120",
+            "city": "Memphis",
+            "state": "Tennessee",
+            "state_abbr": "TN",
+            "address": "5865 Ridgeway Center Parkway, Memphis, TN 38120",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 35.1043678,
+            "point_y": -89.8660767,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/Opus-Virtual-Office-Memphis-Building-Entrance-scaled.webp",
+                "alttext": "Exterior of the building at 5865 Ridgeway Center Parkway, Memphis, TN"
+            },
+            "url": "/virtual-office/tennessee/memphis/location-921/",
+            "phone": "9016202478"
+        },
+        {
+            "id": 1469,
+            "location_name": "925 S Church Street, Murfreesboro, TN 37130",
+            "city": "Murfreesboro",
+            "state": "Tennessee",
+            "state_abbr": "TN",
+            "address": "925 S Church Street, Murfreesboro, TN 37130",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 35.8338842,
+            "point_y": -86.3926625,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/tennessee/murfreesboro/location-1469/",
+            "phone": "6154722105"
+        },
+        {
+            "id": 682,
+            "location_name": "1784 W. Northfield Blvd., Murfreesboro, TN 37129",
+            "city": "Murfreesboro",
+            "state": "Tennessee",
+            "state_abbr": "TN",
+            "address": "1784 W. Northfield Blvd., Murfreesboro, TN 37129",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 35.870564,
+            "point_y": -86.41324,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/tennessee/murfreesboro/location-682/",
+            "phone": "6154722125"
+        }
+    ]
+}

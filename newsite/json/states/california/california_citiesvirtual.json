@@ -1,0 +1,347 @@
+{
+    "success": true,
+    "count": 68,
+    "state": "california",
+    "data": [
+        {
+            "id": "922",
+            "name": "Adelanto",
+            "popular": "0"
+        },
+        {
+            "id": "371",
+            "name": "Antelope",
+            "popular": "0"
+        },
+        {
+            "id": "361",
+            "name": "Atascadero",
+            "popular": "0"
+        },
+        {
+            "id": "187",
+            "name": "Bakersfield",
+            "popular": "1"
+        },
+        {
+            "id": "787",
+            "name": "Bellflower",
+            "popular": "0"
+        },
+        {
+            "id": "404",
+            "name": "Beverly Hills",
+            "popular": "1"
+        },
+        {
+            "id": "468",
+            "name": "Buena Park",
+            "popular": "0"
+        },
+        {
+            "id": "265",
+            "name": "Burbank",
+            "popular": "0"
+        },
+        {
+            "id": "279",
+            "name": "Carmichael",
+            "popular": "0"
+        },
+        {
+            "id": "868",
+            "name": "Cathedral City",
+            "popular": "0"
+        },
+        {
+            "id": "266",
+            "name": "Cerritos",
+            "popular": "0"
+        },
+        {
+            "id": "341",
+            "name": "Chula Vista",
+            "popular": "1"
+        },
+        {
+            "id": "372",
+            "name": "Citrus Heights",
+            "popular": "0"
+        },
+        {
+            "id": "370",
+            "name": "Claremont",
+            "popular": "0"
+        },
+        {
+            "id": "906",
+            "name": "Cypress",
+            "popular": "0"
+        },
+        {
+            "id": "363",
+            "name": "Diamond Bar",
+            "popular": "0"
+        },
+        {
+            "id": "542",
+            "name": "Dublin",
+            "popular": "0"
+        },
+        {
+            "id": "727",
+            "name": "El Dorado Hills",
+            "popular": "0"
+        },
+        {
+            "id": "297",
+            "name": "Fairfield",
+            "popular": "0"
+        },
+        {
+            "id": "336",
+            "name": "Folsom",
+            "popular": "0"
+        },
+        {
+            "id": "483",
+            "name": "Fresno",
+            "popular": "0"
+        },
+        {
+            "id": "428",
+            "name": "Fullerton",
+            "popular": "0"
+        },
+        {
+            "id": "309",
+            "name": "Glendora",
+            "popular": "0"
+        },
+        {
+            "id": "592",
+            "name": "Goleta",
+            "popular": "0"
+        },
+        {
+            "id": "198",
+            "name": "Huntington Beach",
+            "popular": "0"
+        },
+        {
+            "id": "196",
+            "name": "Irvine",
+            "popular": "0"
+        },
+        {
+            "id": "355",
+            "name": "Jackson",
+            "popular": "0"
+        },
+        {
+            "id": "394",
+            "name": "Lomita",
+            "popular": "0"
+        },
+        {
+            "id": "205",
+            "name": "Los Angeles",
+            "popular": "1"
+        },
+        {
+            "id": "317",
+            "name": "Menifee",
+            "popular": "0"
+        },
+        {
+            "id": "488",
+            "name": "Modesto",
+            "popular": "0"
+        },
+        {
+            "id": "314",
+            "name": "Newport Beach",
+            "popular": "1"
+        },
+        {
+            "id": "290",
+            "name": "North Hollywood",
+            "popular": "0"
+        },
+        {
+            "id": "766",
+            "name": "Oak Hills",
+            "popular": "0"
+        },
+        {
+            "id": "456",
+            "name": "Oakland",
+            "popular": "1"
+        },
+        {
+            "id": "578",
+            "name": "Ontario",
+            "popular": "0"
+        },
+        {
+            "id": "319",
+            "name": "Orange",
+            "popular": "0"
+        },
+        {
+            "id": "242",
+            "name": "Palm Desert",
+            "popular": "0"
+        },
+        {
+            "id": "611",
+            "name": "Palm Springs",
+            "popular": "0"
+        },
+        {
+            "id": "496",
+            "name": "Palo Alto",
+            "popular": "0"
+        },
+        {
+            "id": "576",
+            "name": "Rancho Cucamonga",
+            "popular": "1"
+        },
+        {
+            "id": "514",
+            "name": "Redding",
+            "popular": "0"
+        },
+        {
+            "id": "200",
+            "name": "Redondo Beach",
+            "popular": "0"
+        },
+        {
+            "id": "354",
+            "name": "Riverbank",
+            "popular": "0"
+        },
+        {
+            "id": "482",
+            "name": "Riverside",
+            "popular": "1"
+        },
+        {
+            "id": "259",
+            "name": "Sacramento",
+            "popular": "1"
+        },
+        {
+            "id": "642",
+            "name": "San Bernardino",
+            "popular": "0"
+        },
+        {
+            "id": "169",
+            "name": "San Diego",
+            "popular": "0"
+        },
+        {
+            "id": "271",
+            "name": "San Dimas",
+            "popular": "0"
+        },
+        {
+            "id": "357",
+            "name": "San Francisco",
+            "popular": "1"
+        },
+        {
+            "id": "241",
+            "name": "San Jose",
+            "popular": "1"
+        },
+        {
+            "id": "340",
+            "name": "San Juan Capistrano",
+            "popular": "0"
+        },
+        {
+            "id": "758",
+            "name": "San Marcos",
+            "popular": "0"
+        },
+        {
+            "id": "518",
+            "name": "Santa Barbara",
+            "popular": "0"
+        },
+        {
+            "id": "451",
+            "name": "Santa Clarita",
+            "popular": "0"
+        },
+        {
+            "id": "515",
+            "name": "Santa Rosa",
+            "popular": "0"
+        },
+        {
+            "id": "313",
+            "name": "Seal Beach",
+            "popular": "0"
+        },
+        {
+            "id": "359",
+            "name": "Simi Valley",
+            "popular": "0"
+        },
+        {
+            "id": "678",
+            "name": "Stockton",
+            "popular": "0"
+        },
+        {
+            "id": "234",
+            "name": "Sunnyvale",
+            "popular": "0"
+        },
+        {
+            "id": "763",
+            "name": "Thousand Oaks",
+            "popular": "0"
+        },
+        {
+            "id": "349",
+            "name": "Torrance",
+            "popular": "0"
+        },
+        {
+            "id": "165",
+            "name": "Vallejo",
+            "popular": "0"
+        },
+        {
+            "id": "351",
+            "name": "Victorville",
+            "popular": "0"
+        },
+        {
+            "id": "623",
+            "name": "Walnut",
+            "popular": "0"
+        },
+        {
+            "id": "181",
+            "name": "Wildomar",
+            "popular": "0"
+        },
+        {
+            "id": "397",
+            "name": "Woodland Hills",
+            "popular": "0"
+        },
+        {
+            "id": "358",
+            "name": "Yuba City",
+            "popular": "0"
+        }
+    ]
+}

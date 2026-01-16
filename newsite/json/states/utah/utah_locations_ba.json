@@ -1,0 +1,27 @@
+{
+    "success": true,
+    "count": 1,
+    "state": "utah",
+    "mode": "business-address",
+    "data": [
+        {
+            "id": 1342,
+            "location_name": "159 West Broadway, Salt Lake City, UT 84101",
+            "city": "Salt Lake City",
+            "state": "Utah",
+            "state_abbr": "UT",
+            "address": "159 West Broadway, Salt Lake City, UT 84101",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 40.7626543,
+            "point_y": -111.8958533,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1342_Salt_Lake_City_Utah_Opus_Virtual_Office_Building_1.jpg",
+                "alttext": null
+            },
+            "url": "/business-address/utah/salt-lake-city/location-1342/",
+            "phone": "8014498232"
+        }
+    ]
+}

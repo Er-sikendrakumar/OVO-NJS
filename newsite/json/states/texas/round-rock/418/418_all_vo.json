@@ -1,0 +1,89 @@
+{
+    "success": true,
+    "location_id": 418,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Round Rock",
+            "state": "TX",
+            "price": null,
+            "address": {
+                "line1": "1801 Red Bud Lane",
+                "suite": null,
+                "city": "Round Rock",
+                "state": "TX",
+                "zip": "78664",
+                "phone": "(512) 721-0279"
+            },
+            "images": {
+                "hero": [
+                    "/assets/mail-center.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=418",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 0,
+            "nearbyPremium": 1,
+            "nearbyPremiumUrl": "/virtual-office/texas/austin/location-1475/",
+            "nearbyPremiumText": "to view nearby PREMIUM Locations that offer Meeting Rooms for the same $99/mo",
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Round Rock Virtual Office",
+            "body": "Are you in search of a distinguished Round Rock address to launch your startup or enhance your existing business, without the financial burden of a physical office? Opus VO has the perfect solution. Establish your business in one of our prime Round Rock locations and enjoy the prestige of a respected address without the financial strain. When you require a professional environment for important meetings or client interactions, our state-of-the-art conference rooms are at your service.  But the advantages go beyond just the address. With a virtual office at Opus VO in Round Rock, Texas, you also have access to a live receptionist. Our skilled team is here to manage your client communications and handle tasks such as digital mail organization and efficient call routing, freeing up your time to focus on growing your business. ",
+            "map": {
+                "lat": 30.5012551,
+                "lng": -97.613381,
+                "zoom": 14,
+                "city": "Round Rock"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Round Rock, Texas even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Round Rock. You can also adapt to better meet your clients’ unique needs within Texas. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Round Rock virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Round Rock? Why Opus VO?",
+                "body": "Round Rock, Texas, isn’t just a picturesque city; it’s a thriving business hub with diverse opportunities across various industries. By choosing Opus VO for your virtual office in Round Rock, Texas, you become part of a vibrant professional community, offering ample potential for networking and business development.  Opting for Opus VO in Round Rock, Texas, isn’t just about cost savings; it’s a strategic move that positions your business for greater success. Your next significant achievement could be just one virtual office decision away.  Opus VO, Round Rock, Texas @ 1801 Red Bud Lane, Round Rock, TX 78664 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Round Rock - 1801 Red Bud Lane | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Texas, Round Rock virtual office located at 1801 Red Bud Lane. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/texas/round-rock/location-418/",
+            "og": {
+                "title": "Virtual Office in Round Rock - 1801 Red Bud Lane | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Texas, Round Rock virtual office located at 1801 Red Bud Lane. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/texas/round-rock/location-418/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+            }
+        }
+    }
+}

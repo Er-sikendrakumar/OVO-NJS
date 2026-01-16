@@ -1,0 +1,92 @@
+{
+    "success": true,
+    "location_id": 993,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Clearwater",
+            "state": "FL",
+            "price": null,
+            "address": {
+                "line1": "13575 58th Street N.",
+                "suite": null,
+                "city": "Clearwater",
+                "state": "FL",
+                "zip": "33760",
+                "phone": "(727) 803-5054"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/993-Exterior.jpg",
+                    "/wp-content-mgr/wp-content/uploads/993-Conference.jpg",
+                    "/wp-content-mgr/wp-content/uploads/993-Conference2.jpg",
+                    "/wp-content-mgr/wp-content/uploads/993-workspace.jpg"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=993",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 1,
+            "nearbyPremiumUrl": "/virtual-office/florida/tampa/location-885/",
+            "nearbyPremiumText": "to view the most POPULAR locations nearby for the same $99/mo",
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Clearwater Virtual Office",
+            "body": "Secure a top-notch business address in Clearwater without the financial burden of a physical office. With Opus VO, you can put your business on the Clearwater map, without emptying your coffers. Need to host client meetings or important discussions? Our modern conference rooms have you covered, lending your brand an added layer of prestige with a high-profile Clearwater address.  Opt for a virtual office in Clearwater via Opus VO, and you also get the perk of a live receptionist specializing in delivering personalized, exceptional customer service, making sure each client interaction is tailored to your specific business objectives. Delegate routine tasks like mail sorting and call screening to us, so you can dedicate your time to expanding your enterprise. ",
+            "map": {
+                "lat": 27.895359,
+                "lng": -82.711698,
+                "zoom": 14,
+                "city": "Clearwater"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Clearwater, Florida even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Clearwater. You can also adapt to better meet your clients’ unique needs within Florida. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Clearwater virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Clearwater?",
+                "body": "Don’t underestimate Clearwater; it’s not just a beach town but a growing center for business in sectors ranging from tourism to tech. Our Clearwater location puts you in close proximity to crucial business partners and must-attend networking events.  By choosing Opus VO in Clearwater, you’re not merely cutting overhead; you’re gaining a significant competitive advantage. Take your business to the next level by leveraging our top-of-the-line virtual office solutions.  Opus VO Clearwater @ 13575 58th Street N., Clearwater, FL 33760 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Clearwater - 13575 58th Street N. | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Florida, Clearwater virtual office located at 13575 58th Street N.. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/florida/clearwater/location-993/",
+            "og": {
+                "title": "Virtual Office in Clearwater - 13575 58th Street N. | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Florida, Clearwater virtual office located at 13575 58th Street N.. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/florida/clearwater/location-993/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/993-Exterior.jpg"
+            }
+        }
+    }
+}

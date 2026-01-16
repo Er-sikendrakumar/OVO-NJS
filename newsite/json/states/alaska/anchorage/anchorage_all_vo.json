@@ -1,0 +1,99 @@
+{
+    "success": true,
+    "state": "alaska",
+    "city": "anchorage",
+    "wp_city_post_id": null,
+    "locations": [
+        {
+            "id": "1528",
+            "name": "Anchorage",
+            "locname": "911 W 8th Avenue, Anchorage, AK 99501",
+            "address": "911 W 8th Avenue, Anchorage, AK 99501",
+            "city": "anchorage",
+            "state": "alaska",
+            "state_english": "Alaska",
+            "abbr": "AK",
+            "phone": "9078918807",
+            "premium": "1",
+            "opusowned": "0",
+            "showpopular": "0",
+            "point_x": "61.2148158",
+            "point_y": "-149.9000613",
+            "url": "/virtual-office/alaska/anchorage/location-1528/",
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1528-exterior.png",
+                "alttext": "Exterior of building that houses Opus Virtual Offices located in Anchorage, Alaska"
+            }
+        }
+    ],
+    "popular_locations": [],
+    "premium_locations": [
+        {
+            "id": "1528",
+            "name": "Anchorage",
+            "locname": "911 W 8th Avenue, Anchorage, AK 99501",
+            "address": "911 W 8th Avenue, Anchorage, AK 99501",
+            "city": "anchorage",
+            "state": "alaska",
+            "state_english": "Alaska",
+            "abbr": "AK",
+            "phone": "9078918807",
+            "premium": "1",
+            "opusowned": "0",
+            "showpopular": "0",
+            "point_x": "61.2148158",
+            "point_y": "-149.9000613",
+            "url": "/virtual-office/alaska/anchorage/location-1528/",
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1528-exterior.png",
+                "alttext": "Exterior of building that houses Opus Virtual Offices located in Anchorage, Alaska"
+            }
+        }
+    ],
+    "regular_locations": [],
+    "sections": [
+        {
+            "title": "OUR ANCHORAGE\nVIRTUAL OFFICES",
+            "body": "<h2></h2>\n<p>Enjoy the benefits of having a business address in Anchorage Alaska without the stress and expense surrounding a “traditional office environment”. OpusVO gives you the prestige of having an office with the budget of working from home. Receive all your business mail at a professional office building. No post office box number, just a great business address to use on your business cards and other marketing material.</p>\n<p>You don’t just get a business phone number with your Anchorage virtual office, but also a live receptionist answering your calls the way you want them to be. Stop choosing between capturing new leads for your business and working on current clients. Do both. Get someone who looks out for you while you’re unable to break away.</p>\n",
+            "image": {
+                "url": "/newsite/wp-content/themes/ThemeDec23/assets/images/califonia-v-office.jpg",
+                "alt": "OUR ANCHORAGE\nVIRTUAL OFFICES",
+                "title": "OUR ANCHORAGE\nVIRTUAL OFFICES"
+            },
+            "layout": "image_text",
+            "imageAlignment": "right"
+        },
+        {
+            "title": "GET A VIRTUAL OFFICE\nIN ANCHORAGE",
+            "body": "<h2></h2>\n<p>Whether you choose to work out of your home or on the road, a Anchorage virtual office will give you the freedom and flexibility to get the job done in the place and style of your choosing. With a local company phone number, live receptionist, premium call transferring, and a professional business address, Opus VO provides a cost-effective way for your company to grow or establish a presence in a new market without any long-term commitments.</p>\n",
+            "image": {
+                "url": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "alt": "GET A VIRTUAL OFFICE\nIN ANCHORAGE",
+                "title": "GET A VIRTUAL OFFICE\nIN ANCHORAGE"
+            },
+            "layout": "image_text",
+            "imageAlignment": "left"
+        }
+    ],
+    "faqs": [],
+    "meta": {
+        "locations_count": 1,
+        "popular_locations_count": 0,
+        "premium_locations_count": 1,
+        "regular_locations_count": 0,
+        "sections_count": 2,
+        "faqs_count": 0
+    },
+    "seo": {
+        "title": "Virtual Office in Anchorage, AK | Multiple Locations Available",
+        "meta_description": "Find the ultimate office solution with Opus Virtual Offices in Anchorage, Alaska. Our all-inclusive virtual offices cater to your business needs. Sign up today!",
+        "canonical": "https://www.opusvirtualoffices.com/virtual-office/alaska/anchorage/",
+        "og": {
+            "title": "Virtual Office in Anchorage, AK | Multiple Locations Available",
+            "description": "Find the ultimate office solution with Opus Virtual Offices in Anchorage, Alaska. Our all-inclusive virtual offices cater to your business needs. Sign up today!",
+            "url": "https://www.opusvirtualoffices.com/virtual-office/alaska/anchorage/",
+            "type": "website",
+            "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+        }
+    }
+}

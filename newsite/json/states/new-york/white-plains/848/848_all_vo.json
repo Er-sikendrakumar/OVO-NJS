@@ -1,0 +1,92 @@
+{
+    "success": true,
+    "location_id": 848,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "White Plains",
+            "state": "NY",
+            "price": null,
+            "address": {
+                "line1": "75 South Broadway",
+                "suite": null,
+                "city": "White Plains",
+                "state": "NY",
+                "zip": "10601",
+                "phone": "(914) 825-8807"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/848-exterior.jpg",
+                    "/wp-content-mgr/wp-content/uploads/848-Conference2.5.jpg",
+                    "/wp-content-mgr/wp-content/uploads/848-Reception-1.jpg",
+                    "/wp-content-mgr/wp-content/uploads/848-kitchen.jpg"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=848",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 1,
+            "nearbyPremiumUrl": "/virtual-office/new-york/new-york/location-1450/",
+            "nearbyPremiumText": "to view the most POPULAR locations nearby for the same $99/mo",
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "White Plains Virtual Office",
+            "body": "Are you looking for a business address in White Plains without the obligations of a traditional office? Opus VO has the answer. Position your business in the heart of White Plains’ dynamic business community while managing your expenses wisely. Our modern conference rooms are at your service for crucial meetings and collaborative sessions.  When you choose our virtual workspace in White Plains, you’re gaining more than just a sought-after address. You’re also securing the services of a skilled live receptionist who will seamlessly integrate into your team. They ensure that every client interaction aligns with your unique brand identity, allowing us to manage routine administrative tasks while you focus on your core business objectives. ",
+            "map": {
+                "lat": 41.03001,
+                "lng": -73.762419,
+                "zoom": 14,
+                "city": "White Plains"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in White Plains, New York even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of White Plains. You can also adapt to better meet your clients’ unique needs within New York. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our White Plains virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why White Plains?",
+                "body": "White Plains is not just a thriving city; it’s a bustling business hub with opportunities spanning various sectors, including finance, healthcare, and professional services. Having a White Plains address not only enhances your business reputation but also provides access to valuable networking events and industry connections.  Opting for Opus VO for your virtual office in White Plains is more than a practical choice; it’s a strategic advantage. Are you ready to elevate your business presence? Explore our exceptional virtual office solutions today.  Opus VO, White Plains @ 75 South Broadway, White Plains, NY 10601 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in White Plains - 75 South Broadway | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our New York, White Plains virtual office located at 75 South Broadway. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/new-york/white-plains/location-848/",
+            "og": {
+                "title": "Virtual Office in White Plains - 75 South Broadway | $99/Month",
+                "description": "Get the ultimate office solution for your business with our New York, White Plains virtual office located at 75 South Broadway. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/new-york/white-plains/location-848/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/848-exterior.jpg"
+            }
+        }
+    }
+}

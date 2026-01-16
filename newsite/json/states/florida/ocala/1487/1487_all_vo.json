@@ -1,0 +1,92 @@
+{
+    "success": true,
+    "location_id": 1487,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Ocala",
+            "state": "FL",
+            "price": null,
+            "address": {
+                "line1": "217 SE 1st Avenue",
+                "suite": null,
+                "city": "Ocala",
+                "state": "FL",
+                "zip": "34471",
+                "phone": "(321) 895-7228"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/1487-01.bldg_.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1487-02.conf_.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1487-03.desks_.webp",
+                    "/wp-content-mgr/wp-content/uploads/1487-04.mural_.jpg"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1487",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Ocala Virtual Office",
+            "body": "Secure a prestigious business address in Ocala without the financial burden of a physical office. With Opus VO, you can situate your business in the heart of Ocala’s dynamic environment while still being financially smart. For critical meetings or presentations that can’t be missed, our state-of-the-art conference rooms are at your service.  Choose the virtual route in Ocala with Opus VO, and you’ll gain a live receptionist as a part of your package, whose aim is to make every client interaction an authentic reflection of your brand’s identity. Leave the mundane administrative tasks to us, so you can focus on fulfilling your entrepreneurial vision. ",
+            "map": {
+                "lat": 29.1844159,
+                "lng": -82.1355858,
+                "zoom": 14,
+                "city": "Ocala"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Ocala, Florida even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Ocala. You can also adapt to better meet your clients’ unique needs within Florida. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Ocala virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Ocala?",
+                "body": "Ocala isn’t just about scenic beauty; it’s an emerging hub for businesses across diverse industries, from healthcare to tech startups. Having an Ocala address provides you with valuable networking opportunities and connects you to the industry influencers that matter.  By choosing Opus VO in Ocala, you’re not just saving money—you’re acquiring a competitive edge. Ready to step up your game? Our exceptional virtual office services await you.  Choose from one of our 2 Opus VO, Ocala locations @ 603 East Fort King Street, Ocala, FL 34471 or 217 SE 1st Avenue, Ocala, FL 34471 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Ocala - 217 SE 1st Avenue | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Florida, Ocala virtual office located at 217 SE 1st Avenue. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/florida/ocala/location-1487/",
+            "og": {
+                "title": "Virtual Office in Ocala - 217 SE 1st Avenue | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Florida, Ocala virtual office located at 217 SE 1st Avenue. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/florida/ocala/location-1487/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/1487-01.bldg_.jpg"
+            }
+        }
+    }
+}

@@ -1,0 +1,236 @@
+{
+    "success": true,
+    "count": 12,
+    "state": "washington",
+    "mode": "virtual-office",
+    "data": [
+        {
+            "id": 554,
+            "location_name": "5806 119th Ave. SE, Bellevue, WA 98006",
+            "city": "Bellevue",
+            "state": "Washington",
+            "state_abbr": "WA",
+            "address": "5806 119th Ave. SE, Bellevue, WA 98006",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 47.551271,
+            "point_y": -122.178974,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/washington/bellevue/location-554/",
+            "phone": "4259439518"
+        },
+        {
+            "id": 1703,
+            "location_name": "2265 116th Avenue NE, Bellevue, WA 98004",
+            "city": "Bellevue",
+            "state": "Washington",
+            "state_abbr": "WA",
+            "address": "2265 116th Avenue NE, Bellevue, WA 98004",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 47.6298744,
+            "point_y": -122.1872957,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1703-01.bldg_.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/washington/bellevue/location-1703/",
+            "phone": "4259989157"
+        },
+        {
+            "id": 675,
+            "location_name": "1420 NW Gilman Blvd, Issaquah, WA 98027",
+            "city": "Issaquah",
+            "state": "Washington",
+            "state_abbr": "WA",
+            "address": "1420 NW Gilman Blvd, Issaquah, WA 98027",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 47.54572,
+            "point_y": -122.05878,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/washington/issaquah/location-675/",
+            "phone": "4259439516"
+        },
+        {
+            "id": 555,
+            "location_name": "11700 Mukilteo Speedway, Mukilteo, WA 98275",
+            "city": "Mukilteo",
+            "state": "Washington",
+            "state_abbr": "WA",
+            "address": "11700 Mukilteo Speedway, Mukilteo, WA 98275",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 47.8912382,
+            "point_y": -122.287249,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/washington/mukilteo/location-555/",
+            "phone": "4259439517"
+        },
+        {
+            "id": 1005,
+            "location_name": "4500 9th Avenue NE, Seattle, WA 98105",
+            "city": "Seattle",
+            "state": "Washington",
+            "state_abbr": "WA",
+            "address": "4500 9th Avenue NE, Seattle, WA 98105",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 47.661643,
+            "point_y": -122.3180587,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1005-exterior.jpg",
+                "alttext": "Exterior of building that houses Opus Virtual Offices located in Seattle, Washington"
+            },
+            "url": "/virtual-office/washington/seattle/location-1005/",
+            "phone": "2066819424"
+        },
+        {
+            "id": 1348,
+            "location_name": "9030 35th Avenue SW, Seattle, WA 98126",
+            "city": "Seattle",
+            "state": "Washington",
+            "state_abbr": "WA",
+            "address": "9030 35th Avenue SW, Seattle, WA 98126",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 47.5218731,
+            "point_y": -122.3763321,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1348-building-1743106952987.webp",
+                "alttext": "Exterior of building that houses Opus Virtual Offices located in Seattle, Washington"
+            },
+            "url": "/virtual-office/washington/seattle/location-1348/",
+            "phone": "2063856497"
+        },
+        {
+            "id": 410,
+            "location_name": "12345 Lake City Way NE, Seattle, WA 98125",
+            "city": "Seattle",
+            "state": "Washington",
+            "state_abbr": "WA",
+            "address": "12345 Lake City Way NE, Seattle, WA 98125",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 47.718475,
+            "point_y": -122.296001,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/washington/seattle/location-410/",
+            "phone": "2065484672"
+        },
+        {
+            "id": 846,
+            "location_name": "1916 Pike Place, Seattle, WA 98101",
+            "city": "Seattle",
+            "state": "Washington",
+            "state_abbr": "WA",
+            "address": "1916 Pike Place, Seattle, WA 98101",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 47.6101064,
+            "point_y": -122.3425067,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/washington/seattle/location-846/",
+            "phone": "2066819419"
+        },
+        {
+            "id": 1596,
+            "location_name": "707 W Main Avenue, Spokane, WA 99201",
+            "city": "Spokane",
+            "state": "Washington",
+            "state_abbr": "WA",
+            "address": "707 W Main Avenue, Spokane, WA 99201",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 47.6588493,
+            "point_y": -117.4225694,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1596-exterior.png",
+                "alttext": "Exterior of building that houses Opus Virtual Offices located in Spokane, Washington"
+            },
+            "url": "/virtual-office/washington/spokane/location-1596/",
+            "phone": "0"
+        },
+        {
+            "id": 1160,
+            "location_name": "9407 NE Vancouver Mall Drive, Vancouver, WA 98662",
+            "city": "Vancouver",
+            "state": "Washington",
+            "state_abbr": "WA",
+            "address": "9407 NE Vancouver Mall Drive, Vancouver, WA 98662",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 45.6574727,
+            "point_y": -122.5761802,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1Building55.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/washington/vancouver/location-1160/",
+            "phone": "3605587386"
+        },
+        {
+            "id": 538,
+            "location_name": "15640 NE Fourth Plain Blvd., Vancouver, WA 98682",
+            "city": "Vancouver",
+            "state": "Washington",
+            "state_abbr": "WA",
+            "address": "15640 NE Fourth Plain Blvd., Vancouver, WA 98682",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 45.6722152,
+            "point_y": -122.5114249,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/washington/vancouver/location-538/",
+            "phone": "3605587387"
+        },
+        {
+            "id": 536,
+            "location_name": "9208 NE Highway 99, Vancouver, WA 98665",
+            "city": "Vancouver",
+            "state": "Washington",
+            "state_abbr": "WA",
+            "address": "9208 NE Highway 99, Vancouver, WA 98665",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 45.6887062,
+            "point_y": -122.6594819,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/washington/vancouver/location-536/",
+            "phone": "3607183643"
+        }
+    ]
+}

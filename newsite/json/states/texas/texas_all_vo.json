@@ -1,0 +1,1036 @@
+{
+    "success": true,
+    "state": "texas",
+    "cities_virtual": [
+        {
+            "id": "711",
+            "name": "Amarillo",
+            "popular": "0"
+        },
+        {
+            "id": "115",
+            "name": "Arlington",
+            "popular": "1"
+        },
+        {
+            "id": "116",
+            "name": "Austin",
+            "popular": "1"
+        },
+        {
+            "id": "225",
+            "name": "Carrollton",
+            "popular": "0"
+        },
+        {
+            "id": "329",
+            "name": "Conroe",
+            "popular": "0"
+        },
+        {
+            "id": "608",
+            "name": "Corpus Christi",
+            "popular": "0"
+        },
+        {
+            "id": "253",
+            "name": "Cypress",
+            "popular": "0"
+        },
+        {
+            "id": "202",
+            "name": "Dallas",
+            "popular": "1"
+        },
+        {
+            "id": "726",
+            "name": "Edinburg",
+            "popular": "0"
+        },
+        {
+            "id": "342",
+            "name": "El Paso",
+            "popular": "1"
+        },
+        {
+            "id": "414",
+            "name": "Fort Worth",
+            "popular": "1"
+        },
+        {
+            "id": "405",
+            "name": "Frisco",
+            "popular": "0"
+        },
+        {
+            "id": "783",
+            "name": "Georgetown",
+            "popular": "0"
+        },
+        {
+            "id": "409",
+            "name": "Greenville",
+            "popular": "0"
+        },
+        {
+            "id": "117",
+            "name": "Houston",
+            "popular": "1"
+        },
+        {
+            "id": "776",
+            "name": "Joshua",
+            "popular": "0"
+        },
+        {
+            "id": "519",
+            "name": "Katy",
+            "popular": "0"
+        },
+        {
+            "id": "543",
+            "name": "Killeen",
+            "popular": "0"
+        },
+        {
+            "id": "250",
+            "name": "Magnolia",
+            "popular": "0"
+        },
+        {
+            "id": "617",
+            "name": "Mansfield",
+            "popular": "0"
+        },
+        {
+            "id": "473",
+            "name": "McAllen",
+            "popular": "0"
+        },
+        {
+            "id": "464",
+            "name": "Midland",
+            "popular": "0"
+        },
+        {
+            "id": "408",
+            "name": "Pearland",
+            "popular": "0"
+        },
+        {
+            "id": "845",
+            "name": "Pflugerville",
+            "popular": "0"
+        },
+        {
+            "id": "257",
+            "name": "Plano",
+            "popular": "0"
+        },
+        {
+            "id": "203",
+            "name": "Richmond",
+            "popular": "0"
+        },
+        {
+            "id": "220",
+            "name": "Round Rock",
+            "popular": "0"
+        },
+        {
+            "id": "119",
+            "name": "San Antonio",
+            "popular": "1"
+        },
+        {
+            "id": "244",
+            "name": "Sugar Land",
+            "popular": "0"
+        },
+        {
+            "id": "844",
+            "name": "Taylor",
+            "popular": "0"
+        },
+        {
+            "id": "832",
+            "name": "The Woodlands",
+            "popular": "0"
+        },
+        {
+            "id": "338",
+            "name": "Tomball",
+            "popular": "0"
+        },
+        {
+            "id": "655",
+            "name": "Waco",
+            "popular": "0"
+        }
+    ],
+    "cities_business": [
+        {
+            "id": "116",
+            "name": "Austin",
+            "popular": "1"
+        },
+        {
+            "id": "202",
+            "name": "Dallas",
+            "popular": "1"
+        },
+        {
+            "id": "117",
+            "name": "Houston",
+            "popular": "1"
+        }
+    ],
+    "cities_popular": [
+        {
+            "id": "115",
+            "name": "Arlington"
+        },
+        {
+            "id": "116",
+            "name": "Austin"
+        },
+        {
+            "id": "202",
+            "name": "Dallas"
+        },
+        {
+            "id": "342",
+            "name": "El Paso"
+        },
+        {
+            "id": "414",
+            "name": "Fort Worth"
+        },
+        {
+            "id": "117",
+            "name": "Houston"
+        },
+        {
+            "id": "119",
+            "name": "San Antonio"
+        }
+    ],
+    "locations_virtual_office": [
+        {
+            "id": 1255,
+            "location_name": "3626 North Hall Street (Two Oak Lawn), Suite 610, Dallas, TX 75219",
+            "city": "Dallas",
+            "state": "Texas",
+            "state_abbr": "TX",
+            "address": "3626 North Hall Street (Two Oak Lawn), Suite 610, Dallas, TX 75219",
+            "premium": 1,
+            "showpopular": 1,
+            "opusowned": 1,
+            "point_x": 32.8092951,
+            "point_y": -96.8060222,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/Opus-Virtual-Office-Dallas-3626-North-Hall-Street-Modern-Office-Building.webp",
+                "alttext": "Exterior view of the Austin Opus Virtual Office location on 1005 Congress Avenue, which provides a prime business location."
+            },
+            "url": "/virtual-office/texas/dallas/location-1255/",
+            "phone": "2149329906"
+        },
+        {
+            "id": 1475,
+            "location_name": "1005 Congress Avenue, Suite 925, Austin, TX 78701",
+            "city": "Austin",
+            "state": "Texas",
+            "state_abbr": "TX",
+            "address": "1005 Congress Avenue, Suite 925, Austin, TX 78701",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 1,
+            "point_x": 30.2720098,
+            "point_y": -97.7408639,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/Opus-Virtual-Office-Austin-1005-Congress-Avenue-Exterior.webp",
+                "alttext": "Exterior view of Opus Virtual Office building at 1005 Congress Avenue, Austin, TX."
+            },
+            "url": "/virtual-office/texas/austin/location-1475/",
+            "phone": "5128127060"
+        },
+        {
+            "id": 1323,
+            "location_name": "3050 Post Oak Blvd, Suite 510, Houston, TX 77056",
+            "city": "Houston",
+            "state": "Texas",
+            "state_abbr": "TX",
+            "address": "3050 Post Oak Blvd, Suite 510, Houston, TX 77056",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 1,
+            "point_x": 29.7338521,
+            "point_y": -95.4628312,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/Opus-Virtual-Office-Houston-3050-Post-Oak-Blvd-Glass-Tower-Exterior.webp",
+                "alttext": "Glass tower office building with mirrored windows at 3050 Post Oak Blvd, Houston, TX, home to Opus Virtual Office."
+            },
+            "url": "/virtual-office/texas/houston/location-1323/",
+            "phone": "2819542788"
+        },
+        {
+            "id": 1290,
+            "location_name": "600 S Tyler Street, Amarillo, TX 79101",
+            "city": "Amarillo",
+            "state": "Texas",
+            "state_abbr": "TX",
+            "address": "600 S Tyler Street, Amarillo, TX 79101",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 35.2076414,
+            "point_y": -101.8388805,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1290-001-Building.png",
+                "alttext": null
+            },
+            "url": "/virtual-office/texas/amarillo/location-1290/",
+            "phone": "8064101329"
+        },
+        {
+            "id": 1554,
+            "location_name": "5904 S Cooper Street, Arlington, TX 76017",
+            "city": "Arlington",
+            "state": "Texas",
+            "state_abbr": "TX",
+            "address": "5904 S Cooper Street, Arlington, TX 76017",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 32.651306,
+            "point_y": -97.1358535,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/texas/arlington/location-1554/",
+            "phone": "0"
+        },
+        {
+            "id": 515,
+            "location_name": "2131 N. Collins, Arlington, TX 76011",
+            "city": "Arlington",
+            "state": "Texas",
+            "state_abbr": "TX",
+            "address": "2131 N. Collins, Arlington, TX 76011",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 32.767958,
+            "point_y": -97.096955,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/texas/arlington/location-515/",
+            "phone": "8175837672"
+        },
+        {
+            "id": 1568,
+            "location_name": "2340 E Trinity Mills Rd, Carrollton, TX 75006",
+            "city": "Carrollton",
+            "state": "Texas",
+            "state_abbr": "TX",
+            "address": "2340 E Trinity Mills Rd, Carrollton, TX 75006",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 32.9845794,
+            "point_y": -96.8736653,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1568-exterior.png",
+                "alttext": "Exterior of building that houses Opus Virtual Offices located in Carrollton, Texas"
+            },
+            "url": "/virtual-office/texas/carrollton/location-1568/",
+            "phone": "9729281614"
+        },
+        {
+            "id": 1544,
+            "location_name": "10160 Highway 242, Conroe, TX 77385",
+            "city": "Conroe",
+            "state": "Texas",
+            "state_abbr": "TX",
+            "address": "10160 Highway 242, Conroe, TX 77385",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 30.2063471,
+            "point_y": -95.42648059,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/texas/conroe/location-1544/",
+            "phone": "0"
+        },
+        {
+            "id": 1050,
+            "location_name": "710 Buffalo Street, Corpus Christi, TX 78401",
+            "city": "Corpus Christi",
+            "state": "Texas",
+            "state_abbr": "TX",
+            "address": "710 Buffalo Street, Corpus Christi, TX 78401",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 27.7985173,
+            "point_y": -97.3981848,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1050-001-Building.png",
+                "alttext": null
+            },
+            "url": "/virtual-office/texas/corpus-christi/location-1050/",
+            "phone": "3612713078"
+        },
+        {
+            "id": 459,
+            "location_name": "13121 Louetta Road, Cypress, TX 77429",
+            "city": "Cypress",
+            "state": "Texas",
+            "state_abbr": "TX",
+            "address": "13121 Louetta Road, Cypress, TX 77429",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 29.995204,
+            "point_y": -95.621833,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/texas/cypress/location-459/",
+            "phone": "2816680034"
+        },
+        {
+            "id": 1344,
+            "location_name": "204 E Cano Street, Edinburg, TX 78539",
+            "city": "Edinburg",
+            "state": "Texas",
+            "state_abbr": "TX",
+            "address": "204 E Cano Street, Edinburg, TX 78539",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 26.3000413,
+            "point_y": -98.16129989,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1344-exterior.jpg",
+                "alttext": "Exterior of building that houses Opus Virtual Offices located in Edinburg, Texas"
+            },
+            "url": "/virtual-office/texas/edinburg/location-1344/",
+            "phone": "9564293409"
+        },
+        {
+            "id": 1494,
+            "location_name": "2300 George Dieter Drive, El Paso, TX 79936",
+            "city": "El Paso",
+            "state": "Texas",
+            "state_abbr": "TX",
+            "address": "2300 George Dieter Drive, El Paso, TX 79936",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 31.7760375,
+            "point_y": -106.303313,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1494-exterior.png",
+                "alttext": "Exterior of building that houses Opus Virtual Offices located in El Paso, Texas"
+            },
+            "url": "/virtual-office/texas/el-paso/location-1494/",
+            "phone": "9158002149"
+        },
+        {
+            "id": 1495,
+            "location_name": "7362 Remcon Circle, El Paso, TX 79912",
+            "city": "El Paso",
+            "state": "Texas",
+            "state_abbr": "TX",
+            "address": "7362 Remcon Circle, El Paso, TX 79912",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 31.8393468,
+            "point_y": -106.5630568,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1495-exterior.png",
+                "alttext": "Exterior of building that houses Opus Virtual Offices located in El Paso, Texas"
+            },
+            "url": "/virtual-office/texas/el-paso/location-1495/",
+            "phone": "9158002154"
+        },
+        {
+            "id": 1242,
+            "location_name": "1617 Park Place Avenue, Fort Worth, TX 76110",
+            "city": "Fort Worth",
+            "state": "Texas",
+            "state_abbr": "TX",
+            "address": "1617 Park Place Avenue, Fort Worth, TX 76110",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 32.7255038,
+            "point_y": -97.3448514,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1242-001-Building-e1709911905497.png",
+                "alttext": null
+            },
+            "url": "/virtual-office/texas/fort-worth/location-1242/",
+            "phone": "8172040175"
+        },
+        {
+            "id": 1564,
+            "location_name": "6160 Warren Parkway, Frisco, TX 75034",
+            "city": "Frisco",
+            "state": "Texas",
+            "state_abbr": "TX",
+            "address": "6160 Warren Parkway, Frisco, TX 75034",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 33.107258,
+            "point_y": -96.8332901,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1564-blobby.png",
+                "alttext": "Lobby area of building that houses Opus Virtual Offices located in Frisco, Texas"
+            },
+            "url": "/virtual-office/texas/frisco/location-1564/",
+            "phone": "0"
+        },
+        {
+            "id": 1452,
+            "location_name": "601 Quail Valley Drive, Georgetown, TX 78626",
+            "city": "Georgetown",
+            "state": "Texas",
+            "state_abbr": "TX",
+            "address": "601 Quail Valley Drive, Georgetown, TX 78626",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 30.6218711,
+            "point_y": -97.67093299,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1452-01.bldg_.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/texas/georgetown/location-1452/",
+            "phone": "5126217812"
+        },
+        {
+            "id": 1551,
+            "location_name": "2920 Lee Street, Greenville, TX 75401",
+            "city": "Greenville",
+            "state": "Texas",
+            "state_abbr": "TX",
+            "address": "2920 Lee Street, Greenville, TX 75401",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 33.1401835,
+            "point_y": -96.1108325,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1551-01.bldg_-2.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/texas/greenville/location-1551/",
+            "phone": "0"
+        },
+        {
+            "id": 1444,
+            "location_name": "305 E 12th Street, Joshua, TX 76058",
+            "city": "Joshua",
+            "state": "Texas",
+            "state_abbr": "TX",
+            "address": "305 E 12th Street, Joshua, TX 76058",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 32.4620261,
+            "point_y": -97.38521279,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/texas/joshua/location-1444/",
+            "phone": "8175837886"
+        },
+        {
+            "id": 1195,
+            "location_name": "24285 Katy Freeway, Katy, TX 77494",
+            "city": "Katy",
+            "state": "Texas",
+            "state_abbr": "TX",
+            "address": "24285 Katy Freeway, Katy, TX 77494",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 29.7846759,
+            "point_y": -95.79020659,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1195-001-Building.png",
+                "alttext": null
+            },
+            "url": "/virtual-office/texas/katy/location-1195/",
+            "phone": "2819626119"
+        },
+        {
+            "id": 822,
+            "location_name": "24044 Cinco Village Center Blvd., Katy, TX 77494",
+            "city": "Katy",
+            "state": "Texas",
+            "state_abbr": "TX",
+            "address": "24044 Cinco Village Center Blvd., Katy, TX 77494",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 29.739608,
+            "point_y": -95.778108,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/822-building.png",
+                "alttext": "Exterior of building that houses Opus Virtual Offices located in Katy, Texas"
+            },
+            "url": "/virtual-office/texas/katy/location-822/",
+            "phone": "2816779315"
+        },
+        {
+            "id": 1456,
+            "location_name": "315 E Avenue G, Killeen, TX 76541",
+            "city": "Killeen",
+            "state": "Texas",
+            "state_abbr": "TX",
+            "address": "315 E Avenue G, Killeen, TX 76541",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 31.1182576,
+            "point_y": -97.7276346,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1456-01.bldg_.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/texas/killeen/location-1456/",
+            "phone": "2544154986"
+        },
+        {
+            "id": 1666,
+            "location_name": "32607 FM2978, Magnolia, TX 77354",
+            "city": "Magnolia",
+            "state": "Texas",
+            "state_abbr": "TX",
+            "address": "32607 FM2978, Magnolia, TX 77354",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 30.2136141,
+            "point_y": -95.5691971,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/16666-Bldg.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/texas/magnolia/location-1666/",
+            "phone": "8329008503"
+        },
+        {
+            "id": 1240,
+            "location_name": "1301 E Debbie Lane, Mansfield, TX 76063",
+            "city": "Mansfield",
+            "state": "Texas",
+            "state_abbr": "TX",
+            "address": "1301 E Debbie Lane, Mansfield, TX 76063",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 32.606337,
+            "point_y": -97.1179032,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/texas/mansfield/location-1240/",
+            "phone": "8172600173"
+        },
+        {
+            "id": 1727,
+            "location_name": "1200 N 10th Street, McAllen, TX 78501",
+            "city": "McAllen",
+            "state": "Texas",
+            "state_abbr": "TX",
+            "address": "1200 N 10th Street, McAllen, TX 78501",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 26.2144383,
+            "point_y": -98.227705,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1727-01.building.jpg",
+                "alttext": "Exterior of building housing Opus Virtual Offices located in McAllen, Texas"
+            },
+            "url": "/virtual-office/texas/mcallen/location-1727/",
+            "phone": "9564770509"
+        },
+        {
+            "id": 1728,
+            "location_name": "2812 W Nolana Avenue, McAllen, TX 78504",
+            "city": "McAllen",
+            "state": "Texas",
+            "state_abbr": "TX",
+            "address": "2812 W Nolana Avenue, McAllen, TX 78504",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 26.2417241,
+            "point_y": -98.2470209,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/texas/mcallen/location-1728/",
+            "phone": "9567361043"
+        },
+        {
+            "id": 730,
+            "location_name": "4416 Briarwood Avenue, Midland, TX 79707",
+            "city": "Midland",
+            "state": "Texas",
+            "state_abbr": "TX",
+            "address": "4416 Briarwood Avenue, Midland, TX 79707",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 32.031645,
+            "point_y": -102.147134,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/texas/midland/location-730/",
+            "phone": "4328483234"
+        },
+        {
+            "id": 1315,
+            "location_name": "705 W Wadley Avenue, Midland, TX 79705",
+            "city": "Midland",
+            "state": "Texas",
+            "state_abbr": "TX",
+            "address": "705 W Wadley Avenue, Midland, TX 79705",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 32.0278083,
+            "point_y": -102.0888078,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1315-01.Building.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/texas/midland/location-1315/",
+            "phone": "8063106598"
+        },
+        {
+            "id": 659,
+            "location_name": "5205 W. Broadway, Pearland, TX 77581",
+            "city": "Pearland",
+            "state": "Texas",
+            "state_abbr": "TX",
+            "address": "5205 W. Broadway, Pearland, TX 77581",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 29.5601194,
+            "point_y": -95.30063299,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/texas/pearland/location-659/",
+            "phone": "2816706342"
+        },
+        {
+            "id": 1605,
+            "location_name": "2911 A.W. Grimes Blvd, Pflugerville, TX 78660",
+            "city": "Pflugerville",
+            "state": "Texas",
+            "state_abbr": "TX",
+            "address": "2911 A.W. Grimes Blvd, Pflugerville, TX 78660",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 30.4791361,
+            "point_y": -97.64309659,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1605-01.Building.webp",
+                "alttext": null
+            },
+            "url": "/virtual-office/texas/pflugerville/location-1605/",
+            "phone": "0"
+        },
+        {
+            "id": 463,
+            "location_name": "3000 Custer Road, Plano, TX 75075",
+            "city": "Plano",
+            "state": "Texas",
+            "state_abbr": "TX",
+            "address": "3000 Custer Road, Plano, TX 75075",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 33.038443,
+            "point_y": -96.733288,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/texas/plano/location-463/",
+            "phone": "9725120287"
+        },
+        {
+            "id": 1533,
+            "location_name": "5465 Legacy Drive, Plano, TX 75024",
+            "city": "Plano",
+            "state": "Texas",
+            "state_abbr": "TX",
+            "address": "5465 Legacy Drive, Plano, TX 75024",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 33.0787046,
+            "point_y": -96.8088781,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1533-exterior.jpg",
+                "alttext": "Exterior of building that houses Opus Virtual Offices located in Plano, Texas"
+            },
+            "url": "/virtual-office/texas/plano/location-1533/",
+            "phone": "9725120065"
+        },
+        {
+            "id": 514,
+            "location_name": "1860 FM 359 Rd., Richmond, TX 77406",
+            "city": "Richmond",
+            "state": "Texas",
+            "state_abbr": "TX",
+            "address": "1860 FM 359 Rd., Richmond, TX 77406",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 29.620875,
+            "point_y": -95.743388,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/texas/richmond/location-514/",
+            "phone": "2816680026"
+        },
+        {
+            "id": 418,
+            "location_name": "1801 Red Bud Lane, Round Rock, TX 78664",
+            "city": "Round Rock",
+            "state": "Texas",
+            "state_abbr": "TX",
+            "address": "1801 Red Bud Lane, Round Rock, TX 78664",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 30.5012551,
+            "point_y": -97.613381,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/texas/round-rock/location-418/",
+            "phone": "5127210279"
+        },
+        {
+            "id": 1356,
+            "location_name": "4040 Broadway Street, San Antonio, TX 78209",
+            "city": "San Antonio",
+            "state": "Texas",
+            "state_abbr": "TX",
+            "address": "4040 Broadway Street, San Antonio, TX 78209",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 29.4630539,
+            "point_y": -98.4646132,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1356-001-Building-e1709840440243.png",
+                "alttext": null
+            },
+            "url": "/virtual-office/texas/san-antonio/location-1356/",
+            "phone": "2107837031"
+        },
+        {
+            "id": 1714,
+            "location_name": "22211 W I-10, San Antonio, TX 78257",
+            "city": "San Antonio",
+            "state": "Texas",
+            "state_abbr": "TX",
+            "address": "22211 W I-10, San Antonio, TX 78257",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 29.6558015,
+            "point_y": -98.6255274,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1714-01.bldg_.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/texas/san-antonio/location-1714/",
+            "phone": "2105389708"
+        },
+        {
+            "id": 1042,
+            "location_name": "21750 Hardy Oak Blvd, San Antonio, TX 78258",
+            "city": "San Antonio",
+            "state": "Texas",
+            "state_abbr": "TX",
+            "address": "21750 Hardy Oak Blvd, San Antonio, TX 78258",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 29.6450001,
+            "point_y": -98.49166389,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1042-01-Building.png",
+                "alttext": null
+            },
+            "url": "/virtual-office/texas/san-antonio/location-1042/",
+            "phone": "2107391532"
+        },
+        {
+            "id": 880,
+            "location_name": "5460 Babcock Road, San Antonio, TX 78240",
+            "city": "San Antonio",
+            "state": "Texas",
+            "state_abbr": "TX",
+            "address": "5460 Babcock Road, San Antonio, TX 78240",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 29.5167076,
+            "point_y": -98.5948971,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/880-001-Building.png",
+                "alttext": null
+            },
+            "url": "/virtual-office/texas/san-antonio/location-880/",
+            "phone": "2103383114"
+        },
+        {
+            "id": 957,
+            "location_name": "19901 Southwest Freeway, Sugar Land, TX 77479",
+            "city": "Sugar Land",
+            "state": "Texas",
+            "state_abbr": "TX",
+            "address": "19901 Southwest Freeway, Sugar Land, TX 77479",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 29.5617435,
+            "point_y": -95.6840441,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/957-Building-2.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/texas/sugar-land/location-957/",
+            "phone": "2816701509"
+        },
+        {
+            "id": 1602,
+            "location_name": "2705 Donna Drive, Taylor, TX 76574",
+            "city": "Taylor",
+            "state": "Texas",
+            "state_abbr": "TX",
+            "address": "2705 Donna Drive, Taylor, TX 76574",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 30.5900181,
+            "point_y": -97.4198634,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/texas/taylor/location-1602/",
+            "phone": "0"
+        },
+        {
+            "id": 1702,
+            "location_name": "25700 I-45 N, The Woodlands, TX 77386",
+            "city": "The Woodlands",
+            "state": "Texas",
+            "state_abbr": "TX",
+            "address": "25700 I-45 N, The Woodlands, TX 77386",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 30.1358514,
+            "point_y": -95.4427616,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1702-01.bldg_.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/texas/the-woodlands/location-1702/",
+            "phone": "2816057879"
+        },
+        {
+            "id": 574,
+            "location_name": "1400 Graham Dr., Tomball, TX 77375",
+            "city": "Tomball",
+            "state": "Texas",
+            "state_abbr": "TX",
+            "address": "1400 Graham Dr., Tomball, TX 77375",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 30.088014,
+            "point_y": -95.630508,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/texas/tomball/location-574/",
+            "phone": "2815037251"
+        },
+        {
+            "id": 1166,
+            "location_name": "7215 Bosque Blvd., Waco, TX 76710",
+            "city": "Waco",
+            "state": "Texas",
+            "state_abbr": "TX",
+            "address": "7215 Bosque Blvd., Waco, TX 76710",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 31.5242363,
+            "point_y": -97.2113169,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1Building58.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/texas/waco/location-1166/",
+            "phone": "2546136389"
+        }
+    ],
+    "meta": {
+        "cities_virtual_count": 33,
+        "cities_business_count": 3,
+        "cities_popular_count": 7,
+        "locations_virtual_office_count": 42
+    },
+    "seo": {
+        "title": "Virtual Office in Texas | Locations Statewide | Opus VO",
+        "meta_description": "Get a prestigious Texas business address and professional phone answering services with Opus Virtual Offices, the perfect office solution for your business needs.",
+        "canonical": "https://www.opusvirtualoffices.com/virtual-office/texas/",
+        "og": {
+            "title": "Virtual Office in Texas | Locations Statewide | Opus VO",
+            "description": "Get a prestigious Texas business address and professional phone answering services with Opus Virtual Offices, the perfect office solution for your business needs.",
+            "url": "https://www.opusvirtualoffices.com/virtual-office/texas/",
+            "type": "website",
+            "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+        }
+    }
+}

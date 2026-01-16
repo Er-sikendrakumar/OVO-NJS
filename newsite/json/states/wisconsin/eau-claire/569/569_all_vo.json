@@ -1,0 +1,89 @@
+{
+    "success": true,
+    "location_id": 569,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Eau Claire",
+            "state": "WI",
+            "price": null,
+            "address": {
+                "line1": "2809 East Hamilton Avenue",
+                "suite": null,
+                "city": "Eau Claire",
+                "state": "WI",
+                "zip": "54701",
+                "phone": "(715) 301-9733"
+            },
+            "images": {
+                "hero": [
+                    "/assets/mail-center.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=569",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 0,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Eau Claire Virtual Office",
+            "body": "Contemplating a distinguished Eau Claire address to uplift your startup or fortify your existing operation, but wary of the costs tied to a physical office? Opus VO has you covered. Establish your brand’s foothold in one of our exclusive Eau Claire locales, giving you the prestige of a sought-after address without the financial burden. Should you need an impeccable setting for vital meetings or memorable client exchanges, our cutting-edge conference rooms are at your disposal.  But the perks don’t end at a prime address. Enlist in a virtual office package at Opus VO in Eau Claire, and you’ll also receive the personalized service of a live receptionist. Count on us to handle your customer interactions with the highest level of professionalism, all while aligning with your distinct business aims. As for routine tasks like handling digital mail and adept call routing? Consider it handled, allowing you to focus on what really matters—building your business. ",
+            "map": {
+                "lat": 44.785513,
+                "lng": -91.462765,
+                "zoom": 14,
+                "city": "Eau Claire"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Eau Claire, Wisconsin even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Eau Claire. You can also adapt to better meet your clients’ unique needs within Wisconsin. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Eau Claire virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Eau Claire? Why Opus VO?",
+                "body": "Eau Claire is not just a picturesque town; it’s an emerging nexus for multiple business sectors. By selecting a virtual office at Opus VO in Eau Claire, you’re connecting to a dynamic professional network, ripe with untapped opportunities for development and progress.  Opting for Opus VO in Eau Claire is more than a financially savvy move; it’s an actionable step toward your business’s long-term growth and success. The next chapter in your business story could be merely a virtual office decision away.  Opus VO Location in Eau Claire @ 2809 East Hamilton Avenue Eau Claire, WI 54701 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Eau Claire - 2809 East Hamilton Avenue | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Wisconsin, Eau Claire virtual office located at 2809 East Hamilton Avenue. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/wisconsin/eau-claire/location-569/",
+            "og": {
+                "title": "Virtual Office in Eau Claire - 2809 East Hamilton Avenue | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Wisconsin, Eau Claire virtual office located at 2809 East Hamilton Avenue. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/wisconsin/eau-claire/location-569/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+            }
+        }
+    }
+}

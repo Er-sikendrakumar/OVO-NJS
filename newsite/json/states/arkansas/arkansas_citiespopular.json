@@ -1,0 +1,19 @@
+{
+    "success": true,
+    "count": 3,
+    "state": "arkansas",
+    "data": [
+        {
+            "id": "644",
+            "name": "Bentonville"
+        },
+        {
+            "id": "282",
+            "name": "Jonesboro"
+        },
+        {
+            "id": "503",
+            "name": "Little Rock"
+        }
+    ]
+}

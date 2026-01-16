@@ -1,0 +1,19 @@
+{
+    "success": true,
+    "count": 3,
+    "state": "mississippi",
+    "data": [
+        {
+            "id": "643",
+            "name": "Biloxi"
+        },
+        {
+            "id": "849",
+            "name": "Gulfport"
+        },
+        {
+            "id": "695",
+            "name": "Jackson"
+        }
+    ]
+}

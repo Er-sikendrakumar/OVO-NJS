@@ -1,0 +1,83 @@
+{
+    "success": true,
+    "location_id": 1057,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Port St. Lucie",
+            "state": "FL",
+            "price": null,
+            "address": {
+                "line1": "1680 SW Bayshore Boulevard",
+                "suite": null,
+                "city": "Port St. Lucie",
+                "state": "FL",
+                "zip": "34984",
+                "phone": "(772) 924-2386"
+            },
+            "images": {
+                "hero": [
+                    "/assets/mail-center.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1057",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 0,
+            "nearbyPremium": 1,
+            "nearbyPremiumUrl": "/virtual-office/florida/stuart/location-1334/",
+            "nearbyPremiumText": "to view the nearby PREMIUM Locations for the same $99/mo",
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Port St Lucie Virtual Office",
+            "body": "Secure an impressive business address in Port St. Lucie without the financial stress of a physical workspace. With Opus VO, you can anchor your business in the dynamic heart of Port St. Lucie, all while maintaining a lean budget. Have an impactful meeting or a high-stakes client engagement coming up? Our sleek conference rooms are primed to leave an impression.  By going virtual in Port St. Lucie via Opus VO, you also gain the service of a committed live receptionist whose focus is making each client touchpoint a smooth extension of your individual brand’s charm. Offload your mundane administrative tasks to us, freeing you up to chase your business dreams. ",
+            "map": {
+                "lat": 27.2903134,
+                "lng": -80.36521849,
+                "zoom": 14,
+                "city": "Port St. Lucie"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Port St. Lucie, Florida even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Port St. Lucie. You can also adapt to better meet your clients’ unique needs within Florida. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Port St. Lucie virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Port St. Lucie?",
+                "body": "Port St. Lucie is more than a beautiful locale—it’s an emerging hub for businesses across diverse sectors like healthcare, finance, and technology. Having a professional address in Port St. Lucie gives you easy access to key industry figures and meaningful networking events.  Choosing Opus VO in Port St. Lucie is more than a money-saving tactic—it’s a step toward a competitive advantage. Ready to up your business game? Our top-of-the-line virtual office services are ready when you are.  Choose from two Opus VO locations in Port St. Lucie @ 1680 SW Bayshore Boulevard, Port St. Lucie, FL 34984 or 5475 NW St. James Drive Port St. Lucie, FL 34983 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "success": false,
+            "message": "Invalid page path format. Only alphanumeric characters, hyphens, underscores, and slashes allowed.",
+            "page": "virtual-office/florida/port-st.-lucie/location-1057",
+            "data": []
+        }
+    }
+}

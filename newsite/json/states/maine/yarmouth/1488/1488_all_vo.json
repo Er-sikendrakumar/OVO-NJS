@@ -1,0 +1,89 @@
+{
+    "success": true,
+    "location_id": 1488,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Yarmouth",
+            "state": "ME",
+            "price": null,
+            "address": {
+                "line1": "40 Lafayette Street",
+                "suite": null,
+                "city": "Yarmouth",
+                "state": "ME",
+                "zip": "04096",
+                "phone": "(888) 898-9868"
+            },
+            "images": {
+                "hero": [
+                    "/assets/mail-center.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1488",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 0,
+            "nearbyPremium": 1,
+            "nearbyPremiumUrl": "/virtual-office/maine/portland/location-1112/",
+            "nearbyPremiumText": "to view the nearby PREMIUM Locations for the same $99/mo",
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Yarmouth Virtual Office",
+            "body": "Grab a premier business address in Yarmouth without breaking the bank on physical office costs. With Opus VO, you’re not just buying an address; you’re buying into Yarmouth’s dynamic business environment. Need to host a pivotal meeting or nail a client pitch? Our cutting-edge conference rooms are set to impress.  When you opt for a virtual office in Yarmouth via Opus VO, you get more than an address; you get a dedicated live receptionist to ensure every interaction with your clients resonates with your brand’s spirit. Let us take care of the everyday admin so you can focus on soaring to new business heights. ",
+            "map": {
+                "lat": 43.797235699,
+                "lng": -70.1786685,
+                "zoom": 14,
+                "city": "Yarmouth"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Yarmouth, Maine even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Yarmouth. You can also adapt to better meet your clients’ unique needs within Maine. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Yarmouth virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Yarmouth?",
+                "body": "Yarmouth isn’t just scenic sea views; it’s a fast-growing ecosystem for various industries, from tech startups to established enterprises. Establishing your business here connects you to invaluable resources and unique networking opportunities.  Opus VO in Yarmouth doesn’t just save you money; it offers you a strategic edge. Are you ready to level up your business? Our world-class virtual office services are here for you.  Opus VO, Yarmouth @ 40 Lafayette Street, Yarmouth, ME 04096 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Yarmouth - 40 Lafayette Street | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Maine, Yarmouth virtual office located at 40 Lafayette Street. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/maine/yarmouth/location-1488/",
+            "og": {
+                "title": "Virtual Office in Yarmouth - 40 Lafayette Street | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Maine, Yarmouth virtual office located at 40 Lafayette Street. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/maine/yarmouth/location-1488/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+            }
+        }
+    }
+}

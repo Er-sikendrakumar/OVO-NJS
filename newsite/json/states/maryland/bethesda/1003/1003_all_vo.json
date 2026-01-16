@@ -1,0 +1,94 @@
+{
+    "success": true,
+    "location_id": 1003,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Bethesda",
+            "state": "MD",
+            "price": null,
+            "address": {
+                "line1": "10411 Motor City Drive",
+                "suite": null,
+                "city": "Bethesda",
+                "state": "MD",
+                "zip": "20817",
+                "phone": "(301) 968-2027"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/1003-exterior.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1003-Conference.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1003-Conference2.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1003-reception.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1003-lounge.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1003-enterance.jpg"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1003",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Bethesda Virtual Office",
+            "body": "Secure a distinguished Bethesda address for your business, minus the financial commitment of physical office space. With Opus VO, make your presence felt in one of Maryland’s most sought-after business districts. Need to seal the deal with a key client or host a game-changing meeting? Our state-of-the-art conference rooms are at your service.  As you take your business virtual in Bethesda through Opus VO, a professional live receptionist is included in your package. We’re committed to making sure that every point of contact with your clients seamlessly aligns with your brand’s philosophy. Leave the mundane tasks to us while you chase after your business dreams. ",
+            "map": {
+                "lat": 39.027474935,
+                "lng": -77.14410588,
+                "zoom": 14,
+                "city": "Bethesda"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Bethesda, Maryland even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Bethesda. You can also adapt to better meet your clients’ unique needs within Maryland. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Bethesda virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Bethesda?",
+                "body": "Bethesda is more than just a scenic town—it’s a thriving hub for businesses across various industries like biotechnology, finance, and media. Having a Bethesda address provides you access to an invaluable network of professionals and dynamic business events.  Opting for a virtual office in Bethesda with Opus VO is not just economical—it’s a strategic game-changer. Ready to ascend in your business journey? Our top-tier virtual office solutions await you.  Choose from two of our Opus VO locations in Bethesda @ 10411 Motor City Drive, Bethesda, MD 20817, or 6710A Rockledge Drive, Bethesda, MD 20817 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Bethesda - 10411 Motor City Drive | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Maryland, Bethesda virtual office located at 10411 Motor City Drive. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/maryland/bethesda/location-1003/",
+            "og": {
+                "title": "Virtual Office in Bethesda - 10411 Motor City Drive | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Maryland, Bethesda virtual office located at 10411 Motor City Drive. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/maryland/bethesda/location-1003/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/1003-exterior.jpg"
+            }
+        }
+    }
+}

@@ -1,0 +1,499 @@
+{
+    "success": true,
+    "state": "pennsylvania",
+    "cities_virtual": [
+        {
+            "id": "139",
+            "name": "Allentown",
+            "popular": "1"
+        },
+        {
+            "id": "708",
+            "name": "Bala Cynwyd",
+            "popular": "1"
+        },
+        {
+            "id": "280",
+            "name": "Bensalem",
+            "popular": "0"
+        },
+        {
+            "id": "828",
+            "name": "Bethlehem",
+            "popular": "0"
+        },
+        {
+            "id": "497",
+            "name": "Harrisburg",
+            "popular": "1"
+        },
+        {
+            "id": "878",
+            "name": "Homestead",
+            "popular": "0"
+        },
+        {
+            "id": "810",
+            "name": "King of Prussia",
+            "popular": "0"
+        },
+        {
+            "id": "321",
+            "name": "Lancaster",
+            "popular": "1"
+        },
+        {
+            "id": "164",
+            "name": "Lewistown",
+            "popular": "0"
+        },
+        {
+            "id": "710",
+            "name": "Malvern",
+            "popular": "0"
+        },
+        {
+            "id": "106",
+            "name": "Philadelphia",
+            "popular": "1"
+        },
+        {
+            "id": "103",
+            "name": "Pittsburgh",
+            "popular": "1"
+        },
+        {
+            "id": "706",
+            "name": "Plymouth Meeting",
+            "popular": "1"
+        },
+        {
+            "id": "709",
+            "name": "Radnor",
+            "popular": "0"
+        },
+        {
+            "id": "320",
+            "name": "York",
+            "popular": "0"
+        }
+    ],
+    "cities_business": [
+        {
+            "id": "106",
+            "name": "Philadelphia",
+            "popular": "1"
+        }
+    ],
+    "cities_popular": [
+        {
+            "id": "139",
+            "name": "Allentown"
+        },
+        {
+            "id": "708",
+            "name": "Bala Cynwyd"
+        },
+        {
+            "id": "497",
+            "name": "Harrisburg"
+        },
+        {
+            "id": "321",
+            "name": "Lancaster"
+        },
+        {
+            "id": "106",
+            "name": "Philadelphia"
+        },
+        {
+            "id": "103",
+            "name": "Pittsburgh"
+        },
+        {
+            "id": "706",
+            "name": "Plymouth Meeting"
+        }
+    ],
+    "locations_virtual_office": [
+        {
+            "id": 1239,
+            "location_name": "40 South 5th Street, Allentown, PA 18101",
+            "city": "Allentown",
+            "state": "Pennsylvania",
+            "state_abbr": "PA",
+            "address": "40 South 5th Street, Allentown, PA 18101",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 40.6020254,
+            "point_y": -75.4676119,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1239-Building3.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/pennsylvania/allentown/location-1239/",
+            "phone": "4848553269"
+        },
+        {
+            "id": 1287,
+            "location_name": "Two Bala Plaza, Bala Cynwyd, PA 19004",
+            "city": "Bala Cynwyd",
+            "state": "Pennsylvania",
+            "state_abbr": "PA",
+            "address": "Two Bala Plaza, Bala Cynwyd, PA 19004",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 40.0083757,
+            "point_y": -75.2192089,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1287-exterior.png",
+                "alttext": "Exterior of building that houses Opus Virtual Offices located in Bala Cynwyd, Pennsylvania"
+            },
+            "url": "/virtual-office/pennsylvania/bala-cynwyd/location-1287/",
+            "phone": "2156183573"
+        },
+        {
+            "id": 931,
+            "location_name": "501 Cambria Avenue, Bensalem, PA 19020",
+            "city": "Bensalem",
+            "state": "Pennsylvania",
+            "state_abbr": "PA",
+            "address": "501 Cambria Avenue, Bensalem, PA 19020",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 40.0685284,
+            "point_y": -74.948709,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/931-Building.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/pennsylvania/bensalem/location-931/",
+            "phone": "2156130038"
+        },
+        {
+            "id": 1559,
+            "location_name": "306 S New Street, Bethlehem, PA 18015",
+            "city": "Bethlehem",
+            "state": "Pennsylvania",
+            "state_abbr": "PA",
+            "address": "306 S New Street, Bethlehem, PA 18015",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 40.6115915,
+            "point_y": -75.37863899,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/pennsylvania/bethlehem/location-1559/",
+            "phone": "0"
+        },
+        {
+            "id": 1078,
+            "location_name": "2225 Sycamore Street, Harrisburg, PA 17111",
+            "city": "Harrisburg",
+            "state": "Pennsylvania",
+            "state_abbr": "PA",
+            "address": "2225 Sycamore Street, Harrisburg, PA 17111",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 40.254261,
+            "point_y": -76.8480417,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/11111111Reception.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/pennsylvania/harrisburg/location-1078/",
+            "phone": "7175530683"
+        },
+        {
+            "id": 1678,
+            "location_name": "137 West Bridge Street, Homestead, PA 15120",
+            "city": "Homestead",
+            "state": "Pennsylvania",
+            "state_abbr": "PA",
+            "address": "137 West Bridge Street, Homestead, PA 15120",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 40.4082985,
+            "point_y": -79.9170839,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1678-exterior.jpg",
+                "alttext": "Exterior of building that houses Opus Virtual Offices located in Homestead, Pennsylvania"
+            },
+            "url": "/virtual-office/pennsylvania/homestead/location-1678/",
+            "phone": "4129411077"
+        },
+        {
+            "id": 1514,
+            "location_name": "840 First Avenue, King of Prussia, PA 19406",
+            "city": "King of Prussia",
+            "state": "Pennsylvania",
+            "state_abbr": "PA",
+            "address": "840 First Avenue, King of Prussia, PA 19406",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 40.0963524,
+            "point_y": -75.4007103,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1514-01.Building.webp",
+                "alttext": null
+            },
+            "url": "/virtual-office/pennsylvania/king-of-prussia/location-1514/",
+            "phone": "6109735286"
+        },
+        {
+            "id": 851,
+            "location_name": "2173 Embassy Drive, Lancaster, PA 17603",
+            "city": "Lancaster",
+            "state": "Pennsylvania",
+            "state_abbr": "PA",
+            "address": "2173 Embassy Drive, Lancaster, PA 17603",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 40.044728,
+            "point_y": -76.36075,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/851-Exterior.png",
+                "alttext": "Exterior of building that houses Opus Virtual Offices located in Lancaster, Pennsylvania"
+            },
+            "url": "/virtual-office/pennsylvania/lancaster/location-851/",
+            "phone": "7175494005"
+        },
+        {
+            "id": 327,
+            "location_name": "129 S. Main Street, Lewistown, PA 17044",
+            "city": "Lewistown",
+            "state": "Pennsylvania",
+            "state_abbr": "PA",
+            "address": "129 S. Main Street, Lewistown, PA 17044",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 40.595574,
+            "point_y": -77.572074,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/pennsylvania/lewistown/location-327/",
+            "phone": "7175494004"
+        },
+        {
+            "id": 1289,
+            "location_name": "101 Lindenwood Dr, Malvern, PA 19355",
+            "city": "Malvern",
+            "state": "Pennsylvania",
+            "state_abbr": "PA",
+            "address": "101 Lindenwood Dr, Malvern, PA 19355",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 40.0502284,
+            "point_y": -75.5272142,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1289Exterior.jpg",
+                "alttext": "Exterior of building that houses Opus Virtual Offices located in Malvern, Pennsylvania"
+            },
+            "url": "/virtual-office/pennsylvania/malvern/location-1289/",
+            "phone": "4842183073"
+        },
+        {
+            "id": 354,
+            "location_name": "2417 Welsh Rd, Philadelphia, PA 19114",
+            "city": "Philadelphia",
+            "state": "Pennsylvania",
+            "state_abbr": "PA",
+            "address": "2417 Welsh Rd, Philadelphia, PA 19114",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 40.072745,
+            "point_y": -75.03327,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/pennsylvania/philadelphia/location-354/",
+            "phone": "2152740317"
+        },
+        {
+            "id": 512,
+            "location_name": "744 South Street, Philadelphia, PA 19147",
+            "city": "Philadelphia",
+            "state": "Pennsylvania",
+            "state_abbr": "PA",
+            "address": "744 South Street, Philadelphia, PA 19147",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 39.942185,
+            "point_y": -75.154691,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/pennsylvania/philadelphia/location-512/",
+            "phone": "2152740308"
+        },
+        {
+            "id": 1010,
+            "location_name": "1700 Market Street, Philadelphia, PA 19103",
+            "city": "Philadelphia",
+            "state": "Pennsylvania",
+            "state_abbr": "PA",
+            "address": "1700 Market Street, Philadelphia, PA 19103",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 39.9526481,
+            "point_y": -75.1690533,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1010-001-Building.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/pennsylvania/philadelphia/location-1010/",
+            "phone": "2156183565"
+        },
+        {
+            "id": 364,
+            "location_name": "1151 Freeport Rd, Pittsburgh, PA 15238",
+            "city": "Pittsburgh",
+            "state": "Pennsylvania",
+            "state_abbr": "PA",
+            "address": "1151 Freeport Rd, Pittsburgh, PA 15238",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 40.487876,
+            "point_y": -79.881228,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/pennsylvania/pittsburgh/location-364/",
+            "phone": "4123855563"
+        },
+        {
+            "id": 1426,
+            "location_name": "429 Fourth Avenue, Pittsburgh, PA 15219",
+            "city": "Pittsburgh",
+            "state": "Pennsylvania",
+            "state_abbr": "PA",
+            "address": "429 Fourth Avenue, Pittsburgh, PA 15219",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 40.4385697,
+            "point_y": -79.99835809,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1426-01.bldg_.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/pennsylvania/pittsburgh/location-1426/",
+            "phone": "4128573528"
+        },
+        {
+            "id": 363,
+            "location_name": "3945 Forbes Ave, Pittsburgh, PA 15213",
+            "city": "Pittsburgh",
+            "state": "Pennsylvania",
+            "state_abbr": "PA",
+            "address": "3945 Forbes Ave, Pittsburgh, PA 15213",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 40.442479,
+            "point_y": -79.955978,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/pennsylvania/pittsburgh/location-363/",
+            "phone": "4128722239"
+        },
+        {
+            "id": 1284,
+            "location_name": "600 West Germantown Pike, Plymouth Meeting, PA 19462",
+            "city": "Plymouth Meeting",
+            "state": "Pennsylvania",
+            "state_abbr": "PA",
+            "address": "600 West Germantown Pike, Plymouth Meeting, PA 19462",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 40.1185,
+            "point_y": -75.2853774,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/Opus-Virtual-Office-Plymouth-Meeting-Building.webp",
+                "alttext": "Exterior view of Opus Virtual Office in Plymouth Meeting, PA with a fountain"
+            },
+            "url": "/virtual-office/pennsylvania/plymouth-meeting/location-1284/",
+            "phone": "4842733274"
+        },
+        {
+            "id": 1288,
+            "location_name": "150 N Radnor Chester Rd, Radnor, PA 19087",
+            "city": "Radnor",
+            "state": "Pennsylvania",
+            "state_abbr": "PA",
+            "address": "150 N Radnor Chester Rd, Radnor, PA 19087",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 40.043034899,
+            "point_y": -75.3658121,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/Opus-Virtual-Office-Radnor-Financial-Center-Exterior-Fountain.webp",
+                "alttext": "Radnor Financial Center exterior with fountain at Opus Virtual Office in Radnor, PA"
+            },
+            "url": "/virtual-office/pennsylvania/radnor/location-1288/",
+            "phone": "2153372941"
+        },
+        {
+            "id": 550,
+            "location_name": "211 Pauline Drive, York, PA 17402",
+            "city": "York",
+            "state": "Pennsylvania",
+            "state_abbr": "PA",
+            "address": "211 Pauline Drive, York, PA 17402",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 39.933748,
+            "point_y": -76.684197,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/pennsylvania/york/location-550/",
+            "phone": "7175494006"
+        }
+    ],
+    "meta": {
+        "cities_virtual_count": 15,
+        "cities_business_count": 1,
+        "cities_popular_count": 7,
+        "locations_virtual_office_count": 19
+    },
+    "seo": {
+        "title": "Virtual Office in Pennsylvania | Locations Statewide | Opus VO",
+        "meta_description": "Get a prestigious Pennsylvania business address and professional phone answering services with Opus Virtual Offices, the perfect office solution for your business needs.",
+        "canonical": "https://www.opusvirtualoffices.com/virtual-office/pennsylvania/",
+        "og": {
+            "title": "Virtual Office in Pennsylvania | Locations Statewide | Opus VO",
+            "description": "Get a prestigious Pennsylvania business address and professional phone answering services with Opus Virtual Offices, the perfect office solution for your business needs.",
+            "url": "https://www.opusvirtualoffices.com/virtual-office/pennsylvania/",
+            "type": "website",
+            "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+        }
+    }
+}

@@ -1,0 +1,95 @@
+{
+    "success": true,
+    "state": "new hampshire",
+    "cities_virtual": [
+        {
+            "id": "910",
+            "name": "Dover",
+            "popular": "0"
+        },
+        {
+            "id": "352",
+            "name": "Lee",
+            "popular": "1"
+        },
+        {
+            "id": "107",
+            "name": "Manchester",
+            "popular": "1"
+        },
+        {
+            "id": "339",
+            "name": "Milford",
+            "popular": "1"
+        },
+        {
+            "id": "850",
+            "name": "Stratham",
+            "popular": "1"
+        }
+    ],
+    "cities_business": [
+        {
+            "id": "107",
+            "name": "Manchester",
+            "popular": "1"
+        }
+    ],
+    "cities_popular": [
+        {
+            "id": "352",
+            "name": "Lee"
+        },
+        {
+            "id": "107",
+            "name": "Manchester"
+        },
+        {
+            "id": "339",
+            "name": "Milford"
+        },
+        {
+            "id": "850",
+            "name": "Stratham"
+        }
+    ],
+    "locations_business_address": [
+        {
+            "id": 1436,
+            "location_name": "500 North Commercial Street, Manchester, NH 03101",
+            "city": "Manchester",
+            "state": "New Hampshire",
+            "state_abbr": "NH",
+            "address": "500 North Commercial Street, Manchester, NH 03101",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 42.9946496,
+            "point_y": -71.4679316,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1436-building-1743095652121.jpg",
+                "alttext": "Exterior of brick building that houses Opus Virtual Offices located in Manchester, New Hampshire"
+            },
+            "url": "/business-address/new-hampshire/manchester/location-1436/",
+            "phone": "6035709476"
+        }
+    ],
+    "meta": {
+        "cities_virtual_count": 5,
+        "cities_business_count": 1,
+        "cities_popular_count": 4,
+        "locations_business_address_count": 1
+    },
+    "seo": {
+        "title": "Virtual Business Address in New Hampshire | Opus Virtual Offices",
+        "meta_description": "Get a prestigious business address in New Hampshire with Opus. Multiple premium locations statewide mail handling privacy protection all for just $59/month.",
+        "canonical": "https://www.opusvirtualoffices.com/business-address/new-hampshire/",
+        "og": {
+            "title": "Virtual Business Address in New Hampshire | Opus Virtual Offices",
+            "description": "Get a prestigious business address in New Hampshire with Opus. Multiple premium locations statewide mail handling privacy protection all for just $59/month.",
+            "url": "https://www.opusvirtualoffices.com/business-address/new-hampshire/",
+            "type": "website",
+            "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+        }
+    }
+}

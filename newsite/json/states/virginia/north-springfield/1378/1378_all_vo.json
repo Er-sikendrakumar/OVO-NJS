@@ -1,0 +1,92 @@
+{
+    "success": true,
+    "location_id": 1378,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "North Springfield",
+            "state": "VA",
+            "price": null,
+            "address": {
+                "line1": "8001 Forbes Place",
+                "suite": null,
+                "city": "North Springfield",
+                "state": "VA",
+                "zip": "22151",
+                "phone": "(571) 443-8897"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/1378-01.bldg_-800x538.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1378-02.recep_-770x550.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1378-03.conf_-733x550.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1378-04-conf-651x550.jpg"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1378",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "North Springfield Virtual Office",
+            "body": "Experience the cachet of an elite North Springfield business locale, all without the high costs tied to a physical workspace. Via Opus VO, place your agile venture or startup in one of our swanky North Springfield spots—doing so at only a fraction of the cost of a traditional office lease. Access our sleek, tech-savvy conference spaces for crucial investor meets and all-important client rapport-building while bolstering your brand’s digital presence via a desirable North Springfield address.  When you opt for a virtual office in North Springfield through Opus VO, you also secure the perk of a dedicated live receptionist. Zealous about crafting tailored, premier client experiences, our squad ensures each client engagement is optimized and in line with your young professional business targets. Delegate backend responsibilities like inbox management and cutting-edge call redirecting to us, leaving you the space to zero in on upscaling your enterprise. ",
+            "map": {
+                "lat": 38.8076339,
+                "lng": -77.21958819,
+                "zoom": 14,
+                "city": "North Springfield"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in North Springfield, Virginia even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of North Springfield. You can also adapt to better meet your clients’ unique needs within Virginia. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our North Springfield virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Choose a Virtual Office in North Springfield with Opus VO?",
+                "body": "North Springfield is not just any Virginia suburb; it’s a burgeoning hotspot for young pros and innovative startups. Rife with potential in sectors like tech, government services, and small business, our strategically situated North Springfield locations offer you rapid access to key industry personalities and must-attend professional mixers.  By choosing an Opus Virtual Office Pros setup in North Springfield, you’re doing more than just economizing on operational spend—you’re nabbing an invaluable competitive lead. Skyrocket your business to new dimensions by opting into our top-tier virtual office features today.  Opus VO North Springfield @ 8001 Forbes Place, North Springfield, VA 22151 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in North Springfield - 8001 Forbes Place | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Virginia, North Springfield virtual office located at 8001 Forbes Place. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/virginia/north-springfield/location-1378/",
+            "og": {
+                "title": "Virtual Office in North Springfield - 8001 Forbes Place | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Virginia, North Springfield virtual office located at 8001 Forbes Place. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/virginia/north-springfield/location-1378/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/1378-01.bldg_.jpg"
+            }
+        }
+    }
+}

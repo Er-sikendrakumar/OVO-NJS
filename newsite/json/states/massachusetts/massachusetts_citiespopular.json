@@ -1,0 +1,23 @@
+{
+    "success": true,
+    "count": 4,
+    "state": "massachusetts",
+    "data": [
+        {
+            "id": "431",
+            "name": "Boston"
+        },
+        {
+            "id": "558",
+            "name": "Burlington"
+        },
+        {
+            "id": "821",
+            "name": "Marlborough"
+        },
+        {
+            "id": "263",
+            "name": "Randolph"
+        }
+    ]
+}

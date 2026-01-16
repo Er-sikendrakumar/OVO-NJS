@@ -1,0 +1,12 @@
+{
+    "success": true,
+    "count": 1,
+    "state": "north dakota",
+    "data": [
+        {
+            "id": "803",
+            "name": "Grand Forks",
+            "popular": "1"
+        }
+    ]
+}

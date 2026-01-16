@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "location_id": 860,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Scotch Plains",
+            "state": "NJ",
+            "price": null,
+            "address": {
+                "line1": "1812 Front Street",
+                "suite": null,
+                "city": "Scotch Plains",
+                "state": "NJ",
+                "zip": "07076",
+                "phone": "(908) 977-1479"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/860-Exterior.png",
+                    "/wp-content-mgr/wp-content/uploads/860-Conference.png",
+                    "/wp-content-mgr/wp-content/uploads/860-Conference-2.png"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 1,
+            "addressOnlyUrl": "/business-address/new-jersey/scotch-plains/location-860/",
+            "signupUrl": "/signup/?locid=860",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 1,
+            "premium": 1,
+            "nearbyPremium": 1,
+            "nearbyPremiumUrl": "/virtual-office/new-york/new-york/location-1450/",
+            "nearbyPremiumText": "to view the most POPULAR locations nearby for the same $99/mo",
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Scotch Planes Virtual Office",
+            "body": "Keen on a prestigious Scotch Plains address but not eager for the encumbrances of a standard office? Opus VO has you covered. Anchor your business within Scotch Plains’ bustling commercial sector while maintaining budget flexibility. For any must-have meetings or brainstorming sessions, our state-of-the-art conference rooms are at your service.  By opting for our virtual workspace in Scotch Plains, you’ll acquire more than an impressive address. You’ll also receive the support of a professional live receptionist who blends seamlessly with your existing team. They’ll ensure that every client encounter reflects your unique brand persona, allowing us to tackle routine admin tasks while you stay focused on your primary business objectives. ",
+            "map": {
+                "lat": 40.6496271,
+                "lng": -74.3993953,
+                "zoom": 14,
+                "city": "Scotch Plains"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Scotch Plains, New Jersey even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Scotch Plains. You can also adapt to better meet your clients’ unique needs within New Jersey. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Scotch Plains virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Scotch Plains?",
+                "body": "Scotch Plains isn’t just a serene community; it’s also a thriving locale for businesses in sectors like tech, healthcare, and retail. Having a Scotch Plains address not only increases your business credibility but also links you to valuable local events and key industry contacts.  Choosing Opus VO for your virtual workspace in Scotch Plains is more than a logistical convenience; it’s a strategic advantage. Ready to amplify your business presence? Check out our range of tailor-made virtual workspace solutions today.  Opus VO, Scotch Plains @ 1812 Front Street, Scotch Plains, NJ 07076     ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Scotch Plains - 1812 Front Street | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our New Jersey, Scotch Plains virtual office located at 1812 Front Street. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/new-jersey/scotch-plains/location-860/",
+            "og": {
+                "title": "Virtual Office in Scotch Plains - 1812 Front Street | $99/Month",
+                "description": "Get the ultimate office solution for your business with our New Jersey, Scotch Plains virtual office located at 1812 Front Street. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/new-jersey/scotch-plains/location-860/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/860-Exterior.png"
+            }
+        }
+    }
+}

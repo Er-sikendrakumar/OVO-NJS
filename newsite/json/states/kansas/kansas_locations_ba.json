@@ -1,0 +1,27 @@
+{
+    "success": true,
+    "count": 1,
+    "state": "kansas",
+    "mode": "business-address",
+    "data": [
+        {
+            "id": 969,
+            "location_name": "2611 SW 17th Street, Topeka, KS 66604",
+            "city": "Topeka",
+            "state": "Kansas",
+            "state_abbr": "KS",
+            "address": "2611 SW 17th Street, Topeka, KS 66604",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 39.036579,
+            "point_y": -95.710419,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/969-Front-Building.jpg",
+                "alttext": null
+            },
+            "url": "/business-address/kansas/topeka/location-969/",
+            "phone": "7853807268"
+        }
+    ]
+}

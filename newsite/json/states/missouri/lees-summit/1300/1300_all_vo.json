@@ -1,0 +1,93 @@
+{
+    "success": true,
+    "location_id": 1300,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Lees Summit",
+            "state": "MO",
+            "price": null,
+            "address": {
+                "line1": "210 SW Market Street",
+                "suite": null,
+                "city": "Lees Summit",
+                "state": "MO",
+                "zip": "64063",
+                "phone": "(816) 705-1464"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/1300-01.Building-542x550.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1300-02.ConferenceRoom-800x451.png",
+                    "/wp-content-mgr/wp-content/uploads/1300-03.kitchen.-733x550.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1300-04.meetingroom-780x550.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1300-05.work-room-after-800x533.jpg"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1300",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Lees Summit Virtual Office",
+            "body": "Secure a prestigious Lee’s Summit business address without the expense of a physical office space. At Opus VO, you can strategically position your business in the heart of Lee’s Summit’s dynamic business district while managing your budget efficiently. Whether you have important client meetings or crucial presentations, our modern conference rooms are ready to accommodate your needs.  When you choose Opus VO’s virtual office in Lee’s Summit, you also gain access to a professional live receptionist as part of the package. Our dedicated team ensures each client interaction aligns seamlessly with your unique brand identity. Delegate routine administrative tasks to us, allowing you the freedom to focus on your core business objectives.   ",
+            "map": {
+                "lat": 38.9117023,
+                "lng": -94.3798929,
+                "zoom": 14,
+                "city": "Lees Summit"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Lees Summit, Missouri even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Lees Summit. You can also adapt to better meet your clients’ unique needs within Missouri. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Lees Summit virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Lee's Summit? ",
+                "body": "Lee’s Summit is not just a picturesque city; it’s a thriving center for various industries, including technology, healthcare, and finance. A Lee’s Summit address provides you with valuable networking opportunities and access to industry events that can significantly enhance your business connections.  Selecting Opus VO for your virtual office needs in Lee’s Summit isn’t just a cost-effective choice; it’s a strategic advantage. Are you ready to take your business to new heights? Our exceptional virtual office solutions are designed to meet your needs.  Choose from two Opus VO locations in Lee’s Summit @ 210 SW Market Street, Lees Summit, MO 64063, or 312 SW Greenwich Dr., Lees Summit, MO 64082 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Lees Summit - 210 SW Market Street | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Missouri, Lees Summit virtual office located at 210 SW Market Street. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/missouri/lees-summit/location-1300/",
+            "og": {
+                "title": "Virtual Office in Lees Summit - 210 SW Market Street | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Missouri, Lees Summit virtual office located at 210 SW Market Street. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/missouri/lees-summit/location-1300/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/1300-01.Building.jpg"
+            }
+        }
+    }
+}

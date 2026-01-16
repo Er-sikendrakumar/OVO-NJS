@@ -1,0 +1,27 @@
+{
+    "success": true,
+    "count": 1,
+    "state": "louisiana",
+    "mode": "business-address",
+    "data": [
+        {
+            "id": 1381,
+            "location_name": "3205 Orleans Avenue, New Orleans, LA 70119",
+            "city": "New Orleans",
+            "state": "Louisiana",
+            "state_abbr": "LA",
+            "address": "3205 Orleans Avenue, New Orleans, LA 70119",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 29.9747445,
+            "point_y": -90.0883448,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1381-01.building.jpg",
+                "alttext": null
+            },
+            "url": "/business-address/louisiana/new-orleans/location-1381/",
+            "phone": "5048723853"
+        }
+    ]
+}

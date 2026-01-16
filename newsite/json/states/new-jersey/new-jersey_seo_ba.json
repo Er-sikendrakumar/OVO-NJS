@@ -1,0 +1,22 @@
+{
+    "success": true,
+    "page": "business-address/new-jersey",
+    "page_type": "location_state",
+    "view": "state",
+    "seo": {
+        "title": "Virtual Business Address in New Jersey | Opus Virtual Offices",
+        "meta_description": "Get a prestigious business address in New Jersey with Opus. Multiple premium locations statewide mail handling privacy protection all for just $59/month.",
+        "canonical": "https://www.opusvirtualoffices.com/business-address/new-jersey/",
+        "og": {
+            "title": "Virtual Business Address in New Jersey | Opus Virtual Offices",
+            "description": "Get a prestigious business address in New Jersey with Opus. Multiple premium locations statewide mail handling privacy protection all for just $59/month.",
+            "url": "https://www.opusvirtualoffices.com/business-address/new-jersey/",
+            "type": "website",
+            "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+        }
+    },
+    "data": {
+        "state": "New Jersey",
+        "mode": "business-address"
+    }
+}

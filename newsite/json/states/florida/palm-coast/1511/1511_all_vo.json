@@ -1,0 +1,89 @@
+{
+    "success": true,
+    "location_id": 1511,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Palm Coast",
+            "state": "FL",
+            "price": null,
+            "address": {
+                "line1": "800 Belle Terre Pkwy",
+                "suite": null,
+                "city": "Palm Coast",
+                "state": "FL",
+                "zip": "32164",
+                "phone": "(386) 387-2384"
+            },
+            "images": {
+                "hero": [
+                    "/assets/mail-center.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1511",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 0,
+            "nearbyPremium": 1,
+            "nearbyPremiumUrl": "/virtual-office/florida/daytona-beach/location-1453/",
+            "nearbyPremiumText": "to view the nearby PREMIUM Locations for the same $99/mo",
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Palm Coast Virtual Office",
+            "body": "Land a prestigious business address in Palm Coast without splurging on a physical location. At Opus VO, you can stake your claim in the heart of Palm Coast, all while optimizing your budget. Need to host a pivotal meeting or close a significant deal? Our state-of-the-art conference rooms are set to dazzle.  Join the Opus VO family in Palm Coast, and a live receptionist that’s dialed into ensuring each interaction with your clients feels like a smooth extension of your business’ core ethos comes with the package. Shift your routine admin responsibilities to us, enabling you to focus on your business growth. ",
+            "map": {
+                "lat": 29.4877213,
+                "lng": -81.2199545,
+                "zoom": 14,
+                "city": "Palm Coast"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Palm Coast, Florida even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Palm Coast. You can also adapt to better meet your clients’ unique needs within Florida. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Palm Coast virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Palm Coast?",
+                "body": "Don’t just see Palm Coast for its scenic beauty—it’s an emerging epicenter for diverse industries from healthcare to digital innovation. Situating your business here plugs you into valuable networking opportunities and sector-specific events that can elevate your brand.  Choosing Opus VO in Palm Coast isn’t just a cost-effective move; it’s a calculated strategy for success. So, are you set to upgrade your business game? Our exceptional virtual office services are here for you.  Opus VO, Palm Coast @ 800 Belle Terre Pkwy, Palm Coast, FL 32164 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Palm Coast - 800 Belle Terre Pkwy | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Florida, Palm Coast virtual office located at 800 Belle Terre Pkwy. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/florida/palm-coast/location-1511/",
+            "og": {
+                "title": "Virtual Office in Palm Coast - 800 Belle Terre Pkwy | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Florida, Palm Coast virtual office located at 800 Belle Terre Pkwy. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/florida/palm-coast/location-1511/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+            }
+        }
+    }
+}

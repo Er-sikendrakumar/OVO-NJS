@@ -1,0 +1,76 @@
+{
+    "success": true,
+    "state": "puerto rico",
+    "cities_virtual": [
+        {
+            "id": "793",
+            "name": "Guaynabo",
+            "popular": "0"
+        },
+        {
+            "id": "729",
+            "name": "San Juan",
+            "popular": "0"
+        }
+    ],
+    "cities_business": [],
+    "cities_popular": [],
+    "locations_virtual_office": [
+        {
+            "id": 1470,
+            "location_name": "1353 Ave Luis Vigoreaux, Guaynabo, PR 00966",
+            "city": "Guaynabo",
+            "state": "Puerto Rico",
+            "state_abbr": "PR",
+            "address": "1353 Ave Luis Vigoreaux, Guaynabo, PR 00966",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 18.4000897,
+            "point_y": -66.10884399,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/puerto-rico/guaynabo/location-1470/",
+            "phone": "7879378316"
+        },
+        {
+            "id": 1768,
+            "location_name": "1511 Calle Antonsanti, San Juan, PR 00909",
+            "city": "San Juan",
+            "state": "Puerto Rico",
+            "state_abbr": "PR",
+            "address": "1511 Calle Antonsanti, San Juan, PR 00909",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 18.446357,
+            "point_y": -66.066045,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1768-Exterior.jpg",
+                "alttext": "Exterior of building that houses Opus Virtual Offices located in San Juan, Puerto Rico"
+            },
+            "url": "/virtual-office/puerto-rico/san-juan/location-1768/",
+            "phone": "7876944682"
+        }
+    ],
+    "meta": {
+        "cities_virtual_count": 2,
+        "cities_business_count": 0,
+        "cities_popular_count": 0,
+        "locations_virtual_office_count": 2
+    },
+    "seo": {
+        "title": "Virtual Office in Puerto Rico | Locations Statewide | Opus VO",
+        "meta_description": "Get a prestigious Puerto Rico business address and professional phone answering services with Opus Virtual Offices, the perfect office solution for your business needs.",
+        "canonical": "https://www.opusvirtualoffices.com/virtual-office/puerto-rico/",
+        "og": {
+            "title": "Virtual Office in Puerto Rico | Locations Statewide | Opus VO",
+            "description": "Get a prestigious Puerto Rico business address and professional phone answering services with Opus Virtual Offices, the perfect office solution for your business needs.",
+            "url": "https://www.opusvirtualoffices.com/virtual-office/puerto-rico/",
+            "type": "website",
+            "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+        }
+    }
+}

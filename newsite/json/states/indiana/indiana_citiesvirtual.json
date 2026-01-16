@@ -1,0 +1,42 @@
+{
+    "success": true,
+    "count": 7,
+    "state": "indiana",
+    "data": [
+        {
+            "id": "909",
+            "name": "Beech Grove",
+            "popular": "0"
+        },
+        {
+            "id": "877",
+            "name": "Carmel",
+            "popular": "0"
+        },
+        {
+            "id": "863",
+            "name": "Dyer",
+            "popular": "0"
+        },
+        {
+            "id": "665",
+            "name": "Fort Wayne",
+            "popular": "1"
+        },
+        {
+            "id": "188",
+            "name": "Indianapolis",
+            "popular": "1"
+        },
+        {
+            "id": "811",
+            "name": "Merrillville",
+            "popular": "1"
+        },
+        {
+            "id": "151",
+            "name": "Scottsburg",
+            "popular": "1"
+        }
+    ]
+}

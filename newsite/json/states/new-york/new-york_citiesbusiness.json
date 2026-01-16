@@ -1,0 +1,17 @@
+{
+    "success": true,
+    "count": 2,
+    "state": "new york",
+    "data": [
+        {
+            "id": "98",
+            "name": "Brooklyn",
+            "popular": "1"
+        },
+        {
+            "id": "681",
+            "name": "New York",
+            "popular": "0"
+        }
+    ]
+}

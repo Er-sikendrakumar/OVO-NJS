@@ -1,0 +1,89 @@
+{
+    "success": true,
+    "location_id": 858,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Highland",
+            "state": "IL",
+            "price": null,
+            "address": {
+                "line1": "12603 Illinois State Route 143",
+                "suite": null,
+                "city": "Highland",
+                "state": "IL",
+                "zip": "62249",
+                "phone": "(618) 606-9118"
+            },
+            "images": {
+                "hero": [
+                    "/assets/mail-center.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=858",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 0,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Highland Virtual Office",
+            "body": "Secure a prestige business address in Highland without investing in physical real estate. With Opus VO, you’re positioning your enterprise right in the heartbeat of Highland, and you’re doing it cost-effectively. Have an urgent meetup or a client pitch that has to make an impact? Our contemporary conference rooms are set to dazzle.  When you go virtual in Highland through Opus VO, a dedicated live receptionist is yours. We ensure every client interaction harmonizes perfectly with your own brand ethos. Delegate those daily admin tasks to us and liberate yourself to focus on your business ambitions. ",
+            "map": {
+                "lat": 38.7575626,
+                "lng": -89.6827059,
+                "zoom": 14,
+                "city": "Highland"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Highland, Illinois even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Highland. You can also adapt to better meet your clients’ unique needs within Illinois. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Highland virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Highland?",
+                "body": "Highland is not just another pretty suburban face. This area is an emerging nexus for businesses in sectors as diverse as tech, healthcare, and finance. Being based in Highland offers you access to key industry connections and invaluable networking events.  Choosing Opus VO in Highland isn’t just about fiscal wisdom—it’s about gaining a competitive advantage. Are you set to take your business to new heights? Our first-rate virtual office services are geared up and ready for you.  Opus VO, Highland @ 12603 Illinois State Route 143, Highland, IL 62249 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Highland - 12603 Illinois State Route 143 | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Illinois, Highland virtual office located at 12603 Illinois State Route 143. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/illinois/highland/location-858/",
+            "og": {
+                "title": "Virtual Office in Highland - 12603 Illinois State Route 143 | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Illinois, Highland virtual office located at 12603 Illinois State Route 143. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/illinois/highland/location-858/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+            }
+        }
+    }
+}

@@ -1,0 +1,1921 @@
+{
+    "success": true,
+    "state": "california",
+    "cities_virtual": [
+        {
+            "id": "922",
+            "name": "Adelanto",
+            "popular": "0"
+        },
+        {
+            "id": "371",
+            "name": "Antelope",
+            "popular": "0"
+        },
+        {
+            "id": "361",
+            "name": "Atascadero",
+            "popular": "0"
+        },
+        {
+            "id": "187",
+            "name": "Bakersfield",
+            "popular": "1"
+        },
+        {
+            "id": "787",
+            "name": "Bellflower",
+            "popular": "0"
+        },
+        {
+            "id": "404",
+            "name": "Beverly Hills",
+            "popular": "1"
+        },
+        {
+            "id": "468",
+            "name": "Buena Park",
+            "popular": "0"
+        },
+        {
+            "id": "265",
+            "name": "Burbank",
+            "popular": "0"
+        },
+        {
+            "id": "279",
+            "name": "Carmichael",
+            "popular": "0"
+        },
+        {
+            "id": "868",
+            "name": "Cathedral City",
+            "popular": "0"
+        },
+        {
+            "id": "266",
+            "name": "Cerritos",
+            "popular": "0"
+        },
+        {
+            "id": "341",
+            "name": "Chula Vista",
+            "popular": "1"
+        },
+        {
+            "id": "372",
+            "name": "Citrus Heights",
+            "popular": "0"
+        },
+        {
+            "id": "370",
+            "name": "Claremont",
+            "popular": "0"
+        },
+        {
+            "id": "906",
+            "name": "Cypress",
+            "popular": "0"
+        },
+        {
+            "id": "363",
+            "name": "Diamond Bar",
+            "popular": "0"
+        },
+        {
+            "id": "542",
+            "name": "Dublin",
+            "popular": "0"
+        },
+        {
+            "id": "727",
+            "name": "El Dorado Hills",
+            "popular": "0"
+        },
+        {
+            "id": "297",
+            "name": "Fairfield",
+            "popular": "0"
+        },
+        {
+            "id": "336",
+            "name": "Folsom",
+            "popular": "0"
+        },
+        {
+            "id": "483",
+            "name": "Fresno",
+            "popular": "0"
+        },
+        {
+            "id": "428",
+            "name": "Fullerton",
+            "popular": "0"
+        },
+        {
+            "id": "309",
+            "name": "Glendora",
+            "popular": "0"
+        },
+        {
+            "id": "592",
+            "name": "Goleta",
+            "popular": "0"
+        },
+        {
+            "id": "198",
+            "name": "Huntington Beach",
+            "popular": "0"
+        },
+        {
+            "id": "196",
+            "name": "Irvine",
+            "popular": "0"
+        },
+        {
+            "id": "355",
+            "name": "Jackson",
+            "popular": "0"
+        },
+        {
+            "id": "394",
+            "name": "Lomita",
+            "popular": "0"
+        },
+        {
+            "id": "205",
+            "name": "Los Angeles",
+            "popular": "1"
+        },
+        {
+            "id": "317",
+            "name": "Menifee",
+            "popular": "0"
+        },
+        {
+            "id": "488",
+            "name": "Modesto",
+            "popular": "0"
+        },
+        {
+            "id": "314",
+            "name": "Newport Beach",
+            "popular": "1"
+        },
+        {
+            "id": "290",
+            "name": "North Hollywood",
+            "popular": "0"
+        },
+        {
+            "id": "766",
+            "name": "Oak Hills",
+            "popular": "0"
+        },
+        {
+            "id": "456",
+            "name": "Oakland",
+            "popular": "1"
+        },
+        {
+            "id": "578",
+            "name": "Ontario",
+            "popular": "0"
+        },
+        {
+            "id": "319",
+            "name": "Orange",
+            "popular": "0"
+        },
+        {
+            "id": "242",
+            "name": "Palm Desert",
+            "popular": "0"
+        },
+        {
+            "id": "611",
+            "name": "Palm Springs",
+            "popular": "0"
+        },
+        {
+            "id": "496",
+            "name": "Palo Alto",
+            "popular": "0"
+        },
+        {
+            "id": "576",
+            "name": "Rancho Cucamonga",
+            "popular": "1"
+        },
+        {
+            "id": "514",
+            "name": "Redding",
+            "popular": "0"
+        },
+        {
+            "id": "200",
+            "name": "Redondo Beach",
+            "popular": "0"
+        },
+        {
+            "id": "354",
+            "name": "Riverbank",
+            "popular": "0"
+        },
+        {
+            "id": "482",
+            "name": "Riverside",
+            "popular": "1"
+        },
+        {
+            "id": "259",
+            "name": "Sacramento",
+            "popular": "1"
+        },
+        {
+            "id": "642",
+            "name": "San Bernardino",
+            "popular": "0"
+        },
+        {
+            "id": "169",
+            "name": "San Diego",
+            "popular": "0"
+        },
+        {
+            "id": "271",
+            "name": "San Dimas",
+            "popular": "0"
+        },
+        {
+            "id": "357",
+            "name": "San Francisco",
+            "popular": "1"
+        },
+        {
+            "id": "241",
+            "name": "San Jose",
+            "popular": "1"
+        },
+        {
+            "id": "340",
+            "name": "San Juan Capistrano",
+            "popular": "0"
+        },
+        {
+            "id": "758",
+            "name": "San Marcos",
+            "popular": "0"
+        },
+        {
+            "id": "518",
+            "name": "Santa Barbara",
+            "popular": "0"
+        },
+        {
+            "id": "451",
+            "name": "Santa Clarita",
+            "popular": "0"
+        },
+        {
+            "id": "515",
+            "name": "Santa Rosa",
+            "popular": "0"
+        },
+        {
+            "id": "313",
+            "name": "Seal Beach",
+            "popular": "0"
+        },
+        {
+            "id": "359",
+            "name": "Simi Valley",
+            "popular": "0"
+        },
+        {
+            "id": "678",
+            "name": "Stockton",
+            "popular": "0"
+        },
+        {
+            "id": "234",
+            "name": "Sunnyvale",
+            "popular": "0"
+        },
+        {
+            "id": "763",
+            "name": "Thousand Oaks",
+            "popular": "0"
+        },
+        {
+            "id": "349",
+            "name": "Torrance",
+            "popular": "0"
+        },
+        {
+            "id": "165",
+            "name": "Vallejo",
+            "popular": "0"
+        },
+        {
+            "id": "351",
+            "name": "Victorville",
+            "popular": "0"
+        },
+        {
+            "id": "623",
+            "name": "Walnut",
+            "popular": "0"
+        },
+        {
+            "id": "181",
+            "name": "Wildomar",
+            "popular": "0"
+        },
+        {
+            "id": "397",
+            "name": "Woodland Hills",
+            "popular": "0"
+        },
+        {
+            "id": "358",
+            "name": "Yuba City",
+            "popular": "0"
+        }
+    ],
+    "cities_business": [
+        {
+            "id": "404",
+            "name": "Beverly Hills",
+            "popular": "1"
+        },
+        {
+            "id": "428",
+            "name": "Fullerton",
+            "popular": "0"
+        },
+        {
+            "id": "205",
+            "name": "Los Angeles",
+            "popular": "1"
+        },
+        {
+            "id": "259",
+            "name": "Sacramento",
+            "popular": "1"
+        },
+        {
+            "id": "357",
+            "name": "San Francisco",
+            "popular": "1"
+        }
+    ],
+    "cities_popular": [
+        {
+            "id": "187",
+            "name": "Bakersfield"
+        },
+        {
+            "id": "404",
+            "name": "Beverly Hills"
+        },
+        {
+            "id": "341",
+            "name": "Chula Vista"
+        },
+        {
+            "id": "205",
+            "name": "Los Angeles"
+        },
+        {
+            "id": "314",
+            "name": "Newport Beach"
+        },
+        {
+            "id": "456",
+            "name": "Oakland"
+        },
+        {
+            "id": "576",
+            "name": "Rancho Cucamonga"
+        },
+        {
+            "id": "482",
+            "name": "Riverside"
+        },
+        {
+            "id": "259",
+            "name": "Sacramento"
+        },
+        {
+            "id": "357",
+            "name": "San Francisco"
+        },
+        {
+            "id": "241",
+            "name": "San Jose"
+        }
+    ],
+    "locations_virtual_office": [
+        {
+            "id": 1362,
+            "location_name": "626 Wilshire Blvd, Suite 410, Los Angeles, CA 90017",
+            "city": "Los Angeles",
+            "state": "California",
+            "state_abbr": "CA",
+            "address": "626 Wilshire Blvd, Suite 410, Los Angeles, CA 90017",
+            "premium": 1,
+            "showpopular": 1,
+            "opusowned": 1,
+            "point_x": 34.0482582,
+            "point_y": -118.2570021,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/Opus-Virtual-Office-Los-Angeles-626-Wilshire-Blvd-Modern-Office-Building.webp",
+                "alttext": "Exterior street view of Opus' modern Los Angeles location at 626 Wilshire Blvd, Los Angeles."
+            },
+            "url": "/virtual-office/california/los-angeles/location-1362/",
+            "phone": "2139731030"
+        },
+        {
+            "id": 936,
+            "location_name": "9350 Wilshire Blvd, Suite 203, Beverly Hills, CA 90212",
+            "city": "Beverly Hills",
+            "state": "California",
+            "state_abbr": "CA",
+            "address": "9350 Wilshire Blvd, Suite 203, Beverly Hills, CA 90212",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 1,
+            "point_x": 34.06679,
+            "point_y": -118.395504,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/Opus-Virtual-Office-Beverly-Hills-9350-Wilshire-Blvd-Classic-Office-Building.webp",
+                "alttext": "Classic office building exterior of Opus Virtual Office in Beverly Hills, showcasing a prestigious location for businesses."
+            },
+            "url": "/virtual-office/california/beverly-hills/location-936/",
+            "phone": "3107342666"
+        },
+        {
+            "id": 1770,
+            "location_name": "11328 Barlett Ave, Adelanto, CA 92301",
+            "city": "Adelanto",
+            "state": "California",
+            "state_abbr": "CA",
+            "address": "11328 Barlett Ave, Adelanto, CA 92301",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 34.5794366,
+            "point_y": -117.4173034,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/california/adelanto/location-1770/",
+            "phone": "7604598168"
+        },
+        {
+            "id": 612,
+            "location_name": "7909 Walerga Rd, Antelope, CA 95843",
+            "city": "Antelope",
+            "state": "California",
+            "state_abbr": "CA",
+            "address": "7909 Walerga Rd, Antelope, CA 95843",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 38.712523,
+            "point_y": -121.364634,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/california/antelope/location-612/",
+            "phone": "9162822135"
+        },
+        {
+            "id": 600,
+            "location_name": "7395 El Camino Real, Atascadero, CA 93422",
+            "city": "Atascadero",
+            "state": "California",
+            "state_abbr": "CA",
+            "address": "7395 El Camino Real, Atascadero, CA 93422",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 35.482815,
+            "point_y": -120.65947,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/california/atascadero/location-600/",
+            "phone": "8056243163"
+        },
+        {
+            "id": 469,
+            "location_name": "13061 Rosedale Highway, Bakersfield, CA 93314",
+            "city": "Bakersfield",
+            "state": "California",
+            "state_abbr": "CA",
+            "address": "13061 Rosedale Highway, Bakersfield, CA 93314",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 35.383341,
+            "point_y": -119.146842,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/california/bakersfield/location-469/",
+            "phone": "6614321107"
+        },
+        {
+            "id": 1611,
+            "location_name": "5401 Business Park South, Bakersfield, CA 93309",
+            "city": "Bakersfield",
+            "state": "California",
+            "state_abbr": "CA",
+            "address": "5401 Business Park South, Bakersfield, CA 93309",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 35.3582068,
+            "point_y": -119.0594463,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1611-01.bldg_.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/california/bakersfield/location-1611/",
+            "phone": "0"
+        },
+        {
+            "id": 1460,
+            "location_name": "17434 Bellflower Blvd, Bellflower, CA 90706",
+            "city": "Bellflower",
+            "state": "California",
+            "state_abbr": "CA",
+            "address": "17434 Bellflower Blvd, Bellflower, CA 90706",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 33.8737727,
+            "point_y": -118.1244979,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1460-exterior.jpg",
+                "alttext": "Exterior of building that houses Opus Virtual Offices located in Bellflower, California"
+            },
+            "url": "/virtual-office/california/bellflower/location-1460/",
+            "phone": "5625344016"
+        },
+        {
+            "id": 734,
+            "location_name": "5825 Lincoln Avenue, Buena Park, CA 90620",
+            "city": "Buena Park",
+            "state": "California",
+            "state_abbr": "CA",
+            "address": "5825 Lincoln Avenue, Buena Park, CA 90620",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 33.831791,
+            "point_y": -118.031725,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/california/buena-park/location-734/",
+            "phone": "7142423816"
+        },
+        {
+            "id": 1049,
+            "location_name": "1812 W. Burbank Boulevard, Burbank, CA 91506",
+            "city": "Burbank",
+            "state": "California",
+            "state_abbr": "CA",
+            "address": "1812 W. Burbank Boulevard, Burbank, CA 91506",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 34.1809325,
+            "point_y": -118.3308189,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/california/burbank/location-1049/",
+            "phone": "8185729404"
+        },
+        {
+            "id": 662,
+            "location_name": "3727 W Magnolia Blvd., Burbank, CA 91505",
+            "city": "Burbank",
+            "state": "California",
+            "state_abbr": "CA",
+            "address": "3727 W Magnolia Blvd., Burbank, CA 91505",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 34.167901,
+            "point_y": -118.347328,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/california/burbank/location-662/",
+            "phone": "8187364307"
+        },
+        {
+            "id": 496,
+            "location_name": "4005 Manzanita Avenue, Carmichael, CA 95608",
+            "city": "Carmichael",
+            "state": "California",
+            "state_abbr": "CA",
+            "address": "4005 Manzanita Avenue, Carmichael, CA 95608",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 38.6378121,
+            "point_y": -121.3295125,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/california/carmichael/location-496/",
+            "phone": "9162822138"
+        },
+        {
+            "id": 1652,
+            "location_name": "68718 East Palm Canyon Drive, Cathedral City, CA 92234",
+            "city": "Cathedral City",
+            "state": "California",
+            "state_abbr": "CA",
+            "address": "68718 East Palm Canyon Drive, Cathedral City, CA 92234",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 33.779804,
+            "point_y": -116.463094,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/california/cathedral-city/location-1652/",
+            "phone": "7604598168"
+        },
+        {
+            "id": 491,
+            "location_name": "11331 183rd Street, Cerritos, CA 90703",
+            "city": "Cerritos",
+            "state": "California",
+            "state_abbr": "CA",
+            "address": "11331 183rd Street, Cerritos, CA 90703",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 33.865754,
+            "point_y": -118.092525,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/california/cerritos/location-491/",
+            "phone": "5622635207"
+        },
+        {
+            "id": 1361,
+            "location_name": "863 Bowsprit Road, Chula Vista, CA 91914",
+            "city": "Chula Vista",
+            "state": "California",
+            "state_abbr": "CA",
+            "address": "863 Bowsprit Road, Chula Vista, CA 91914",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 32.654952,
+            "point_y": -116.959145,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1361-01.building.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/california/chula-vista/location-1361/",
+            "phone": "6193764173"
+        },
+        {
+            "id": 613,
+            "location_name": "7889 Lichen Dr., Citrus Heights, CA 95621",
+            "city": "Citrus Heights",
+            "state": "California",
+            "state_abbr": "CA",
+            "address": "7889 Lichen Dr., Citrus Heights, CA 95621",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 38.7090862,
+            "point_y": -121.3118499,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/california/citrus-heights/location-613/",
+            "phone": "9162822134"
+        },
+        {
+            "id": 611,
+            "location_name": "112 Harvard Ave, Claremont, CA 91711",
+            "city": "Claremont",
+            "state": "California",
+            "state_abbr": "CA",
+            "address": "112 Harvard Ave, Claremont, CA 91711",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 34.094857,
+            "point_y": -117.716229,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/california/claremont/location-611/",
+            "phone": "9092473045"
+        },
+        {
+            "id": 1740,
+            "location_name": "5071 Ball Rd, Cypress, CA 90630",
+            "city": "Cypress",
+            "state": "California",
+            "state_abbr": "CA",
+            "address": "5071 Ball Rd, Cypress, CA 90630",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 33.8175045,
+            "point_y": -118.0443043,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/california/cypress/location-1740/",
+            "phone": "6572958487"
+        },
+        {
+            "id": 602,
+            "location_name": "1249 South Diamond Bar Boulevard, Diamond Bar, CA 91765",
+            "city": "Diamond Bar",
+            "state": "California",
+            "state_abbr": "CA",
+            "address": "1249 South Diamond Bar Boulevard, Diamond Bar, CA 91765",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 33.999879,
+            "point_y": -117.812023,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/california/diamond-bar/location-602/",
+            "phone": "9092473047"
+        },
+        {
+            "id": 874,
+            "location_name": "11501 Dublin Blvd, Dublin, CA 94568",
+            "city": "Dublin",
+            "state": "California",
+            "state_abbr": "CA",
+            "address": "11501 Dublin Blvd, Dublin, CA 94568",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 37.699589,
+            "point_y": -121.9438212,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/874-Exterior.png",
+                "alttext": "Exterior of building that houses Opus Virtual Offices located in Dublin, California"
+            },
+            "url": "/virtual-office/california/dublin/location-874/",
+            "phone": "9253963618"
+        },
+        {
+            "id": 1322,
+            "location_name": "5170 Golden Foothill Parkway, El Dorado Hills, CA 95762",
+            "city": "El Dorado Hills",
+            "state": "California",
+            "state_abbr": "CA",
+            "address": "5170 Golden Foothill Parkway, El Dorado Hills, CA 95762",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 38.6398679,
+            "point_y": -121.0677949,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1322-001-Building.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/california/el-dorado-hills/location-1322/",
+            "phone": "9167012904"
+        },
+        {
+            "id": 1603,
+            "location_name": "1545 N Texas Street, Fairfield, CA 94533",
+            "city": "Fairfield",
+            "state": "California",
+            "state_abbr": "CA",
+            "address": "1545 N Texas Street, Fairfield, CA 94533",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 38.2579914,
+            "point_y": -122.0346002,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1603-01.Building.webp",
+                "alttext": null
+            },
+            "url": "/virtual-office/california/fairfield/location-1603/",
+            "phone": "7073243417"
+        },
+        {
+            "id": 570,
+            "location_name": "1750 Prairie City Road, Folsom, CA 95630",
+            "city": "Folsom",
+            "state": "California",
+            "state_abbr": "CA",
+            "address": "1750 Prairie City Road, Folsom, CA 95630",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 38.6510523,
+            "point_y": -121.1657144,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/california/folsom/location-570/",
+            "phone": "9162822137"
+        },
+        {
+            "id": 1079,
+            "location_name": "1444 Fulton Street, Fresno, CA 93721",
+            "city": "Fresno",
+            "state": "California",
+            "state_abbr": "CA",
+            "address": "1444 Fulton Street, Fresno, CA 93721",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 36.7388844,
+            "point_y": -119.7952145,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1079-01-Building.png",
+                "alttext": null
+            },
+            "url": "/virtual-office/california/fresno/location-1079/",
+            "phone": "5592728617"
+        },
+        {
+            "id": 1567,
+            "location_name": "1440 N Harbor Blvd, Fullerton, CA 92835",
+            "city": "Fullerton",
+            "state": "California",
+            "state_abbr": "CA",
+            "address": "1440 N Harbor Blvd, Fullerton, CA 92835",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 33.8854227,
+            "point_y": -117.9252703,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1567-001-Building.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/california/fullerton/location-1567/",
+            "phone": "7144098472"
+        },
+        {
+            "id": 537,
+            "location_name": "147 W Route 66, Glendora, CA 91740",
+            "city": "Glendora",
+            "state": "California",
+            "state_abbr": "CA",
+            "address": "147 W Route 66, Glendora, CA 91740",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 34.128862,
+            "point_y": -117.865946,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/california/glendora/location-537/",
+            "phone": "6264143118"
+        },
+        {
+            "id": 1018,
+            "location_name": "7127 Hollister Avenue, Goleta, CA 93117",
+            "city": "Goleta",
+            "state": "California",
+            "state_abbr": "CA",
+            "address": "7127 Hollister Avenue, Goleta, CA 93117",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 34.430014,
+            "point_y": -119.882205,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/california/goleta/location-1018/",
+            "phone": "8052857679"
+        },
+        {
+            "id": 388,
+            "location_name": "5904-A Warner Ave., Huntington Beach, CA 92649",
+            "city": "Huntington Beach",
+            "state": "California",
+            "state_abbr": "CA",
+            "address": "5904-A Warner Ave., Huntington Beach, CA 92649",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 33.7143519,
+            "point_y": -118.0256271,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/california/huntington-beach/location-388/",
+            "phone": "7142423822"
+        },
+        {
+            "id": 386,
+            "location_name": "6789 Quail Hill Pkwy, Irvine, CA 92603",
+            "city": "Irvine",
+            "state": "California",
+            "state_abbr": "CA",
+            "address": "6789 Quail Hill Pkwy, Irvine, CA 92603",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 33.653046,
+            "point_y": -117.777416,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/california/irvine/location-386/",
+            "phone": "9494710919"
+        },
+        {
+            "id": 866,
+            "location_name": "9891 Irvine Center Drive, Irvine, CA 92618",
+            "city": "Irvine",
+            "state": "California",
+            "state_abbr": "CA",
+            "address": "9891 Irvine Center Drive, Irvine, CA 92618",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 33.6305893,
+            "point_y": -117.7289605,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/866-001-Building.png",
+                "alttext": null
+            },
+            "url": "/virtual-office/california/irvine/location-866/",
+            "phone": "9492712650"
+        },
+        {
+            "id": 594,
+            "location_name": "603 S State Hwy 49, Jackson, CA 95642",
+            "city": "Jackson",
+            "state": "California",
+            "state_abbr": "CA",
+            "address": "603 S State Hwy 49, Jackson, CA 95642",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 38.3417111,
+            "point_y": -120.7665776,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/california/jackson/location-594/",
+            "phone": "2095545528"
+        },
+        {
+            "id": 1592,
+            "location_name": "25429 Narbonne Avenue, Lomita, CA 90717",
+            "city": "Lomita",
+            "state": "California",
+            "state_abbr": "CA",
+            "address": "25429 Narbonne Avenue, Lomita, CA 90717",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 33.7930554,
+            "point_y": -118.3204876,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1592-exterior.jpg",
+                "alttext": "Exterior of building that houses Opus Virtual Offices located in Lomita, California"
+            },
+            "url": "/virtual-office/california/lomita/location-1592/",
+            "phone": "0"
+        },
+        {
+            "id": 547,
+            "location_name": "30141 Antelope Rd., Menifee, CA 92584",
+            "city": "Menifee",
+            "state": "California",
+            "state_abbr": "CA",
+            "address": "30141 Antelope Rd., Menifee, CA 92584",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 33.682812,
+            "point_y": -117.16756,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/california/menifee/location-547/",
+            "phone": "9513461617"
+        },
+        {
+            "id": 1291,
+            "location_name": "931 10th Street, Modesto, CA 95354",
+            "city": "Modesto",
+            "state": "California",
+            "state_abbr": "CA",
+            "address": "931 10th Street, Modesto, CA 95354",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 37.639854799,
+            "point_y": -121.0000666,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1291-001-Building-e1709913409770.png",
+                "alttext": null
+            },
+            "url": "/virtual-office/california/modesto/location-1291/",
+            "phone": "2092871719"
+        },
+        {
+            "id": 768,
+            "location_name": "3430 Tully Road, Modesto, CA 95350",
+            "city": "Modesto",
+            "state": "California",
+            "state_abbr": "CA",
+            "address": "3430 Tully Road, Modesto, CA 95350",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 37.687674,
+            "point_y": -121.012468,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/california/modesto/location-768/",
+            "phone": "2095545524"
+        },
+        {
+            "id": 1410,
+            "location_name": "260 Newport Center Drive, Newport Beach, CA 92660",
+            "city": "Newport Beach",
+            "state": "California",
+            "state_abbr": "CA",
+            "address": "260 Newport Center Drive, Newport Beach, CA 92660",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 33.6109998,
+            "point_y": -117.873129,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1410-01.building.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/california/newport-beach/location-1410/",
+            "phone": "9495354851"
+        },
+        {
+            "id": 507,
+            "location_name": "5062 Lankershim Boulevard, North Hollywood, CA 91601",
+            "city": "North Hollywood",
+            "state": "California",
+            "state_abbr": "CA",
+            "address": "5062 Lankershim Boulevard, North Hollywood, CA 91601",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 34.1626235,
+            "point_y": -118.3730051,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/california/north-hollywood/location-507/",
+            "phone": "8185729417"
+        },
+        {
+            "id": 1422,
+            "location_name": "6562 Caliente Road, Oak Hills, CA 92344",
+            "city": "Oak Hills",
+            "state": "California",
+            "state_abbr": "CA",
+            "address": "6562 Caliente Road, Oak Hills, CA 92344",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 34.3729182,
+            "point_y": -117.4241403,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/california/oak-hills/location-1422/",
+            "phone": "7605072074"
+        },
+        {
+            "id": 1454,
+            "location_name": "1440 Broadway, Oakland, CA 94612",
+            "city": "Oakland",
+            "state": "California",
+            "state_abbr": "CA",
+            "address": "1440 Broadway, Oakland, CA 94612",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 37.8048109,
+            "point_y": -122.2706684,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1454-001-Building.png",
+                "alttext": null
+            },
+            "url": "/virtual-office/california/oakland/location-1454/",
+            "phone": "5103987289"
+        },
+        {
+            "id": 1440,
+            "location_name": "3400 Inland Empire Boulevard, Ontario, CA 91764",
+            "city": "Ontario",
+            "state": "California",
+            "state_abbr": "CA",
+            "address": "3400 Inland Empire Boulevard, Ontario, CA 91764",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 34.0716054,
+            "point_y": -117.5783991,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1440-01.bldg_.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/california/ontario/location-1440/",
+            "phone": "9092177049"
+        },
+        {
+            "id": 549,
+            "location_name": "3024 E. Chapman Avenue, Orange, CA 92869",
+            "city": "Orange",
+            "state": "California",
+            "state_abbr": "CA",
+            "address": "3024 E. Chapman Avenue, Orange, CA 92869",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 33.7875948,
+            "point_y": -117.8208028,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/california/orange/location-549/",
+            "phone": "7142423820"
+        },
+        {
+            "id": 1259,
+            "location_name": "74-710 Hwy 111, Palm Desert, CA 92260",
+            "city": "Palm Desert",
+            "state": "California",
+            "state_abbr": "CA",
+            "address": "74-710 Hwy 111, Palm Desert, CA 92260",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 33.7218726,
+            "point_y": -116.3616103,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1259-0Building.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/california/palm-desert/location-1259/",
+            "phone": "7604598148"
+        },
+        {
+            "id": 1651,
+            "location_name": "190 W Amado Road, Palm Springs, CA 92262",
+            "city": "Palm Springs",
+            "state": "California",
+            "state_abbr": "CA",
+            "address": "190 W Amado Road, Palm Springs, CA 92262",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 33.8270414,
+            "point_y": -116.5477258,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1651-01-Entrance.webp",
+                "alttext": null
+            },
+            "url": "/virtual-office/california/palm-springs/location-1651/",
+            "phone": "7604598168"
+        },
+        {
+            "id": 782,
+            "location_name": "3790 El Camino Real, Palo Alto, CA 94306",
+            "city": "Palo Alto",
+            "state": "California",
+            "state_abbr": "CA",
+            "address": "3790 El Camino Real, Palo Alto, CA 94306",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 37.417618,
+            "point_y": -122.131775,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/california/palo-alto/location-782/",
+            "phone": "6502408486"
+        },
+        {
+            "id": 980,
+            "location_name": "7828 Haven Avenue, Rancho Cucamonga, CA 91730",
+            "city": "Rancho Cucamonga",
+            "state": "California",
+            "state_abbr": "CA",
+            "address": "7828 Haven Avenue, Rancho Cucamonga, CA 91730",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 34.1118742,
+            "point_y": -117.5762978,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/980-001-Building.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/california/rancho-cucamonga/location-980/",
+            "phone": "9092177115"
+        },
+        {
+            "id": 817,
+            "location_name": "2205 Hilltop Drive, Redding, CA 96002",
+            "city": "Redding",
+            "state": "California",
+            "state_abbr": "CA",
+            "address": "2205 Hilltop Drive, Redding, CA 96002",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 40.5752641,
+            "point_y": -122.3574838,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/california/redding/location-817/",
+            "phone": "5302370509"
+        },
+        {
+            "id": 393,
+            "location_name": "1732 Aviation Blvd., Redondo Beach, CA 90278",
+            "city": "Redondo Beach",
+            "state": "California",
+            "state_abbr": "CA",
+            "address": "1732 Aviation Blvd., Redondo Beach, CA 90278",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 33.871335,
+            "point_y": -118.382123,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/california/redondo-beach/location-393/",
+            "phone": "3104219015"
+        },
+        {
+            "id": 593,
+            "location_name": "2228 Patterson Road, Riverbank, CA 95367",
+            "city": "Riverbank",
+            "state": "California",
+            "state_abbr": "CA",
+            "address": "2228 Patterson Road, Riverbank, CA 95367",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 37.7316751,
+            "point_y": -120.9571633,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/california/riverbank/location-593/",
+            "phone": "2095545527"
+        },
+        {
+            "id": 934,
+            "location_name": "8175 Limonite Avenue, Riverside, CA 92509",
+            "city": "Riverside",
+            "state": "California",
+            "state_abbr": "CA",
+            "address": "8175 Limonite Avenue, Riverside, CA 92509",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 33.9782721,
+            "point_y": -117.4617404,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/934-Exterior.png",
+                "alttext": "Exterior of building housing Opus Virtual Offices located in Riverside, California"
+            },
+            "url": "/virtual-office/california/riverside/location-934/",
+            "phone": "9513359561"
+        },
+        {
+            "id": 1616,
+            "location_name": "2014 Capitol Ave, Sacramento, CA 95811",
+            "city": "Sacramento",
+            "state": "California",
+            "state_abbr": "CA",
+            "address": "2014 Capitol Ave, Sacramento, CA 95811",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 38.5729581,
+            "point_y": -121.4808319,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1616-001-Building.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/california/sacramento/location-1616/",
+            "phone": "0"
+        },
+        {
+            "id": 815,
+            "location_name": "836 57th Street, Sacramento, CA 95819",
+            "city": "Sacramento",
+            "state": "California",
+            "state_abbr": "CA",
+            "address": "836 57th Street, Sacramento, CA 95819",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 38.566393,
+            "point_y": -121.4333978,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/Opus-Virtual-Office-Sacramento-Building-Exterior.webp",
+                "alttext": "Exterior of Opus Virtual Office in Sacramento, CA at 836 57th Street"
+            },
+            "url": "/virtual-office/california/sacramento/location-815/",
+            "phone": "9162822136"
+        },
+        {
+            "id": 1200,
+            "location_name": "2130 N. Arrowhead Avenue, San Bernardino, CA 92405",
+            "city": "San Bernardino",
+            "state": "California",
+            "state_abbr": "CA",
+            "address": "2130 N. Arrowhead Avenue, San Bernardino, CA 92405",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 34.134517,
+            "point_y": -117.29043,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1200-001-Building.png",
+                "alttext": null
+            },
+            "url": "/virtual-office/california/san-bernardino/location-1200/",
+            "phone": "7605072059"
+        },
+        {
+            "id": 1539,
+            "location_name": "4379 30th Street, San Diego, CA 92104",
+            "city": "San Diego",
+            "state": "California",
+            "state_abbr": "CA",
+            "address": "4379 30th Street, San Diego, CA 92104",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 32.7568972,
+            "point_y": -117.1300141,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1539-01.bldg_.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/california/san-diego/location-1539/",
+            "phone": "6199231383"
+        },
+        {
+            "id": 335,
+            "location_name": "4231 Balboa Avenue, San Diego, CA 92117",
+            "city": "San Diego",
+            "state": "California",
+            "state_abbr": "CA",
+            "address": "4231 Balboa Avenue, San Diego, CA 92117",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 32.8116352,
+            "point_y": -117.2003607,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/california/san-diego/location-335/",
+            "phone": "8586662403"
+        },
+        {
+            "id": 1771,
+            "location_name": "10089 Willow Creek Rd, San Diego, CA 92131",
+            "city": "San Diego",
+            "state": "California",
+            "state_abbr": "CA",
+            "address": "10089 Willow Creek Rd, San Diego, CA 92131",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 32.9010317,
+            "point_y": -117.1098335,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1771-Exterior.png",
+                "alttext": "Exterior of building that houses Opus Virtual Offices located in San Diego, CA"
+            },
+            "url": "/virtual-office/california/san-diego/location-1771/",
+            "phone": "6199231383"
+        },
+        {
+            "id": 1667,
+            "location_name": "301 E Arrow Highway, San Dimas, CA 91773",
+            "city": "San Dimas",
+            "state": "California",
+            "state_abbr": "CA",
+            "address": "301 E Arrow Highway, San Dimas, CA 91773",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 34.1035211,
+            "point_y": -117.8020627,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1667-01-Building.webp",
+                "alttext": null
+            },
+            "url": "/virtual-office/california/san-dimas/location-1667/",
+            "phone": "9099014013"
+        },
+        {
+            "id": 680,
+            "location_name": "945 Taraval Street, San Francisco, CA 94116",
+            "city": "San Francisco",
+            "state": "California",
+            "state_abbr": "CA",
+            "address": "945 Taraval Street, San Francisco, CA 94116",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 37.743004,
+            "point_y": -122.476174,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/california/san-francisco/location-680/",
+            "phone": "4153581737"
+        },
+        {
+            "id": 1725,
+            "location_name": "28 Geary Street, San Francisco, CA 94108",
+            "city": "San Francisco",
+            "state": "California",
+            "state_abbr": "CA",
+            "address": "28 Geary Street, San Francisco, CA 94108",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 37.7880139,
+            "point_y": -122.4040665,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1725exterior2.jpg",
+                "alttext": "Exterior of building that houses Opus Virtual Offices located in San Francisco, California"
+            },
+            "url": "/virtual-office/california/san-francisco/location-1725/",
+            "phone": "4156331254"
+        },
+        {
+            "id": 1447,
+            "location_name": "196 N 3rd Street, San Jose, CA 95112",
+            "city": "San Jose",
+            "state": "California",
+            "state_abbr": "CA",
+            "address": "196 N 3rd Street, San Jose, CA 95112",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 37.3402685,
+            "point_y": -121.8897911,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1447-01.bldg_.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/california/san-jose/location-1447/",
+            "phone": "4085391021"
+        },
+        {
+            "id": 1669,
+            "location_name": "3477 McKee Road, San Jose, CA 95127",
+            "city": "San Jose",
+            "state": "California",
+            "state_abbr": "CA",
+            "address": "3477 McKee Road, San Jose, CA 95127",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 37.3817072,
+            "point_y": -121.8280642,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/california/san-jose/location-1669/",
+            "phone": "4086508532"
+        },
+        {
+            "id": 579,
+            "location_name": "32158 Camino Capistrano, San Juan Capistrano, CA 92675",
+            "city": "San Juan Capistrano",
+            "state": "California",
+            "state_abbr": "CA",
+            "address": "32158 Camino Capistrano, San Juan Capistrano, CA 92675",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 33.495771,
+            "point_y": -117.662227,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/california/san-juan-capistrano/location-579/",
+            "phone": "9494710914"
+        },
+        {
+            "id": 1400,
+            "location_name": "711 Center Drive, San Marcos, CA 92069",
+            "city": "San Marcos",
+            "state": "California",
+            "state_abbr": "CA",
+            "address": "711 Center Drive, San Marcos, CA 92069",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 33.1336642,
+            "point_y": -117.1238556,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/california/san-marcos/location-1400/",
+            "phone": "7604068918"
+        },
+        {
+            "id": 821,
+            "location_name": "3905 State Street, Santa Barbara, CA 93105",
+            "city": "Santa Barbara",
+            "state": "California",
+            "state_abbr": "CA",
+            "address": "3905 State Street, Santa Barbara, CA 93105",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 34.440418,
+            "point_y": -119.751485,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/california/santa-barbara/location-821/",
+            "phone": "8056243160"
+        },
+        {
+            "id": 829,
+            "location_name": "18723 Via Princessa, Santa Clarita, CA 91387",
+            "city": "Santa Clarita",
+            "state": "California",
+            "state_abbr": "CA",
+            "address": "18723 Via Princessa, Santa Clarita, CA 91387",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 34.404603,
+            "point_y": -118.463582,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/california/santa-clarita/location-829/",
+            "phone": "6612449715"
+        },
+        {
+            "id": 1629,
+            "location_name": "427 Mendocino Avenue, Santa Rosa, CA 95401",
+            "city": "Santa Rosa",
+            "state": "California",
+            "state_abbr": "CA",
+            "address": "427 Mendocino Avenue, Santa Rosa, CA 95401",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 38.4417158,
+            "point_y": -122.7155957,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1629-01.bldg_.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/california/santa-rosa/location-1629/",
+            "phone": "0"
+        },
+        {
+            "id": 543,
+            "location_name": "1077 E. Pacific Coast Hwy, Seal Beach, CA 90740",
+            "city": "Seal Beach",
+            "state": "California",
+            "state_abbr": "CA",
+            "address": "1077 E. Pacific Coast Hwy, Seal Beach, CA 90740",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 33.743765,
+            "point_y": -118.100793,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/california/seal-beach/location-543/",
+            "phone": "5626836147"
+        },
+        {
+            "id": 598,
+            "location_name": "4212 East Los Angeles Avenue, Simi Valley, CA 93063",
+            "city": "Simi Valley",
+            "state": "California",
+            "state_abbr": "CA",
+            "address": "4212 East Los Angeles Avenue, Simi Valley, CA 93063",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 34.271517,
+            "point_y": -118.712872,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/california/simi-valley/location-598/",
+            "phone": "8056243161"
+        },
+        {
+            "id": 1216,
+            "location_name": "4719 Quail Lakes Drive, Stockton, CA 95207",
+            "city": "Stockton",
+            "state": "California",
+            "state_abbr": "CA",
+            "address": "4719 Quail Lakes Drive, Stockton, CA 95207",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 37.9864964,
+            "point_y": -121.3417825,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/california/stockton/location-1216/",
+            "phone": "2095545532"
+        },
+        {
+            "id": 434,
+            "location_name": "773 E El Camino Real, Sunnyvale, CA 94087",
+            "city": "Sunnyvale",
+            "state": "California",
+            "state_abbr": "CA",
+            "address": "773 E El Camino Real, Sunnyvale, CA 94087",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 37.357208,
+            "point_y": -122.019127,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/california/sunnyvale/location-434/",
+            "phone": "4083516628"
+        },
+        {
+            "id": 1515,
+            "location_name": "1336 N Moorpark Road, Thousand Oaks, CA 91360",
+            "city": "Thousand Oaks",
+            "state": "California",
+            "state_abbr": "CA",
+            "address": "1336 N Moorpark Road, Thousand Oaks, CA 91360",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 34.1964826,
+            "point_y": -118.8688174,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/california/thousand-oaks/location-1515/",
+            "phone": "0"
+        },
+        {
+            "id": 588,
+            "location_name": "4733 Torrance Blvd., Torrance, CA 90503",
+            "city": "Torrance",
+            "state": "California",
+            "state_abbr": "CA",
+            "address": "4733 Torrance Blvd., Torrance, CA 90503",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 33.837704,
+            "point_y": -118.364273,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/california/torrance/location-588/",
+            "phone": "3105641317"
+        },
+        {
+            "id": 1566,
+            "location_name": "425 Virginia Street, Vallejo, CA 94590",
+            "city": "Vallejo",
+            "state": "California",
+            "state_abbr": "CA",
+            "address": "425 Virginia Street, Vallejo, CA 94590",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 38.1018749,
+            "point_y": -122.2558618,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1566-01.bldg_.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/california/vallejo/location-1566/",
+            "phone": "7073243419"
+        },
+        {
+            "id": 590,
+            "location_name": "13782 Bear Valley Road, Victorville, CA 92392",
+            "city": "Victorville",
+            "state": "California",
+            "state_abbr": "CA",
+            "address": "13782 Bear Valley Road, Victorville, CA 92392",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 34.4716745,
+            "point_y": -117.3625198,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/california/victorville/location-590/",
+            "phone": "7604068916"
+        },
+        {
+            "id": 1096,
+            "location_name": "385 S. Lemon Avenue, Walnut, CA 91789",
+            "city": "Walnut",
+            "state": "California",
+            "state_abbr": "CA",
+            "address": "385 S. Lemon Avenue, Walnut, CA 91789",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 34.0102871,
+            "point_y": -117.8600144,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/california/walnut/location-1096/",
+            "phone": "9092590295"
+        },
+        {
+            "id": 357,
+            "location_name": "36068 Hidden Springs Rd., Wildomar, CA 92595",
+            "city": "Wildomar",
+            "state": "California",
+            "state_abbr": "CA",
+            "address": "36068 Hidden Springs Rd., Wildomar, CA 92595",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 33.596675,
+            "point_y": -117.248153,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/california/wildomar/location-357/",
+            "phone": "9513461619"
+        },
+        {
+            "id": 1707,
+            "location_name": "21900 Burbank Blvd, Woodland Hills, CA 91367",
+            "city": "Woodland Hills",
+            "state": "California",
+            "state_abbr": "CA",
+            "address": "21900 Burbank Blvd, Woodland Hills, CA 91367",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 34.1713571,
+            "point_y": -118.6045568,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1707-01.bldg_.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/california/woodland-hills/location-1707/",
+            "phone": "8185189174"
+        },
+        {
+            "id": 644,
+            "location_name": "21781 Ventura Blvd, Woodland Hills, CA 91364",
+            "city": "Woodland Hills",
+            "state": "California",
+            "state_abbr": "CA",
+            "address": "21781 Ventura Blvd, Woodland Hills, CA 91364",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 34.1692415,
+            "point_y": -118.6021978,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/california/woodland-hills/location-644/",
+            "phone": "8185729416"
+        },
+        {
+            "id": 841,
+            "location_name": "1000 Lincoln Road, Yuba City, CA 95991",
+            "city": "Yuba City",
+            "state": "California",
+            "state_abbr": "CA",
+            "address": "1000 Lincoln Road, Yuba City, CA 95991",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 39.112674,
+            "point_y": -121.627537,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/california/yuba-city/location-841/",
+            "phone": "5302370508"
+        }
+    ],
+    "meta": {
+        "cities_virtual_count": 68,
+        "cities_business_count": 5,
+        "cities_popular_count": 11,
+        "locations_virtual_office_count": 78
+    },
+    "seo": {
+        "title": "Virtual Office in California | Locations Statewide | Opus VO",
+        "meta_description": "Get a prestigious California business address and professional phone answering services with Opus Virtual Offices, the perfect office solution for your business needs.",
+        "canonical": "https://www.opusvirtualoffices.com/virtual-office/california/",
+        "og": {
+            "title": "Virtual Office in California | Locations Statewide | Opus VO",
+            "description": "Get a prestigious California business address and professional phone answering services with Opus Virtual Offices, the perfect office solution for your business needs.",
+            "url": "https://www.opusvirtualoffices.com/virtual-office/california/",
+            "type": "website",
+            "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+        }
+    }
+}

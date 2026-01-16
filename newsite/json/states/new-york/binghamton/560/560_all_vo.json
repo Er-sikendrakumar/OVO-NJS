@@ -1,0 +1,89 @@
+{
+    "success": true,
+    "location_id": 560,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Binghamton",
+            "state": "NY",
+            "price": null,
+            "address": {
+                "line1": "1250 Front Street",
+                "suite": null,
+                "city": "Binghamton",
+                "state": "NY",
+                "zip": "13901",
+                "phone": "(607) 240-5682"
+            },
+            "images": {
+                "hero": [
+                    "/assets/mail-center.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=560",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 0,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Binghamton Virtual Office",
+            "body": "Intrigued by a prestigious Binghamton address but not up for the demands of a traditional office? Look no further than Opus VO. Locate your business in the heart of Binghamton’s lively commercial sector, while keeping your financials flexible. For those essential face-to-face meetings or team get-togethers, our high-tech conference rooms are readily available.  By going with our virtual workspace in Binghamton, you’re obtaining more than just a reputable address. You also get a proficient live receptionist who will harmonize perfectly with your team. They’ll ensure that every client engagement complements your unique brand, leaving us to handle the routine administrative tasks while you focus on your primary business endeavors. ",
+            "map": {
+                "lat": 42.1565473,
+                "lng": -75.8961584,
+                "zoom": 14,
+                "city": "Binghamton"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Binghamton, New York even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Binghamton. You can also adapt to better meet your clients’ unique needs within New York. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Binghamton virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Binghamton?",
+                "body": "Binghamton is not just a tight-knit community; it’s a burgeoning business environment offering prospects in diverse sectors such as manufacturing, education, and healthcare. A Binghamton address not only amplifies your business credibility but also provides you access to indispensable networking events and contacts within your field.  Opting for Opus VO as your virtual workspace in Binghamton isn’t just smart planning; it’s a strategic edge. Are you geared up to lift your business game? Examine our array of tailored virtual workspace offerings today.  Opus VO, Binghamton @ 1250 Front Street, Binghamton, NY 13901 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Binghamton - 1250 Front Street | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our New York, Binghamton virtual office located at 1250 Front Street. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/new-york/binghamton/location-560/",
+            "og": {
+                "title": "Virtual Office in Binghamton - 1250 Front Street | $99/Month",
+                "description": "Get the ultimate office solution for your business with our New York, Binghamton virtual office located at 1250 Front Street. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/new-york/binghamton/location-560/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+            }
+        }
+    }
+}

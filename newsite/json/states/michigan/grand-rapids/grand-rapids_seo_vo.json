@@ -1,0 +1,23 @@
+{
+    "success": true,
+    "page": "virtual-office/michigan/grand-rapids",
+    "page_type": "location_city",
+    "view": "city",
+    "seo": {
+        "title": "Virtual Office in Grand Rapids, MI | Multiple Locations Available",
+        "meta_description": "Find the ultimate office solution with Opus Virtual Offices in Grand Rapids, Michigan. Our all-inclusive virtual offices cater to your business needs. Sign up today!",
+        "canonical": "https://www.opusvirtualoffices.com/virtual-office/michigan/grand-rapids/",
+        "og": {
+            "title": "Virtual Office in Grand Rapids, MI | Multiple Locations Available",
+            "description": "Find the ultimate office solution with Opus Virtual Offices in Grand Rapids, Michigan. Our all-inclusive virtual offices cater to your business needs. Sign up today!",
+            "url": "https://www.opusvirtualoffices.com/virtual-office/michigan/grand-rapids/",
+            "type": "website",
+            "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+        }
+    },
+    "data": {
+        "state": "Michigan",
+        "city": "Grand Rapids",
+        "mode": "virtual-office"
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "success": true,
+    "count": 2,
+    "state": "wyoming",
+    "mode": "virtual-office",
+    "data": [
+        {
+            "id": 1501,
+            "location_name": "144 E Midwest Avenue, Casper, WY 82601",
+            "city": "Casper",
+            "state": "Wyoming",
+            "state_abbr": "WY",
+            "address": "144 E Midwest Avenue, Casper, WY 82601",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 42.8478475,
+            "point_y": -106.3241651,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/wyoming/casper/location-1501/",
+            "phone": "3072753257"
+        },
+        {
+            "id": 907,
+            "location_name": "1712 Pioneer Avenue, Cheyenne, WY 82001",
+            "city": "Cheyenne",
+            "state": "Wyoming",
+            "state_abbr": "WY",
+            "address": "1712 Pioneer Avenue, Cheyenne, WY 82001",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 41.1331947,
+            "point_y": -104.8187634,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/907-04-Building.png",
+                "alttext": null
+            },
+            "url": "/virtual-office/wyoming/cheyenne/location-907/",
+            "phone": "3072749304"
+        }
+    ]
+}

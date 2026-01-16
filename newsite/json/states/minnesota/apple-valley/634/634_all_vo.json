@@ -1,0 +1,89 @@
+{
+    "success": true,
+    "location_id": 634,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Apple Valley",
+            "state": "MN",
+            "price": null,
+            "address": {
+                "line1": "14870 Granada Ave",
+                "suite": null,
+                "city": "Apple Valley",
+                "state": "MN",
+                "zip": "55124",
+                "phone": "(952) 594-3406"
+            },
+            "images": {
+                "hero": [
+                    "/assets/mail-center.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=634",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 0,
+            "nearbyPremium": 1,
+            "nearbyPremiumUrl": "/virtual-office/minnesota/bloomington/location-1392/",
+            "nearbyPremiumText": "to view the nearby PREMIUM Locations for the same $99/mo",
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Apple Valley Virtual Office",
+            "body": "Gain a prestigious business address in Apple Valley without the need for physical premises. With Opus VO, you can set your business in the heart of Apple Valley, all while maintaining financial flexibility. Have an impactful meeting or a crucial client engagement? Our high-quality conference rooms stand prepared to dazzle.  Choose to go virtual in Apple Valley with Opus VO, and you’ll receive the services of a dedicated live receptionist. We take care to ensure that your brand’s unique ethos is conveyed in each client interaction. Offload your routine administrative tasks to us, enabling you to focus on your business objectives. ",
+            "map": {
+                "lat": 44.732858,
+                "lng": -93.221177,
+                "zoom": 14,
+                "city": "Apple Valley"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Apple Valley, Minnesota even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Apple Valley. You can also adapt to better meet your clients’ unique needs within Minnesota. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Apple Valley virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Apple Valley?",
+                "body": "Apple Valley is more than its idyllic scenery; it’s a thriving hub for businesses in sectors ranging from healthcare to technology. Operating in Apple Valley gives you access to a varied and expansive network of potential partners, clients, and events that can elevate your business.  Opting for Opus VO in Apple Valley doesn’t just make financial sense—it’s a strategic lever for your business. Are you prepared to take your business to the next level? Our exceptional virtual office services are ready to serve you.  Opus VO, Apple Valley @ 14870 Granada Ave, Apple Valley, MN 55124  ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Apple Valley - 14870 Granada Ave | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Minnesota, Apple Valley virtual office located at 14870 Granada Ave. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/minnesota/apple-valley/location-634/",
+            "og": {
+                "title": "Virtual Office in Apple Valley - 14870 Granada Ave | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Minnesota, Apple Valley virtual office located at 14870 Granada Ave. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/minnesota/apple-valley/location-634/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+            }
+        }
+    }
+}

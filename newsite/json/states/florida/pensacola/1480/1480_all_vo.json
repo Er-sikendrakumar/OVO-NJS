@@ -1,0 +1,93 @@
+{
+    "success": true,
+    "location_id": 1480,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Pensacola",
+            "state": "FL",
+            "price": null,
+            "address": {
+                "line1": "186 N Palafox Street",
+                "suite": null,
+                "city": "Pensacola",
+                "state": "FL",
+                "zip": "32502",
+                "phone": "(850) 666-5074"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/1480-02.lobby_.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1480-03.meeting.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1480-04.meeting.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1480-05.shared.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1480-01.bldg_.jpg"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1480",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Pensacola Virtual Office",
+            "body": "Secure a premium business address in Pensacola without the financial burden of a traditional office. With Opus VO, you can anchor your business in Pensacola’s dynamic landscape while keeping your budget in check. Facing an important meeting or client pitch? Our top-tier conference rooms are designed to make a lasting impression.  When you embrace the virtual route in Pensacola via Opus VO, a committed live receptionist whose sole focus is to make each client exchange an effortless extension of your brand’s unique flair, comes with the package. Offload your day-to-day admin tasks to us, freeing you up to pursue your business dreams. ",
+            "map": {
+                "lat": 30.415132,
+                "lng": -87.2155049,
+                "zoom": 14,
+                "city": "Pensacola"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Pensacola, Florida even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Pensacola. You can also adapt to better meet your clients’ unique needs within Florida. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Pensacola virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Pensacola?",
+                "body": "Don’t sleep on Pensacola; it’s more than just a beachy getaway. This city is an expanding hub for diverse sectors, from tourism to technology. Establishing your business address in Pensacola means you’re plugged into a community full of key industry players and enriching networking events.  Opting for Opus VO in Pensacola isn’t just about cost savings—it’s about gaining a competitive edge. Are you set to level up? Our unparalleled virtual office services are ready and waiting for you.  Choose from two of our Opus VO locations in Pensacola @ 186 N Palafox Street, Pensacola, FL 32502, or 6901-A North 9th Avenue, Pensacola, FL 32504 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Pensacola - 186 N Palafox Street | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Florida, Pensacola virtual office located at 186 N Palafox Street. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/florida/pensacola/location-1480/",
+            "og": {
+                "title": "Virtual Office in Pensacola - 186 N Palafox Street | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Florida, Pensacola virtual office located at 186 N Palafox Street. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/florida/pensacola/location-1480/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/1480-02.lobby_.jpg"
+            }
+        }
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "success": true,
+    "count": 2,
+    "state": "north dakota",
+    "data": [
+        {
+            "id": "557",
+            "name": "Fargo"
+        },
+        {
+            "id": "803",
+            "name": "Grand Forks"
+        }
+    ]
+}

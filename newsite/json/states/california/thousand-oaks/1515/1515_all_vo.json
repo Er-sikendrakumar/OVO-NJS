@@ -1,0 +1,89 @@
+{
+    "success": true,
+    "location_id": 1515,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Thousand Oaks",
+            "state": "CA",
+            "price": null,
+            "address": {
+                "line1": "1336 N Moorpark Road",
+                "suite": null,
+                "city": "Thousand Oaks",
+                "state": "CA",
+                "zip": "91360",
+                "phone": "(888) 898-9868"
+            },
+            "images": {
+                "hero": [
+                    "/assets/mail-center.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1515",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 0,
+            "nearbyPremium": 1,
+            "nearbyPremiumUrl": "/virtual-office/california/woodland-hills/location-1707/",
+            "nearbyPremiumText": "to view the nearby PREMIUM Locations for the same $99/mo",
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Thousand Oaks Virtual Office",
+            "body": "Snag a high-end business address in Thousand Oaks without draining your startup funds on a physical office. With Opus VO, you get to park your brand in a prime Thousand Oaks location, no heavy lease involved. Plus, when you need to host those game-changing meetings, our top-of-the-line conference rooms have you covered. Upgrade your brand’s vibe with a distinguished Thousand Oaks address.  When you lock in a virtual office in Thousand Oaks via Opus VO, it’s like nabbing a backstage pass. You get a live receptionist who’s on a mission to offer custom, top-tier customer service. We line up each client convo to mesh perfectly with your business vision. Let us handle the nitty-gritty admin details like sifting through business mail and handling business calls, so you can zero in on big-picture growth. ",
+            "map": {
+                "lat": 34.1964826,
+                "lng": -118.8688174,
+                "zoom": 14,
+                "city": "Thousand Oaks"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Thousand Oaks, California even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Thousand Oaks. You can also adapt to better meet your clients’ unique needs within California. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Thousand Oaks virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Choose Thousand Oaks?",
+                "body": "Thousand Oaks isn’t just an upscale community; it’s a business scene ripe for expansion in sectors like biotech, finance, and entertainment. Our Thousand Oaks site is conveniently close to business highways, putting you in quick reach of industry leaders and networking opportunities.  Going with an Opus Virtual Office in Thousand Oaks isn’t just a budget-smart move; it’s a strategic power play. Ready to turbocharge your business game? Dive into our high-quality virtual office services now.  Opus VO Thousand Oaks @ 1336 N Moorpark Road, Thousand Oaks, CA 91360 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Thousand Oaks - 1336 N Moorpark Road | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our California, Thousand Oaks virtual office located at 1336 N Moorpark Road. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/california/thousand-oaks/location-1515/",
+            "og": {
+                "title": "Virtual Office in Thousand Oaks - 1336 N Moorpark Road | $99/Month",
+                "description": "Get the ultimate office solution for your business with our California, Thousand Oaks virtual office located at 1336 N Moorpark Road. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/california/thousand-oaks/location-1515/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+            }
+        }
+    }
+}

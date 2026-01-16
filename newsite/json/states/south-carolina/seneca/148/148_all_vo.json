@@ -1,0 +1,89 @@
+{
+    "success": true,
+    "location_id": 148,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Seneca",
+            "state": "SC",
+            "price": null,
+            "address": {
+                "line1": "1085 Old Clemson Hwy",
+                "suite": null,
+                "city": "Seneca",
+                "state": "SC",
+                "zip": "29672",
+                "phone": "(864) 520-5379"
+            },
+            "images": {
+                "hero": [
+                    "/assets/mail-center.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=148",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 0,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Seneca Virtual Office",
+            "body": "Discover the advantages of securing a prestigious business address in Seneca, South Carolina, without the need for a physical office space. At Opus VO, we provide you with the opportunity to position your business in the heart of Seneca’s dynamic business community while optimizing operational efficiency. Our state-of-the-art conference rooms are readily available for important meetings and collaborative endeavors.  When you choose Opus VO’s virtual office in Seneca, you also gain access to a professional live receptionist who seamlessly integrates with your team. We ensure that every client interaction aligns with your unique brand identity. Delegate routine administrative tasks to us, allowing you to concentrate on your core business objectives. ",
+            "map": {
+                "lat": 34.696088,
+                "lng": -82.878667,
+                "zoom": 14,
+                "city": "Seneca"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Seneca, South Carolina even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Seneca. You can also adapt to better meet your clients’ unique needs within South Carolina. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Seneca virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Seneca? Why Opus VO?",
+                "body": "Seneca is more than just a charming city; it’s a thriving business hub with opportunities spanning various sectors, including manufacturing, technology, and healthcare. Having a Seneca address not only enhances your business reputation but also grants access to valuable networking events and industry connections.  Opting for Opus VO for your virtual office in Seneca is more than a practical choice; it’s a strategic advantage. Are you ready to elevate your business? Explore our exceptional virtual office solutions today.  Opus VO, Seneca @ 1085 Old Clemson Hwy, Seneca, SC 29672 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Seneca - 1085 Old Clemson Hwy | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our South Carolina, Seneca virtual office located at 1085 Old Clemson Hwy. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/south-carolina/seneca/location-148/",
+            "og": {
+                "title": "Virtual Office in Seneca - 1085 Old Clemson Hwy | $99/Month",
+                "description": "Get the ultimate office solution for your business with our South Carolina, Seneca virtual office located at 1085 Old Clemson Hwy. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/south-carolina/seneca/location-148/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+            }
+        }
+    }
+}

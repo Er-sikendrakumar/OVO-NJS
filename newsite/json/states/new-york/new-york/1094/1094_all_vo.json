@@ -1,0 +1,95 @@
+{
+    "success": true,
+    "location_id": 1094,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "New York",
+            "state": "NY",
+            "price": null,
+            "address": {
+                "line1": "276 5th Avenue",
+                "suite": null,
+                "city": "New York",
+                "state": "NY",
+                "zip": "10001",
+                "phone": "(212) 634-4388"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/2Entry.jpg",
+                    "/wp-content-mgr/wp-content/uploads/276-5th-Avenue-Suite-704-1.jpg",
+                    "/wp-content-mgr/wp-content/uploads/4Meeting-Room.png",
+                    "/wp-content-mgr/wp-content/uploads/5Meeting-Room-2.png",
+                    "/wp-content-mgr/wp-content/uploads/6Building-2-437x550.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1094-01-Building.jpg",
+                    "/wp-content-mgr/wp-content/uploads/3lobby-367x550.jpg"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1094",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 1,
+            "nearbyPremiumUrl": "/virtual-office/new-york/new-york/location-1450/",
+            "nearbyPremiumText": "to view the most POPULAR locations nearby for the same $99/mo",
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "New York City Virtual Office",
+            "body": "Elevate your business presence with a prestigious address in the heart of New York City, all while sidestepping the high costs and complexities of a traditional office setup. With Opus VO, you can secure a top-tier NYC business location that includes mail handling services, a professional environment to greet your clients, and access to high-tech meeting rooms. Set your business apart by situating it in one of Manhattan’s elite business districts.  When you select a virtual office in New York City via Opus VO, you benefit from a live receptionist who adds a personalized touch to every client interaction. Your package includes an array of first-rate administrative services, such as advanced mail sorting, efficient call forwarding, and more. Free up your time to concentrate on growing your business, while our skilled administrative team takes care of your daily operational needs. ",
+            "map": {
+                "lat": 40.7459698,
+                "lng": -73.9869095,
+                "zoom": 14,
+                "city": "New York"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in New York, New York even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of New York. You can also adapt to better meet your clients’ unique needs within New York. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our New York virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Choose a New York City Virtual Office?",
+                "body": "New York City is a global epicenter for business, hosting industries from finance to fashion to technology. A virtual office here instantly aligns your brand with a world-renowned commercial hub. Our New York City location is strategically placed near major landmarks and business events, offering easy access to networking opportunities and industry trade shows.  Opt for an Opus Virtual Office in New York City and give your business the competitive advantage it needs without the financial burden of a physical space. Experience the future of business with our innovative, budget-friendly office solution. ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in New York - 276 5th Avenue | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our New York, New York virtual office located at 276 5th Avenue. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/new-york/new-york/location-1094/",
+            "og": {
+                "title": "Virtual Office in New York - 276 5th Avenue | $99/Month",
+                "description": "Get the ultimate office solution for your business with our New York, New York virtual office located at 276 5th Avenue. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/new-york/new-york/location-1094/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/2Entry.jpg"
+            }
+        }
+    }
+}

@@ -1,0 +1,157 @@
+{
+    "success": true,
+    "state": "pennsylvania",
+    "cities_virtual": [
+        {
+            "id": "139",
+            "name": "Allentown",
+            "popular": "1"
+        },
+        {
+            "id": "708",
+            "name": "Bala Cynwyd",
+            "popular": "1"
+        },
+        {
+            "id": "280",
+            "name": "Bensalem",
+            "popular": "0"
+        },
+        {
+            "id": "828",
+            "name": "Bethlehem",
+            "popular": "0"
+        },
+        {
+            "id": "497",
+            "name": "Harrisburg",
+            "popular": "1"
+        },
+        {
+            "id": "878",
+            "name": "Homestead",
+            "popular": "0"
+        },
+        {
+            "id": "810",
+            "name": "King of Prussia",
+            "popular": "0"
+        },
+        {
+            "id": "321",
+            "name": "Lancaster",
+            "popular": "1"
+        },
+        {
+            "id": "164",
+            "name": "Lewistown",
+            "popular": "0"
+        },
+        {
+            "id": "710",
+            "name": "Malvern",
+            "popular": "0"
+        },
+        {
+            "id": "106",
+            "name": "Philadelphia",
+            "popular": "1"
+        },
+        {
+            "id": "103",
+            "name": "Pittsburgh",
+            "popular": "1"
+        },
+        {
+            "id": "706",
+            "name": "Plymouth Meeting",
+            "popular": "1"
+        },
+        {
+            "id": "709",
+            "name": "Radnor",
+            "popular": "0"
+        },
+        {
+            "id": "320",
+            "name": "York",
+            "popular": "0"
+        }
+    ],
+    "cities_business": [
+        {
+            "id": "106",
+            "name": "Philadelphia",
+            "popular": "1"
+        }
+    ],
+    "cities_popular": [
+        {
+            "id": "139",
+            "name": "Allentown"
+        },
+        {
+            "id": "708",
+            "name": "Bala Cynwyd"
+        },
+        {
+            "id": "497",
+            "name": "Harrisburg"
+        },
+        {
+            "id": "321",
+            "name": "Lancaster"
+        },
+        {
+            "id": "106",
+            "name": "Philadelphia"
+        },
+        {
+            "id": "103",
+            "name": "Pittsburgh"
+        },
+        {
+            "id": "706",
+            "name": "Plymouth Meeting"
+        }
+    ],
+    "locations_business_address": [
+        {
+            "id": 1010,
+            "location_name": "1700 Market Street, Philadelphia, PA 19103",
+            "city": "Philadelphia",
+            "state": "Pennsylvania",
+            "state_abbr": "PA",
+            "address": "1700 Market Street, Philadelphia, PA 19103",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 39.9526481,
+            "point_y": -75.1690533,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1010-001-Building.jpg",
+                "alttext": null
+            },
+            "url": "/business-address/pennsylvania/philadelphia/location-1010/",
+            "phone": "2156183565"
+        }
+    ],
+    "meta": {
+        "cities_virtual_count": 15,
+        "cities_business_count": 1,
+        "cities_popular_count": 7,
+        "locations_business_address_count": 1
+    },
+    "seo": {
+        "title": "Virtual Business Address in Pennsylvania | Opus Virtual Offices",
+        "meta_description": "Get a prestigious business address in Pennsylvania with Opus. Multiple premium locations statewide mail handling privacy protection all for just $59/month.",
+        "canonical": "https://www.opusvirtualoffices.com/business-address/pennsylvania/",
+        "og": {
+            "title": "Virtual Business Address in Pennsylvania | Opus Virtual Offices",
+            "description": "Get a prestigious business address in Pennsylvania with Opus. Multiple premium locations statewide mail handling privacy protection all for just $59/month.",
+            "url": "https://www.opusvirtualoffices.com/business-address/pennsylvania/",
+            "type": "website",
+            "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+        }
+    }
+}

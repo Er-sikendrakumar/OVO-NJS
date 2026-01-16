@@ -1,0 +1,127 @@
+{
+    "success": true,
+    "count": 24,
+    "state": "georgia",
+    "data": [
+        {
+            "id": "78",
+            "name": "Atlanta",
+            "popular": "1"
+        },
+        {
+            "id": "908",
+            "name": "Augusta",
+            "popular": "0"
+        },
+        {
+            "id": "85",
+            "name": "Buford",
+            "popular": "0"
+        },
+        {
+            "id": "81",
+            "name": "Calhoun",
+            "popular": "0"
+        },
+        {
+            "id": "895",
+            "name": "College Park",
+            "popular": "0"
+        },
+        {
+            "id": "667",
+            "name": "Columbus",
+            "popular": "1"
+        },
+        {
+            "id": "553",
+            "name": "Cumming",
+            "popular": "0"
+        },
+        {
+            "id": "95",
+            "name": "Dacula",
+            "popular": "1"
+        },
+        {
+            "id": "222",
+            "name": "Douglas",
+            "popular": "0"
+        },
+        {
+            "id": "545",
+            "name": "Duluth",
+            "popular": "0"
+        },
+        {
+            "id": "96",
+            "name": "Dunwoody",
+            "popular": "0"
+        },
+        {
+            "id": "172",
+            "name": "Griffin",
+            "popular": "0"
+        },
+        {
+            "id": "367",
+            "name": "Hiram",
+            "popular": "0"
+        },
+        {
+            "id": "916",
+            "name": "Jonesboro",
+            "popular": "0"
+        },
+        {
+            "id": "28",
+            "name": "Kennesaw",
+            "popular": "1"
+        },
+        {
+            "id": "32",
+            "name": "Newnan",
+            "popular": "0"
+        },
+        {
+            "id": "33",
+            "name": "Peachtree City",
+            "popular": "0"
+        },
+        {
+            "id": "614",
+            "name": "Roswell",
+            "popular": "1"
+        },
+        {
+            "id": "296",
+            "name": "Saint Marys",
+            "popular": "0"
+        },
+        {
+            "id": "37",
+            "name": "Savannah",
+            "popular": "1"
+        },
+        {
+            "id": "38",
+            "name": "Snellville",
+            "popular": "0"
+        },
+        {
+            "id": "672",
+            "name": "St. Simons Island",
+            "popular": "0"
+        },
+        {
+            "id": "675",
+            "name": "Stone Mountain",
+            "popular": "1"
+        },
+        {
+            "id": "39",
+            "name": "Suwanee",
+            "popular": "0"
+        }
+    ]
+}

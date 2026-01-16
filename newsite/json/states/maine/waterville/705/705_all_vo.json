@@ -1,0 +1,89 @@
+{
+    "success": true,
+    "location_id": 705,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Waterville",
+            "state": "ME",
+            "price": null,
+            "address": {
+                "line1": "325 Main Street",
+                "suite": null,
+                "city": "Waterville",
+                "state": "ME",
+                "zip": "04901",
+                "phone": "(207) 509-3074"
+            },
+            "images": {
+                "hero": [
+                    "/assets/mail-center.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=705",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 0,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Waterville Virtual Office",
+            "body": "Secure a high-profile Waterville business address, minus the expenses of a traditional office space. With Opus VO, you’ll be at the forefront of Waterville’s up-and-coming business culture. Our state-of-the-art conference rooms are designed to turn every meeting and pitch into an impactful experience.  Sign up for a virtual office in Waterville via Opus VO, and gain a dedicated receptionist who embodies your brand’s ethos. While we handle your routine tasks, you can focus on scaling your business and achieving new milestones. ",
+            "map": {
+                "lat": 44.5669475,
+                "lng": -69.63702639,
+                "zoom": 14,
+                "city": "Waterville"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Waterville, Maine even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Waterville. You can also adapt to better meet your clients’ unique needs within Maine. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Waterville virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Waterville?",
+                "body": "Waterville is not just a charming town; it’s an emerging hub for new businesses and innovative minds. By establishing your business here, you open doors to networking and opportunities that only Waterville can offer.  Choosing Opus VO in Waterville is not merely a cost-effective decision; it’s a strategic move that will place you ahead of the curve. Ready to redefine success? Our unparalleled virtual office services are just a click away.  Opus VO, Waterville @ 325 Main Street, Waterville, ME 04901 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Waterville - 325 Main Street | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Maine, Waterville virtual office located at 325 Main Street. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/maine/waterville/location-705/",
+            "og": {
+                "title": "Virtual Office in Waterville - 325 Main Street | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Maine, Waterville virtual office located at 325 Main Street. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/maine/waterville/location-705/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+            }
+        }
+    }
+}

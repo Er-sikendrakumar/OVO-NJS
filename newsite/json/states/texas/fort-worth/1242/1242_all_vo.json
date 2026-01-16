@@ -1,0 +1,95 @@
+{
+    "success": true,
+    "location_id": 1242,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Fort Worth",
+            "state": "TX",
+            "price": null,
+            "address": {
+                "line1": "1617 Park Place Avenue",
+                "suite": null,
+                "city": "Fort Worth",
+                "state": "TX",
+                "zip": "76110",
+                "phone": "(817) 204-0175"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/1242-001-Building-e1709911905497.png",
+                    "/wp-content-mgr/wp-content/uploads/1242-1.Building-800x382.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1242-2.Reception-800x491.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1242-3.BoardRoom-800x503.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1242-4.MeetingRoom3-711x550.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1242-4.Reception2-722x550.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1242-5.MeetingRoom4-800x500.jpg"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1242",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Fort Worth Virtual Office",
+            "body": "Experience the benefits of a high-profile business address in Fort Worth, without the hassles and financial strain of a conventional office setup. Opus VO presents you with the opportunity to establish your business in a premium Fort Worth location, all for a fraction of the cost of renting physical office space. Handle your business communications, meet with clients, and conduct gatherings in our modern, fully-equipped conference rooms. Enhance your company’s reputation with a prestigious business address in one of Fort Worth’s leading business districts.  Opting for a virtual office in Fort Worth through Opus VO provides you with the exclusive advantage of a live receptionist, delivering top-notch, customized client service. Every client interaction is expertly designed to meet your unique business needs and is backed by our extensive suite of administrative services. This includes digital mail sorting, advanced call forwarding capabilities, and much more. Our proficient administrative team will take care of your day-to-day activities, freeing you to concentrate on strategic growth and business expansion. ",
+            "map": {
+                "lat": 32.7255038,
+                "lng": -97.3448514,
+                "zoom": 14,
+                "city": "Fort Worth"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Fort Worth, Texas even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Fort Worth. You can also adapt to better meet your clients’ unique needs within Texas. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Fort Worth virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Choose a Fort Worth Virtual Office?",
+                "body": "Fort Worth is more than simply a cultural gateway; it’s also a dynamic economic hub with a diverse range of industries such as aerospace, healthcare, and technology. Situate your business in this thriving market to capitalize on local opportunities that can make a meaningful impact on your revenue. Ideally located near key commercial hubs and social venues, our Fort Worth location offers you convenient access to valuable networking events and industry conferences.  By selecting an Opus Virtual Office in Fort Worth, you not only minimize costs associated with traditional office spaces but also gain a competitive edge in the marketplace. Propel your business to new heights by leveraging our cutting-edge virtual office solutions today.  Opus VO, Fort Worth @ 161617 Park Place Avenue Fort Worth, TX 76110 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Fort Worth - 1617 Park Place Avenue | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Texas, Fort Worth virtual office located at 1617 Park Place Avenue. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/texas/fort-worth/location-1242/",
+            "og": {
+                "title": "Virtual Office in Fort Worth - 1617 Park Place Avenue | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Texas, Fort Worth virtual office located at 1617 Park Place Avenue. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/texas/fort-worth/location-1242/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/1242-001-Building-e1709911905497.png"
+            }
+        }
+    }
+}

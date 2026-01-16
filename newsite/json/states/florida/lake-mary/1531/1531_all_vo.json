@@ -1,0 +1,94 @@
+{
+    "success": true,
+    "location_id": 1531,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Lake Mary",
+            "state": "FL",
+            "price": null,
+            "address": {
+                "line1": "1540 International Pkwy",
+                "suite": null,
+                "city": "Lake Mary",
+                "state": "FL",
+                "zip": "32746",
+                "phone": "(407) 956-8696"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/1531-exterior.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1531-conferenc.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1531-conference2.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1531-conference3.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1561-reception.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1531-kitchen.jpg"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1531",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 1,
+            "nearbyPremiumUrl": "/virtual-office/florida/orlando/location-1499/",
+            "nearbyPremiumText": "to view the most POPULAR locations nearby for the same $99/mo",
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Lake Mary Virtual Office",
+            "body": "Secure an impressive business address in Lake Mary while avoiding the high costs of a physical workspace. With Opus VO, you get the prestige of a Lake Mary location without the financial strain. For those critical face-to-face meetings or client interactions, our state-of-the-art conference rooms are at your service.  When you choose a virtual office in Lake Mary via Opus VO, you’re not just getting an address; you’re getting a live receptionist to boot, a trained professional committed to making every client interaction a seamless extension of your brand. Shift the routine admin tasks to us, and free up your time for the big moves that count. ",
+            "map": {
+                "lat": 28.7850199,
+                "lng": -81.3589329,
+                "zoom": 14,
+                "city": "Lake Mary"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Lake Mary, Florida even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Lake Mary. You can also adapt to better meet your clients’ unique needs within Florida. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Lake Mary virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Lake Mary?",
+                "body": "Lake Mary isn’t merely a suburban paradise; it’s a growing center of commerce with numerous opportunities in finance, technology, and healthcare. Our Lake Mary facility offers you convenient access to essential industry contacts and local networking events you won’t want to miss.  By selecting Opus VO in Lake Mary, you’re not merely trimming down expenses; you’re gaining a strategic edge. If you’re ready to upgrade your business status, our top-notch virtual office services are eager to assist.  Opus VO, Lake Mary @ 1540 International Pkwy, Lake Mary, FL 32746 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Lake Mary - 1540 International Pkwy | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Florida, Lake Mary virtual office located at 1540 International Pkwy. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/florida/lake-mary/location-1531/",
+            "og": {
+                "title": "Virtual Office in Lake Mary - 1540 International Pkwy | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Florida, Lake Mary virtual office located at 1540 International Pkwy. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/florida/lake-mary/location-1531/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/1531-exterior.jpg"
+            }
+        }
+    }
+}

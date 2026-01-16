@@ -1,0 +1,93 @@
+{
+    "success": true,
+    "location_id": 1234,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Schaumburg",
+            "state": "IL",
+            "price": null,
+            "address": {
+                "line1": "1900 E Golf Road",
+                "suite": null,
+                "city": "Schaumburg",
+                "state": "IL",
+                "zip": "60173",
+                "phone": "(847) 264-4897"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/1234-001-Building.png",
+                    "/wp-content-mgr/wp-content/uploads/1234-0Building-413x550.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1234-LrgConf_halfroom-725x550.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1234-Reception.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1234-small.jpg"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1234",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 1,
+            "nearbyPremiumUrl": "/virtual-office/illinois/chicago/location-1430/",
+            "nearbyPremiumText": "to view the most POPULAR locations nearby for the same $99/mo",
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Schaumburg Virtual Office",
+            "body": "Take your business to the next level with a prestigious business address in Schaumburg without the logistical challenges and expenses of a traditional office. Opus VO offers an affordable solution to establishing a professional presence in Schaumburg. From full mail management to client meet-and-greets, you can take advantage of our fully-equipped, modern meeting rooms. Secure a prominent address in one of Schaumburg’s prime business districts to elevate your brand’s credibility.  By choosing a virtual office in Schaumburg through Opus VO, you’ll gain access to a live receptionist, enhancing your client experience with personalized interactions. Every call or client visit is tailored to your specific needs, all while backed by a suite of top-tier administrative services. This includes advanced digital mail service, seamless call forwarding options, and much more. Free yourself to focus on business expansion while our dedicated admin team handles the everyday details. ",
+            "map": {
+                "lat": 42.0516872,
+                "lng": -88.0319591,
+                "zoom": 14,
+                "city": "Schaumburg"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Schaumburg, Illinois even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Schaumburg. You can also adapt to better meet your clients’ unique needs within Illinois. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Schaumburg virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why a Schaumburg Virtual Office Makes Sense",
+                "body": "Schaumburg isn’t just a suburban haven; it’s an evolving business center that attracts a multitude of industries, from finance to healthcare. Aligning your business with Schaumburg allows you to tap into lucrative local markets, adding a potential boost to your revenue streams. Our Schaumburg location is conveniently situated near key business hubs, providing easy access to valuable networking events and trade shows.  With an Opus Virtual Office in Schaumburg, you’re not just saving money; you’re investing in a competitive edge. Achieve more for less, and give your business the room it needs to grow, all with the aid of our state-of-the-art virtual office solutions.  Opus VO, Schaumburg @ 1900 E Golf Road, Schaumburg, IL 60173  ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Schaumburg - 1900 E Golf Road | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Illinois, Schaumburg virtual office located at 1900 E Golf Road. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/illinois/schaumburg/location-1234/",
+            "og": {
+                "title": "Virtual Office in Schaumburg - 1900 E Golf Road | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Illinois, Schaumburg virtual office located at 1900 E Golf Road. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/illinois/schaumburg/location-1234/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/1234-001-Building.png"
+            }
+        }
+    }
+}

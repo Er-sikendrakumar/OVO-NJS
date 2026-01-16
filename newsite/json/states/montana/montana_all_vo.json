@@ -1,0 +1,85 @@
+{
+    "success": true,
+    "state": "montana",
+    "cities_virtual": [
+        {
+            "id": "493",
+            "name": "Billings",
+            "popular": "1"
+        },
+        {
+            "id": "581",
+            "name": "Helena",
+            "popular": "1"
+        }
+    ],
+    "cities_business": [],
+    "cities_popular": [
+        {
+            "id": "493",
+            "name": "Billings"
+        },
+        {
+            "id": "581",
+            "name": "Helena"
+        }
+    ],
+    "locations_virtual_office": [
+        {
+            "id": 1451,
+            "location_name": "821 N 27th Street, Billings, MT 59101",
+            "city": "Billings",
+            "state": "Montana",
+            "state_abbr": "MT",
+            "address": "821 N 27th Street, Billings, MT 59101",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 45.789254,
+            "point_y": -108.5103387,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/montana/billings/location-1451/",
+            "phone": "4063719928"
+        },
+        {
+            "id": 1763,
+            "location_name": "317 N Cruse Ave, Helena, MT 59601",
+            "city": "Helena",
+            "state": "Montana",
+            "state_abbr": "MT",
+            "address": "317 N Cruse Ave, Helena, MT 59601",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 46.588954,
+            "point_y": -112.0368441,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1763-Exterior.jpeg",
+                "alttext": "Exterior of building that houses Opus Virtual Offices located in Helena, Montana"
+            },
+            "url": "/virtual-office/montana/helena/location-1763/",
+            "phone": "4062063783"
+        }
+    ],
+    "meta": {
+        "cities_virtual_count": 2,
+        "cities_business_count": 0,
+        "cities_popular_count": 2,
+        "locations_virtual_office_count": 2
+    },
+    "seo": {
+        "title": "Virtual Office in Montana | Locations Statewide | Opus VO",
+        "meta_description": "Get a prestigious Montana business address and professional phone answering services with Opus Virtual Offices, the perfect office solution for your business needs.",
+        "canonical": "https://www.opusvirtualoffices.com/virtual-office/montana/",
+        "og": {
+            "title": "Virtual Office in Montana | Locations Statewide | Opus VO",
+            "description": "Get a prestigious Montana business address and professional phone answering services with Opus Virtual Offices, the perfect office solution for your business needs.",
+            "url": "https://www.opusvirtualoffices.com/virtual-office/montana/",
+            "type": "website",
+            "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+        }
+    }
+}

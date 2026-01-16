@@ -1,0 +1,19 @@
+{
+    "success": true,
+    "count": 3,
+    "state": "connecticut",
+    "data": [
+        {
+            "id": "454",
+            "name": "Danbury"
+        },
+        {
+            "id": "432",
+            "name": "Fairfield"
+        },
+        {
+            "id": "450",
+            "name": "West Hartford"
+        }
+    ]
+}

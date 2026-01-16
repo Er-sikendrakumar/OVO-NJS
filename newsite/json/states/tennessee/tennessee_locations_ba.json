@@ -1,0 +1,27 @@
+{
+    "success": true,
+    "count": 1,
+    "state": "tennessee",
+    "mode": "business-address",
+    "data": [
+        {
+            "id": 1476,
+            "location_name": "611 Commerce Street, Suite 2611, Nashville, TN 37203",
+            "city": "Nashville",
+            "state": "Tennessee",
+            "state_abbr": "TN",
+            "address": "611 Commerce Street, Suite 2611, Nashville, TN 37203",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 1,
+            "point_x": 36.160597,
+            "point_y": -86.7796539,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/Opus-Virtual-Office-Nashville-611-Commerce-Street-Downtown-Skyline-View.webp",
+                "alttext": "View of the downtown Nashville skyline from Opus Virtual Office at 611 Commerce Street, Nashville, TN."
+            },
+            "url": "/business-address/tennessee/nashville/location-1476/",
+            "phone": "6158574210"
+        }
+    ]
+}

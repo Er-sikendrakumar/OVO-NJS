@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "location_id": 1410,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Newport Beach",
+            "state": "CA",
+            "price": null,
+            "address": {
+                "line1": "260 Newport Center Drive",
+                "suite": null,
+                "city": "Newport Beach",
+                "state": "CA",
+                "zip": "92660",
+                "phone": "(949) 535-4851"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/1410-01.building-800x533.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1410-02.meeting-800x531.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1410-03.meeting-712x550.jpg"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1410",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Newport Beach Virtual Office",
+            "body": "Obtain a distinguished business address in Newport Beach without the overhead of a physical office space. Opus VO gives you the opportunity to base your business in an upscale Newport Beach location at a cost significantly less than a traditional office space. Use our cutting-edge conference rooms for essential business meetings and client exchanges while bolstering your brand’s reputation with an esteemed Newport Beach location.   When you opt for a virtual office in Newport Beach via Opus VO, you’re afforded the unique benefit of a live receptionist committed to delivering customized, premium service. Our team ensures that each client interaction harmoniously aligns with your individual business vision. Leave the daily admin duties like mail handling and call-forwarding to us, so you have the freedom to concentrate on advancing your business. ",
+            "map": {
+                "lat": 33.6109998,
+                "lng": -117.873129,
+                "zoom": 14,
+                "city": "Newport Beach"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Newport Beach, California even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Newport Beach. You can also adapt to better meet your clients’ unique needs within California. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Newport Beach virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Choose a Newport Beach Virtual Office?",
+                "body": "Newport Beach is not merely a luxurious California community; it’s a thriving business landscape with plenty of opportunities in finance, tourism, and technology. Perfectly situated near vital business hubs, our Newport Beach locations offer you easy access to essential industry contacts and engaging networking occasions.  By choosing an Opus Virtual Office in Newport Beach, you’re doing more than merely cutting your operational costs; you’re acquiring a competitive edge. Propel your business to unprecedented levels of success by availing yourself of our superior virtual office services today.  Opus VO Newport Beach @ 260 Newport Center Drive, Newport Beach, CA 92660 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Newport Beach - 260 Newport Center Drive | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our California, Newport Beach virtual office located at 260 Newport Center Drive. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/california/newport-beach/location-1410/",
+            "og": {
+                "title": "Virtual Office in Newport Beach - 260 Newport Center Drive | $99/Month",
+                "description": "Get the ultimate office solution for your business with our California, Newport Beach virtual office located at 260 Newport Center Drive. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/california/newport-beach/location-1410/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/1410-01.building.jpg"
+            }
+        }
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "success": true,
+    "location_id": 1169,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Toledo",
+            "state": "OH",
+            "price": null,
+            "address": {
+                "line1": "5533 Southwyck Boulevard",
+                "suite": null,
+                "city": "Toledo",
+                "state": "OH",
+                "zip": "43614",
+                "phone": "(419) 930-6162"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/Building-1-1.jpg",
+                    "/wp-content-mgr/wp-content/uploads/2Reception30-800x535.jpg",
+                    "/wp-content-mgr/wp-content/uploads/3Lobby2-531x550.jpg",
+                    "/wp-content-mgr/wp-content/uploads/4MeetingRoom7-800x440.jpg",
+                    "/wp-content-mgr/wp-content/uploads/5MeetingRoom-21-800x414.jpg",
+                    "/wp-content-mgr/wp-content/uploads/6MeetingRoom-3-800x535.jpg"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1169",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Toledo Virtual Office",
+            "body": "Unlock the benefits of securing a prestigious business address in Toledo, Ohio, without the need for a physical office space. At Opus VO, we provide you with the opportunity to position your business in the heart of Toledo’s dynamic business community while maximizing operational efficiency. Our modern conference rooms are readily available for important meetings and collaborative endeavors.  By selecting Opus VO’s virtual office in Toledo, you not only secure a prestigious address but also gain access to a professional live receptionist who seamlessly integrates with your team. They ensure that every client interaction embodies your unique brand identity, allowing us to manage routine administrative tasks while you focus on your core business objectives. ",
+            "map": {
+                "lat": 41.6022336,
+                "lng": -83.671628,
+                "zoom": 14,
+                "city": "Toledo"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Toledo, Ohio even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Toledo. You can also adapt to better meet your clients’ unique needs within Ohio. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Toledo virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Toledo? Why a Virtual Office?",
+                "body": "Toledo is more than just a vibrant city; it’s a thriving business hub with opportunities spanning various sectors, including manufacturing, technology, and healthcare. Having a Toledo address not only enhances your business reputation but also grants access to essential networking events and industry connections.  Opting for Opus VO for your virtual office in Toledo is not just a practical choice; it’s a strategic advantage. Are you prepared to elevate your business presence? Explore our exceptional virtual office solutions today.  Opus VO, Toledo @ 5533 Southwyck Boulevard, Toledo, OH 43614 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office Service In Toledo, OH | Opus Virtual Offices",
+            "meta_description": "Get the ultimate office solution for your business with our Ohio, Toledo virtual office located at 5533 Southwyck Boulevard. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/ohio/toledo/location-1169/",
+            "og": {
+                "title": "Virtual Office Service In Toledo, OH | Opus Virtual Offices",
+                "description": "Get the ultimate office solution for your business with our Ohio, Toledo virtual office located at 5533 Southwyck Boulevard. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/ohio/toledo/location-1169/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/Building-1-1.jpg"
+            }
+        }
+    }
+}

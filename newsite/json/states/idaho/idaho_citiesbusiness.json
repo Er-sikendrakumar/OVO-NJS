@@ -1,0 +1,12 @@
+{
+    "success": true,
+    "count": 1,
+    "state": "idaho",
+    "data": [
+        {
+            "id": "905",
+            "name": "Coeur D Alene",
+            "popular": "0"
+        }
+    ]
+}

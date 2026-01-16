@@ -1,0 +1,375 @@
+{
+    "success": true,
+    "count": 58,
+    "data": [
+        {
+            "country_id": "1",
+            "country_abbr": "US",
+            "country_name": "United States",
+            "states": [
+                {
+                    "state_id": "1",
+                    "state_abbr": "AL",
+                    "state_name": "Alabama",
+                    "timezone": "CST"
+                },
+                {
+                    "state_id": "3",
+                    "state_abbr": "AK",
+                    "state_name": "Alaska",
+                    "timezone": "AKST"
+                },
+                {
+                    "state_id": "2",
+                    "state_abbr": "AZ",
+                    "state_name": "Arizona",
+                    "timezone": "MST"
+                },
+                {
+                    "state_id": "4",
+                    "state_abbr": "AR",
+                    "state_name": "Arkansas",
+                    "timezone": "CST"
+                },
+                {
+                    "state_id": "5",
+                    "state_abbr": "CA",
+                    "state_name": "California",
+                    "timezone": "PST"
+                },
+                {
+                    "state_id": "6",
+                    "state_abbr": "CO",
+                    "state_name": "Colorado",
+                    "timezone": "MST"
+                },
+                {
+                    "state_id": "7",
+                    "state_abbr": "CT",
+                    "state_name": "Connecticut",
+                    "timezone": "EST"
+                },
+                {
+                    "state_id": "8",
+                    "state_abbr": "DE",
+                    "state_name": "Delaware",
+                    "timezone": "EST"
+                },
+                {
+                    "state_id": "9",
+                    "state_abbr": "DC",
+                    "state_name": "District of Columbia",
+                    "timezone": "EST"
+                },
+                {
+                    "state_id": "10",
+                    "state_abbr": "FL",
+                    "state_name": "Florida",
+                    "timezone": "EST"
+                },
+                {
+                    "state_id": "11",
+                    "state_abbr": "GA",
+                    "state_name": "Georgia",
+                    "timezone": "EST"
+                },
+                {
+                    "state_id": "12",
+                    "state_abbr": "HI",
+                    "state_name": "Hawaii",
+                    "timezone": "HST"
+                },
+                {
+                    "state_id": "13",
+                    "state_abbr": "ID",
+                    "state_name": "Idaho",
+                    "timezone": "MST"
+                },
+                {
+                    "state_id": "14",
+                    "state_abbr": "IL",
+                    "state_name": "Illinois",
+                    "timezone": "CST"
+                },
+                {
+                    "state_id": "15",
+                    "state_abbr": "IN",
+                    "state_name": "Indiana",
+                    "timezone": "EST"
+                },
+                {
+                    "state_id": "16",
+                    "state_abbr": "IA",
+                    "state_name": "Iowa",
+                    "timezone": "CST"
+                },
+                {
+                    "state_id": "17",
+                    "state_abbr": "KS",
+                    "state_name": "Kansas",
+                    "timezone": "CST"
+                },
+                {
+                    "state_id": "18",
+                    "state_abbr": "KY",
+                    "state_name": "Kentucky",
+                    "timezone": "EST"
+                },
+                {
+                    "state_id": "19",
+                    "state_abbr": "LA",
+                    "state_name": "Louisiana",
+                    "timezone": "CST"
+                },
+                {
+                    "state_id": "20",
+                    "state_abbr": "ME",
+                    "state_name": "Maine",
+                    "timezone": "EST"
+                },
+                {
+                    "state_id": "21",
+                    "state_abbr": "MD",
+                    "state_name": "Maryland",
+                    "timezone": "EST"
+                },
+                {
+                    "state_id": "22",
+                    "state_abbr": "MA",
+                    "state_name": "Massachusetts",
+                    "timezone": "EST"
+                },
+                {
+                    "state_id": "23",
+                    "state_abbr": "MI",
+                    "state_name": "Michigan",
+                    "timezone": "EST"
+                },
+                {
+                    "state_id": "24",
+                    "state_abbr": "MN",
+                    "state_name": "Minnesota",
+                    "timezone": "CST"
+                },
+                {
+                    "state_id": "25",
+                    "state_abbr": "MS",
+                    "state_name": "Mississippi",
+                    "timezone": "CST"
+                },
+                {
+                    "state_id": "26",
+                    "state_abbr": "MO",
+                    "state_name": "Missouri",
+                    "timezone": "CST"
+                },
+                {
+                    "state_id": "27",
+                    "state_abbr": "MT",
+                    "state_name": "Montana",
+                    "timezone": "MST"
+                },
+                {
+                    "state_id": "28",
+                    "state_abbr": "NE",
+                    "state_name": "Nebraska",
+                    "timezone": "CST"
+                },
+                {
+                    "state_id": "29",
+                    "state_abbr": "NV",
+                    "state_name": "Nevada",
+                    "timezone": "PST"
+                },
+                {
+                    "state_id": "30",
+                    "state_abbr": "NH",
+                    "state_name": "New Hampshire",
+                    "timezone": "EST"
+                },
+                {
+                    "state_id": "31",
+                    "state_abbr": "NJ",
+                    "state_name": "New Jersey",
+                    "timezone": "EST"
+                },
+                {
+                    "state_id": "32",
+                    "state_abbr": "NM",
+                    "state_name": "New Mexico",
+                    "timezone": "MST"
+                },
+                {
+                    "state_id": "33",
+                    "state_abbr": "NY",
+                    "state_name": "New York",
+                    "timezone": "EST"
+                },
+                {
+                    "state_id": "34",
+                    "state_abbr": "NC",
+                    "state_name": "North Carolina",
+                    "timezone": "EST"
+                },
+                {
+                    "state_id": "35",
+                    "state_abbr": "ND",
+                    "state_name": "North Dakota",
+                    "timezone": "CST"
+                },
+                {
+                    "state_id": "36",
+                    "state_abbr": "OH",
+                    "state_name": "Ohio",
+                    "timezone": "EST"
+                },
+                {
+                    "state_id": "37",
+                    "state_abbr": "OK",
+                    "state_name": "Oklahoma",
+                    "timezone": "CST"
+                },
+                {
+                    "state_id": "38",
+                    "state_abbr": "OR",
+                    "state_name": "Oregon",
+                    "timezone": "PST"
+                },
+                {
+                    "state_id": "39",
+                    "state_abbr": "PA",
+                    "state_name": "Pennsylvania",
+                    "timezone": "EST"
+                },
+                {
+                    "state_id": "40",
+                    "state_abbr": "RI",
+                    "state_name": "Rhode Island",
+                    "timezone": "EST"
+                },
+                {
+                    "state_id": "41",
+                    "state_abbr": "SC",
+                    "state_name": "South Carolina",
+                    "timezone": "EST"
+                },
+                {
+                    "state_id": "42",
+                    "state_abbr": "SD",
+                    "state_name": "South Dakota",
+                    "timezone": "CST"
+                },
+                {
+                    "state_id": "43",
+                    "state_abbr": "TN",
+                    "state_name": "Tennessee",
+                    "timezone": "CST"
+                },
+                {
+                    "state_id": "44",
+                    "state_abbr": "TX",
+                    "state_name": "Texas",
+                    "timezone": "CST"
+                },
+                {
+                    "state_id": "45",
+                    "state_abbr": "UT",
+                    "state_name": "Utah",
+                    "timezone": "MST"
+                },
+                {
+                    "state_id": "46",
+                    "state_abbr": "VT",
+                    "state_name": "Vermont",
+                    "timezone": "EST"
+                },
+                {
+                    "state_id": "47",
+                    "state_abbr": "VA",
+                    "state_name": "Virginia",
+                    "timezone": "EST"
+                },
+                {
+                    "state_id": "48",
+                    "state_abbr": "WA",
+                    "state_name": "Washington",
+                    "timezone": "PST"
+                },
+                {
+                    "state_id": "49",
+                    "state_abbr": "WV",
+                    "state_name": "West Virginia",
+                    "timezone": "EST"
+                },
+                {
+                    "state_id": "50",
+                    "state_abbr": "WI",
+                    "state_name": "Wisconsin",
+                    "timezone": "CST"
+                },
+                {
+                    "state_id": "51",
+                    "state_abbr": "WY",
+                    "state_name": "Wyoming",
+                    "timezone": "MST"
+                }
+            ]
+        },
+        {
+            "country_id": "67",
+            "country_abbr": "PR",
+            "country_name": "Puerto Rico",
+            "states": [
+                {
+                    "state_id": "63",
+                    "state_abbr": "PR",
+                    "state_name": "Puerto Rico",
+                    "timezone": "EST"
+                }
+            ]
+        },
+        {
+            "country_id": "2",
+            "country_abbr": "CA",
+            "country_name": "Canada",
+            "states": [
+                {
+                    "state_id": "55",
+                    "state_abbr": "AB",
+                    "state_name": "Alberta",
+                    "timezone": "MST"
+                },
+                {
+                    "state_id": "53",
+                    "state_abbr": "BC",
+                    "state_name": "British Columbia",
+                    "timezone": "PST"
+                },
+                {
+                    "state_id": "57",
+                    "state_abbr": "NB",
+                    "state_name": "New Brunswick",
+                    "timezone": "EST"
+                },
+                {
+                    "state_id": "58",
+                    "state_abbr": "NS",
+                    "state_name": "Nova Scotia",
+                    "timezone": "EST"
+                },
+                {
+                    "state_id": "52",
+                    "state_abbr": "ON",
+                    "state_name": "Ontario",
+                    "timezone": "EST"
+                },
+                {
+                    "state_id": "61",
+                    "state_abbr": "SK",
+                    "state_name": "Saskatchewan",
+                    "timezone": "CST"
+                }
+            ]
+        }
+    ]
+}

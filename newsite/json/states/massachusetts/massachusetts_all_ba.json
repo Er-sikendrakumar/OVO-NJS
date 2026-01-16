@@ -1,0 +1,125 @@
+{
+    "success": true,
+    "state": "massachusetts",
+    "cities_virtual": [
+        {
+            "id": "887",
+            "name": "Beverly",
+            "popular": "0"
+        },
+        {
+            "id": "431",
+            "name": "Boston",
+            "popular": "1"
+        },
+        {
+            "id": "888",
+            "name": "Braintree",
+            "popular": "0"
+        },
+        {
+            "id": "558",
+            "name": "Burlington",
+            "popular": "1"
+        },
+        {
+            "id": "890",
+            "name": "Canton",
+            "popular": "0"
+        },
+        {
+            "id": "889",
+            "name": "Cohasset",
+            "popular": "0"
+        },
+        {
+            "id": "883",
+            "name": "Falmouth",
+            "popular": "0"
+        },
+        {
+            "id": "891",
+            "name": "Hingham",
+            "popular": "0"
+        },
+        {
+            "id": "821",
+            "name": "Marlborough",
+            "popular": "1"
+        },
+        {
+            "id": "263",
+            "name": "Randolph",
+            "popular": "1"
+        },
+        {
+            "id": "894",
+            "name": "Tyngsboro",
+            "popular": "0"
+        }
+    ],
+    "cities_business": [
+        {
+            "id": "431",
+            "name": "Boston",
+            "popular": "1"
+        }
+    ],
+    "cities_popular": [
+        {
+            "id": "431",
+            "name": "Boston"
+        },
+        {
+            "id": "558",
+            "name": "Burlington"
+        },
+        {
+            "id": "821",
+            "name": "Marlborough"
+        },
+        {
+            "id": "263",
+            "name": "Randolph"
+        }
+    ],
+    "locations_business_address": [
+        {
+            "id": 1206,
+            "location_name": "265 Franklin Street, Boston, MA 02110",
+            "city": "Boston",
+            "state": "Massachusetts",
+            "state_abbr": "MA",
+            "address": "265 Franklin Street, Boston, MA 02110",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 42.3564979,
+            "point_y": -71.0533518,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1206-001-Building.jpg",
+                "alttext": null
+            },
+            "url": "/business-address/massachusetts/boston/location-1206/",
+            "phone": "6178024204"
+        }
+    ],
+    "meta": {
+        "cities_virtual_count": 11,
+        "cities_business_count": 1,
+        "cities_popular_count": 4,
+        "locations_business_address_count": 1
+    },
+    "seo": {
+        "title": "Virtual Business Address in Massachusetts | Opus Virtual Offices",
+        "meta_description": "Get a prestigious business address in Massachusetts with Opus. Multiple premium locations statewide mail handling privacy protection all for just $59/month.",
+        "canonical": "https://www.opusvirtualoffices.com/business-address/massachusetts/",
+        "og": {
+            "title": "Virtual Business Address in Massachusetts | Opus Virtual Offices",
+            "description": "Get a prestigious business address in Massachusetts with Opus. Multiple premium locations statewide mail handling privacy protection all for just $59/month.",
+            "url": "https://www.opusvirtualoffices.com/business-address/massachusetts/",
+            "type": "website",
+            "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+        }
+    }
+}

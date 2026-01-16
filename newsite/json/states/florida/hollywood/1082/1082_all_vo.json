@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "location_id": 1082,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Hollywood",
+            "state": "FL",
+            "price": null,
+            "address": {
+                "line1": "7777 Davie Road Ext.",
+                "suite": null,
+                "city": "Hollywood",
+                "state": "FL",
+                "zip": "33024",
+                "phone": "(954) 509-7021"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/1Building10-735x550.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1082-reception-1743608566527.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1082-conference-1743608566279-rotated.jpg"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1082",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 1,
+            "nearbyPremiumUrl": "/virtual-office/florida/fort-lauderdale/location-803/",
+            "nearbyPremiumText": "to view the most POPULAR locations nearby for the same $99/mo",
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Hollywood Virtual Office",
+            "body": "Acquire a top-tier business address in Hollywood without the high overhead of a physical workspace. With Opus VO, you get the prestige of a Hollywood address without denting your budget. For those crucial in-person meetings or client consultations, our well-appointed conference rooms are at your disposal.  Choosing a virtual office in Hollywood via Opus VO also gives you the bonus of a live receptionist who’ll handle client interactions with a touch of personalized finesse, aligning with your business ethos. Relieve yourself of routine admin tasks, and get back to what you do best, propelling your business forward. ",
+            "map": {
+                "lat": 26.0356817,
+                "lng": -80.2442257,
+                "zoom": 14,
+                "city": "Hollywood"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Hollywood, Florida even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Hollywood. You can also adapt to better meet your clients’ unique needs within Florida. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Hollywood virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Hollywood, Florida?",
+                "body": "Hollywood, is more than just a beach town; it’s a burgeoning business hotspot with diverse industries including tourism, healthcare, and tech. Our Hollywood, FL location sets you up for quick access to crucial business contacts and events that can enrich your network.  By enlisting in Opus VO in Hollywood, you’re not only reducing overhead—you’re gaining a leg up on the competition. Ready for the next business frontier? Our high-caliber virtual office services are set to elevate your operations.    Opus VO, Hollywood @ 7777 Davie Road Ext., Hollywood, FL 33024 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Hollywood - 7777 Davie Road Ext. | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Florida, Hollywood virtual office located at 7777 Davie Road Ext.. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/florida/hollywood/location-1082/",
+            "og": {
+                "title": "Virtual Office in Hollywood - 7777 Davie Road Ext. | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Florida, Hollywood virtual office located at 7777 Davie Road Ext.. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/florida/hollywood/location-1082/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/1Building10.jpg"
+            }
+        }
+    }
+}

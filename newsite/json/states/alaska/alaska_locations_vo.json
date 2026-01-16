@@ -1,0 +1,65 @@
+{
+    "success": true,
+    "count": 3,
+    "state": "alaska",
+    "mode": "virtual-office",
+    "data": [
+        {
+            "id": 1528,
+            "location_name": "911 W 8th Avenue, Anchorage, AK 99501",
+            "city": "Anchorage",
+            "state": "Alaska",
+            "state_abbr": "AK",
+            "address": "911 W 8th Avenue, Anchorage, AK 99501",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 61.2148158,
+            "point_y": -149.9000613,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1528-exterior.png",
+                "alttext": "Exterior of building that houses Opus Virtual Offices located in Anchorage, Alaska"
+            },
+            "url": "/virtual-office/alaska/anchorage/location-1528/",
+            "phone": "9078918807"
+        },
+        {
+            "id": 1586,
+            "location_name": "247 S Alaska Street, Palmer, AK 99645",
+            "city": "Palmer",
+            "state": "Alaska",
+            "state_abbr": "AK",
+            "address": "247 S Alaska Street, Palmer, AK 99645",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 61.6044842,
+            "point_y": -149.1138626,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1586-001-Building.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/alaska/palmer/location-1586/",
+            "phone": "9078918815"
+        },
+        {
+            "id": 1396,
+            "location_name": "4900 E Palmer Wasilla Hwy, Suite Ste 101, Wasilla, AK 99654",
+            "city": "Wasilla",
+            "state": "Alaska",
+            "state_abbr": "AK",
+            "address": "4900 E Palmer Wasilla Hwy, Suite Ste 101, Wasilla, AK 99654",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 61.5845911,
+            "point_y": -149.3269978,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/alaska/wasilla/location-1396/",
+            "phone": "9073025209"
+        }
+    ]
+}

@@ -1,0 +1,368 @@
+{
+    "success": true,
+    "state": "colorado",
+    "cities_virtual": [
+        {
+            "id": "189",
+            "name": "Arvada",
+            "popular": "0"
+        },
+        {
+            "id": "507",
+            "name": "Boulder",
+            "popular": "1"
+        },
+        {
+            "id": "508",
+            "name": "Brighton",
+            "popular": "0"
+        },
+        {
+            "id": "510",
+            "name": "Broomfield",
+            "popular": "0"
+        },
+        {
+            "id": "379",
+            "name": "Colorado Springs",
+            "popular": "1"
+        },
+        {
+            "id": "211",
+            "name": "Denver",
+            "popular": "1"
+        },
+        {
+            "id": "520",
+            "name": "Fort Collins",
+            "popular": "0"
+        },
+        {
+            "id": "807",
+            "name": "Golden",
+            "popular": "0"
+        },
+        {
+            "id": "899",
+            "name": "Littleton",
+            "popular": "0"
+        },
+        {
+            "id": "808",
+            "name": "Longmont",
+            "popular": "0"
+        },
+        {
+            "id": "806",
+            "name": "Louisville",
+            "popular": "0"
+        }
+    ],
+    "cities_business": [
+        {
+            "id": "211",
+            "name": "Denver",
+            "popular": "1"
+        }
+    ],
+    "cities_popular": [
+        {
+            "id": "507",
+            "name": "Boulder"
+        },
+        {
+            "id": "379",
+            "name": "Colorado Springs"
+        },
+        {
+            "id": "211",
+            "name": "Denver"
+        }
+    ],
+    "locations_virtual_office": [
+        {
+            "id": 369,
+            "location_name": "8781 Sheridan Blvd., Arvada, CO 80003",
+            "city": "Arvada",
+            "state": "Colorado",
+            "state_abbr": "CO",
+            "address": "8781 Sheridan Blvd., Arvada, CO 80003",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 39.853629,
+            "point_y": -105.053128,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/colorado/arvada/location-369/",
+            "phone": "3039681735"
+        },
+        {
+            "id": 1496,
+            "location_name": "4845 Pearl East Circle, Boulder, CO 80301",
+            "city": "Boulder",
+            "state": "Colorado",
+            "state_abbr": "CO",
+            "address": "4845 Pearl East Circle, Boulder, CO 80301",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 40.0217348,
+            "point_y": -105.2407187,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1496-exterior.jpg",
+                "alttext": "Exterior of building that houses Opus Virtual Offices located in Boulder, Colorado"
+            },
+            "url": "/virtual-office/colorado/boulder/location-1496/",
+            "phone": "3039973327"
+        },
+        {
+            "id": 810,
+            "location_name": "992 S 4th Avenue, Brighton, CO 80601",
+            "city": "Brighton",
+            "state": "Colorado",
+            "state_abbr": "CO",
+            "address": "992 S 4th Avenue, Brighton, CO 80601",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 39.9698726,
+            "point_y": -104.817783,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/colorado/brighton/location-810/",
+            "phone": "3039973328"
+        },
+        {
+            "id": 1508,
+            "location_name": "11001 W 120th Avenue, Broomfield, CO 80021",
+            "city": "Broomfield",
+            "state": "Colorado",
+            "state_abbr": "CO",
+            "address": "11001 W 120th Avenue, Broomfield, CO 80021",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 39.9148173,
+            "point_y": -105.1206877,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1508-001-Building-1.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/colorado/broomfield/location-1508/",
+            "phone": "7207948056"
+        },
+        {
+            "id": 1148,
+            "location_name": "985 Pico Point, Colorado Springs, CO 80905",
+            "city": "Colorado Springs",
+            "state": "Colorado",
+            "state_abbr": "CO",
+            "address": "985 Pico Point, Colorado Springs, CO 80905",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 38.8188834,
+            "point_y": -104.8413642,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1Building48.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/colorado/colorado-springs/location-1148/",
+            "phone": "7193027967"
+        },
+        {
+            "id": 621,
+            "location_name": "6547 N Academy Blvd, Colorado Springs, CO 80918",
+            "city": "Colorado Springs",
+            "state": "Colorado",
+            "state_abbr": "CO",
+            "address": "6547 N Academy Blvd, Colorado Springs, CO 80918",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 38.926316,
+            "point_y": -104.793579,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/colorado/colorado-springs/location-621/",
+            "phone": "7196027812"
+        },
+        {
+            "id": 1307,
+            "location_name": "7887 East Belleview Avenue, Denver, CO 80111",
+            "city": "Denver",
+            "state": "Colorado",
+            "state_abbr": "CO",
+            "address": "7887 East Belleview Avenue, Denver, CO 80111",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 39.6255798,
+            "point_y": -104.8970366,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/Opus-Virtual-Office-Denver-Building-Exterior-Flag.webp",
+                "alttext": "Exterior view of 7887 East Belleview Avenue with American flag at Opus Virtual Office in Denver, CO"
+            },
+            "url": "/virtual-office/colorado/denver/location-1307/",
+            "phone": "3039972954"
+        },
+        {
+            "id": 1320,
+            "location_name": "8400 E Prentice Avenue (Greenwood Village), Denver, CO 80111",
+            "city": "Denver",
+            "state": "Colorado",
+            "state_abbr": "CO",
+            "address": "8400 E Prentice Avenue (Greenwood Village), Denver, CO 80111",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 39.6193035,
+            "point_y": -104.8911407,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1320-01.Building.webp",
+                "alttext": null
+            },
+            "url": "/virtual-office/colorado/denver/location-1320/",
+            "phone": "3039972959"
+        },
+        {
+            "id": 1562,
+            "location_name": "2806 N Speer Blvd, Denver, CO 80211",
+            "city": "Denver",
+            "state": "Colorado",
+            "state_abbr": "CO",
+            "address": "2806 N Speer Blvd, Denver, CO 80211",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 39.757468,
+            "point_y": -105.0184976,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/colorado/denver/location-1562/",
+            "phone": "3035311765"
+        },
+        {
+            "id": 1230,
+            "location_name": "2601 S Lemay, Fort Collins, CO 80525",
+            "city": "Fort Collins",
+            "state": "Colorado",
+            "state_abbr": "CO",
+            "address": "2601 S Lemay, Fort Collins, CO 80525",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 40.5510404,
+            "point_y": -105.0583068,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/colorado/fort-collins/location-1230/",
+            "phone": "9703671315"
+        },
+        {
+            "id": 1509,
+            "location_name": "14143 Denver West Parkway, Golden, CO 80401",
+            "city": "Golden",
+            "state": "Colorado",
+            "state_abbr": "CO",
+            "address": "14143 Denver West Parkway, Golden, CO 80401",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 39.7426653,
+            "point_y": -105.1595202,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1509-exterior.jpg",
+                "alttext": "Exterior of building that houses Opus of Virtual Offices located in Golden, Colorado"
+            },
+            "url": "/virtual-office/colorado/golden/location-1509/",
+            "phone": "3039681724"
+        },
+        {
+            "id": 1719,
+            "location_name": "2679 W Main Street, Littleton, CO 80120",
+            "city": "Littleton",
+            "state": "Colorado",
+            "state_abbr": "CO",
+            "address": "2679 W Main Street, Littleton, CO 80120",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 39.6141048,
+            "point_y": -105.0195605,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1719-exterior.jpg",
+                "alttext": "Exterior of building that houses Opus Virtual Offices located in Littleton, Colorado"
+            },
+            "url": "/virtual-office/colorado/littleton/location-1719/",
+            "phone": "3039681724"
+        },
+        {
+            "id": 1510,
+            "location_name": "1079 S Hover Street, Longmont, CO 80501",
+            "city": "Longmont",
+            "state": "Colorado",
+            "state_abbr": "CO",
+            "address": "1079 S Hover Street, Longmont, CO 80501",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 40.1475714,
+            "point_y": -105.1327909,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1510-001-Building-e1709828992669.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/colorado/longmont/location-1510/",
+            "phone": "7209707935"
+        },
+        {
+            "id": 1507,
+            "location_name": "357 McCaslin Blvd, Louisville, CO 80027",
+            "city": "Louisville",
+            "state": "Colorado",
+            "state_abbr": "CO",
+            "address": "357 McCaslin Blvd, Louisville, CO 80027",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 39.9664699,
+            "point_y": -105.165279,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1507-01.bldg_.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/colorado/louisville/location-1507/",
+            "phone": "7205989174"
+        }
+    ],
+    "meta": {
+        "cities_virtual_count": 11,
+        "cities_business_count": 1,
+        "cities_popular_count": 3,
+        "locations_virtual_office_count": 14
+    },
+    "seo": {
+        "title": "Virtual Office in Colorado | Locations Statewide | Opus VO",
+        "meta_description": "Get a prestigious Colorado business address and professional phone answering services with Opus Virtual Offices, the perfect office solution for your business needs.",
+        "canonical": "https://www.opusvirtualoffices.com/virtual-office/colorado/",
+        "og": {
+            "title": "Virtual Office in Colorado | Locations Statewide | Opus VO",
+            "description": "Get a prestigious Colorado business address and professional phone answering services with Opus Virtual Offices, the perfect office solution for your business needs.",
+            "url": "https://www.opusvirtualoffices.com/virtual-office/colorado/",
+            "type": "website",
+            "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+        }
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "success": true,
+    "count": 7,
+    "state": "pennsylvania",
+    "data": [
+        {
+            "id": "139",
+            "name": "Allentown"
+        },
+        {
+            "id": "708",
+            "name": "Bala Cynwyd"
+        },
+        {
+            "id": "497",
+            "name": "Harrisburg"
+        },
+        {
+            "id": "321",
+            "name": "Lancaster"
+        },
+        {
+            "id": "106",
+            "name": "Philadelphia"
+        },
+        {
+            "id": "103",
+            "name": "Pittsburgh"
+        },
+        {
+            "id": "706",
+            "name": "Plymouth Meeting"
+        }
+    ]
+}

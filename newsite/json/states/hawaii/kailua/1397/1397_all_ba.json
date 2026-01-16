@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "location_id": 1397,
+    "mode": "business-address",
+    "data": {
+        "header": {
+            "city": "Kailua",
+            "state": "HI",
+            "price": null,
+            "address": {
+                "line1": "74 Kihapai Street",
+                "suite": null,
+                "city": "Kailua",
+                "state": "HI",
+                "zip": "96734",
+                "phone": "(808) 378-3266"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/1397-01.bldg_-593x550.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1397-02.meeting-733x550.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1397-03.meeting-733x550.jpg"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 1,
+            "addressOnlyUrl": "/business-address/hawaii/kailua/location-1397/",
+            "signupUrl": "/signup/?locid=1397",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 1,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": "Live Receptionist from 8:00am to 2:00pm HST <br /> This location does not offer mail forwarding."
+        },
+        "overview": {
+            "heading": "Kailua Virtual Office",
+            "body": "Get your hands on a high-end Kailua address without the overhead of a physical office space. With Opus VO, your business can make its mark in the heart of Kailua’s dynamic landscape without depleting your resources. Big meeting on the horizon or a potential client to win over? Our chic conference rooms have got you covered.  Enlist with our virtual office services in Kailua through Opus VO, and you’ll also land a dedicated live receptionist. We aim to make each client interaction feel like a natural extension of your unique brand identity. Let us handle the day-to-day admin work, giving you the space to focus on your business goals. ",
+            "map": {
+                "lat": 21.3948345,
+                "lng": -157.7466723,
+                "zoom": 14,
+                "city": "Kailua"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Kailua, Hawaii even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Kailua. You can also adapt to better meet your clients’ unique needs within Hawaii. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Kailua virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Kailua?",
+                "body": "Kailua isn’t just a haven of natural beauty; it’s also a growing business community across sectors like retail, tourism, and local services. Having a Kailua address places you amidst the important networks and events that can amplify your business reach.  Choosing Opus VO in Kailua is more than just a frugal move—it’s a strategic advantage. Ready to make your next power move? Our premium virtual office services are here to serve.  Opus VO, Kailua @ 74 Kihapai Street, Kailua, HI 96734 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Prestigious Business Address 74 Kihapai Street Kailua | $59/month",
+            "meta_description": "Impress clients with a virtual office at 74 Kihapai Street Kailua enjoy a prime location mail handling digital alerts and privacy for only $59/month",
+            "canonical": "https://www.opusvirtualoffices.com/business-address/hawaii/kailua/location-1397/",
+            "og": {
+                "title": "Prestigious Business Address 74 Kihapai Street Kailua | $59/month",
+                "description": "Impress clients with a virtual office at 74 Kihapai Street Kailua enjoy a prime location mail handling digital alerts and privacy for only $59/month",
+                "url": "https://www.opusvirtualoffices.com/business-address/hawaii/kailua/location-1397/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/1397-01.bldg_.jpg"
+            }
+        }
+    }
+}

@@ -1,0 +1,89 @@
+{
+    "success": true,
+    "location_id": 21,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Lake Worth",
+            "state": "FL",
+            "price": null,
+            "address": {
+                "line1": "8927 Hypoluxo Rd",
+                "suite": null,
+                "city": "Lake Worth",
+                "state": "FL",
+                "zip": "33467",
+                "phone": "(561) 571-0618"
+            },
+            "images": {
+                "hero": [
+                    "/assets/mail-center.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=21",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 0,
+            "nearbyPremium": 1,
+            "nearbyPremiumUrl": "/virtual-office/florida/boca-raton/location-776/",
+            "nearbyPremiumText": "to view nearby PREMIUM Locations that offer Meeting Rooms for the same $99/mo",
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Lake Worth Virtual Office",
+            "body": "Claim a standout business address in Lake Worth without breaking the bank on a physical workspace. With Opus VO, your business can be right where the action is in Lake Worth, without stretching your budget. When it’s crunch time for high-stakes meetings or client catch-ups, you’ll have access to our state-of-the-art conference rooms.  When you opt for a virtual office in Lake Worth via Opus VO, you also secure the benefit of a live receptionist who will give your clients top-notch, personalized customer service, allowing you to focus on driving your business agenda forward. Trust us to handle the everyday admin stuff, freeing you to reach for those business goals. ",
+            "map": {
+                "lat": 26.5672,
+                "lng": -80.186478,
+                "zoom": 14,
+                "city": "Lake Worth"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Lake Worth, Florida even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Lake Worth. You can also adapt to better meet your clients’ unique needs within Florida. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Lake Worth virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Lake Worth?",
+                "body": "Lake Worth is more than just a vibrant arts scene; it’s a burgeoning hub for business across industries such as retail, services, and healthcare. Our prime location in Lake Worth makes connecting with key industry leaders and essential networking events a breeze.  By choosing Opus VO in Lake Worth, you’re doing more than conserving resources; you’re earning an edge over your competition. Ready to make a smart business move? Our premium virtual office services are here to back you up.  Opus VO, Lake Worth @ 8927 Hypoluxo Rd, Lake Worth, FL 33467   ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Lake Worth - 8927 Hypoluxo Rd | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Florida, Lake Worth virtual office located at 8927 Hypoluxo Rd. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/florida/lake-worth/location-21/",
+            "og": {
+                "title": "Virtual Office in Lake Worth - 8927 Hypoluxo Rd | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Florida, Lake Worth virtual office located at 8927 Hypoluxo Rd. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/florida/lake-worth/location-21/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+            }
+        }
+    }
+}

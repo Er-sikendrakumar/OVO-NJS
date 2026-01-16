@@ -1,0 +1,89 @@
+{
+    "success": true,
+    "location_id": 1240,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Mansfield",
+            "state": "TX",
+            "price": null,
+            "address": {
+                "line1": "1301 E Debbie Lane",
+                "suite": null,
+                "city": "Mansfield",
+                "state": "TX",
+                "zip": "76063",
+                "phone": "(817) 260-0173"
+            },
+            "images": {
+                "hero": [
+                    "/assets/mail-center.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1240",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 0,
+            "nearbyPremium": 1,
+            "nearbyPremiumUrl": "/virtual-office/texas/dallas/location-1255/",
+            "nearbyPremiumText": "to view nearby PREMIUM Locations that offer Meeting Rooms for the same $99/mo",
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Mansfield Virtual Office",
+            "body": "Want a prestigious Mansfield address to jumpstart your new business or take your existing one to the next level, but worried about the cost of a brick-and-mortar office? Opus VO has you covered. Establish your venture in one of our prime Mansfield locations, and enjoy the benefits of a high-profile address without the hefty price tag. For times when you need a suitable space for important meetings or client engagements, our top-notch conference rooms are available.  The perks don’t stop at a great address. By opting for a virtual office at Opus VO in Mansfield, you’ll also gain the support of a live receptionist. Our dedicated team is on hand to manage your customer interactions and tackle routine tasks like sorting digital mail and routing calls. This allows you to concentrate fully on scaling your business. ",
+            "map": {
+                "lat": 32.606337,
+                "lng": -97.1179032,
+                "zoom": 14,
+                "city": "Mansfield"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Mansfield, Texas even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Mansfield. You can also adapt to better meet your clients’ unique needs within Texas. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Mansfield virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Mansfield, Texas? Why Opus VO?",
+                "body": "Mansfield isn’t just a pleasant suburban community; it’s also a burgeoning hub for business across multiple sectors. By aligning your virtual office with Opus VO in Mansfield, you’re stepping into a vibrant professional scene, packed with opportunities for networking and business development.  Choosing Opus VO in Mansfield is about more than just saving money; it’s a strategic choice that provides a competitive edge for your business. Your next major business achievement could be a single virtual office decision away.  Opus VO, Mansfield, Texas @ 1301 E Debbie Lane, Mansfield, TX 76063 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Mansfield - 1301 E Debbie Lane | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Texas, Mansfield virtual office located at 1301 E Debbie Lane. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/texas/mansfield/location-1240/",
+            "og": {
+                "title": "Virtual Office in Mansfield - 1301 E Debbie Lane | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Texas, Mansfield virtual office located at 1301 E Debbie Lane. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/texas/mansfield/location-1240/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+            }
+        }
+    }
+}

@@ -1,0 +1,89 @@
+{
+    "success": true,
+    "location_id": 1537,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Boise",
+            "state": "ID",
+            "price": null,
+            "address": {
+                "line1": "1553 N Milwaukee Street",
+                "suite": null,
+                "city": "Boise",
+                "state": "ID",
+                "zip": "83704",
+                "phone": "(208) 515-3866"
+            },
+            "images": {
+                "hero": [
+                    "/assets/mail-center.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1537",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 0,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Boise Virtual Offices",
+            "body": "Secure a prestigious Boise address without the financial burden of physical office space. With Opus VO, you can position your enterprise in the heart of Boise’s bustling downtown without digging deep into your pockets. When it comes to high-stakes meetings or pivotal client presentations, our state-of-the-art conference rooms are your secret weapon.  Join the Opus VO family in Boise, and you’ll also gain a dedicated live receptionist as part of your package. We strive to ensure each client interaction mirrors the unique ethos of your brand. Offload your routine administrative duties to us, so you can set your sights on your business ambitions. ",
+            "map": {
+                "lat": 43.618919299,
+                "lng": -116.2851479,
+                "zoom": 14,
+                "city": "Boise"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Boise, Idaho even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Boise. You can also adapt to better meet your clients’ unique needs within Idaho. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Boise virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Boise?",
+                "body": "Don’t sleep on Boise—it’s not just a charming town but a vibrant business hub spanning sectors from tech to healthcare. A Boise address with Opus VO plugs you into key industry circles and business-boosting events.  By opting for Opus VO in Boise, you’re not just saving funds; you’re securing a strategic upper hand. Ready to elevate your game? Our top-tier virtual office services are right here, just for you.  Opus VO, Boise @ 1553 N Milwaukee Street, Boise, ID 83704 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Boise - 1553 N Milwaukee Street | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Idaho, Boise virtual office located at 1553 N Milwaukee Street. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/idaho/boise/location-1537/",
+            "og": {
+                "title": "Virtual Office in Boise - 1553 N Milwaukee Street | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Idaho, Boise virtual office located at 1553 N Milwaukee Street. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/idaho/boise/location-1537/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+            }
+        }
+    }
+}

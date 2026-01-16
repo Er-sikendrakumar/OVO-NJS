@@ -1,0 +1,89 @@
+{
+    "success": true,
+    "location_id": 547,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Menifee",
+            "state": "CA",
+            "price": null,
+            "address": {
+                "line1": "30141 Antelope Rd.",
+                "suite": null,
+                "city": "Menifee",
+                "state": "CA",
+                "zip": "92584",
+                "phone": "(951) 346-1617"
+            },
+            "images": {
+                "hero": [
+                    "/assets/mail-center.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=547",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 0,
+            "nearbyPremium": 1,
+            "nearbyPremiumUrl": "/virtual-office/california/riverside/location-934/",
+            "nearbyPremiumText": "to view the nearby PREMIUM Locations for the same $99/mo",
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Menifee Virtual Office",
+            "body": "Experience the advantages of a business address in Menifee, without the financial burden of a physical office. Opus VO offers you the unique opportunity to position your enterprise in an elite Menifee location, all without the substantial costs of a traditional office lease. Utilize our top-notch conference rooms for pivotal business meetings and client engagements, all the while enhancing your brand with a prestigious Menifee address.  Opting for a virtual office in Menifee through Opus VO accords you the special perk of a live receptionist committed to delivering bespoke, exceptional customer service. Our team ensures that each interaction with clients aligns perfectly with your singular business goals. Leave the tedious tasks such as complete mail management and call-handling to us, freeing you to concentrate on the growth and development of your business. ",
+            "map": {
+                "lat": 33.682812,
+                "lng": -117.16756,
+                "zoom": 14,
+                "city": "Menifee"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Menifee, California even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Menifee. You can also adapt to better meet your clients’ unique needs within California. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Menifee virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why opt for a Menifee Virtual Office?",
+                "body": "Menifee is not just a growing city in Riverside County; it’s a flourishing hub for commerce with opportunities in areas such as healthcare, retail, and real estate. Advantageously located near essential business districts, our Menifee facilities afford you immediate access to invaluable industry contacts and invigorating networking gatherings.  By choosing an Opus Virtual Office in Menifee, you’re achieving more than a mere reduction in operational overhead; you’re obtaining a significant competitive edge. Elevate your business to new pinnacles of success by availing yourself of our superior virtual office services today.  Opus VO Menifee @ 30141 Antelope Rd., Menifee, CA 92584 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Menifee - 30141 Antelope Rd. | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our California, Menifee virtual office located at 30141 Antelope Rd.. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/california/menifee/location-547/",
+            "og": {
+                "title": "Virtual Office in Menifee - 30141 Antelope Rd. | $99/Month",
+                "description": "Get the ultimate office solution for your business with our California, Menifee virtual office located at 30141 Antelope Rd.. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/california/menifee/location-547/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+            }
+        }
+    }
+}

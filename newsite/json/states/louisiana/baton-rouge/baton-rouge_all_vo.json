@@ -1,0 +1,136 @@
+{
+    "success": true,
+    "state": "louisiana",
+    "city": "baton rouge",
+    "wp_city_post_id": null,
+    "locations": [
+        {
+            "id": "1773",
+            "name": "Baton Rouge",
+            "locname": "440 3rd St, Baton Rouge, LA 70802",
+            "address": "440 3rd St, Baton Rouge, LA 70802",
+            "city": "baton rouge",
+            "state": "louisiana",
+            "state_english": "Louisiana",
+            "abbr": "LA",
+            "phone": "2254753997",
+            "premium": "1",
+            "opusowned": "0",
+            "showpopular": "0",
+            "point_x": "30.451049599",
+            "point_y": "-91.1878552",
+            "url": "/virtual-office/louisiana/baton-rouge/location-1773/",
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1773-Exterior.jpg",
+                "alttext": "Exterior of building that houses Opus Virtual Offices located in Baton Rouge, Louisiana"
+            }
+        },
+        {
+            "id": "404",
+            "name": "Baton Rouge",
+            "locname": "9655 Perkins Rd, Baton Rouge, LA 70810",
+            "address": "9655 Perkins Rd, Baton Rouge, LA 70810",
+            "city": "baton rouge",
+            "state": "louisiana",
+            "state_english": "Louisiana",
+            "abbr": "LA",
+            "phone": "2253723767",
+            "premium": "0",
+            "opusowned": "0",
+            "showpopular": "0",
+            "point_x": "30.379823",
+            "point_y": "-91.098731",
+            "url": "/virtual-office/louisiana/baton-rouge/location-404/",
+            "image": "/assets/mail-center.webp"
+        }
+    ],
+    "popular_locations": [],
+    "premium_locations": [
+        {
+            "id": "1773",
+            "name": "Baton Rouge",
+            "locname": "440 3rd St, Baton Rouge, LA 70802",
+            "address": "440 3rd St, Baton Rouge, LA 70802",
+            "city": "baton rouge",
+            "state": "louisiana",
+            "state_english": "Louisiana",
+            "abbr": "LA",
+            "phone": "2254753997",
+            "premium": "1",
+            "opusowned": "0",
+            "showpopular": "0",
+            "point_x": "30.451049599",
+            "point_y": "-91.1878552",
+            "url": "/virtual-office/louisiana/baton-rouge/location-1773/",
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1773-Exterior.jpg",
+                "alttext": "Exterior of building that houses Opus Virtual Offices located in Baton Rouge, Louisiana"
+            }
+        }
+    ],
+    "regular_locations": [
+        {
+            "id": "404",
+            "name": "Baton Rouge",
+            "locname": "9655 Perkins Rd, Baton Rouge, LA 70810",
+            "address": "9655 Perkins Rd, Baton Rouge, LA 70810",
+            "city": "baton rouge",
+            "state": "louisiana",
+            "state_english": "Louisiana",
+            "abbr": "LA",
+            "phone": "2253723767",
+            "premium": "0",
+            "opusowned": "0",
+            "showpopular": "0",
+            "point_x": "30.379823",
+            "point_y": "-91.098731",
+            "url": "/virtual-office/louisiana/baton-rouge/location-404/",
+            "image": "/assets/mail-center.webp"
+        }
+    ],
+    "sections": [
+        {
+            "title": "OUR BATON ROUGE\nVIRTUAL OFFICES",
+            "body": "<h2></h2>\n<p>Enjoy the benefits of having a business address in Baton Rouge Louisiana without the stress and expense surrounding a “traditional office environment”. OpusVO gives you the prestige of having an office with the budget of working from home. Receive all your business mail at a professional office building. No post office box number, just a great business address to use on your business cards and other marketing material.</p>\n<p>You don’t just get a business phone number with your Baton Rouge virtual office, but also a live receptionist answering your calls the way you want them to be. Stop choosing between capturing new leads for your business and working on current clients. Do both. Get someone who looks out for you while you’re unable to break away.</p>\n",
+            "image": {
+                "url": "/newsite/wp-content/themes/ThemeDec23/assets/images/califonia-v-office.jpg",
+                "alt": "OUR BATON ROUGE\nVIRTUAL OFFICES",
+                "title": "OUR BATON ROUGE\nVIRTUAL OFFICES"
+            },
+            "layout": "image_text",
+            "imageAlignment": "right"
+        },
+        {
+            "title": "GET A VIRTUAL OFFICE\nIN BATON ROUGE",
+            "body": "<h2></h2>\n<p>Whether you choose to work out of your home or on the road, a Baton Rouge virtual office will give you the freedom and flexibility to get the job done in the place and style of your choosing. With a local company phone number, live receptionist, premium call transferring, and a professional business address, Opus VO provides a cost-effective way for your company to grow or establish a presence in a new market without any long-term commitments.</p>\n",
+            "image": {
+                "url": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "alt": "GET A VIRTUAL OFFICE\nIN BATON ROUGE",
+                "title": "GET A VIRTUAL OFFICE\nIN BATON ROUGE"
+            },
+            "layout": "image_text",
+            "imageAlignment": "left"
+        }
+    ],
+    "faqs": [],
+    "meta": {
+        "locations_count": 2,
+        "popular_locations_count": 0,
+        "premium_locations_count": 1,
+        "regular_locations_count": 1,
+        "sections_count": 2,
+        "faqs_count": 0
+    },
+    "seo": {
+        "title": "Virtual Office in Baton Rouge, LA | Multiple Locations Available",
+        "meta_description": "Find the ultimate office solution with Opus Virtual Offices in Baton Rouge, Louisiana. Our all-inclusive virtual offices cater to your business needs. Sign up today!",
+        "canonical": "https://www.opusvirtualoffices.com/virtual-office/louisiana/baton-rouge/",
+        "og": {
+            "title": "Virtual Office in Baton Rouge, LA | Multiple Locations Available",
+            "description": "Find the ultimate office solution with Opus Virtual Offices in Baton Rouge, Louisiana. Our all-inclusive virtual offices cater to your business needs. Sign up today!",
+            "url": "https://www.opusvirtualoffices.com/virtual-office/louisiana/baton-rouge/",
+            "type": "website",
+            "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+        }
+    }
+}

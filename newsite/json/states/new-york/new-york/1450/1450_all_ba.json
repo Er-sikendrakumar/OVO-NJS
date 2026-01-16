@@ -1,0 +1,109 @@
+{
+    "success": true,
+    "location_id": 1450,
+    "mode": "business-address",
+    "data": {
+        "header": {
+            "city": "New York",
+            "state": "NY",
+            "price": null,
+            "address": {
+                "line1": "26 Broadway",
+                "suite": "Suite 934",
+                "city": "New York",
+                "state": "NY",
+                "zip": "10004",
+                "phone": "(212) 376-1810"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/1450-building-1746036916361.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1450-reception-1746036916268-scaled.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1450-conference-1746036916464-scaled.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1450-Conference-room-2-1746036916727-scaled.jpg"
+                ]
+            },
+            "features": {
+                "showMailX": 1
+            },
+            "addressOnlyOptionAvailable": 1,
+            "addressOnlyUrl": "/business-address/new-york/new-york/location-1450/",
+            "signupUrl": "/signup/?locid=1450",
+            "openingHours": {
+                "opens": "08:30:00",
+                "closes": "17:30:00",
+                "daysOfWeek": [
+                    "Monday",
+                    "Tuesday",
+                    "Wednesday",
+                    "Thursday",
+                    "Friday"
+                ]
+            },
+            "opusowned": 1,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "VIRTUAL OFFICE IN NEW YORK",
+            "body": "Opus Virtual Offices has a prestigious location in the historic Standard Oil Building. Located on 26 Broadway in the financial district of Manhattan, The Standard Oil Building will wow any client before they even step inside. Built in 1884, the building was once home to the largest oil company in the United States. Now home to Opus VO’s meeting room and many other prominent companies, your New York virtual office offers enticing views of Lower Manhattan and New York Harbor. Amenities of 26 Broadway include a 24/7 attended lobby, onsite management, and key card operated elevators.",
+            "map": {
+                "lat": 40.7054596,
+                "lng": -74.0132303,
+                "zoom": 14,
+                "city": "New York"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in New York, New York even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of New York. You can also adapt to better meet your clients’ unique needs within New York. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our New York virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "WHY OPUS?",
+                "body": "Opting for a virtual office in New York City through Opus VO gives you the exclusive advantage of a live receptionist committed to offering personalized, top-tier client service. Every point of client contact is carefully designed to resonate with your unique business objectives, supported by our wide range of administrative services. These amenities include a corporate mailing address, digital mail sorting, company phone and fax number, state-of-the-art call-forwarding options, and beyond. Our efficient administrative staff will manage your day-to-day tasks, freeing you to concentrate on your company’s strategic growth and success. Opus VO N.Y. @ 26 Broadway, Suite 934, New York, NY 10004 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            },
+            {
+                "title": "CHOOSE NEW YORK CITY",
+                "body": "Start spreading the news, because New York City is the business epicenter of the world. Every industry in the world has a place in New York and there’s no reason your business shouldn’t be included. Your office, conveniently located near the Bowling Green Subway station, gives you access to all of New York City if you wish to take your client to a trendy restaurant or a local spot off the beaten path. Explore the sweeping landscape of Central Park or take in an award-winning Broadway show, because in New York, dull moments don’t exist. With its impressive and striking architecture, along with the luminous spectacle of its skyscrapers, Opus VO’s New York location is the perfect place to set up your meeting.",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/botaraton-covered.png",
+                "layout": "image_text",
+                "imageAlignment": "left"
+            }
+        ],
+        "seo": {
+            "title": "Prestigious Business Address 26 Broadway New York | $59/month",
+            "meta_description": "Impress clients with a virtual office at 26 Broadway New York enjoy a prime location mail handling digital alerts and privacy for only $59/month",
+            "canonical": "https://www.opusvirtualoffices.com/business-address/new-york/new-york/location-1450/",
+            "og": {
+                "title": "Prestigious Business Address 26 Broadway New York | $59/month",
+                "description": "Impress clients with a virtual office at 26 Broadway New York enjoy a prime location mail handling digital alerts and privacy for only $59/month",
+                "url": "https://www.opusvirtualoffices.com/business-address/new-york/new-york/location-1450/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/1450-building-1746036916361.jpg"
+            }
+        }
+    }
+}

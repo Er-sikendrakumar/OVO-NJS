@@ -1,0 +1,17 @@
+{
+    "success": true,
+    "count": 2,
+    "state": "wyoming",
+    "data": [
+        {
+            "id": "802",
+            "name": "Casper",
+            "popular": "1"
+        },
+        {
+            "id": "459",
+            "name": "Cheyenne",
+            "popular": "1"
+        }
+    ]
+}

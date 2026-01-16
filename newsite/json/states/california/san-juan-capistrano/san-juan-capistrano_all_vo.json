@@ -1,0 +1,93 @@
+{
+    "success": true,
+    "state": "california",
+    "city": "san juan capistrano",
+    "wp_city_post_id": null,
+    "locations": [
+        {
+            "id": "579",
+            "name": "San Juan Capistrano",
+            "locname": "32158 Camino Capistrano, San Juan Capistrano, CA 92675",
+            "address": "32158 Camino Capistrano, San Juan Capistrano, CA 92675",
+            "city": "san juan capistrano",
+            "state": "california",
+            "state_english": "California",
+            "abbr": "CA",
+            "phone": "9494710914",
+            "premium": "0",
+            "opusowned": "0",
+            "showpopular": "0",
+            "point_x": "33.495771",
+            "point_y": "-117.662227",
+            "url": "/virtual-office/california/san-juan-capistrano/location-579/",
+            "image": "/assets/mail-center.webp"
+        }
+    ],
+    "popular_locations": [],
+    "premium_locations": [],
+    "regular_locations": [
+        {
+            "id": "579",
+            "name": "San Juan Capistrano",
+            "locname": "32158 Camino Capistrano, San Juan Capistrano, CA 92675",
+            "address": "32158 Camino Capistrano, San Juan Capistrano, CA 92675",
+            "city": "san juan capistrano",
+            "state": "california",
+            "state_english": "California",
+            "abbr": "CA",
+            "phone": "9494710914",
+            "premium": "0",
+            "opusowned": "0",
+            "showpopular": "0",
+            "point_x": "33.495771",
+            "point_y": "-117.662227",
+            "url": "/virtual-office/california/san-juan-capistrano/location-579/",
+            "image": "/assets/mail-center.webp"
+        }
+    ],
+    "sections": [
+        {
+            "title": "OUR SAN JUAN CAPISTRANO\nVIRTUAL OFFICES",
+            "body": "<h2></h2>\n<p>Enjoy the benefits of having a business address in San Juan Capistrano California without the stress and expense surrounding a “traditional office environment”. OpusVO gives you the prestige of having an office with the budget of working from home. Receive all your business mail at a professional office building. No post office box number, just a great business address to use on your business cards and other marketing material.</p>\n<p>You don’t just get a business phone number with your San Juan Capistrano virtual office, but also a live receptionist answering your calls the way you want them to be. Stop choosing between capturing new leads for your business and working on current clients. Do both. Get someone who looks out for you while you’re unable to break away.</p>\n",
+            "image": {
+                "url": "/newsite/wp-content/themes/ThemeDec23/assets/images/califonia-v-office.jpg",
+                "alt": "OUR SAN JUAN CAPISTRANO\nVIRTUAL OFFICES",
+                "title": "OUR SAN JUAN CAPISTRANO\nVIRTUAL OFFICES"
+            },
+            "layout": "image_text",
+            "imageAlignment": "right"
+        },
+        {
+            "title": "GET A VIRTUAL OFFICE\nIN SAN JUAN CAPISTRANO",
+            "body": "<h2></h2>\n<p>Whether you choose to work out of your home or on the road, a San Juan Capistrano virtual office will give you the freedom and flexibility to get the job done in the place and style of your choosing. With a local company phone number, live receptionist, premium call transferring, and a professional business address, Opus VO provides a cost-effective way for your company to grow or establish a presence in a new market without any long-term commitments.</p>\n",
+            "image": {
+                "url": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "alt": "GET A VIRTUAL OFFICE\nIN SAN JUAN CAPISTRANO",
+                "title": "GET A VIRTUAL OFFICE\nIN SAN JUAN CAPISTRANO"
+            },
+            "layout": "image_text",
+            "imageAlignment": "left"
+        }
+    ],
+    "faqs": [],
+    "meta": {
+        "locations_count": 1,
+        "popular_locations_count": 0,
+        "premium_locations_count": 0,
+        "regular_locations_count": 1,
+        "sections_count": 2,
+        "faqs_count": 0
+    },
+    "seo": {
+        "title": "Virtual Office in San Juan Capistrano, CA | Multiple Locations Available",
+        "meta_description": "Find the ultimate office solution with Opus Virtual Offices in San Juan Capistrano, California. Our all-inclusive virtual offices cater to your business needs. Sign up today!",
+        "canonical": "https://www.opusvirtualoffices.com/virtual-office/california/san-juan-capistrano/",
+        "og": {
+            "title": "Virtual Office in San Juan Capistrano, CA | Multiple Locations Available",
+            "description": "Find the ultimate office solution with Opus Virtual Offices in San Juan Capistrano, California. Our all-inclusive virtual offices cater to your business needs. Sign up today!",
+            "url": "https://www.opusvirtualoffices.com/virtual-office/california/san-juan-capistrano/",
+            "type": "website",
+            "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+        }
+    }
+}

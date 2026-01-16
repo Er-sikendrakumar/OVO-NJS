@@ -1,0 +1,89 @@
+{
+    "success": true,
+    "location_id": 462,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Madison",
+            "state": "NJ",
+            "price": null,
+            "address": {
+                "line1": "300 Main Street",
+                "suite": null,
+                "city": "Madison",
+                "state": "NJ",
+                "zip": "07940",
+                "phone": "(973) 735-6674"
+            },
+            "images": {
+                "hero": [
+                    "/assets/mail-center.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=462",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 0,
+            "nearbyPremium": 1,
+            "nearbyPremiumUrl": "/virtual-office/new-york/new-york/location-1450/",
+            "nearbyPremiumText": "to view nearby PREMIUM Locations that offer Meeting Rooms for the same $99/mo",
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Madison Virtual Office",
+            "body": "On the hunt for a prestigious Madison address but want to avoid the commitment of an actual office? Look no further—Opus VO has you covered. Establish your business within Madison’s active commercial scene, all while keeping your budget in check. When you need to conduct vital meetings or team collaborations, our well-equipped conference rooms are at your disposal.  By choosing our virtual workspace in Madison, you’re getting more than just an address. You also receive the support of a professional live receptionist who will integrate effortlessly with your existing team. They will make sure every client interaction resonates with your brand’s unique identity, allowing us to handle the admin details while you focus on your core business objectives. ",
+            "map": {
+                "lat": 40.749813,
+                "lng": -74.400176,
+                "zoom": 14,
+                "city": "Madison"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Madison, New Jersey even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Madison. You can also adapt to better meet your clients’ unique needs within New Jersey. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Madison virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Madison?",
+                "body": "Madison isn’t just a university town; it’s also a thriving center for businesses across a range of sectors including tech, healthcare, and retail. Having a Madison address enhances your business credibility and provides access to local networking events and key industry contacts.  Opting for Opus VO for your virtual workspace in Madison isn’t just convenient; it’s a strategic move that puts you ahead of the curve. Are you ready to elevate your business? Browse our diverse virtual workspace offerings today.  Opus VO, Madison @ 300 Main Street, Madison, NJ 07940 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Madison - 300 Main Street | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our New Jersey, Madison virtual office located at 300 Main Street. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/new-jersey/madison/location-462/",
+            "og": {
+                "title": "Virtual Office in Madison - 300 Main Street | $99/Month",
+                "description": "Get the ultimate office solution for your business with our New Jersey, Madison virtual office located at 300 Main Street. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/new-jersey/madison/location-462/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+            }
+        }
+    }
+}

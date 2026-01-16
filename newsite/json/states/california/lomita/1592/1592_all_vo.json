@@ -1,0 +1,94 @@
+{
+    "success": true,
+    "location_id": 1592,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Lomita",
+            "state": "CA",
+            "price": null,
+            "address": {
+                "line1": "25429 Narbonne Avenue",
+                "suite": null,
+                "city": "Lomita",
+                "state": "CA",
+                "zip": "90717",
+                "phone": "(888) 898-9868"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/1592-exterior.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1592-conference.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1592-conference2.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1592-cowork.png",
+                    "/wp-content-mgr/wp-content/uploads/1592-reception.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1592-lounge.jpg"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1592",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 1,
+            "nearbyPremiumUrl": "/virtual-office/california/los-angeles/location-1362/",
+            "nearbyPremiumText": "to view the most POPULAR locations nearby for the same $99/mo",
+            "locationDescription": "This location does not offer mail forwarding"
+        },
+        "overview": {
+            "heading": "Lomita Virtual Office",
+            "body": "Enjoy the privilege of a distinguished business address in Lomita without the financial constraints of maintaining a physical office space. Opus VO presents you with the exclusive chance to base your operation in an esteemed Lomita location, entirely without the exorbitant costs often associated with a conventional office lease. Make the most of our state-of-the-art conference rooms for important business consultations and client interactions while amplifying your brand’s image with a business address in Lomita.  Choosing a virtual office in Lomita through Opus VO grants you the unique benefit of a live receptionist. Committed to providing individualized, exceptional customer service, our dedicated team ensures that every client engagement is seamlessly aligned with your specific business objectives. Delegate routine administrative duties such as managing digital correspondence and advanced call-forwarding to us, thereby granting you the freedom to focus solely on propelling your business to greater heights. ",
+            "map": {
+                "lat": 33.7930554,
+                "lng": -118.3204876,
+                "zoom": 14,
+                "city": "Lomita"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Lomita, California even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Lomita. You can also adapt to better meet your clients’ unique needs within California. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Lomita virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Choose a Lomita Virtual Office?",
+                "body": "Lomita is not merely a quaint Southern California town; it’s an evolving commercial center with expanding opportunities in diverse sectors such as healthcare, technology, and retail. Conveniently situated near vital business locales, our Lomita facility offers you effortless access to key industry players and exciting networking events.  By selecting an Opus Virtual Office in Lomita, you gain more than simply reducing your operational expenses; you are securing an invaluable edge over your competition. Catapult your business to new levels of success by leveraging our unparalleled virtual office services today.  Opus VO Lomita @25429 Narbonne Avenue, Lomita, CA 90717 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Lomita - 25429 Narbonne Avenue | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our California, Lomita virtual office located at 25429 Narbonne Avenue. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/california/lomita/location-1592/",
+            "og": {
+                "title": "Virtual Office in Lomita - 25429 Narbonne Avenue | $99/Month",
+                "description": "Get the ultimate office solution for your business with our California, Lomita virtual office located at 25429 Narbonne Avenue. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/california/lomita/location-1592/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/1592-exterior.jpg"
+            }
+        }
+    }
+}

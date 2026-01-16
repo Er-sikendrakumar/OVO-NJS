@@ -1,0 +1,89 @@
+{
+    "success": true,
+    "location_id": 548,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Branford",
+            "state": "CT",
+            "price": null,
+            "address": {
+                "line1": "1204 Main St.",
+                "suite": null,
+                "city": "Branford",
+                "state": "CT",
+                "zip": "06405",
+                "phone": "(203) 405-4086"
+            },
+            "images": {
+                "hero": [
+                    "/assets/mail-center.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=548",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 0,
+            "nearbyPremium": 1,
+            "nearbyPremiumUrl": "/virtual-office/connecticut/branford/location-1668/",
+            "nearbyPremiumText": "to view the nearby PREMIUM Locations for the same $99/mo",
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Branford Virtual Office",
+            "body": "Why break the bank on an office space when you can secure a distinguished Branford address without the high costs? With Opus VO, you can embed your business in the heart of Branford’s commercial scene, while keeping your expenses in check. Need a spot for important meetings or team collaborations? Our top-notch conference rooms are at your disposal. Plus, a Branford address adds that extra dash of credibility to your brand.  Choose a virtual office in Branford through Opus VO, and you also gain the professional touch of a live receptionist. We focus on ensuring every client interaction meshes seamlessly with your unique business ethos. Hand off those routine admin duties to us, so you can zero in on your big-picture goals. ",
+            "map": {
+                "lat": 41.284064,
+                "lng": -72.810035,
+                "zoom": 14,
+                "city": "Branford"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Branford, Connecticut even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Branford. You can also adapt to better meet your clients’ unique needs within Connecticut. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Branford virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Branford?",
+                "body": "Branford isn’t just a charming coastal town—it’s an emerging hub for businesses across multiple industries like tech, retail, and healthcare. Our Branford location is strategically placed, offering you direct access to essential industry contacts and valuable networking events.  By picking Opus VO in Branford, you’re doing more than cutting corners on expenses; you’re acquiring a competitive advantage. Ready to take your business to the next level? Our exceptional virtual office solutions are right here, waiting for you.  Opus VO Branford @ 1204 Main St., Branford, CT 06405 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Branford - 1204 Main St. | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Connecticut, Branford virtual office located at 1204 Main St.. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/connecticut/branford/location-548/",
+            "og": {
+                "title": "Virtual Office in Branford - 1204 Main St. | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Connecticut, Branford virtual office located at 1204 Main St.. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/connecticut/branford/location-548/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+            }
+        }
+    }
+}

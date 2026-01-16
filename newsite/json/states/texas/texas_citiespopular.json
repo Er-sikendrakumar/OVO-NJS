@@ -1,0 +1,35 @@
+{
+    "success": true,
+    "count": 7,
+    "state": "texas",
+    "data": [
+        {
+            "id": "115",
+            "name": "Arlington"
+        },
+        {
+            "id": "116",
+            "name": "Austin"
+        },
+        {
+            "id": "202",
+            "name": "Dallas"
+        },
+        {
+            "id": "342",
+            "name": "El Paso"
+        },
+        {
+            "id": "414",
+            "name": "Fort Worth"
+        },
+        {
+            "id": "117",
+            "name": "Houston"
+        },
+        {
+            "id": "119",
+            "name": "San Antonio"
+        }
+    ]
+}

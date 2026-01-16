@@ -1,0 +1,17 @@
+{
+    "success": true,
+    "page": "homepage",
+    "page_type": "simple",
+    "seo": {
+        "title": "Virtual Offices Nationwide – $99/Month All-Inclusive | Opus VO",
+        "meta_description": "Get a professional virtual office for $99/month nationwide. Includes business address, mail forwarding, and live receptionist services",
+        "canonical": "https://www.opusvirtualoffices.com/",
+        "og": {
+            "title": "Virtual Offices Nationwide – $99/Month All-Inclusive | Opus VO",
+            "description": "Get a professional virtual office for $99/month nationwide. Includes business address, mail forwarding, and live receptionist services",
+            "url": "https://www.opusvirtualoffices.com/",
+            "type": "website",
+            "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+        }
+    }
+}

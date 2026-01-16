@@ -1,0 +1,46 @@
+{
+    "success": true,
+    "count": 2,
+    "state": "montana",
+    "mode": "virtual-office",
+    "data": [
+        {
+            "id": 1451,
+            "location_name": "821 N 27th Street, Billings, MT 59101",
+            "city": "Billings",
+            "state": "Montana",
+            "state_abbr": "MT",
+            "address": "821 N 27th Street, Billings, MT 59101",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 45.789254,
+            "point_y": -108.5103387,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/montana/billings/location-1451/",
+            "phone": "4063719928"
+        },
+        {
+            "id": 1763,
+            "location_name": "317 N Cruse Ave, Helena, MT 59601",
+            "city": "Helena",
+            "state": "Montana",
+            "state_abbr": "MT",
+            "address": "317 N Cruse Ave, Helena, MT 59601",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 46.588954,
+            "point_y": -112.0368441,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1763-Exterior.jpeg",
+                "alttext": "Exterior of building that houses Opus Virtual Offices located in Helena, Montana"
+            },
+            "url": "/virtual-office/montana/helena/location-1763/",
+            "phone": "4062063783"
+        }
+    ]
+}

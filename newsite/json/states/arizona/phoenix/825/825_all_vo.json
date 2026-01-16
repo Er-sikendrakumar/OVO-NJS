@@ -1,0 +1,93 @@
+{
+    "success": true,
+    "location_id": 825,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Phoenix",
+            "state": "AZ",
+            "price": null,
+            "address": {
+                "line1": "2942 N 24th Street",
+                "suite": null,
+                "city": "Phoenix",
+                "state": "AZ",
+                "zip": "85016",
+                "phone": "(602) 384-2372"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/Opus-Virtual-Office-Phoenix-Building-Exterior-Sign-scaled.webp",
+                    "/wp-content-mgr/wp-content/uploads/Opus-Virtual-Office-Phoenix-Reception-Area.webp",
+                    "/wp-content-mgr/wp-content/uploads/Opus-Virtual-Office-Phoenix-Small-Meeting-Room-scaled.webp",
+                    "/wp-content-mgr/wp-content/uploads/Opus-Virtual-Office-Phoenix-Printer-Room-scaled.webp",
+                    "/wp-content-mgr/wp-content/uploads/Opus-Virtual-Office-Phoenix-Building-Exterior.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=825",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Phoenix Virtual Office",
+            "body": "Capture the allure of a prestigious business address in Phoenix without the financial commitments of a physical office. Opus VO offers you the chance to locate your business in one of two prime Phoenix spots, all at a fraction of the expense of a regular office lease. Utilize our cutting-edge conference rooms for key business discussions and client consultations, while bolstering your company’s status with a distinguished Phoenix address.  Choosing a virtual office in Phoenix through Opus VO comes with the extraordinary benefit of a live receptionist. Committed to providing bespoke, exceptional customer service, our team ensures that each client interaction aligns perfectly with your individual business goals. Allocate routine administrative duties like digital mail processing and elaborate call-forwarding to us, liberating you to focus on elevating your business. ",
+            "map": {
+                "lat": 33.481891399,
+                "lng": -112.0309761,
+                "zoom": 14,
+                "city": "Phoenix"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Phoenix, Arizona even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Phoenix. You can also adapt to better meet your clients’ unique needs within Arizona. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Phoenix virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Choose a Phoenix Virtual Office?",
+                "body": "Phoenix is not just the vibrant capital of Arizona; it’s a bustling business epicenter with abundant opportunities in sectors such as technology, finance, and healthcare. Strategically situated near vital business corridors, our Phoenix locations afford you effortless access to essential industry connections and enriching networking events.  By selecting an Opus Virtual Office in Phoenix, you’re doing more than just mitigating your operational costs; you’re gaining a remarkable competitive advantage. Thrust your business into new realms of success by leveraging our superior virtual office services today.  Choose from one of our two Phoenix locations @ 18444 N 25th Ave, Phoenix, AZ 85023 or @ 2942 N 24th Street, Phoenix, AZ 85016 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Phoenix - 2942 N 24th Street | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Arizona, Phoenix virtual office located at 2942 N 24th Street. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/arizona/phoenix/location-825/",
+            "og": {
+                "title": "Virtual Office in Phoenix - 2942 N 24th Street | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Arizona, Phoenix virtual office located at 2942 N 24th Street. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/arizona/phoenix/location-825/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/Opus-Virtual-Office-Phoenix-Building-Exterior-Sign-scaled.webp"
+            }
+        }
+    }
+}

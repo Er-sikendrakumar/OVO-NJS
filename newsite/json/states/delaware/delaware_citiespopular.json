@@ -1,0 +1,11 @@
+{
+    "success": true,
+    "count": 1,
+    "state": "delaware",
+    "data": [
+        {
+            "id": "100",
+            "name": "Wilmington"
+        }
+    ]
+}

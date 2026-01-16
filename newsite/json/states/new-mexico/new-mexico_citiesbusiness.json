@@ -1,0 +1,12 @@
+{
+    "success": true,
+    "count": 1,
+    "state": "new mexico",
+    "data": [
+        {
+            "id": "294",
+            "name": "Albuquerque",
+            "popular": "1"
+        }
+    ]
+}

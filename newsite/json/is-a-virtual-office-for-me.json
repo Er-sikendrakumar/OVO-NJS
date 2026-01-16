@@ -1,0 +1,17 @@
+{
+    "success": true,
+    "page": "is-a-virtual-office-for-me",
+    "page_type": "simple",
+    "seo": {
+        "title": "Is a Virtual Office for me? Learn More Opus Virtual Offices",
+        "meta_description": "With an Opus Virtual Office, get your calls answered in a professional fashion, take messages or transfer all the calls to you no matter where you are.",
+        "canonical": "https://njs.opusvirtualoffices.com/is-a-virtual-office-for-me/",
+        "og": {
+            "title": "Is a Virtual Office for me? Learn More Opus Virtual Offices",
+            "description": "With an Opus Virtual Office, get your calls answered in a professional fashion, take messages or transfer all the calls to you no matter where you are.",
+            "url": "https://njs.opusvirtualoffices.com/is-a-virtual-office-for-me/",
+            "type": "website",
+            "image": "https://njs.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+        }
+    }
+}

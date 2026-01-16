@@ -1,0 +1,23 @@
+{
+    "success": true,
+    "page": "business-address/vermont/shelburne",
+    "page_type": "location_city",
+    "view": "city",
+    "seo": {
+        "title": "Virtual Office in Shelburne, VT | Multiple Locations Available",
+        "meta_description": "Find the ultimate office solution with Opus Virtual Offices in Shelburne, Vermont. Our all-inclusive virtual offices cater to your business needs. Sign up today!",
+        "canonical": "https://www.opusvirtualoffices.com/business-address/vermont/shelburne/",
+        "og": {
+            "title": "Virtual Office in Shelburne, VT | Multiple Locations Available",
+            "description": "Find the ultimate office solution with Opus Virtual Offices in Shelburne, Vermont. Our all-inclusive virtual offices cater to your business needs. Sign up today!",
+            "url": "https://www.opusvirtualoffices.com/business-address/vermont/shelburne/",
+            "type": "website",
+            "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+        }
+    },
+    "data": {
+        "state": "Vermont",
+        "city": "Shelburne",
+        "mode": "business-address"
+    }
+}

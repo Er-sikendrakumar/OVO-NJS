@@ -1,0 +1,93 @@
+{
+    "success": true,
+    "location_id": 1030,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Uniondale",
+            "state": "NY",
+            "price": null,
+            "address": {
+                "line1": "405 RXR Plaza",
+                "suite": null,
+                "city": "Uniondale",
+                "state": "NY",
+                "zip": "11556",
+                "phone": "(516) 303-0611"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/1030-exterior.png",
+                    "/wp-content-mgr/wp-content/uploads/1030-Conference2.png",
+                    "/wp-content-mgr/wp-content/uploads/1030-Conference3.png",
+                    "/wp-content-mgr/wp-content/uploads/1030-Reception-1.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1030-lobby.png"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1030",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 1,
+            "nearbyPremiumUrl": "/virtual-office/new-york/brooklyn/location-1477/",
+            "nearbyPremiumText": "to view the most POPULAR locations nearby for the same $99/mo",
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Uniondale Virtual Office",
+            "body": "Ever desired a prestigious Uniondale address without the obligations of a traditional office? Opus VO has the solution. Position your business in the heart of Uniondale’s dynamic business community while managing your expenses wisely. Our modern conference rooms are at your disposal for those essential meetings and productive team gatherings.  By choosing our virtual workspace in Uniondale, you’re not just securing a prestigious address. You’re also gaining access to a professional live receptionist who seamlessly integrates with your team. They ensure that every client interaction aligns with your unique brand identity, allowing us to handle routine administrative tasks while you focus on your core business objectives. ",
+            "map": {
+                "lat": 40.7201982,
+                "lng": -73.5838903,
+                "zoom": 14,
+                "city": "Uniondale"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Uniondale, New York even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Uniondale. You can also adapt to better meet your clients’ unique needs within New York. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Uniondale virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Uniondale?",
+                "body": "Uniondale is not just a charming community; it’s a thriving business hub with opportunities spanning various sectors, including finance, healthcare, and professional services. A Uniondale address not only elevates your business reputation but also opens doors to valuable networking events and industry connections.  Opting for Opus VO for your virtual office in Uniondale is more than a practical choice; it’s a strategic advantage. Are you ready to elevate your business presence? Explore our exceptional virtual office solutions today.  Opus VO, Uniondale @ 405 RXR Plaza, Uniondale, NY 11556 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Uniondale - 405 RXR Plaza | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our New York, Uniondale virtual office located at 405 RXR Plaza. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/new-york/uniondale/location-1030/",
+            "og": {
+                "title": "Virtual Office in Uniondale - 405 RXR Plaza | $99/Month",
+                "description": "Get the ultimate office solution for your business with our New York, Uniondale virtual office located at 405 RXR Plaza. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/new-york/uniondale/location-1030/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/1030-exterior.png"
+            }
+        }
+    }
+}

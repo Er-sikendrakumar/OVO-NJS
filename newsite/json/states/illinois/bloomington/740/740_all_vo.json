@@ -1,0 +1,89 @@
+{
+    "success": true,
+    "location_id": 740,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Bloomington",
+            "state": "IL",
+            "price": null,
+            "address": {
+                "line1": "1701 E. Empire Street",
+                "suite": null,
+                "city": "Bloomington",
+                "state": "IL",
+                "zip": "61704",
+                "phone": "(309) 319-9567"
+            },
+            "images": {
+                "hero": [
+                    "/assets/mail-center.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=740",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 0,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Bloomington Virtual Office",
+            "body": "Capture an elite business address in Bloomington without the hefty price tag of an actual office. With Opus VO, you’re situating your venture in the pulsating core of Bloomington, and you’re doing it without emptying your coffers. Have a crucial face-to-face or a client presentation to nail? Our state-of-the-art conference rooms are primed and ready.  Go virtual in Bloomington via Opus VO, and a proficient live receptionist becomes a part of your team. We focus on making each customer interaction an effortless continuation of your own brand’s uniqueness. Hand over those routine administrative tasks to us, allowing you to shoot for the stars in your business pursuits.   ",
+            "map": {
+                "lat": 40.486029,
+                "lng": -88.951603,
+                "zoom": 14,
+                "city": "Bloomington"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Bloomington, Illinois even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Bloomington. You can also adapt to better meet your clients’ unique needs within Illinois. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Bloomington virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Bloomington? ",
+                "body": "Thinking Bloomington is all about university life and quiet suburbs? Look beyond. It’s rapidly gaining traction as a hub for a range of industries like tech, healthcare, and manufacturing. Being in Bloomington connects you to vital networking opportunities and game-changing industry events.  When you opt for Opus VO in Bloomington, you’re not just being budget-smart—you’re giving yourself a leg up on the competition. Ready to elevate your business game? Our deluxe virtual office solutions are at your service.  Opus VO, Bloomington @ 1701 E. Empire Street, Bloomington, IL 61704 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Bloomington - 1701 E. Empire Street | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Illinois, Bloomington virtual office located at 1701 E. Empire Street. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/illinois/bloomington/location-740/",
+            "og": {
+                "title": "Virtual Office in Bloomington - 1701 E. Empire Street | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Illinois, Bloomington virtual office located at 1701 E. Empire Street. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/illinois/bloomington/location-740/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+            }
+        }
+    }
+}

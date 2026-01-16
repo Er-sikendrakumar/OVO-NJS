@@ -1,0 +1,112 @@
+{
+    "success": true,
+    "location_id": 1430,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Chicago",
+            "state": "IL",
+            "price": null,
+            "address": {
+                "line1": "122 South Michigan Avenue",
+                "suite": "Suite 1390",
+                "city": "Chicago",
+                "state": "IL",
+                "zip": "60603",
+                "phone": "(312) 847-8160"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/1430-01.bldg_-2.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1430-02.bldg_.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1430-03.meeting-1.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1430-04.meeting.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1430-05.combined.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1430-06.lobby_.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1430-07.amenity.jpg"
+                ]
+            },
+            "features": {
+                "showMailX": 1
+            },
+            "addressOnlyOptionAvailable": 1,
+            "addressOnlyUrl": "/business-address/illinois/chicago/location-1430/",
+            "signupUrl": "/signup/?locid=1430",
+            "openingHours": {
+                "opens": "08:30:00",
+                "closes": "17:30:00",
+                "daysOfWeek": [
+                    "Monday",
+                    "Tuesday",
+                    "Wednesday",
+                    "Thursday",
+                    "Friday"
+                ]
+            },
+            "opusowned": 1,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "CHICAGO VIRTUAL OFFICE",
+            "body": "Embrace the captivating charm of the Windy City with a prestigious meeting room and business address from Opus Virtual Offices. Located in the historic Peoples Gas Building at 122 Michigan Avenue, this location is an ideal place to hold your business meetings. Built in 1911, The Peoples Gas Building is listed on the National Register of Historic Places and features stunning views of Lake Michigan and Downtown Chicago. With a facade decorated with lions, patterned stonework, and ionic columns, a great first impression will be made before your clients even step into the building. Feeling hungry before your meeting? Why not grab some Chick-Fil-A for you and your clients? After all, it’s located on the first floor. Conveniently located near the Adams/Wabash subway station, you and your clients will have no issue quickly arriving and departing your Chicago location with ease.",
+            "map": {
+                "lat": 41.879742,
+                "lng": -87.624623,
+                "zoom": 14,
+                "city": "Chicago"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Chicago, Illinois even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Chicago. You can also adapt to better meet your clients’ unique needs within Illinois. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Chicago virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "WHY OPUS?",
+                "body": "Opting for a virtual office in Chicago through Opus VO gives you the exclusive advantage of a live receptionist committed to offering personalized, top-tier client service. Every point of client contact is carefully designed to resonate with your unique business objectives, supported by our wide range of administrative services. These amenities include a corporate mailing address, digital mail sorting, company phone and fax number, state-of-the-art call-forwarding options, and beyond. Our efficient administrative staff will manage your day-to-day tasks, freeing you to concentrate on your company’s strategic growth and success. Opus VO Chicago @ 122 South Michigan Avenue, Suite 1390 Chicago, IL 60603",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            },
+            {
+                "title": "CHOOSE CHICAGO",
+                "body": "Chicago is a marvel of urban grace and architectural innovation. Directly across the street from your virtual office is the Art Institute of Chicago, home to acclaimed sculptures and world-renowned paintings. If that’s not your style, Chicago’s Millennium Park is just a block away. Featuring beautiful gardens, music, and plenty of open green space, this is just a taste of where you can take your client. The opulent Magnificent Mile, home to illustrious restaurants and shops, is located just half a mile from your Chicago virtual office. With a wealth of transportation options, art installations, and distinct neighborhoods, it’s the perfect time to seize the moment in Chicago.",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/botaraton-covered.png",
+                "layout": "image_text",
+                "imageAlignment": "left"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Chicago | Business Address | Opus Virtual Offices",
+            "meta_description": "A virtual office in Chicago provides a professional business address, access to meeting rooms, a virtual receptionist, and mail handling. Learn more today.",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/illinois/chicago/location-1430/",
+            "og": {
+                "title": "Virtual Office in Chicago | Business Address | Opus Virtual Offices",
+                "description": "A virtual office in Chicago provides a professional business address, access to meeting rooms, a virtual receptionist, and mail handling. Learn more today.",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/illinois/chicago/location-1430/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/1430-01.bldg_-2.jpg"
+            }
+        }
+    }
+}

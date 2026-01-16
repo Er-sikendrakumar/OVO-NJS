@@ -1,0 +1,89 @@
+{
+    "success": true,
+    "location_id": 507,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "North Hollywood",
+            "state": "CA",
+            "price": null,
+            "address": {
+                "line1": "5062 Lankershim Boulevard",
+                "suite": null,
+                "city": "North Hollywood",
+                "state": "CA",
+                "zip": "91601",
+                "phone": "(818) 572-9417"
+            },
+            "images": {
+                "hero": [
+                    "/assets/mail-center.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=507",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 0,
+            "nearbyPremium": 1,
+            "nearbyPremiumUrl": "/virtual-office/california/beverly-hills/location-936/",
+            "nearbyPremiumText": "to view nearby PREMIUM Locations that offer Meeting Rooms for the same $99/mo",
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "North Hollywood Virtual Office",
+            "body": "Experience the benefits of a prestigious North Hollywood business address without the financial strain associated with a physical office. Opus VO offers the unique privilege of locating your enterprise in an enviable North Hollywood setting, without the steep costs of a conventional office lease. Take advantage of our advanced conference rooms for key business collaborations and valuable client interactions, while enhancing your brand’s image with a reputable North Hollywood address.  Selecting a virtual office in North Hollywood through Opus VO entitles you to the specialized service of a live receptionist. Dedicated to providing individualized, high-quality customer service, our team ensures that every client interaction is in seamless alignment with your distinct business objectives. Entrust the routine administrative responsibilities like mail handling and call management to us, allowing you the freedom to focus on expanding your business. ",
+            "map": {
+                "lat": 34.1626235,
+                "lng": -118.3730051,
+                "zoom": 14,
+                "city": "North Hollywood"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in North Hollywood, California even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of North Hollywood. You can also adapt to better meet your clients’ unique needs within California. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our North Hollywood virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Choose a North Hollywood Virtual Office?",
+                "body": "North Hollywood isn’t just a vital part of the entertainment industry; it’s a bustling commercial center with abundant opportunities in fields like media, technology, and arts. Conveniently positioned near significant business centers, our North Hollywood facilities provide you with straightforward access to key industry leaders and dynamic networking events.  By opting for an Opus Virtual Office in North Hollywood, you’re getting more than just a reduction in operational expenses; you’re securing a valuable competitive advantage. Catapult your business to new summits of success by utilizing our exceptional virtual office services today.  Opus VO North Hollywood @ 5062 Lankershim Boulevard, North Hollywood, CA 91601 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in North Hollywood - 5062 Lankershim Boulevard | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our California, North Hollywood virtual office located at 5062 Lankershim Boulevard. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/california/north-hollywood/location-507/",
+            "og": {
+                "title": "Virtual Office in North Hollywood - 5062 Lankershim Boulevard | $99/Month",
+                "description": "Get the ultimate office solution for your business with our California, North Hollywood virtual office located at 5062 Lankershim Boulevard. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/california/north-hollywood/location-507/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+            }
+        }
+    }
+}

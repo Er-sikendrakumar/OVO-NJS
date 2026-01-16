@@ -1,0 +1,89 @@
+{
+    "success": true,
+    "location_id": 578,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Milford",
+            "state": "NH",
+            "price": null,
+            "address": {
+                "line1": "614 Nashua Street",
+                "suite": null,
+                "city": "Milford",
+                "state": "NH",
+                "zip": "03055",
+                "phone": "(603) 263-0342"
+            },
+            "images": {
+                "hero": [
+                    "/assets/mail-center.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=578",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 0,
+            "nearbyPremium": 1,
+            "nearbyPremiumUrl": "/virtual-office/new-hampshire/manchester/location-1436/",
+            "nearbyPremiumText": "to view the nearby PREMIUM Locations for the same $99/mo",
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Milford Virtual Office",
+            "body": "Looking for a prestigious Milford address without the commitment of a traditional office? Opus VO is your solution. Situate your business in the burgeoning commercial hub of Milford, all without straining your budget. For those high-stakes client meetings or team collaborations, our state-of-the-art conference rooms are at your disposal.  When you choose our virtual workspace in Milford, you’re getting more than just an address. You also receive the service of a professional live receptionist who blends seamlessly with your team. They’ll ensure that each client interaction is in line with your unique brand, allowing us to handle the routine administrative tasks so you can focus on your primary business objectives. ",
+            "map": {
+                "lat": 42.8251516,
+                "lng": -71.6206602,
+                "zoom": 14,
+                "city": "Milford"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Milford, New Hampshire even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Milford. You can also adapt to better meet your clients’ unique needs within New Hampshire. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Milford virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Milford?",
+                "body": "Don’t underestimate Milford—it’s a rising star in the business world, hosting a variety of industries from tech startups to established retail shops. A Milford address not only adds prestige to your business but also provides you with access to valuable local networking events and essential industry contacts.  Opting for Opus VO’s virtual workspace in Milford is not merely a logistical choice; it’s a strategic advantage. Ready to boost your business profile? Explore our range of exceptional virtual workspace solutions today.  Opus VO, Milford @ 614 Nashua Street, Milford, NH 03055 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Milford - 614 Nashua Street | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our New Hampshire, Milford virtual office located at 614 Nashua Street. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/new-hampshire/milford/location-578/",
+            "og": {
+                "title": "Virtual Office in Milford - 614 Nashua Street | $99/Month",
+                "description": "Get the ultimate office solution for your business with our New Hampshire, Milford virtual office located at 614 Nashua Street. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/new-hampshire/milford/location-578/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+            }
+        }
+    }
+}

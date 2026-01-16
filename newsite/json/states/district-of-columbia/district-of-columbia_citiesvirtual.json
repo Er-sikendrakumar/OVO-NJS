@@ -1,0 +1,12 @@
+{
+    "success": true,
+    "count": 1,
+    "state": "district of columbia",
+    "data": [
+        {
+            "id": "108",
+            "name": "Washington",
+            "popular": "0"
+        }
+    ]
+}

@@ -1,0 +1,136 @@
+{
+    "success": true,
+    "state": "oregon",
+    "city": "hillsboro",
+    "wp_city_post_id": null,
+    "locations": [
+        {
+            "id": "1016",
+            "name": "Hillsboro",
+            "locname": "4660 NE Belknap Court, Hillsboro, OR 97124",
+            "address": "4660 NE Belknap Court, Suite 101, Hillsboro, OR 97124",
+            "city": "hillsboro",
+            "state": "oregon",
+            "state_english": "Oregon",
+            "abbr": "OR",
+            "phone": "5037135511",
+            "premium": "1",
+            "opusowned": "0",
+            "showpopular": "0",
+            "point_x": "45.530183",
+            "point_y": "-122.934805",
+            "url": "/virtual-office/oregon/hillsboro/location-1016/",
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1016-building.jpg",
+                "alttext": ""
+            }
+        },
+        {
+            "id": "742",
+            "name": "Hillsboro",
+            "locname": "2373 NW 185th Avenue, Hillsboro, OR 97124",
+            "address": "2373 NW 185th Avenue, Hillsboro, OR 97124",
+            "city": "hillsboro",
+            "state": "oregon",
+            "state_english": "Oregon",
+            "abbr": "OR",
+            "phone": "5037135508",
+            "premium": "0",
+            "opusowned": "0",
+            "showpopular": "0",
+            "point_x": "45.537276",
+            "point_y": "-122.867497",
+            "url": "/virtual-office/oregon/hillsboro/location-742/",
+            "image": "/assets/mail-center.webp"
+        }
+    ],
+    "popular_locations": [],
+    "premium_locations": [
+        {
+            "id": "1016",
+            "name": "Hillsboro",
+            "locname": "4660 NE Belknap Court, Hillsboro, OR 97124",
+            "address": "4660 NE Belknap Court, Suite 101, Hillsboro, OR 97124",
+            "city": "hillsboro",
+            "state": "oregon",
+            "state_english": "Oregon",
+            "abbr": "OR",
+            "phone": "5037135511",
+            "premium": "1",
+            "opusowned": "0",
+            "showpopular": "0",
+            "point_x": "45.530183",
+            "point_y": "-122.934805",
+            "url": "/virtual-office/oregon/hillsboro/location-1016/",
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1016-building.jpg",
+                "alttext": ""
+            }
+        }
+    ],
+    "regular_locations": [
+        {
+            "id": "742",
+            "name": "Hillsboro",
+            "locname": "2373 NW 185th Avenue, Hillsboro, OR 97124",
+            "address": "2373 NW 185th Avenue, Hillsboro, OR 97124",
+            "city": "hillsboro",
+            "state": "oregon",
+            "state_english": "Oregon",
+            "abbr": "OR",
+            "phone": "5037135508",
+            "premium": "0",
+            "opusowned": "0",
+            "showpopular": "0",
+            "point_x": "45.537276",
+            "point_y": "-122.867497",
+            "url": "/virtual-office/oregon/hillsboro/location-742/",
+            "image": "/assets/mail-center.webp"
+        }
+    ],
+    "sections": [
+        {
+            "title": "OUR HILLSBORO\nVIRTUAL OFFICES",
+            "body": "<h2></h2>\n<p>Enjoy the benefits of having a business address in Hillsboro Oregon without the stress and expense surrounding a “traditional office environment”. OpusVO gives you the prestige of having an office with the budget of working from home. Receive all your business mail at a professional office building. No post office box number, just a great business address to use on your business cards and other marketing material.</p>\n<p>You don’t just get a business phone number with your Hillsboro virtual office, but also a live receptionist answering your calls the way you want them to be. Stop choosing between capturing new leads for your business and working on current clients. Do both. Get someone who looks out for you while you’re unable to break away.</p>\n",
+            "image": {
+                "url": "/newsite/wp-content/themes/ThemeDec23/assets/images/califonia-v-office.jpg",
+                "alt": "OUR HILLSBORO\nVIRTUAL OFFICES",
+                "title": "OUR HILLSBORO\nVIRTUAL OFFICES"
+            },
+            "layout": "image_text",
+            "imageAlignment": "right"
+        },
+        {
+            "title": "GET A VIRTUAL OFFICE\nIN HILLSBORO",
+            "body": "<h2></h2>\n<p>Whether you choose to work out of your home or on the road, a Hillsboro virtual office will give you the freedom and flexibility to get the job done in the place and style of your choosing. With a local company phone number, live receptionist, premium call transferring, and a professional business address, Opus VO provides a cost-effective way for your company to grow or establish a presence in a new market without any long-term commitments.</p>\n",
+            "image": {
+                "url": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "alt": "GET A VIRTUAL OFFICE\nIN HILLSBORO",
+                "title": "GET A VIRTUAL OFFICE\nIN HILLSBORO"
+            },
+            "layout": "image_text",
+            "imageAlignment": "left"
+        }
+    ],
+    "faqs": [],
+    "meta": {
+        "locations_count": 2,
+        "popular_locations_count": 0,
+        "premium_locations_count": 1,
+        "regular_locations_count": 1,
+        "sections_count": 2,
+        "faqs_count": 0
+    },
+    "seo": {
+        "title": "Virtual Office in Hillsboro, OR | Multiple Locations Available",
+        "meta_description": "Find the ultimate office solution with Opus Virtual Offices in Hillsboro, Oregon. Our all-inclusive virtual offices cater to your business needs. Sign up today!",
+        "canonical": "https://www.opusvirtualoffices.com/virtual-office/oregon/hillsboro/",
+        "og": {
+            "title": "Virtual Office in Hillsboro, OR | Multiple Locations Available",
+            "description": "Find the ultimate office solution with Opus Virtual Offices in Hillsboro, Oregon. Our all-inclusive virtual offices cater to your business needs. Sign up today!",
+            "url": "https://www.opusvirtualoffices.com/virtual-office/oregon/hillsboro/",
+            "type": "website",
+            "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+        }
+    }
+}

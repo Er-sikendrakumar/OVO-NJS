@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "count": 6,
+    "state": "north carolina",
+    "data": [
+        {
+            "id": "249",
+            "name": "Asheville"
+        },
+        {
+            "id": "68",
+            "name": "Charlotte"
+        },
+        {
+            "id": "555",
+            "name": "Greensboro"
+        },
+        {
+            "id": "747",
+            "name": "High Point"
+        },
+        {
+            "id": "343",
+            "name": "Wilmington"
+        },
+        {
+            "id": "142",
+            "name": "Winston Salem"
+        }
+    ]
+}

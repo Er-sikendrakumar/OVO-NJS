@@ -1,0 +1,99 @@
+{
+    "success": true,
+    "state": "massachusetts",
+    "city": "marlborough",
+    "wp_city_post_id": null,
+    "locations": [
+        {
+            "id": "1546",
+            "name": "Marlborough",
+            "locname": "11 Apex Drive, Marlborough, MA 01752",
+            "address": "11 Apex Drive, Marlborough, MA 01752",
+            "city": "marlborough",
+            "state": "massachusetts",
+            "state_english": "Massachusetts",
+            "abbr": "MA",
+            "phone": "5089058191",
+            "premium": "1",
+            "opusowned": "0",
+            "showpopular": "0",
+            "point_x": "42.3393025",
+            "point_y": "-71.5840788",
+            "url": "/virtual-office/massachusetts/marlborough/location-1546/",
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1546-exterior.jpg",
+                "alttext": "Exterior of building that houses Opus Virtual Offices located in Marlborough, Massachusetts"
+            }
+        }
+    ],
+    "popular_locations": [],
+    "premium_locations": [
+        {
+            "id": "1546",
+            "name": "Marlborough",
+            "locname": "11 Apex Drive, Marlborough, MA 01752",
+            "address": "11 Apex Drive, Marlborough, MA 01752",
+            "city": "marlborough",
+            "state": "massachusetts",
+            "state_english": "Massachusetts",
+            "abbr": "MA",
+            "phone": "5089058191",
+            "premium": "1",
+            "opusowned": "0",
+            "showpopular": "0",
+            "point_x": "42.3393025",
+            "point_y": "-71.5840788",
+            "url": "/virtual-office/massachusetts/marlborough/location-1546/",
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1546-exterior.jpg",
+                "alttext": "Exterior of building that houses Opus Virtual Offices located in Marlborough, Massachusetts"
+            }
+        }
+    ],
+    "regular_locations": [],
+    "sections": [
+        {
+            "title": "OUR MARLBOROUGH\nVIRTUAL OFFICES",
+            "body": "<h2></h2>\n<p>Enjoy the benefits of having a business address in Marlborough Massachusetts without the stress and expense surrounding a “traditional office environment”. OpusVO gives you the prestige of having an office with the budget of working from home. Receive all your business mail at a professional office building. No post office box number, just a great business address to use on your business cards and other marketing material.</p>\n<p>You don’t just get a business phone number with your Marlborough virtual office, but also a live receptionist answering your calls the way you want them to be. Stop choosing between capturing new leads for your business and working on current clients. Do both. Get someone who looks out for you while you’re unable to break away.</p>\n",
+            "image": {
+                "url": "/newsite/wp-content/themes/ThemeDec23/assets/images/califonia-v-office.jpg",
+                "alt": "OUR MARLBOROUGH\nVIRTUAL OFFICES",
+                "title": "OUR MARLBOROUGH\nVIRTUAL OFFICES"
+            },
+            "layout": "image_text",
+            "imageAlignment": "right"
+        },
+        {
+            "title": "GET A VIRTUAL OFFICE\nIN MARLBOROUGH",
+            "body": "<h2></h2>\n<p>Whether you choose to work out of your home or on the road, a Marlborough virtual office will give you the freedom and flexibility to get the job done in the place and style of your choosing. With a local company phone number, live receptionist, premium call transferring, and a professional business address, Opus VO provides a cost-effective way for your company to grow or establish a presence in a new market without any long-term commitments.</p>\n",
+            "image": {
+                "url": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "alt": "GET A VIRTUAL OFFICE\nIN MARLBOROUGH",
+                "title": "GET A VIRTUAL OFFICE\nIN MARLBOROUGH"
+            },
+            "layout": "image_text",
+            "imageAlignment": "left"
+        }
+    ],
+    "faqs": [],
+    "meta": {
+        "locations_count": 1,
+        "popular_locations_count": 0,
+        "premium_locations_count": 1,
+        "regular_locations_count": 0,
+        "sections_count": 2,
+        "faqs_count": 0
+    },
+    "seo": {
+        "title": "Virtual Office in Marlborough, MA | Multiple Locations Available",
+        "meta_description": "Find the ultimate office solution with Opus Virtual Offices in Marlborough, Massachusetts. Our all-inclusive virtual offices cater to your business needs. Sign up today!",
+        "canonical": "https://www.opusvirtualoffices.com/virtual-office/massachusetts/marlborough/",
+        "og": {
+            "title": "Virtual Office in Marlborough, MA | Multiple Locations Available",
+            "description": "Find the ultimate office solution with Opus Virtual Offices in Marlborough, Massachusetts. Our all-inclusive virtual offices cater to your business needs. Sign up today!",
+            "url": "https://www.opusvirtualoffices.com/virtual-office/massachusetts/marlborough/",
+            "type": "website",
+            "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+        }
+    }
+}

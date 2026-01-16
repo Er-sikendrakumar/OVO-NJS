@@ -1,0 +1,27 @@
+{
+    "success": true,
+    "count": 1,
+    "state": "massachusetts",
+    "mode": "business-address",
+    "data": [
+        {
+            "id": 1206,
+            "location_name": "265 Franklin Street, Boston, MA 02110",
+            "city": "Boston",
+            "state": "Massachusetts",
+            "state_abbr": "MA",
+            "address": "265 Franklin Street, Boston, MA 02110",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 42.3564979,
+            "point_y": -71.0533518,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1206-001-Building.jpg",
+                "alttext": null
+            },
+            "url": "/business-address/massachusetts/boston/location-1206/",
+            "phone": "6178024204"
+        }
+    ]
+}

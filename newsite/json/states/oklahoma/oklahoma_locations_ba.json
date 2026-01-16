@@ -1,0 +1,27 @@
+{
+    "success": true,
+    "count": 1,
+    "state": "oklahoma",
+    "mode": "business-address",
+    "data": [
+        {
+            "id": 1555,
+            "location_name": "629 W Main Street, Oklahoma City, OK 73102",
+            "city": "Oklahoma City",
+            "state": "Oklahoma",
+            "state_abbr": "OK",
+            "address": "629 W Main Street, Oklahoma City, OK 73102",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 35.4679932,
+            "point_y": -97.52380219,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1555-01.bldg_.jpg",
+                "alttext": null
+            },
+            "url": "/business-address/oklahoma/oklahoma-city/location-1555/",
+            "phone": "4056983506"
+        }
+    ]
+}

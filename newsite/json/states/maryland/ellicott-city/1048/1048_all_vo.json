@@ -1,0 +1,89 @@
+{
+    "success": true,
+    "location_id": 1048,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Ellicott City",
+            "state": "MD",
+            "price": null,
+            "address": {
+                "line1": "3545 Ellicott Mills Drive",
+                "suite": null,
+                "city": "Ellicott City",
+                "state": "MD",
+                "zip": "21043",
+                "phone": "(410) 834-3724"
+            },
+            "images": {
+                "hero": [
+                    "/assets/mail-center.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1048",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 0,
+            "nearbyPremium": 1,
+            "nearbyPremiumUrl": "/virtual-office/maryland/columbia/location-1618/",
+            "nearbyPremiumText": "to view the nearby PREMIUM Locations for the same $99/mo",
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Ellicott City Virtual Office",
+            "body": "Secure a distinguished Ellicott City address without the high costs of maintaining a physical location. Opus VO allows you to establish your business presence amid Ellicott City’s dynamic commercial landscape. Need to dazzle a key client or present a pivotal pitch? Our state-of-the-art conference rooms are set to impress.  When you opt for a virtual office in Ellicott City through Opus VO, you also gain the services of a devoted live receptionist. We ensure that each point of contact with your clients aligns seamlessly with your brand’s vision. Hand-off your routine administrative tasks to us and direct your energy toward achieving your business dreams. ",
+            "map": {
+                "lat": 39.273629,
+                "lng": -76.803129,
+                "zoom": 14,
+                "city": "Ellicott City"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Ellicott City, Maryland even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Ellicott City. You can also adapt to better meet your clients’ unique needs within Maryland. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Ellicott City virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Ellicott City?",
+                "body": "Ellicott City isn’t merely a charming locale; it’s a burgeoning hub for businesses across sectors, from retail to IT. A base in Ellicott City provides you with advantageous connections and growth prospects through various networking events and opportunities.  Going virtual with Opus VO in Ellicott City is more than just a cost-effective strategy; it’s a genuine competitive edge. Are you ready to propel your business forward? Our unmatched virtual office services are at your command.  Opus VO, Ellicott City @ 3545 Ellicott Mills Drive, Ellicott City, MD 21043     ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Ellicott City - 3545 Ellicott Mills Drive | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Maryland, Ellicott City virtual office located at 3545 Ellicott Mills Drive. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/maryland/ellicott-city/location-1048/",
+            "og": {
+                "title": "Virtual Office in Ellicott City - 3545 Ellicott Mills Drive | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Maryland, Ellicott City virtual office located at 3545 Ellicott Mills Drive. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/maryland/ellicott-city/location-1048/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+            }
+        }
+    }
+}

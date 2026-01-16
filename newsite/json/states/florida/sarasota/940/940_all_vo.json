@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "location_id": 940,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Sarasota",
+            "state": "FL",
+            "price": null,
+            "address": {
+                "line1": "677 North Washington Boulevard",
+                "suite": null,
+                "city": "Sarasota",
+                "state": "FL",
+                "zip": "34236",
+                "phone": "(941) 893-4595"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/940-Building.jpg",
+                    "/wp-content-mgr/wp-content/uploads/940-Reception.jpg",
+                    "/wp-content-mgr/wp-content/uploads/940-Conference-Room.jpg"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=940",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Sarasota Virtual Office",
+            "body": "Acquire a prestigious business address in Sarasota without the high costs of a permanent office. With Opus VO, you can seamlessly integrate your enterprise into Sarasota’s vibrant business community, all while maintaining fiscal responsibility. Have a make-or-break meeting or client pitch? Our state-of-the-art conference rooms are prepped to make you look like a pro.  When you opt for a virtual office in Sarasota through Opus VO, you’ll also enjoy the services of a dedicated live receptionist aimed to make every client interaction feel like a seamless extension of your own brand. Hand over the tedious admin duties to us, freeing your time to pursue your business dreams. ",
+            "map": {
+                "lat": 27.3419372,
+                "lng": -82.5315885,
+                "zoom": 14,
+                "city": "Sarasota"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Sarasota, Florida even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Sarasota. You can also adapt to better meet your clients’ unique needs within Florida. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Sarasota virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Sarasota?",
+                "body": "Sarasota is more than just beaches and arts; it’s a burgeoning hub for various industries, including technology, healthcare, and finance. Being established in Sarasota means you’re in the mix with key influencers and events that can expand your professional network.  Choosing Opus VO in Sarasota isn’t just a cost-effective move—it’s a move to gain a competitive advantage. Are you set to take your business to the next level? Our top-of-the-line virtual office services await you.  Choose from two Opus VO locations in Sarasota @ 677 North Washington Boulevard, Sarasota, FL 34236 or 5824 Bee Ridge Rd., Sarasota, FL 34233 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Sarasota - 677 North Washington Boulevard | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Florida, Sarasota virtual office located at 677 North Washington Boulevard. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/florida/sarasota/location-940/",
+            "og": {
+                "title": "Virtual Office in Sarasota - 677 North Washington Boulevard | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Florida, Sarasota virtual office located at 677 North Washington Boulevard. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/florida/sarasota/location-940/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/940-Building.jpg"
+            }
+        }
+    }
+}

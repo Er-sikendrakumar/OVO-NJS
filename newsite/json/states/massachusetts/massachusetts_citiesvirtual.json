@@ -1,0 +1,62 @@
+{
+    "success": true,
+    "count": 11,
+    "state": "massachusetts",
+    "data": [
+        {
+            "id": "887",
+            "name": "Beverly",
+            "popular": "0"
+        },
+        {
+            "id": "431",
+            "name": "Boston",
+            "popular": "1"
+        },
+        {
+            "id": "888",
+            "name": "Braintree",
+            "popular": "0"
+        },
+        {
+            "id": "558",
+            "name": "Burlington",
+            "popular": "1"
+        },
+        {
+            "id": "890",
+            "name": "Canton",
+            "popular": "0"
+        },
+        {
+            "id": "889",
+            "name": "Cohasset",
+            "popular": "0"
+        },
+        {
+            "id": "883",
+            "name": "Falmouth",
+            "popular": "0"
+        },
+        {
+            "id": "891",
+            "name": "Hingham",
+            "popular": "0"
+        },
+        {
+            "id": "821",
+            "name": "Marlborough",
+            "popular": "1"
+        },
+        {
+            "id": "263",
+            "name": "Randolph",
+            "popular": "1"
+        },
+        {
+            "id": "894",
+            "name": "Tyngsboro",
+            "popular": "0"
+        }
+    ]
+}

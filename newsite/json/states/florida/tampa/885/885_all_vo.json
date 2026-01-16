@@ -1,0 +1,108 @@
+{
+    "success": true,
+    "location_id": 885,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Tampa",
+            "state": "FL",
+            "price": null,
+            "address": {
+                "line1": "401 East Jackson Street",
+                "suite": "Suite 2340",
+                "city": "Tampa",
+                "state": "FL",
+                "zip": "33602",
+                "phone": "(813) 315-3990"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/Tampa-FL-Virtual-Office-at-Truist-Place-401-E-Jackson-St.webp",
+                    "/wp-content-mgr/wp-content/uploads/Tampa-Virtual-Office-Reception-Area.webp",
+                    "/wp-content-mgr/wp-content/uploads/Tampa-Virtual-Office-Conference-Room.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 1
+            },
+            "addressOnlyOptionAvailable": 1,
+            "addressOnlyUrl": "/business-address/florida/tampa/location-885/",
+            "signupUrl": "/signup/?locid=885",
+            "openingHours": {
+                "opens": "08:30:00",
+                "closes": "17:30:00",
+                "daysOfWeek": [
+                    "Monday",
+                    "Tuesday",
+                    "Wednesday",
+                    "Thursday",
+                    "Friday"
+                ]
+            },
+            "opusowned": 1,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "TAMPA VIRTUAL OFFICES",
+            "body": "Dive into the thriving and unique atmosphere of Tampa with a virtual office from Opus VO. Home to some of the best beaches the world has to offer, Tampa is also a mecca for businesses. Home to many distinguished industries such as healthcare, defense, finance, and tech, Tampa is emerging as one of the top cities in the country for new businesses. Featuring stunning views of downtown and the Hillsborough River, 401 East Jackson Street, also known as Truist Place, is the ideal location for your Tampa virtual office. Whether you’re just starting a virtual business or expanding an existing one, this premium Tampa office space offers the credibility and amenities you need to succeed. Located amidst the upscale ambiance of downtown Tampa, Truist Place is within walking distance of the Tampa Riverwalk, the Tampa Convention Center, Water Street, and the Amalie Arena, home of the NHL’s Tampa Bay Lightning. Truist Place also features a carwash and detailing service, sundry shop, a quick bite café, fitness center, and controlled access to your office address — making it as functional as it is impressive.",
+            "map": {
+                "lat": 27.9467609,
+                "lng": -82.45627759,
+                "zoom": 14,
+                "city": "Tampa"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Tampa, Florida even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Tampa. You can also adapt to better meet your clients’ unique needs within Florida. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Tampa virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "WHY AN OPUS LOCATION?",
+                "body": "Opting for a virtual office in Tampa through Opus VO gives you the exclusive advantage of a live receptionist committed to offering personalized, top-tier client service. Every point of client contact is carefully designed to resonate with your unique business objectives, supported by our wide range of administrative services. These amenities include a corporate mailing address, digital mail sorting, company phone and fax number, state-of-the-art call-forwarding options, and beyond. Our efficient administrative staff will manage your day-to-day tasks, freeing you to concentrate on your company’s strategic growth and success. Opus VO Tampa @ 401 East Jackson Street, Suite 2340 Tampa, FL 33602 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            },
+            {
+                "title": "YOUR SIGNATURE WORKSPACE IN TAMPA",
+                "body": "Our Tampa location offers a professional virtual environment designed to impress clients and support your business growth. This workspace is ideal for entrepreneurs, startups, and remote teams looking for flexibility. With access to modern workspace options, reliable staff support, and essential virtual services like mail handling and call forwarding, you can focus on what matters most. Whether you’re building a new brand or expanding your virtual presence, our Tampa location delivers the convenience and professionalism you need.",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/botaraton-covered.png",
+                "layout": "image_text",
+                "imageAlignment": "left"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office Space Tampa | Only $99 | Opus Virtual offices",
+            "meta_description": "If you need Tampa, FL virtual office space, our $99 all-inclusive office solution reduces expenses and increases profits. Call 1 (888) 898-9868 to learn more.",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/florida/tampa/location-885/",
+            "og": {
+                "title": "Virtual Office Space Tampa | Only $99 | Opus Virtual offices",
+                "description": "If you need Tampa, FL virtual office space, our $99 all-inclusive office solution reduces expenses and increases profits. Call 1 (888) 898-9868 to learn more.",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/florida/tampa/location-885/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/Tampa-FL-Virtual-Office-at-Truist-Place-401-E-Jackson-St.webp"
+            }
+        }
+    }
+}

@@ -1,0 +1,93 @@
+{
+    "success": true,
+    "location_id": 1279,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Des Moines",
+            "state": "IA",
+            "price": null,
+            "address": {
+                "line1": "500 Locust Street",
+                "suite": null,
+                "city": "Des Moines",
+                "state": "IA",
+                "zip": "50309",
+                "phone": "(515) 313-0032"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/1279-001-Building.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1279.2.Iowa_Des_Moines_Virtual_Offices-800x469.jpeg",
+                    "/wp-content-mgr/wp-content/uploads/1279.3.Iowa_Des_Moines_Virtual_Offices-631x550.jpeg",
+                    "/wp-content-mgr/wp-content/uploads/1279.4.Iowa_Des_Moines_Virtual_Offices.jpeg",
+                    "/wp-content-mgr/wp-content/uploads/1279.5.Iowa_Des_Moines_Virtual_Offices-484x550.jpeg"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 1,
+            "addressOnlyUrl": "/business-address/iowa/des-moines/location-1279/",
+            "signupUrl": "/signup/?locid=1279",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 1,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Des Moines Virtual Office",
+            "body": "Acquire a prestigious business address in Des Moines without the expense of a physical office. With Opus VO, you have the opportunity to situate your business in the bustling heart of Des Moines, all while judiciously managing your financial portfolio. For high-stakes meetings or client presentations that simply must impress, our state-of-the-art conference rooms are at your service.  Embarking on a virtual journey in Des Moines through Opus VO also grants you the privilege of a specialized live receptionist. Our mission is to make every client engagement feel like an extension of your bespoke business persona. Assign your day-to-day administrative duties to us, liberating you to focus on your loftiest business ambitions. ",
+            "map": {
+                "lat": 41.5867217,
+                "lng": -93.6239175,
+                "zoom": 14,
+                "city": "Des Moines"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Des Moines, Iowa even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Des Moines. You can also adapt to better meet your clients’ unique needs within Iowa. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Des Moines virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Des Moines? Why Go Virtual?",
+                "body": "Don’t underestimate Des Moines—it’s far more than its political clout as Iowa’s capital. It’s a burgeoning center for sectors like finance, insurance, and agribusiness. A Des Moines address provides you with connections to industry movers and shakers, as well as access to impactful networking events.  Choosing Opus VO in Des Moines is not just about economizing—it’s an invaluable strategic maneuver. Are you ready to elevate your business to new heights? Our exceptional virtual office services stand ready for your royal decree.  Opus VO, Des Moines @ 500 Locust Street, Suite PMB, Des Moines, IA 50309 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Des Moines - 500 Locust Street | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Iowa, Des Moines virtual office located at 500 Locust Street. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/iowa/des-moines/location-1279/",
+            "og": {
+                "title": "Virtual Office in Des Moines - 500 Locust Street | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Iowa, Des Moines virtual office located at 500 Locust Street. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/iowa/des-moines/location-1279/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/1279-001-Building.jpg"
+            }
+        }
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "success": true,
+    "count": 1,
+    "state": "colorado",
+    "mode": "business-address",
+    "data": [
+        {
+            "id": 1307,
+            "location_name": "7887 East Belleview Avenue, Denver, CO 80111",
+            "city": "Denver",
+            "state": "Colorado",
+            "state_abbr": "CO",
+            "address": "7887 East Belleview Avenue, Denver, CO 80111",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 39.6255798,
+            "point_y": -104.8970366,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/Opus-Virtual-Office-Denver-Building-Exterior-Flag.webp",
+                "alttext": "Exterior view of 7887 East Belleview Avenue with American flag at Opus Virtual Office in Denver, CO"
+            },
+            "url": "/business-address/colorado/denver/location-1307/",
+            "phone": "3039972954"
+        }
+    ]
+}

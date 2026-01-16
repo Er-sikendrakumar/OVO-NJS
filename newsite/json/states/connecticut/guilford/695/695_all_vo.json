@@ -1,0 +1,89 @@
+{
+    "success": true,
+    "location_id": 695,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Guilford",
+            "state": "CT",
+            "price": null,
+            "address": {
+                "line1": "800 Village Walk",
+                "suite": null,
+                "city": "Guilford",
+                "state": "CT",
+                "zip": "06437",
+                "phone": "(203) 405-4092"
+            },
+            "images": {
+                "hero": [
+                    "/assets/mail-center.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=695",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 0,
+            "nearbyPremium": 1,
+            "nearbyPremiumUrl": "/virtual-office/connecticut/branford/location-1668/",
+            "nearbyPremiumText": "to view the nearby PREMIUM Locations for the same $99/mo",
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Guilford Virtual Office",
+            "body": "Seize a top-tier business address in Guildford without the overhead of maintaining a physical office. With Opus VO, your enterprise can establish its presence in one of Guildford’s most sought-after areas, all without breaking the bank. When crucial meetings or client liaisons arise, our state-of-the-art conference rooms are at your disposal, thereby elevating your brand’s reputation with an esteemed Guildford address.  Opt for a virtual office in Guildford through Opus VO and benefit from the added luxury of a live receptionist. Dedicated to providing exceptional, tailor-made customer service, our team ensures that each interaction with your clients aligns seamlessly with your business goals. Outsource routine administrative duties like mail sorting and advanced call-handling to us, allowing you to center your attention on expanding your venture. ",
+            "map": {
+                "lat": 41.287906,
+                "lng": -72.67424,
+                "zoom": 14,
+                "city": "Guilford"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Guilford, Connecticut even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Guilford. You can also adapt to better meet your clients’ unique needs within Connecticut. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Guilford virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Guildford?",
+                "body": "Guildford isn’t merely a picturesque locale; it’s an up-and-coming business district with diverse opportunities in sectors such as technology, healthcare, and manufacturing. Our Guildford facility is strategically positioned, granting you straightforward access to essential industry connections and must-attend networking functions.  By choosing an Opus Virtual Office in Guildford, you’re doing more than simply reducing overhead; you’re gaining a valuable competitive edge. Propel your business to greater heights by tapping into our first-class virtual office services now.  Opus VO Guildford @ 800 Village Walk, Guilford, CT 06437  ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Guilford - 800 Village Walk | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Connecticut, Guilford virtual office located at 800 Village Walk. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/connecticut/guilford/location-695/",
+            "og": {
+                "title": "Virtual Office in Guilford - 800 Village Walk | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Connecticut, Guilford virtual office located at 800 Village Walk. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/connecticut/guilford/location-695/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+            }
+        }
+    }
+}

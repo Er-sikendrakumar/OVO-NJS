@@ -1,0 +1,89 @@
+{
+    "success": true,
+    "location_id": 1569,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Spring Hill",
+            "state": "FL",
+            "price": null,
+            "address": {
+                "line1": "14391 Spring Hill Drive",
+                "suite": null,
+                "city": "Spring Hill",
+                "state": "FL",
+                "zip": "34609",
+                "phone": "(352) 698-3469"
+            },
+            "images": {
+                "hero": [
+                    "/assets/mail-center.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1569",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 0,
+            "nearbyPremium": 1,
+            "nearbyPremiumUrl": "/virtual-office/florida/tarpon-springs/location-1675/",
+            "nearbyPremiumText": "to view the nearby PREMIUM Locations for the same $99/mo",
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Spring Hill Virtual Office",
+            "body": "Grab a top-tier business address in Spring Hill without the baggage of a physical location. With Opus VO, you’re free to insert your venture into Spring Hill’s burgeoning commerce scene while keeping your budget intact. Got an imperative meeting or a client pitch you can’t afford to miss? Our sleek conference rooms are all set to elevate your professional image.  By going virtual in Spring Hill via Opus VO, you’re also signing up for a live receptionist who’s got your back ensuring client interactions feel as if they’re an organic part of your very own brand. Say goodbye to mundane admin tasks, and hello to a newfound freedom to chase your business goals. ",
+            "map": {
+                "lat": 28.4799824,
+                "lng": -82.4866128,
+                "zoom": 14,
+                "city": "Spring Hill"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Spring Hill, Florida even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Spring Hill. You can also adapt to better meet your clients’ unique needs within Florida. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Spring Hill virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Spring Hill?",
+                "body": "Don’t overlook Spring Hill—this community is growing rapidly with diverse sectors like healthcare, retail, and tech startups. Positioning your business in Spring Hill offers you vital access to meaningful networking events and industry leaders.  Choosing Opus VO in Spring Hill is not just about financial savvy; it’s about snagging a competitive edge for your business. Are you ready for the next big step? Our premium virtual office services are right here, ready for your command.  Opus VO, Spring Hill @ 14391 Spring Hill Drive, Spring Hill, FL 34609 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Spring Hill - 14391 Spring Hill Drive | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Florida, Spring Hill virtual office located at 14391 Spring Hill Drive. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/florida/spring-hill/location-1569/",
+            "og": {
+                "title": "Virtual Office in Spring Hill - 14391 Spring Hill Drive | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Florida, Spring Hill virtual office located at 14391 Spring Hill Drive. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/florida/spring-hill/location-1569/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+            }
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "success": true,
+    "count": 1,
+    "state": "michigan",
+    "data": [
+        {
+            "id": "191",
+            "name": "Detroit",
+            "popular": "1"
+        }
+    ]
+}

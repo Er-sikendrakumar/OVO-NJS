@@ -1,0 +1,217 @@
+{
+    "success": true,
+    "data": [
+        {
+            "category_id": 129,
+            "category_name": "Top Questions",
+            "category_order": 1,
+            "faqs": [
+                {
+                    "title": "Can I register an LLC using a Virtual Office?",
+                    "answer": "<!-- wp:paragraph -->\n<p>A Virtual Office address can be included on the Articles of Organization for LLC or entity registration. We advise reviewing the requirements in your state as regulations change from time to time.</p>\n<!-- /wp:paragraph -->"
+                },
+                {
+                    "title": "Can I have more than one business with this account?",
+                    "answer": "<!-- wp:paragraph -->\n<p>Unfortunately, each business will require their own account. You are able to have multiple locations with a single business but each new business name will require a new account. </p>\n<!-- /wp:paragraph -->"
+                },
+                {
+                    "title": "How do I sign up?",
+                    "answer": "<!-- wp:paragraph -->\n<p>Select one of over <a href=\"https://www.opusvirtualoffices.com/virtual-office/\">650 locations</a> and click Sign up. Then create your profile and provide your payment information, it's that simple.</p>\n<!-- /wp:paragraph -->"
+                },
+                {
+                    "title": "Can I use my Opus Virtual Offices location as my corporate mailing address?",
+                    "answer": "<!-- wp:paragraph -->\n<p>Yes, you may choose any of our locations as your corporate mailing address. We also provide a mail forwarding service, where we can forward your mail to a designated address for the benefit of your privacy.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>You can choose as many locations as you'd like. We also provide additional services in selected locations where you can use conference rooms, at premium locations with private parking.  </p>\n<!-- /wp:paragraph -->"
+                }
+            ]
+        },
+        {
+            "category_id": 114,
+            "category_name": "General",
+            "category_order": 2,
+            "faqs": [
+                {
+                    "title": "I&#8217;m having trouble logging in. How do I reset my password?",
+                    "answer": "<!-- wp:paragraph -->\n<p>If you're having problems logging in, click the '<a href=\"https://www.opusvirtualoffices.com/portal/ftl\">Forgot Password</a>' option and follow the instructions provided.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>You will be asked to enter the email address you used when creating your account. A message will be sent to that email address containing a link to reset your password.</p>\n<!-- /wp:paragraph -->"
+                },
+                {
+                    "title": "Can I have more than one business with this account?",
+                    "answer": "<!-- wp:paragraph -->\n<p>Unfortunately, each business will require their own account. You are able to have multiple locations with a single business but each new business name will require a new account. </p>\n<!-- /wp:paragraph -->"
+                },
+                {
+                    "title": "How is an address with Opus VO different from a PO Box?",
+                    "answer": "<!-- wp:paragraph -->\n<p>Opus VO addresses are real physical street addresses. All are professionally staffed and secure, which can receive mail and packages from any carrier, including UPS and FedEx. With a PO Box, only USPS deliveries are accepted. You cannot use a PO box to register a business.</p>\n<!-- /wp:paragraph -->"
+                },
+                {
+                    "title": "Can I signup for multiple locations?",
+                    "answer": "<!-- wp:paragraph -->\n<p>Yes. You use the 'Add Location' button in your account portal to quickly add additional locations that you manage from the same account. Please note that you will need to file a Form 1583 for each new location.</p>\n<!-- /wp:paragraph -->"
+                },
+                {
+                    "title": "When can you start accepting mail or packages for me?",
+                    "answer": "<!-- wp:paragraph -->\n<p>We will begin to accept your mail or packages upon receiving and approving your completed USPS required documentation. Prior to this time your mail and packages are subject to be returned to sender in accordance with USPS guidelines.</p>\n<!-- /wp:paragraph -->"
+                },
+                {
+                    "title": "Where does my mail go?",
+                    "answer": "<!-- wp:paragraph -->\n<p>All mail and packages are received, stored and processed at the address you choose when you sign up. Most locations are located in professional office buildings.</p>\n<!-- /wp:paragraph -->"
+                },
+                {
+                    "title": "Can I pick up my mail in person?",
+                    "answer": "<!-- wp:paragraph -->\n<p>Yes. You may pick up mail at your address location during normal business hours.</p>\n<!-- /wp:paragraph -->"
+                },
+                {
+                    "title": "Can I signup if my business name is not registered yet?",
+                    "answer": "<!-- wp:paragraph -->\n<p>Yes, you can sign up using the anticipated name or personal name and once the company has been incorporated, we can make adjustments as needed.</p>\n<!-- /wp:paragraph -->"
+                },
+                {
+                    "title": "Can I use my existing company phone number?",
+                    "answer": "<!-- wp:paragraph -->\n<p>Yes, there are 2 ways you are able to keep your existing company phone number:</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>1. By setting up call forwarding from your current carrier to the phone number you choose with Opus Virtual Offices (this process works instantly)<br>2. By porting your current company phone number from your existing carrier to the Opus Virtual Offices carrier (this process takes about 10 business days)</p>\n<!-- /wp:paragraph -->"
+                },
+                {
+                    "title": "Can I use my Opus Virtual Offices location as my corporate mailing address?",
+                    "answer": "<!-- wp:paragraph -->\n<p>Yes, you may choose any of our locations as your corporate mailing address. We also provide a mail forwarding service, where we can forward your mail to a designated address for the benefit of your privacy.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>You can choose as many locations as you'd like. We also provide additional services in selected locations where you can use conference rooms, at premium locations with private parking.  </p>\n<!-- /wp:paragraph -->"
+                },
+                {
+                    "title": "Can I have my mail forwarded?",
+                    "answer": "<!-- wp:paragraph -->\n<p> <br>Yes, most locations offer it and can be customized to your needs. You will be charged for postage or shipping accordingly. Mail Forwarding can be initiated once your account is activated. </p>\n<!-- /wp:paragraph -->"
+                }
+            ]
+        },
+        {
+            "category_id": 120,
+            "category_name": "Virtual Office Program",
+            "category_order": 3,
+            "faqs": [
+                {
+                    "title": "Can I register an LLC using a Virtual Office?",
+                    "answer": "<!-- wp:paragraph -->\n<p>A Virtual Office address can be included on the Articles of Organization for LLC or entity registration. We advise reviewing the requirements in your state as regulations change from time to time.</p>\n<!-- /wp:paragraph -->"
+                },
+                {
+                    "title": "Is there a charge for picking up mail?",
+                    "answer": "<!-- wp:paragraph -->\n<p>No, there is not a charge for picking up your mail.</p>\n<!-- /wp:paragraph -->"
+                },
+                {
+                    "title": "Can I use my mailing address as a permanent address?",
+                    "answer": "<!-- wp:paragraph -->\n<p>Yes, you can use your address for all your ongoing mailing needs.</p>\n<!-- /wp:paragraph -->"
+                },
+                {
+                    "title": "How is an address with Opus VO different from a PO Box?",
+                    "answer": "<!-- wp:paragraph -->\n<p>Opus VO addresses are real physical street addresses. All are professionally staffed and secure, which can receive mail and packages from any carrier, including UPS and FedEx. With a PO Box, only USPS deliveries are accepted. You cannot use a PO box to register a business.</p>\n<!-- /wp:paragraph -->"
+                },
+                {
+                    "title": "Can I signup for multiple locations?",
+                    "answer": "<!-- wp:paragraph -->\n<p>Yes. You use the 'Add Location' button in your account portal to quickly add additional locations that you manage from the same account. Please note that you will need to file a Form 1583 for each new location.</p>\n<!-- /wp:paragraph -->"
+                },
+                {
+                    "title": "Does the program include local phone and fax numbers?",
+                    "answer": "<!-- wp:paragraph -->\n<p>\n\nYes. When signing up for the program online, you will have the opportunity to choose local phone and fax numbers which will be associated with your company.\n\n</p>\n<!-- /wp:paragraph -->"
+                },
+                {
+                    "title": "Do you offer live answering?",
+                    "answer": "<!-- wp:paragraph -->\n<p> Yes, our professional receptionists will answer your calls live, utilizing your company name, Monday through Friday from 8:30 AM to 5:30 PM (in PST time zone 8 AM to 5 PM). After hours, your calls will be answered by your company voice mail. </p>\n<!-- /wp:paragraph -->"
+                },
+                {
+                    "title": "Can I use my Opus Virtual Offices location as my corporate mailing address?",
+                    "answer": "<!-- wp:paragraph -->\n<p>Yes, you may choose any of our locations as your corporate mailing address. We also provide a mail forwarding service, where we can forward your mail to a designated address for the benefit of your privacy.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>You can choose as many locations as you'd like. We also provide additional services in selected locations where you can use conference rooms, at premium locations with private parking.  </p>\n<!-- /wp:paragraph -->"
+                }
+            ]
+        },
+        {
+            "category_id": 115,
+            "category_name": "Live Call Answering",
+            "category_order": 4,
+            "faqs": [
+                {
+                    "title": "Do you offer live answering?",
+                    "answer": "<!-- wp:paragraph -->\n<p> Yes, our professional receptionists will answer your calls live, utilizing your company name, Monday through Friday from 8:30 AM to 5:30 PM (in PST time zone 8 AM to 5 PM). After hours, your calls will be answered by your company voice mail. </p>\n<!-- /wp:paragraph -->"
+                }
+            ]
+        },
+        {
+            "category_id": 123,
+            "category_name": "Corporate Mailing Address",
+            "category_order": 5,
+            "faqs": [
+                {
+                    "title": "Can I use this address to register my business, get a driver&#8217;s license, or get insurance?",
+                    "answer": "<!-- wp:paragraph -->\n<p>Yes, we have had thousands of customers who have used our service to register their businesses or for their DMV needs.</p>\n<!-- /wp:paragraph -->"
+                },
+                {
+                    "title": "Is there a charge for picking up mail?",
+                    "answer": "<!-- wp:paragraph -->\n<p>No, there is not a charge for picking up your mail.</p>\n<!-- /wp:paragraph -->"
+                },
+                {
+                    "title": "Can I use my mailing address as a permanent address?",
+                    "answer": "<!-- wp:paragraph -->\n<p>Yes, you can use your address for all your ongoing mailing needs.</p>\n<!-- /wp:paragraph -->"
+                },
+                {
+                    "title": "How is an address with Opus VO different from a PO Box?",
+                    "answer": "<!-- wp:paragraph -->\n<p>Opus VO addresses are real physical street addresses. All are professionally staffed and secure, which can receive mail and packages from any carrier, including UPS and FedEx. With a PO Box, only USPS deliveries are accepted. You cannot use a PO box to register a business.</p>\n<!-- /wp:paragraph -->"
+                }
+            ]
+        },
+        {
+            "category_id": 116,
+            "category_name": "Signup &amp; Cancellation",
+            "category_order": 6,
+            "faqs": [
+                {
+                    "title": "How do I sign up?",
+                    "answer": "<!-- wp:paragraph -->\n<p>Select one of over <a href=\"https://www.opusvirtualoffices.com/virtual-office/\">650 locations</a> and click Sign up. Then create your profile and provide your payment information, it's that simple.</p>\n<!-- /wp:paragraph -->"
+                },
+                {
+                    "title": "Is there a contract or agreement?",
+                    "answer": "<!-- wp:paragraph -->\n<p>Yes. Our agreement is for 3 months, after which we will renew the terms on a month-to-month basis unless the client gives us 30 days written notice of cancellation.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p></p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p></p>\n<!-- /wp:paragraph -->"
+                }
+            ]
+        },
+        {
+            "category_id": 117,
+            "category_name": "Meeting Rooms",
+            "category_order": 7,
+            "faqs": [
+                {
+                    "title": "Do you have conference rooms available for meetings?",
+                    "answer": "<!-- wp:paragraph -->\n<p> Yes, but not in all locations. In our <a href=\"https://www.opusvirtualoffices.com/premium-virtual-office-locations/\">locations listed as Premium</a> in specific markets, conference rooms are available to you for an hourly fee. All other locations are set up as mail centers where staff will receive your mail and packages on your behalf but these locations do not offer conference or meeting room facilities for you to meet or greet your clients. </p>\n<!-- /wp:paragraph -->"
+                }
+            ]
+        },
+        {
+            "category_id": 122,
+            "category_name": "USPS 1583 Form",
+            "category_order": 50,
+            "faqs": [
+                {
+                    "title": "Does the form 1583 change my mailing address?",
+                    "answer": "<!-- wp:paragraph -->\n<p>No. The Form 1583 only gives permission to your Opus VO location to receive mail on your behalf.</p>\n<!-- /wp:paragraph -->"
+                },
+                {
+                    "title": "Can I use the same 1583 form for multiple locations?",
+                    "answer": "<!-- wp:paragraph -->\n<p>No. You must file a new 1583 form for each location you open.</p>\n<!-- /wp:paragraph -->"
+                },
+                {
+                    "title": "How long does it take to process my 1583 form?",
+                    "answer": "<!-- wp:paragraph -->\n<p>The Form 1583 is reviewed and accepted after all documents are in proper order. Once accepted, allow 1 to 3 days for the Form 1583 to be approved.</p>\n<!-- /wp:paragraph -->"
+                },
+                {
+                    "title": "Do I have to go to the Post Office to fill out the form 1583?",
+                    "answer": "<!-- wp:paragraph -->\n<p>No. Once you sign up, you can download the Form 1583 already filled in with your address information.</p>\n<!-- /wp:paragraph -->"
+                },
+                {
+                    "title": "Which ID&#8217;s can I provide for Form 1583?",
+                    "answer": "<!-- wp:paragraph -->\n<p>Two forms of identification are required, a Photo ID and a Proof of Address Document.</p>\n<!-- /wp:paragraph -->"
+                }
+            ]
+        }
+    ],
+    "seo": {
+        "title": "FAQs on Virtual Office Services | Opus Virtual Offices",
+        "meta_description": "Get answers to your virtual office inquiries on services like live answering, and more. Find out how Opus Virtual Offices can benefit your business.",
+        "canonical": "https://www.opusvirtualoffices.com/faq/",
+        "og": {
+            "title": "FAQs on Virtual Office Services | Opus Virtual Offices",
+            "description": "Get answers to your virtual office inquiries on services like live answering, and more. Find out how Opus Virtual Offices can benefit your business.",
+            "url": "https://www.opusvirtualoffices.com/faq/",
+            "type": "website",
+            "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+        }
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "success": true,
+    "location_id": 1088,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Tulsa",
+            "state": "OK",
+            "price": null,
+            "address": {
+                "line1": "1408 S. Denver Avenue",
+                "suite": null,
+                "city": "Tulsa",
+                "state": "OK",
+                "zip": "74119",
+                "phone": "(918) 928-3227"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/1088-001-Building.png",
+                    "/wp-content-mgr/wp-content/uploads/2Receptionist-Area-733x550.jpg",
+                    "/wp-content-mgr/wp-content/uploads/3-2nd-Floor-Conference-Room-733x550.jpg",
+                    "/wp-content-mgr/wp-content/uploads/4Conference-Room-412x550.jpg"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1088",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Tulsa Virtual Office",
+            "body": "Unlock the benefits of securing a prestigious business address in Tulsa, Oklahoma, without the need for a physical office space. At Opus VO, we provide you with the opportunity to position your business in the heart of Tulsa’s dynamic business community while maximizing operational efficiency. Our modern conference rooms are readily available for important meetings and collaborative endeavors.  By selecting Opus VO’s virtual office in Tulsa, you not only secure a prestigious address but also gain access to a professional live receptionist who seamlessly integrates with your team. They ensure that every client interaction embodies your unique brand identity, allowing us to manage routine administrative tasks while you focus on your core business objectives. ",
+            "map": {
+                "lat": 36.1422283,
+                "lng": -95.9926607,
+                "zoom": 14,
+                "city": "Tulsa"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Tulsa, Oklahoma even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Tulsa. You can also adapt to better meet your clients’ unique needs within Oklahoma. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Tulsa virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Tulsa? Why Opus Virtual Offices?",
+                "body": "Tulsa is more than just a vibrant city; it’s a thriving business hub with opportunities spanning various sectors, including energy, finance, and healthcare. Having a Tulsa address not only enhances your business reputation but also grants access to essential networking events and industry connections.  Opting for Opus VO for your virtual office in Tulsa is not just a practical choice; it’s a strategic advantage. Are you prepared to elevate your business presence? Explore our exceptional virtual office solutions today.  Choose from three Opus VO, Tulsa locations @1408 S. Denver Avenue, Tulsa, OK 74119   @ 7122 S Sheridan Rd, Tulsa, OK 74133   @ 9524 E 81 Street, Tulsa, OK 74133 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Tulsa - 1408 S. Denver Avenue | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Oklahoma, Tulsa virtual office located at 1408 S. Denver Avenue. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/oklahoma/tulsa/location-1088/",
+            "og": {
+                "title": "Virtual Office in Tulsa - 1408 S. Denver Avenue | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Oklahoma, Tulsa virtual office located at 1408 S. Denver Avenue. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/oklahoma/tulsa/location-1088/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/1088-001-Building.png"
+            }
+        }
+    }
+}

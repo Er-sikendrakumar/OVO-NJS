@@ -1,0 +1,92 @@
+{
+    "success": true,
+    "location_id": 1448,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Doral",
+            "state": "FL",
+            "price": null,
+            "address": {
+                "line1": "8400 NW 33rd Street",
+                "suite": null,
+                "city": "Doral",
+                "state": "FL",
+                "zip": "33122",
+                "phone": "(305) 894-2992"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/1448-Building-Exterior.01.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1448-reception-1745424283249.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1448-conference-1745424283855.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1448-kitchen.jpg"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1448",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 1,
+            "nearbyPremiumUrl": "/virtual-office/florida/miami/location-1285/",
+            "nearbyPremiumText": "to view the most POPULAR locations nearby for the same $99/mo",
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Doral Virtual Office",
+            "body": "Establish a prestigious business presence in Doral without splurging on a physical location. With Opus VO, your company can have a Doral address that commands attention, all at a fraction of the cost. Need an on-point setting for critical client meetings? Our top-notch conference rooms are here to meet your needs.  When you secure a virtual office in Doral through Opus VO, you’re also acquiring the service of a live receptionist. This adds a layer of customized, high-caliber customer service to your business, ensuring each client interaction harmonizes with your brand values. Take a step back from time-consuming admin chores like call handling and mail sorting— we’ve got it covered, so you can zero in on business expansion. ",
+            "map": {
+                "lat": 25.8042199,
+                "lng": -80.33404929,
+                "zoom": 14,
+                "city": "Doral"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Doral, Florida even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Doral. You can also adapt to better meet your clients’ unique needs within Florida. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Doral virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Doral?",
+                "body": "oral is more than just a beautiful area; it’s a dynamic business ecosystem with growth opportunities in various sectors like trade, tech, and healthcare. Our Doral location is advantageously placed, giving you easy access to a network of industry leaders and upcoming professional events.  Choosing a virtual office in Doral with Opus VO isn’t just a budget-savvy move—you’re also gaining a strategic advantage over your competitors. Unlock our premium virtual office services and propel your business to greater heights today.  Opus VO, Doral @ 8350 NW 52nd Ter, Doral, FL 33166 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Doral - 8400 NW 33rd Street | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Florida, Doral virtual office located at 8400 NW 33rd Street. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/florida/doral/location-1448/",
+            "og": {
+                "title": "Virtual Office in Doral - 8400 NW 33rd Street | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Florida, Doral virtual office located at 8400 NW 33rd Street. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/florida/doral/location-1448/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/1448-Building-Exterior.01.jpg"
+            }
+        }
+    }
+}

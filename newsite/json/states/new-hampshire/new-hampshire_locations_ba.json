@@ -1,0 +1,27 @@
+{
+    "success": true,
+    "count": 1,
+    "state": "new hampshire",
+    "mode": "business-address",
+    "data": [
+        {
+            "id": 1436,
+            "location_name": "500 North Commercial Street, Manchester, NH 03101",
+            "city": "Manchester",
+            "state": "New Hampshire",
+            "state_abbr": "NH",
+            "address": "500 North Commercial Street, Manchester, NH 03101",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 42.9946496,
+            "point_y": -71.4679316,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1436-building-1743095652121.jpg",
+                "alttext": "Exterior of brick building that houses Opus Virtual Offices located in Manchester, New Hampshire"
+            },
+            "url": "/business-address/new-hampshire/manchester/location-1436/",
+            "phone": "6035709476"
+        }
+    ]
+}

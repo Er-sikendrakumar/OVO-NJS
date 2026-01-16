@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "location_id": 1608,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Florence",
+            "state": "AL",
+            "price": null,
+            "address": {
+                "line1": "220 W Tennessee Street",
+                "suite": null,
+                "city": "Florence",
+                "state": "AL",
+                "zip": "35630",
+                "phone": "(256) 444-3219"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/1608-01.bldg_.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1608-02.confroom.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1608-03.shared.jpg"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1608",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Florence Virtual Office",
+            "body": "Unlock the advantages of an esteemed business address in Florence without the overhead or hassle of a physical office. With Opus VO, you can establish your company in our Florence location at a fraction of a traditional office lease. Make use of our cutting-edge conference room for crucial meetings and client engagements while boosting your brand’s credibility with a notable Huntsville address.  When you choose a virtual office in Florence via Opus VO, you gain the unique benefit of a live receptionist. Dedicated to offering personalized, high-quality customer service, our team ensures each interaction aligns with your specific business goals. Leave the day-to-day administrative tasks, such as digital mail sorting and advanced call-forwarding, to us so you can concentrate on scaling your business. ",
+            "map": {
+                "lat": 34.7994334,
+                "lng": -87.6782502,
+                "zoom": 14,
+                "city": "Florence"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Florence, Alabama even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Florence. You can also adapt to better meet your clients’ unique needs within Alabama. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Florence virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Choose a Florence Virtual Office?",
+                "body": "Florence is not just a city known for its aerospace and defense industries; it’s a growing business ecosystem offering a range of opportunities in tech, healthcare, and more. Located near essential business hubs, our Florence office gives you easy access to valuable industry connections and networking events.  By opting for an Opus Virtual Office in Florence, you’re doing more than minimizing expenses; you’re gaining a vital competitive edge. Take your company to the next level by utilizing our premium virtual office services today. ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Florence - 220 W Tennessee Street | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Alabama, Florence virtual office located at 220 W Tennessee Street. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/alabama/florence/location-1608/",
+            "og": {
+                "title": "Virtual Office in Florence - 220 W Tennessee Street | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Alabama, Florence virtual office located at 220 W Tennessee Street. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/alabama/florence/location-1608/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/1608-01.bldg_.jpg"
+            }
+        }
+    }
+}

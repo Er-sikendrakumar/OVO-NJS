@@ -1,0 +1,92 @@
+{
+    "success": true,
+    "location_id": 871,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Miami Beach",
+            "state": "FL",
+            "price": null,
+            "address": {
+                "line1": "1680 Michigan Avenue",
+                "suite": null,
+                "city": "Miami Beach",
+                "state": "FL",
+                "zip": "33139",
+                "phone": "(305) 717-7625"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/871-Exterior.jpg",
+                    "/wp-content-mgr/wp-content/uploads/871-Conference.jpg",
+                    "/wp-content-mgr/wp-content/uploads/871-workspace.png",
+                    "/wp-content-mgr/wp-content/uploads/871-lobby.jpg"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=871",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 1,
+            "nearbyPremiumUrl": "/virtual-office/florida/miami/location-1285/",
+            "nearbyPremiumText": "to view the most POPULAR locations nearby for the same $99/mo",
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Miami Beach Virtual Office",
+            "body": "Snag a prestigious business address in Miami Beach without breaking the bank on a physical office. Opus VO gives you the chance to position your enterprise in the heart of Miami Beach’s bustling scene at a fraction of the cost. Need a spot for vital meetings or customer meet-ups? Our sleek conference rooms are ready and waiting.  When you opt for a virtual setup in Miami Beach through Opus VO, you also secure a live receptionist committed to delivering client interactions that are as unique and high-quality as your business itself. Let us handle the everyday admin work so you can focus on what really matters—scaling your venture. ",
+            "map": {
+                "lat": 25.7917344,
+                "lng": -80.1390831,
+                "zoom": 14,
+                "city": "Miami Beach"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Miami Beach, Florida even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Miami Beach. You can also adapt to better meet your clients’ unique needs within Florida. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Miami Beach virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Miami Beach?",
+                "body": "Don’t underestimate Miami Beach—it’s more than sandy shores and nightlife. It’s a rapidly expanding business landscape, teeming with opportunities in sectors ranging from luxury retail to tech startups. Our Miami Beach location is perfectly placed to provide quick access to influential contacts and must-attend networking functions.  Choosing Opus VO in Miami Beach doesn’t just cut your expenses; it also gives you a strategic advantage. Ready to make your mark? Our world-class virtual office services are here to help you do just that.  Choose from three Opus VO locations in Miami Beach @ 1680 Michigan Avenue, Miami Beach, FL 33139 or 1521 Alton Road, Miami Beach, FL 33139, or 6538 Collins Avenue, Miami Beach, FL 33141 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Miami Beach - 1680 Michigan Avenue | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Florida, Miami Beach virtual office located at 1680 Michigan Avenue. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/florida/miami-beach/location-871/",
+            "og": {
+                "title": "Virtual Office in Miami Beach - 1680 Michigan Avenue | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Florida, Miami Beach virtual office located at 1680 Michigan Avenue. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/florida/miami-beach/location-871/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/871-Exterior.jpg"
+            }
+        }
+    }
+}

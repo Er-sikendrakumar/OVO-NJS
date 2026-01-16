@@ -1,0 +1,11 @@
+{
+    "success": true,
+    "count": 1,
+    "state": "rhode island",
+    "data": [
+        {
+            "id": "443",
+            "name": "Providence"
+        }
+    ]
+}

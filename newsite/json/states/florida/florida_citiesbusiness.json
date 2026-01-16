@@ -1,0 +1,47 @@
+{
+    "success": true,
+    "count": 8,
+    "state": "florida",
+    "data": [
+        {
+            "id": "7",
+            "name": "Boca Raton",
+            "popular": "1"
+        },
+        {
+            "id": "74",
+            "name": "Fort Lauderdale",
+            "popular": "1"
+        },
+        {
+            "id": "14",
+            "name": "Jacksonville",
+            "popular": "1"
+        },
+        {
+            "id": "1",
+            "name": "Miami",
+            "popular": "1"
+        },
+        {
+            "id": "17",
+            "name": "Naples",
+            "popular": "1"
+        },
+        {
+            "id": "63",
+            "name": "Orlando",
+            "popular": "1"
+        },
+        {
+            "id": "25",
+            "name": "Tallahassee",
+            "popular": "1"
+        },
+        {
+            "id": "80",
+            "name": "Tampa",
+            "popular": "1"
+        }
+    ]
+}

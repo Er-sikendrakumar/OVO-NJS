@@ -1,0 +1,89 @@
+{
+    "success": true,
+    "location_id": 460,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Winter Springs",
+            "state": "FL",
+            "price": null,
+            "address": {
+                "line1": "5840 Red Bug Lake Rd",
+                "suite": null,
+                "city": "Winter Springs",
+                "state": "FL",
+                "zip": "32708",
+                "phone": "(407) 569-2020"
+            },
+            "images": {
+                "hero": [
+                    "/assets/mail-center.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=460",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 0,
+            "nearbyPremium": 1,
+            "nearbyPremiumUrl": "/virtual-office/florida/orlando/location-1499/",
+            "nearbyPremiumText": "to view nearby PREMIUM Locations that offer Meeting Rooms for the same $99/mo",
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Winter Springs Virtual Office",
+            "body": "Secure a prestigious business address in Winter Springs without the financial burden of a physical location. With Opus VO, you can establish your enterprise right in the heart of Winter Springs, all while keeping your finances in check. Got a pivotal meeting or a make-or-break client pitch? Our cutting-edge conference rooms are prepared to wow.  When you go virtual in Winter Springs through Opus VO, you also get the benefit of a dedicated live receptionist who will ensure that each interaction with your clientele feels like a genuine extension of your own brand. Offload your daily admin tasks to us, giving you the freedom to focus on your entrepreneurial goals. ",
+            "map": {
+                "lat": 28.647885,
+                "lng": -81.267483,
+                "zoom": 14,
+                "city": "Winter Springs"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Winter Springs, Florida even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Winter Springs. You can also adapt to better meet your clients’ unique needs within Florida. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Winter Springs virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Winter Springs?",
+                "body": "Winter Springs is more than just a scenic locale—it’s an evolving hub for various sectors, from tech firms to healthcare providers. Setting up your business address in Winter Springs means gaining access to the influencers and events that can take your enterprise to the next level.  Choosing Opus VO in Winter Springs is not just about being budget-conscious—it’s about gaining a competitive edge. Ready to take your business up a notch? Our exceptional virtual office services are at your fingertips.  Opus VO, Winter Springs @ 5840 Red Bug Lake Rd, Winter Springs, FL 32708 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Winter Springs - 5840 Red Bug Lake Rd | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Florida, Winter Springs virtual office located at 5840 Red Bug Lake Rd. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/florida/winter-springs/location-460/",
+            "og": {
+                "title": "Virtual Office in Winter Springs - 5840 Red Bug Lake Rd | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Florida, Winter Springs virtual office located at 5840 Red Bug Lake Rd. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/florida/winter-springs/location-460/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+            }
+        }
+    }
+}

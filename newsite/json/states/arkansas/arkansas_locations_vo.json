@@ -1,0 +1,84 @@
+{
+    "success": true,
+    "count": 4,
+    "state": "arkansas",
+    "mode": "virtual-office",
+    "data": [
+        {
+            "id": 1133,
+            "location_name": "900 SE 5th Street, Bentonville, AR 72712",
+            "city": "Bentonville",
+            "state": "Arkansas",
+            "state_abbr": "AR",
+            "address": "900 SE 5th Street, Bentonville, AR 72712",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 36.3668375,
+            "point_y": -94.1991712,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1133-Exterior.jpg",
+                "alttext": "Exterior of building that houses Opus Virtual Offices located in Bentonville, Arkansas"
+            },
+            "url": "/virtual-office/arkansas/bentonville/location-1133/",
+            "phone": "4793108582"
+        },
+        {
+            "id": 1647,
+            "location_name": "1100 Oak Street, Conway, AR 72032",
+            "city": "Conway",
+            "state": "Arkansas",
+            "state_abbr": "AR",
+            "address": "1100 Oak Street, Conway, AR 72032",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 35.0910628,
+            "point_y": -92.4399385,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1647-01-Building.webp",
+                "alttext": null
+            },
+            "url": "/virtual-office/arkansas/conway/location-1647/",
+            "phone": "5015012269"
+        },
+        {
+            "id": 499,
+            "location_name": "361 Southwest Drive, Jonesboro, AR 72401",
+            "city": "Jonesboro",
+            "state": "Arkansas",
+            "state_abbr": "AR",
+            "address": "361 Southwest Drive, Jonesboro, AR 72401",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 35.8179388,
+            "point_y": -90.7081742,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/arkansas/jonesboro/location-499/",
+            "phone": "8707279193"
+        },
+        {
+            "id": 1231,
+            "location_name": "301 President Clinton Avenue B, Little Rock, AR 72201",
+            "city": "Little Rock",
+            "state": "Arkansas",
+            "state_abbr": "AR",
+            "address": "301 President Clinton Avenue B, Little Rock, AR 72201",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 34.747482,
+            "point_y": -92.267763,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/arkansas/little-rock/location-1231/",
+            "phone": "5017073714"
+        }
+    ]
+}

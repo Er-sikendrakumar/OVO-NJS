@@ -1,0 +1,94 @@
+{
+    "success": true,
+    "location_id": 1567,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Fullerton",
+            "state": "CA",
+            "price": null,
+            "address": {
+                "line1": "1440 N Harbor Blvd",
+                "suite": null,
+                "city": "Fullerton",
+                "state": "CA",
+                "zip": "92835",
+                "phone": "(714) 409-8472"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/1567-001-Building.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1567-02.meetingroom.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1567-03.reception.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1567-04.meetingroom.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1567-05.lounge.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1567-06.meetingroom.jpg"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 1,
+            "addressOnlyUrl": "/business-address/california/fullerton/location-1567/",
+            "signupUrl": "/signup/?locid=1567",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 1,
+            "premium": 1,
+            "nearbyPremium": 1,
+            "nearbyPremiumUrl": "/virtual-office/california/los-angeles/location-1362/",
+            "nearbyPremiumText": "to view the most POPULAR locations nearby for the same $99/mo",
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Fullerton Virtual Office",
+            "body": "Savor the privilege of an esteemed business address in Fullerton, unencumbered by the financial burdens of a physical workspace. Opus VO affords you the rare chance to locate your enterprise in a select Fullerton setting, all without the excessive costs associated with a traditional office lease. Make full use of our modern conference rooms for essential business deliberations and client interactions, all while bolstering your brand’s reputation with a distinguished Fullerton address.  Electing for a virtual office in Fullerton through Opus VO gives you the unique service of a live receptionist who’s committed to delivering personalized, premier customer service. Our team assures that each client exchange seamlessly aligns with your distinct business vision. Entrust routine administrative responsibilities like complete mail management and call-forwarding to us, enabling you to center your efforts on business development and growth. ",
+            "map": {
+                "lat": 33.8854227,
+                "lng": -117.9252703,
+                "zoom": 14,
+                "city": "Fullerton"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Fullerton, California even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Fullerton. You can also adapt to better meet your clients’ unique needs within California. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Fullerton virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Choose a Fullerton Virtual Office?",
+                "body": "Fullerton isn’t merely a Southern California community; it’s a thriving business locale abundant in prospects across sectors like education, healthcare, and manufacturing. Strategically located near important business clusters, our Fullerton facility offers you smooth access to invaluable industry contacts and stimulating networking opportunities.  By choosing an Opus Virtual Office in Fullerton, you are achieving far more than just reducing operational expenses; you are securing an invaluable competitive advantage. Catapult your business to new pinnacles of accomplishment by leveraging our superb virtual office services today.  Opus VO, Fullerton @ 1440 N Harbor Blvd, Fullerton, CA 92835 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Fullerton - 1440 N Harbor Blvd | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our California, Fullerton virtual office located at 1440 N Harbor Blvd. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/california/fullerton/location-1567/",
+            "og": {
+                "title": "Virtual Office in Fullerton - 1440 N Harbor Blvd | $99/Month",
+                "description": "Get the ultimate office solution for your business with our California, Fullerton virtual office located at 1440 N Harbor Blvd. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/california/fullerton/location-1567/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/1567-001-Building.jpg"
+            }
+        }
+    }
+}

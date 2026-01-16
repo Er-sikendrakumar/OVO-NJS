@@ -1,0 +1,27 @@
+{
+    "success": true,
+    "count": 1,
+    "state": "maryland",
+    "mode": "business-address",
+    "data": [
+        {
+            "id": 1304,
+            "location_name": "1 East Chase Street, Baltimore, MD 21202",
+            "city": "Baltimore",
+            "state": "Maryland",
+            "state_abbr": "MD",
+            "address": "1 East Chase Street, Baltimore, MD 21202",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 39.3021734,
+            "point_y": -76.6157222,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1304-exterior.jpg",
+                "alttext": "Exterior of historic building that houses Opus Virtual Offices located in Baltimore, Maryland"
+            },
+            "url": "/business-address/maryland/baltimore/location-1304/",
+            "phone": "4108092684"
+        }
+    ]
+}

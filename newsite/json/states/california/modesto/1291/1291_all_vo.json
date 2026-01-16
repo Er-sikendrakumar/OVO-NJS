@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "location_id": 1291,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Modesto",
+            "state": "CA",
+            "price": null,
+            "address": {
+                "line1": "931 10th Street",
+                "suite": null,
+                "city": "Modesto",
+                "state": "CA",
+                "zip": "95354",
+                "phone": "(209) 287-1719"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/1291-001-Building-e1709913409770.png",
+                    "/wp-content-mgr/wp-content/uploads/1291-01.Building-1-592x550.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1291-02.conf_.jpg"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1291",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Modesto Virtual Office",
+            "body": "Discover the benefits of a distinguished business address in Modesto, without the fiscal obligations inherent in a physical office. Opus VO grants you the exceptional privilege of establishing your business in a preeminent Modesto location, all at a fraction of the cost you’d associate with a traditional office lease. Take advantage of our state-of-the-art conference rooms for crucial business transactions and client meetings, while increasing your brand’s reputation with an esteemed Modesto address.  Selecting a virtual office in Modesto through Opus VO bestows upon you the singular advantage of a live receptionist. Dedicated to delivering individually tailored, superlative customer service, our team ensures that each and every client interaction is flawlessly aligned with your unique business objectives. Relinquish the mundane tasks like complete mail sorting and call-forwarding to us, allowing you to focus solely on advancing your business. ",
+            "map": {
+                "lat": 37.639854799,
+                "lng": -121.0000666,
+                "zoom": 14,
+                "city": "Modesto"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Modesto, California even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Modesto. You can also adapt to better meet your clients’ unique needs within California. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Modesto virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Choose a Modesto Virtual Office?",
+                "body": "Modesto is not simply an agricultural epicenter. It’s an expanding commercial hub teeming with opportunities in sectors like agribusiness, healthcare, and logistics. Conveniently positioned near key business industries, our Modesto offices offer you effortless access to vital industry players and exciting networking events.  By opting for an Opus Virtual Office in Modesto, you’re accomplishing far more than merely cutting down your operational expenses; you’re securing a considerable competitive advantage. Propel your company to unparalleled achievement by utilizing our premium virtual office amenities today.  Opus VO Modesto, choose from our two locations @ 931 10th Street, Modesto, CA 95354, or @3430 Tully Road, Modesto, CA 95350 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Modesto - 931 10th Street | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our California, Modesto virtual office located at 931 10th Street. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/california/modesto/location-1291/",
+            "og": {
+                "title": "Virtual Office in Modesto - 931 10th Street | $99/Month",
+                "description": "Get the ultimate office solution for your business with our California, Modesto virtual office located at 931 10th Street. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/california/modesto/location-1291/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/1291-001-Building-e1709913409770.png"
+            }
+        }
+    }
+}

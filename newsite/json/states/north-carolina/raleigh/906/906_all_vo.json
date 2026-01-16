@@ -1,0 +1,93 @@
+{
+    "success": true,
+    "location_id": 906,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Raleigh",
+            "state": "NC",
+            "price": null,
+            "address": {
+                "line1": "5540 Centerview Drive",
+                "suite": null,
+                "city": "Raleigh",
+                "state": "NC",
+                "zip": "27606",
+                "phone": "(919) 561-6436"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/906-Exterior.jpg",
+                    "/wp-content-mgr/wp-content/uploads/906-Conference.jpg",
+                    "/wp-content-mgr/wp-content/uploads/906-Conference2.jpg",
+                    "/wp-content-mgr/wp-content/uploads/906-Reception.jpg",
+                    "/wp-content-mgr/wp-content/uploads/906-Kitchen.jpg"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=906",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Raleigh Virtual Office",
+            "body": "Enjoy the advantages of a distinguished business address in Raleigh, without the hassles and financial constraints of a traditional office environment. Opus VO affords you the opportunity to establish your enterprise in a prime Raleigh setting, at a fraction of the cost of leasing a physical office. Facilitate business interactions, entertain clients, and convene in our contemporary, fully outfitted meeting rooms. Strengthen your brand’s prestige with a reputable address in one of Raleigh’s key business districts.  Choosing a virtual office in Raleigh through Opus VO provides you with the exclusive asset of a live receptionist dedicated to delivering customized, superior client service. Each client engagement is meticulously tailored to support your individual business goals and is backed by our comprehensive suite of administrative services. This includes complete digital mail handling, state-of-the-art call forwarding features, and more. Our expert administrative staff will handle your daily tasks, freeing you to center your efforts on strategic business development and expansion. ",
+            "map": {
+                "lat": 35.7629976,
+                "lng": -78.73218779,
+                "zoom": 14,
+                "city": "Raleigh"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Raleigh, North Carolina even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Raleigh. You can also adapt to better meet your clients’ unique needs within North Carolina. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Raleigh virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why opt for a Raleigh Virtual Office?",
+                "body": "Raleigh is not just the capital city of North Carolina; it’s also a growing economic epicenter with sectors including technology, healthcare, and education. Situate your business in this dynamic marketplace to leverage local opportunities that can meaningfully augment your revenue streams. Our Raleigh location is strategically located near essential business hubs and social events, providing you with seamless access to important industry players and valuable networking opportunities.  By selecting an Opus Virtual Office in Raleigh, you’re doing more than just minimizing operational overhead; you’re giving your company a competitive edge in the marketplace. Catapult your business to new levels of success by taking advantage of our premium virtual office services today.  Opus VO, Raleigh @ 5540 Centerview Drive, Raleigh, NC 27606  ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Raleigh - 5540 Centerview Drive | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our North Carolina, Raleigh virtual office located at 5540 Centerview Drive. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/north-carolina/raleigh/location-906/",
+            "og": {
+                "title": "Virtual Office in Raleigh - 5540 Centerview Drive | $99/Month",
+                "description": "Get the ultimate office solution for your business with our North Carolina, Raleigh virtual office located at 5540 Centerview Drive. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/north-carolina/raleigh/location-906/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/906-Exterior.jpg"
+            }
+        }
+    }
+}

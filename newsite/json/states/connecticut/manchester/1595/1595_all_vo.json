@@ -1,0 +1,92 @@
+{
+    "success": true,
+    "location_id": 1595,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Manchester",
+            "state": "CT",
+            "price": null,
+            "address": {
+                "line1": "903 Main Street",
+                "suite": null,
+                "city": "Manchester",
+                "state": "CT",
+                "zip": "06040",
+                "phone": "(888) 898-9868"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/1595-01.bldg_.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1595-02.meeting.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1595-03.meeting.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1595-04.meeting.jpg"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1595",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Manchester Virtual Office",
+            "body": "Lock in a prestigious business address in Manchester without the financial burden of a brick-and-mortar location. Opus VO gives you the opportunity to situate your company in one of Manchester’s prime areas, all while saving on those hefty leasing costs. For high-stakes meetings or client catch-ups, you can rely on our cutting-edge conference rooms to make the right impression. Plus, a Manchester address is a definitive brand booster.  When you pick a virtual office in Manchester via Opus VO, you get the extra perk of a live receptionist. With a focus on delivering customized, top-notch customer service, our team ensures each client interaction aligns perfectly with your business ethos. Hand over routine tasks like digital mail sorting and call-forwarding to us, freeing you to concentrate on driving your business forward. ",
+            "map": {
+                "lat": 41.7697754,
+                "lng": -72.5203484,
+                "zoom": 14,
+                "city": "Manchester"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Manchester, Connecticut even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Manchester. You can also adapt to better meet your clients’ unique needs within Connecticut. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Manchester virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Manchester?",
+                "body": "Don’t think of Manchester as just another city; see it as a booming business hub with diverse opportunities in areas like finance, technology, and healthcare. Our Manchester location is ideally situated, offering you convenient access to key industry players and invaluable networking events.  By opting for an Opus Virtual Office in Manchester, you’re doing more than cutting costs—you’re gaining an undeniable competitive advantage. Ready to level up? Take the leap with our top-of-the-line virtual office solutions today.  Opus VO Manchester @ 903 Main Street, Manchester, CT 06040 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Manchester - 903 Main Street | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Connecticut, Manchester virtual office located at 903 Main Street. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/connecticut/manchester/location-1595/",
+            "og": {
+                "title": "Virtual Office in Manchester - 903 Main Street | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Connecticut, Manchester virtual office located at 903 Main Street. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/connecticut/manchester/location-1595/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/1595-01.bldg_.jpg"
+            }
+        }
+    }
+}

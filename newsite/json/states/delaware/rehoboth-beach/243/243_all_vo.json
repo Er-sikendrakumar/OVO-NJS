@@ -1,0 +1,89 @@
+{
+    "success": true,
+    "location_id": 243,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Rehoboth Beach",
+            "state": "DE",
+            "price": null,
+            "address": {
+                "line1": "19266 Coastal Highway",
+                "suite": null,
+                "city": "Rehoboth Beach",
+                "state": "DE",
+                "zip": "19971",
+                "phone": "(302) 468-5876"
+            },
+            "images": {
+                "hero": [
+                    "/assets/mail-center.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=243",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 0,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Rehoboth Beach Virtual Office",
+            "body": "Lock in a distinguished Rehoboth Beach business address without the hefty price tag of physical office space. With Opus VO, you can anchor your business in this vibrant coastal community, all without straining your finances. Need a professional setting for important meetings or client consultations? Our state-of-the-art conference rooms have you covered, and a Rehoboth Beach address certainly adds cachet to your brand.  Opt for an Opus VO package in Rehoboth Beach, and you’ll gain the added value of a dedicated live receptionist who prides themselves on delivering customer interactions that fit seamlessly with your business personality. Free yourself from routine administrative tasks by letting us handle them, so you can zero in on scaling your business. ",
+            "map": {
+                "lat": 38.724577,
+                "lng": -75.12516,
+                "zoom": 14,
+                "city": "Rehoboth Beach"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Rehoboth Beach, Delaware even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Rehoboth Beach. You can also adapt to better meet your clients’ unique needs within Delaware. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Rehoboth Beach virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Rehoboth Beach?",
+                "body": "Don’t underestimate Rehoboth Beach as just a vacation destination; it’s a growing hub for businesses across various sectors like tourism, retail, and local services. Our Rehoboth Beach office is strategically located, giving you quick access to essential industry contacts and notable networking events.  By selecting an Opus Virtual Office in Rehoboth Beach, you’re not just trimming operational costs; you’re gaining a distinct competitive advantage. Ready to take your business to the next level? Our top-tier virtual office solutions are at your disposal.  Opus VO Rehoboth Beach @ 19266 Coastal Highway, Rehoboth Beach, DE 19971 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Rehoboth Beach - 19266 Coastal Highway | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Delaware, Rehoboth Beach virtual office located at 19266 Coastal Highway. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/delaware/rehoboth-beach/location-243/",
+            "og": {
+                "title": "Virtual Office in Rehoboth Beach - 19266 Coastal Highway | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Delaware, Rehoboth Beach virtual office located at 19266 Coastal Highway. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/delaware/rehoboth-beach/location-243/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+            }
+        }
+    }
+}

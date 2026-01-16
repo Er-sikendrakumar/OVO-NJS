@@ -1,0 +1,23 @@
+{
+    "success": true,
+    "page": "virtual-office/new-jersey/elizabeth",
+    "page_type": "location_city",
+    "view": "city",
+    "seo": {
+        "title": "Virtual Office in Elizabeth, NJ | Multiple Locations Available",
+        "meta_description": "Find the ultimate office solution with Opus Virtual Offices in Elizabeth, New Jersey. Our all-inclusive virtual offices cater to your business needs. Sign up today!",
+        "canonical": "https://www.opusvirtualoffices.com/virtual-office/new-jersey/elizabeth/",
+        "og": {
+            "title": "Virtual Office in Elizabeth, NJ | Multiple Locations Available",
+            "description": "Find the ultimate office solution with Opus Virtual Offices in Elizabeth, New Jersey. Our all-inclusive virtual offices cater to your business needs. Sign up today!",
+            "url": "https://www.opusvirtualoffices.com/virtual-office/new-jersey/elizabeth/",
+            "type": "website",
+            "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+        }
+    },
+    "data": {
+        "state": "New Jersey",
+        "city": "Elizabeth",
+        "mode": "virtual-office"
+    }
+}

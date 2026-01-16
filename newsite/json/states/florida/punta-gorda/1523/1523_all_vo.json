@@ -1,0 +1,92 @@
+{
+    "success": true,
+    "location_id": 1523,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Punta Gorda",
+            "state": "FL",
+            "price": null,
+            "address": {
+                "line1": "265 E Marion Avenue",
+                "suite": null,
+                "city": "Punta Gorda",
+                "state": "FL",
+                "zip": "33950",
+                "phone": "(941) 893-2715"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/1523-001-Building.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1523-02.conference.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1523-03.conference.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1523-04.punta-gorda.jpg"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1523",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Punta Gorda Virtual Office",
+            "body": "Land a prestigious business address in Punta Gorda without the financial burden of physical office space. With Opus VO, you can set your business against the vibrant backdrop of Punta Gorda, all without straining your resources. Prepping for an important client meet-up or a pivotal presentation? Our state-of-the-art conference rooms are designed to dazzle.  When you opt for a virtual office in Punta Gorda through Opus VO, a devoted live receptionist whose focus is to make each client interaction feel like an authentic extension of your unique brand identity comes with the package. Pass the routine admin duties over to us and free up your time to pursue your entrepreneurial ambitions. ",
+            "map": {
+                "lat": 26.9372831,
+                "lng": -82.0473114,
+                "zoom": 14,
+                "city": "Punta Gorda"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Punta Gorda, Florida even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Punta Gorda. You can also adapt to better meet your clients’ unique needs within Florida. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Punta Gorda virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Punta Gorda?",
+                "body": "Punta Gorda is not just a scenic waterfront community; it’s a blossoming center for diverse enterprises, from tourism to tech start-ups. Holding a professional address here connects you with significant industry players and vital networking opportunities.  Selecting Opus VO in Punta Gorda isn’t merely a cost-effective decision—it’s a strategic power move. Are you prepared to elevate your brand? Our exceptional virtual office services are standing by to assist you.  Opus VO, Punta Gorda @ 265 E Marion Avenue, Punta Gorda, FL 33950   ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Punta Gorda - 265 E Marion Avenue | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Florida, Punta Gorda virtual office located at 265 E Marion Avenue. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/florida/punta-gorda/location-1523/",
+            "og": {
+                "title": "Virtual Office in Punta Gorda - 265 E Marion Avenue | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Florida, Punta Gorda virtual office located at 265 E Marion Avenue. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/florida/punta-gorda/location-1523/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/1523-001-Building.jpg"
+            }
+        }
+    }
+}

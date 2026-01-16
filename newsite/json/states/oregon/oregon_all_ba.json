@@ -1,0 +1,100 @@
+{
+    "success": true,
+    "state": "oregon",
+    "cities_virtual": [
+        {
+            "id": "879",
+            "name": "Beaverton",
+            "popular": "0"
+        },
+        {
+            "id": "843",
+            "name": "Bend",
+            "popular": "1"
+        },
+        {
+            "id": "923",
+            "name": "Gladstone",
+            "popular": "0"
+        },
+        {
+            "id": "231",
+            "name": "Hillsboro",
+            "popular": "1"
+        },
+        {
+            "id": "193",
+            "name": "Portland",
+            "popular": "1"
+        },
+        {
+            "id": "167",
+            "name": "Salem",
+            "popular": "1"
+        }
+    ],
+    "cities_business": [
+        {
+            "id": "193",
+            "name": "Portland",
+            "popular": "1"
+        }
+    ],
+    "cities_popular": [
+        {
+            "id": "843",
+            "name": "Bend"
+        },
+        {
+            "id": "231",
+            "name": "Hillsboro"
+        },
+        {
+            "id": "193",
+            "name": "Portland"
+        },
+        {
+            "id": "167",
+            "name": "Salem"
+        }
+    ],
+    "locations_business_address": [
+        {
+            "id": 1519,
+            "location_name": "5020 NE Martin Luther King Jr Blvd, Portland, OR 97211",
+            "city": "Portland",
+            "state": "Oregon",
+            "state_abbr": "OR",
+            "address": "5020 NE Martin Luther King Jr Blvd, Portland, OR 97211",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 45.55945,
+            "point_y": -122.6611564,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1519-01.Building.webp",
+                "alttext": null
+            },
+            "url": "/business-address/oregon/portland/location-1519/",
+            "phone": "5037135512"
+        }
+    ],
+    "meta": {
+        "cities_virtual_count": 6,
+        "cities_business_count": 1,
+        "cities_popular_count": 4,
+        "locations_business_address_count": 1
+    },
+    "seo": {
+        "title": "Virtual Business Address in Oregon | Opus Virtual Offices",
+        "meta_description": "Get a prestigious business address in Oregon with Opus. Multiple premium locations statewide mail handling privacy protection all for just $59/month.",
+        "canonical": "https://www.opusvirtualoffices.com/business-address/oregon/",
+        "og": {
+            "title": "Virtual Business Address in Oregon | Opus Virtual Offices",
+            "description": "Get a prestigious business address in Oregon with Opus. Multiple premium locations statewide mail handling privacy protection all for just $59/month.",
+            "url": "https://www.opusvirtualoffices.com/business-address/oregon/",
+            "type": "website",
+            "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+        }
+    }
+}

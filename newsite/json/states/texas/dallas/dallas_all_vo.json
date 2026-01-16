@@ -1,0 +1,99 @@
+{
+    "success": true,
+    "state": "texas",
+    "city": "dallas",
+    "wp_city_post_id": null,
+    "locations": [
+        {
+            "id": "1255",
+            "name": "Dallas",
+            "locname": "3626 North Hall Street (Two Oak Lawn), Suite 610, Dallas, TX 75219",
+            "address": "3626 North Hall Street (Two Oak Lawn), Suite 610, Dallas, TX 75219",
+            "city": "dallas",
+            "state": "texas",
+            "state_english": "Texas",
+            "abbr": "TX",
+            "phone": "2149329906",
+            "premium": "1",
+            "opusowned": "1",
+            "showpopular": "1",
+            "point_x": "32.8092951",
+            "point_y": "-96.8060222",
+            "url": "/virtual-office/texas/dallas/location-1255/",
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/Opus-Virtual-Office-Dallas-3626-North-Hall-Street-Modern-Office-Building.webp",
+                "alttext": "Exterior view of the Austin Opus Virtual Office location on 1005 Congress Avenue, which provides a prime business location."
+            }
+        }
+    ],
+    "popular_locations": [
+        {
+            "id": "1255",
+            "name": "Dallas",
+            "locname": "3626 North Hall Street (Two Oak Lawn), Suite 610, Dallas, TX 75219",
+            "address": "3626 North Hall Street (Two Oak Lawn), Suite 610, Dallas, TX 75219",
+            "city": "dallas",
+            "state": "texas",
+            "state_english": "Texas",
+            "abbr": "TX",
+            "phone": "2149329906",
+            "premium": "1",
+            "opusowned": "1",
+            "showpopular": "1",
+            "point_x": "32.8092951",
+            "point_y": "-96.8060222",
+            "url": "/virtual-office/texas/dallas/location-1255/",
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/Opus-Virtual-Office-Dallas-3626-North-Hall-Street-Modern-Office-Building.webp",
+                "alttext": "Exterior view of the Austin Opus Virtual Office location on 1005 Congress Avenue, which provides a prime business location."
+            }
+        }
+    ],
+    "premium_locations": [],
+    "regular_locations": [],
+    "sections": [
+        {
+            "title": "OUR DALLAS\nVIRTUAL OFFICES",
+            "body": "<h2></h2>\n<p>Enjoy the benefits of having a business address in Dallas Texas without the stress and expense surrounding a “traditional office environment”. OpusVO gives you the prestige of having an office with the budget of working from home. Receive all your business mail at a professional office building. No post office box number, just a great business address to use on your business cards and other marketing material.</p>\n<p>You don’t just get a business phone number with your Dallas virtual office, but also a live receptionist answering your calls the way you want them to be. Stop choosing between capturing new leads for your business and working on current clients. Do both. Get someone who looks out for you while you’re unable to break away.</p>\n",
+            "image": {
+                "url": "/newsite/wp-content/themes/ThemeDec23/assets/images/califonia-v-office.jpg",
+                "alt": "OUR DALLAS\nVIRTUAL OFFICES",
+                "title": "OUR DALLAS\nVIRTUAL OFFICES"
+            },
+            "layout": "image_text",
+            "imageAlignment": "right"
+        },
+        {
+            "title": "GET A VIRTUAL OFFICE\nIN DALLAS",
+            "body": "<h2></h2>\n<p>Whether you choose to work out of your home or on the road, a Dallas virtual office will give you the freedom and flexibility to get the job done in the place and style of your choosing. With a local company phone number, live receptionist, premium call transferring, and a professional business address, Opus VO provides a cost-effective way for your company to grow or establish a presence in a new market without any long-term commitments.</p>\n",
+            "image": {
+                "url": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "alt": "GET A VIRTUAL OFFICE\nIN DALLAS",
+                "title": "GET A VIRTUAL OFFICE\nIN DALLAS"
+            },
+            "layout": "image_text",
+            "imageAlignment": "left"
+        }
+    ],
+    "faqs": [],
+    "meta": {
+        "locations_count": 1,
+        "popular_locations_count": 1,
+        "premium_locations_count": 0,
+        "regular_locations_count": 0,
+        "sections_count": 2,
+        "faqs_count": 0
+    },
+    "seo": {
+        "title": "Virtual Office in Dallas, TX | Multiple Locations Available",
+        "meta_description": "Find the ultimate office solution with Opus Virtual Offices in Dallas, Texas. Our all-inclusive virtual offices cater to your business needs. Sign up today!",
+        "canonical": "https://www.opusvirtualoffices.com/virtual-office/texas/dallas/",
+        "og": {
+            "title": "Virtual Office in Dallas, TX | Multiple Locations Available",
+            "description": "Find the ultimate office solution with Opus Virtual Offices in Dallas, Texas. Our all-inclusive virtual offices cater to your business needs. Sign up today!",
+            "url": "https://www.opusvirtualoffices.com/virtual-office/texas/dallas/",
+            "type": "website",
+            "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+        }
+    }
+}

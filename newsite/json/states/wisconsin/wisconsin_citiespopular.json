@@ -1,0 +1,19 @@
+{
+    "success": true,
+    "count": 3,
+    "state": "wisconsin",
+    "data": [
+        {
+            "id": "335",
+            "name": "Eau Claire"
+        },
+        {
+            "id": "311",
+            "name": "Madison"
+        },
+        {
+            "id": "426",
+            "name": "Milwaukee"
+        }
+    ]
+}

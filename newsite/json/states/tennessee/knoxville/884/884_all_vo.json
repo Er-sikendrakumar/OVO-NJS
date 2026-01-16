@@ -1,0 +1,92 @@
+{
+    "success": true,
+    "location_id": 884,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Knoxville",
+            "state": "TN",
+            "price": null,
+            "address": {
+                "line1": "9111 Cross Park Drive",
+                "suite": null,
+                "city": "Knoxville",
+                "state": "TN",
+                "zip": "37923",
+                "phone": "(865) 292-0292"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/884-Exterior.png",
+                    "/wp-content-mgr/wp-content/uploads/884-Conference.jpeg",
+                    "/wp-content-mgr/wp-content/uploads/884-Reception.jpeg",
+                    "/wp-content-mgr/wp-content/uploads/884-Lounge.jpeg"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=884",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Knoxville Virtual Office",
+            "body": "Uncover the advantages of securing a prestigious business address in Knoxville, Tennessee, without the need for a physical office space. At Opus VO, we offer you the opportunity to establish your business in the heart of Knoxville’s dynamic business community while streamlining operational efficiency. Our state-of-the-art conference rooms are readily available for vital meetings and collaborative projects.  When you opt for Opus VO’s virtual office in Knoxville, you also gain access to a professional live receptionist who seamlessly integrates with your team. We ensure that every client interaction reflects your unique brand identity. Delegate routine administrative tasks to us, enabling you to focus on your core business objectives. ",
+            "map": {
+                "lat": 35.9228382,
+                "lng": -84.0874553,
+                "zoom": 14,
+                "city": "Knoxville"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Knoxville, Tennessee even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Knoxville. You can also adapt to better meet your clients’ unique needs within Tennessee. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Knoxville virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Knoxville? Why Opus VO?",
+                "body": "Knoxville is more than just a charming city; it’s a thriving business hub with opportunities spanning various sectors, including technology, healthcare, and education. Possessing a Knoxville address not only elevates your business reputation but also grants access to valuable networking events and industry connections.  Selecting Opus VO for your virtual office in Knoxville is more than a practical choice; it’s a strategic advantage. Are you ready to boost your business presence? Explore our exceptional virtual office solutions today.  Opus VO, Knoxville @ 9111 Cross Park Drive, Knoxville, TN 37923 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Knoxville - 9111 Cross Park Drive | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Tennessee, Knoxville virtual office located at 9111 Cross Park Drive. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/tennessee/knoxville/location-884/",
+            "og": {
+                "title": "Virtual Office in Knoxville - 9111 Cross Park Drive | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Tennessee, Knoxville virtual office located at 9111 Cross Park Drive. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/tennessee/knoxville/location-884/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/884-Exterior.png"
+            }
+        }
+    }
+}

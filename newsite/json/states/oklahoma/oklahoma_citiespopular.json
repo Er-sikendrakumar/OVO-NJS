@@ -1,0 +1,27 @@
+{
+    "success": true,
+    "count": 5,
+    "state": "oklahoma",
+    "data": [
+        {
+            "id": "472",
+            "name": "Edmond"
+        },
+        {
+            "id": "387",
+            "name": "Elk City"
+        },
+        {
+            "id": "246",
+            "name": "Oklahoma City"
+        },
+        {
+            "id": "410",
+            "name": "Owasso"
+        },
+        {
+            "id": "587",
+            "name": "Tulsa"
+        }
+    ]
+}

@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "location_id": 1278,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Clarksburg",
+            "state": "WV",
+            "price": null,
+            "address": {
+                "line1": "2413 East Pike Street",
+                "suite": null,
+                "city": "Clarksburg",
+                "state": "WV",
+                "zip": "26301",
+                "phone": "(304) 902-4368"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/278-1.virtual-office-2443-East-Pike-Street-Clarksburg-WV-26301.jpg",
+                    "/wp-content-mgr/wp-content/uploads/278-2.2443-East-Pike-Street-Clarksburg-WV-26301.jpg",
+                    "/wp-content-mgr/wp-content/uploads/278-3.meeting-rooms-2443-East-Pike-Street-Clarksburg-WV-26301-631x550.jpg"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1278",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Clarksburg Virtual Office",
+            "body": "Looking for a prestigious Clarksburg address to accentuate your startup or reinvigorate your established business, but are hesitant about the financial commitment of a conventional office? Opus VO is the key. Anchor your brand at one of our curated Clarksburg locations, securing all the benefits of an esteemed address without the monetary toll. For those significant client discussions or vital team meetings that need just the right setting, our cutting-edge conference rooms are ready and waiting.  The offerings don’t end at an iconic address. Your virtual office package at Opus VO in Clarksburg also includes the invaluable assistance of a live receptionist. Lean on us to skillfully manage your customer communications, reflecting your specific business vision. And those daily admin duties like managing digital correspondence and forwarding calls? We’ve got it covered, freeing you up to zero in on business expansion and creativity. ",
+            "map": {
+                "lat": 39.2791106,
+                "lng": -80.2898604,
+                "zoom": 14,
+                "city": "Clarksburg"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Clarksburg, West Virginia even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Clarksburg. You can also adapt to better meet your clients’ unique needs within West Virginia. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Clarksburg virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Clarksburg? Why Opus VO?",
+                "body": "Clarksburg is not simply a tranquil town; it’s a burgeoning hive of business activities across various domains. When you opt for a virtual office at Opus VO in Clarksburg, you’re plugging into a spirited community of professionals and a realm of untapped possibilities.  Selecting Opus VO in Clarksburg is not merely a smart economic choice; it’s a strategy aimed at unlocking future milestones for your business. The next chapter in your success story could very well start with a simple virtual office decision.  Opus VO Location in Clarksburg @ 2413 East Pike Street, Clarksburg, WV 26301 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Clarksburg - 2413 East Pike Street | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our West Virginia, Clarksburg virtual office located at 2413 East Pike Street. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/west-virginia/clarksburg/location-1278/",
+            "og": {
+                "title": "Virtual Office in Clarksburg - 2413 East Pike Street | $99/Month",
+                "description": "Get the ultimate office solution for your business with our West Virginia, Clarksburg virtual office located at 2413 East Pike Street. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/west-virginia/clarksburg/location-1278/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/278-1.virtual-office-2443-East-Pike-Street-Clarksburg-WV-26301.jpg"
+            }
+        }
+    }
+}

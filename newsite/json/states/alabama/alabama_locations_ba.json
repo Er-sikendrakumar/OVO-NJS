@@ -1,0 +1,46 @@
+{
+    "success": true,
+    "count": 2,
+    "state": "alabama",
+    "mode": "business-address",
+    "data": [
+        {
+            "id": 1407,
+            "location_name": "4000 Eagle Point Corporate Drive, Birmingham, AL 35242",
+            "city": "Birmingham",
+            "state": "Alabama",
+            "state_abbr": "AL",
+            "address": "4000 Eagle Point Corporate Drive, Birmingham, AL 35242",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 33.4000316,
+            "point_y": -86.6647414,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1407-01-Building-e1709839370316.jpg",
+                "alttext": null
+            },
+            "url": "/business-address/alabama/birmingham/location-1407/",
+            "phone": "2055610019"
+        },
+        {
+            "id": 1253,
+            "location_name": "216 South 8th Street, Opelika, AL 36801",
+            "city": "Opelika",
+            "state": "Alabama",
+            "state_abbr": "AL",
+            "address": "216 South 8th Street, Opelika, AL 36801",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 32.6470902,
+            "point_y": -85.37744029,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/Opus-Virtual-Office-Opelika-Building-Exterior-.webp",
+                "alttext": "Exterior view of Opus Virtual Office in Opelika, AL"
+            },
+            "url": "/business-address/alabama/opelika/location-1253/",
+            "phone": "3342097481"
+        }
+    ]
+}

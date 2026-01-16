@@ -1,0 +1,17 @@
+{
+    "success": true,
+    "count": 2,
+    "state": "arizona",
+    "data": [
+        {
+            "id": "214",
+            "name": "Phoenix",
+            "popular": "1"
+        },
+        {
+            "id": "649",
+            "name": "Tucson",
+            "popular": "1"
+        }
+    ]
+}

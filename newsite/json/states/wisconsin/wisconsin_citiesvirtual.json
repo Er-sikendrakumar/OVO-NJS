@@ -1,0 +1,47 @@
+{
+    "success": true,
+    "count": 8,
+    "state": "wisconsin",
+    "data": [
+        {
+            "id": "335",
+            "name": "Eau Claire",
+            "popular": "1"
+        },
+        {
+            "id": "800",
+            "name": "Glendale",
+            "popular": "0"
+        },
+        {
+            "id": "602",
+            "name": "Green Bay",
+            "popular": "0"
+        },
+        {
+            "id": "417",
+            "name": "Hartford",
+            "popular": "0"
+        },
+        {
+            "id": "286",
+            "name": "Kenosha",
+            "popular": "0"
+        },
+        {
+            "id": "311",
+            "name": "Madison",
+            "popular": "1"
+        },
+        {
+            "id": "426",
+            "name": "Milwaukee",
+            "popular": "1"
+        },
+        {
+            "id": "161",
+            "name": "Superior",
+            "popular": "0"
+        }
+    ]
+}

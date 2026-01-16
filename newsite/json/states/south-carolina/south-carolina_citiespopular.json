@@ -1,0 +1,23 @@
+{
+    "success": true,
+    "count": 4,
+    "state": "south carolina",
+    "data": [
+        {
+            "id": "326",
+            "name": "Charleston"
+        },
+        {
+            "id": "44",
+            "name": "Columbia"
+        },
+        {
+            "id": "47",
+            "name": "Lexington"
+        },
+        {
+            "id": "560",
+            "name": "Myrtle Beach"
+        }
+    ]
+}

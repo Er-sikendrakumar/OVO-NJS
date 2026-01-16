@@ -1,0 +1,89 @@
+{
+    "success": true,
+    "location_id": 1451,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Billings",
+            "state": "MT",
+            "price": null,
+            "address": {
+                "line1": "821 N 27th Street",
+                "suite": null,
+                "city": "Billings",
+                "state": "MT",
+                "zip": "59101",
+                "phone": "(406) 371-9928"
+            },
+            "images": {
+                "hero": [
+                    "/assets/mail-center.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1451",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 0,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Billings Virtual Office",
+            "body": "Secure an impressive business address in Billings without the burden of physical office space. Opus VO offers you the opportunity to establish your business in the thriving Billings community while maintaining cost efficiency. Our state-of-the-art conference rooms are at your disposal for essential meetings and presentations.  When you opt for Opus VO’s virtual office in Billings, you gain access to a professional live receptionist as part of the package. Our dedicated team ensures that every client interaction aligns seamlessly with your brand identity. Delegate routine administrative tasks to us, giving you more time to focus on your core business objectives. ",
+            "map": {
+                "lat": 45.789254,
+                "lng": -108.5103387,
+                "zoom": 14,
+                "city": "Billings"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Billings, Montana even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Billings. You can also adapt to better meet your clients’ unique needs within Montana. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Billings virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Billings?",
+                "body": "Billings is more than just a city in Montana; it’s a growing business hub with diverse opportunities in sectors like energy, healthcare, and finance. A Billings address connects you with valuable networking opportunities and industry events that can significantly boost your business connections.  Choosing Opus VO for your virtual office in Billings is not just a cost-effective decision; it’s a strategic advantage. Are you ready to elevate your business to new heights? Explore our exceptional virtual office solutions today.  Opus VO Billings @ 821 N 27th Street, Billings, MT 59101 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Billings - 821 N 27th Street | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Montana, Billings virtual office located at 821 N 27th Street. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/montana/billings/location-1451/",
+            "og": {
+                "title": "Virtual Office in Billings - 821 N 27th Street | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Montana, Billings virtual office located at 821 N 27th Street. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/montana/billings/location-1451/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+            }
+        }
+    }
+}

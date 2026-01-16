@@ -1,0 +1,27 @@
+{
+    "success": true,
+    "count": 5,
+    "state": "tennessee",
+    "data": [
+        {
+            "id": "618",
+            "name": "Chattanooga"
+        },
+        {
+            "id": "502",
+            "name": "Knoxville"
+        },
+        {
+            "id": "127",
+            "name": "Memphis"
+        },
+        {
+            "id": "146",
+            "name": "Murfreesboro"
+        },
+        {
+            "id": "474",
+            "name": "Nashville"
+        }
+    ]
+}

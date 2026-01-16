@@ -1,0 +1,89 @@
+{
+    "success": true,
+    "location_id": 199,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Suwanee",
+            "state": "GA",
+            "price": null,
+            "address": {
+                "line1": "3245 Peachtree Pkwy.",
+                "suite": null,
+                "city": "Suwanee",
+                "state": "GA",
+                "zip": "30024",
+                "phone": "(678) 837-3141"
+            },
+            "images": {
+                "hero": [
+                    "/assets/mail-center.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=199",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 0,
+            "nearbyPremium": 1,
+            "nearbyPremiumUrl": "/virtual-office/georgia/atlanta/location-684/",
+            "nearbyPremiumText": "to view nearby PREMIUM Locations that offer Meeting Rooms for the same $99/mo",
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Suwanee Virtual Office",
+            "body": "Elevate your business profile with a prestigious Suwanee address without the overheads of an actual office. Opus VO places you squarely in the vibrant heart of Suwanee, providing the illusion of physical presence without financial strain. Got a crucial meeting or client pitch lined up? Our contemporary conference rooms are fully equipped to make a lasting impression.  When you make the leap to a virtual office in Suwanee through Opus VO, a dedicated live receptionist is part of the ensemble. Our goal is to ensure that every client touchpoint harmonizes perfectly with your brand’s essence. Offload the administrative grind to us, freeing your energy to chase down those business ambitions. ",
+            "map": {
+                "lat": 34.083254,
+                "lng": -84.161174,
+                "zoom": 14,
+                "city": "Suwanee"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Suwanee, Georgia even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Suwanee. You can also adapt to better meet your clients’ unique needs within Georgia. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Suwanee virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why a Virtual Office in Suwanee?",
+                "body": "Suwanee isn’t just a pretty suburban face—it’s a hive of business activity spanning various sectors like tech, healthcare, and finance. Establishing your virtual base here connects you to the movers and shakers that can accelerate your business objectives.  Choosing Opus VO in Suwanee is about more than saving pennies; it’s about sharpening your competitive edge. Ready to hit those high notes? Our premium virtual office services are cued up and ready for you.  Opus VO, Suwanee @ 3245 Peachtree Pkwy., Suwanee, GA 30024 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Suwanee - 3245 Peachtree Pkwy. | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Georgia, Suwanee virtual office located at 3245 Peachtree Pkwy.. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/georgia/suwanee/location-199/",
+            "og": {
+                "title": "Virtual Office in Suwanee - 3245 Peachtree Pkwy. | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Georgia, Suwanee virtual office located at 3245 Peachtree Pkwy.. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/georgia/suwanee/location-199/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+            }
+        }
+    }
+}

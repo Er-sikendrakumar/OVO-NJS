@@ -1,0 +1,89 @@
+{
+    "success": true,
+    "location_id": 687,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Odenton",
+            "state": "MD",
+            "price": null,
+            "address": {
+                "line1": "8777B Piney Orchard Parkway",
+                "suite": null,
+                "city": "Odenton",
+                "state": "MD",
+                "zip": "21113",
+                "phone": "(410) 809-2677"
+            },
+            "images": {
+                "hero": [
+                    "/assets/mail-center.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=687",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 0,
+            "nearbyPremium": 1,
+            "nearbyPremiumUrl": "/virtual-office/maryland/laurel/location-1617/",
+            "nearbyPremiumText": "to view the nearby PREMIUM Locations for the same $99/mo",
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Odenton Virtual Office",
+            "body": "Secure a high-profile business address in Odenton without the financial weight of a brick-and-mortar workspace. At Opus VO, we offer you the ability to place your business in the heart of Odenton’s dynamic ecosystem, all while maintaining budget-friendly operations. Need a space to seal the deal or deliver a knockout pitch? Our cutting-edge conference rooms are primed to leave a lasting impression.  With Opus VO in Odenton, a specialized live receptionist comes as standard. Each client interaction is handled in a manner that authentically reflects your brand, offering a seamless experience for your customers. Leave the day-to-day administrative duties to us and concentrate on the bigger picture—your business aspirations. ",
+            "map": {
+                "lat": 39.064617,
+                "lng": -76.72243,
+                "zoom": 14,
+                "city": "Odenton"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Odenton, Maryland even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Odenton. You can also adapt to better meet your clients’ unique needs within Maryland. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Odenton virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Odenton?",
+                "body": "Don’t sleep on Odenton—it’s more than just a suburban landscape. It’s an emerging locus for businesses in diverse sectors, from IT to healthcare. Establishing a presence in Odenton gives you direct access to the community, opportunities, and networking events that can elevate your business.  Choosing Opus VO for your Odenton-based venture is not just financially prudent, it’s a strategic ace up your sleeve. Ready to step up your business game? Our premium virtual office solutions are here for you.  Opus VO, Odenton @ 8777B Piney Orchard Parkway, Odenton, MD 2111",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Odenton - 8777B Piney Orchard Parkway | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Maryland, Odenton virtual office located at 8777B Piney Orchard Parkway. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/maryland/odenton/location-687/",
+            "og": {
+                "title": "Virtual Office in Odenton - 8777B Piney Orchard Parkway | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Maryland, Odenton virtual office located at 8777B Piney Orchard Parkway. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/maryland/odenton/location-687/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+            }
+        }
+    }
+}

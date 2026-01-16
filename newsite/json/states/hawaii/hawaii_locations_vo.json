@@ -1,0 +1,65 @@
+{
+    "success": true,
+    "count": 3,
+    "state": "hawaii",
+    "mode": "virtual-office",
+    "data": [
+        {
+            "id": 1521,
+            "location_name": "4819 Kilauea Avenue, Honolulu, HI 96816",
+            "city": "Honolulu",
+            "state": "Hawaii",
+            "state_abbr": "HI",
+            "address": "4819 Kilauea Avenue, Honolulu, HI 96816",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 21.2790165,
+            "point_y": -157.7838828,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1521-01.bldg_.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/hawaii/honolulu/location-1521/",
+            "phone": "8083783257"
+        },
+        {
+            "id": 1397,
+            "location_name": "74 Kihapai Street, Kailua, HI 96734",
+            "city": "Kailua",
+            "state": "Hawaii",
+            "state_abbr": "HI",
+            "address": "74 Kihapai Street, Kailua, HI 96734",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 21.3948345,
+            "point_y": -157.7466723,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1397-01.bldg_.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/hawaii/kailua/location-1397/",
+            "phone": "8083783266"
+        },
+        {
+            "id": 1624,
+            "location_name": "75-5915 Walua Road, Kailua Kona, HI 96740",
+            "city": "Kailua Kona",
+            "state": "Hawaii",
+            "state_abbr": "HI",
+            "address": "75-5915 Walua Road, Kailua Kona, HI 96740",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 19.6286391,
+            "point_y": -155.9853234,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1624-01.Building.webp",
+                "alttext": null
+            },
+            "url": "/virtual-office/hawaii/kailua-kona/location-1624/",
+            "phone": "0"
+        }
+    ]
+}

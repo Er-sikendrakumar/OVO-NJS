@@ -1,0 +1,202 @@
+{
+    "success": true,
+    "state": "florida",
+    "city": "st. petersburg",
+    "wp_city_post_id": null,
+    "locations": [
+        {
+            "id": "1582",
+            "name": "St. Petersburg",
+            "locname": "100 2nd Avenue S, St. Petersburg, FL 33701",
+            "address": "100 2nd Avenue S, St. Petersburg, FL 33701",
+            "city": "st. petersburg",
+            "state": "florida",
+            "state_english": "Florida",
+            "abbr": "FL",
+            "phone": "0",
+            "premium": "1",
+            "opusowned": "0",
+            "showpopular": "0",
+            "point_x": "27.7693083",
+            "point_y": "-82.634502",
+            "url": "/virtual-office/florida/st.-petersburg/location-1582/",
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1582-001-Building.jpg",
+                "alttext": ""
+            }
+        },
+        {
+            "id": "1124",
+            "name": "St. Petersburg",
+            "locname": "9800 4th Street N, St. Petersburg, FL 33702",
+            "address": "9800 4th Street N, St. Petersburg, FL 33702",
+            "city": "st. petersburg",
+            "state": "florida",
+            "state_english": "Florida",
+            "abbr": "FL",
+            "phone": "7277679913",
+            "premium": "1",
+            "opusowned": "0",
+            "showpopular": "0",
+            "point_x": "27.8614168",
+            "point_y": "-82.63975099",
+            "url": "/virtual-office/florida/st.-petersburg/location-1124/",
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1124-001-Building-scaled.jpg",
+                "alttext": ""
+            }
+        },
+        {
+            "id": "315",
+            "name": "St. Petersburg",
+            "locname": "1700 66th Street North, St. Petersburg, FL 33710",
+            "address": "1700 66th Street North, St. Petersburg, FL 33710",
+            "city": "st. petersburg",
+            "state": "florida",
+            "state_english": "Florida",
+            "abbr": "FL",
+            "phone": "7274374306",
+            "premium": "0",
+            "opusowned": "0",
+            "showpopular": "0",
+            "point_x": "27.786588",
+            "point_y": "-82.728659",
+            "url": "/virtual-office/florida/st.-petersburg/location-315/",
+            "image": "/assets/mail-center.webp"
+        },
+        {
+            "id": "784",
+            "name": "St. Petersburg",
+            "locname": "6800 Gulfport Blvd. S, St. Petersburg, FL 33707",
+            "address": "6800 Gulfport Blvd. S, St. Petersburg, FL 33707",
+            "city": "st. petersburg",
+            "state": "florida",
+            "state_english": "Florida",
+            "abbr": "FL",
+            "phone": "7278035056",
+            "premium": "0",
+            "opusowned": "0",
+            "showpopular": "0",
+            "point_x": "27.7579224",
+            "point_y": "-82.73261421",
+            "url": "/virtual-office/florida/st.-petersburg/location-784/",
+            "image": "/assets/mail-center.webp"
+        }
+    ],
+    "popular_locations": [],
+    "premium_locations": [
+        {
+            "id": "1582",
+            "name": "St. Petersburg",
+            "locname": "100 2nd Avenue S, St. Petersburg, FL 33701",
+            "address": "100 2nd Avenue S, St. Petersburg, FL 33701",
+            "city": "st. petersburg",
+            "state": "florida",
+            "state_english": "Florida",
+            "abbr": "FL",
+            "phone": "0",
+            "premium": "1",
+            "opusowned": "0",
+            "showpopular": "0",
+            "point_x": "27.7693083",
+            "point_y": "-82.634502",
+            "url": "/virtual-office/florida/st.-petersburg/location-1582/",
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1582-001-Building.jpg",
+                "alttext": ""
+            }
+        },
+        {
+            "id": "1124",
+            "name": "St. Petersburg",
+            "locname": "9800 4th Street N, St. Petersburg, FL 33702",
+            "address": "9800 4th Street N, St. Petersburg, FL 33702",
+            "city": "st. petersburg",
+            "state": "florida",
+            "state_english": "Florida",
+            "abbr": "FL",
+            "phone": "7277679913",
+            "premium": "1",
+            "opusowned": "0",
+            "showpopular": "0",
+            "point_x": "27.8614168",
+            "point_y": "-82.63975099",
+            "url": "/virtual-office/florida/st.-petersburg/location-1124/",
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1124-001-Building-scaled.jpg",
+                "alttext": ""
+            }
+        }
+    ],
+    "regular_locations": [
+        {
+            "id": "315",
+            "name": "St. Petersburg",
+            "locname": "1700 66th Street North, St. Petersburg, FL 33710",
+            "address": "1700 66th Street North, St. Petersburg, FL 33710",
+            "city": "st. petersburg",
+            "state": "florida",
+            "state_english": "Florida",
+            "abbr": "FL",
+            "phone": "7274374306",
+            "premium": "0",
+            "opusowned": "0",
+            "showpopular": "0",
+            "point_x": "27.786588",
+            "point_y": "-82.728659",
+            "url": "/virtual-office/florida/st.-petersburg/location-315/",
+            "image": "/assets/mail-center.webp"
+        },
+        {
+            "id": "784",
+            "name": "St. Petersburg",
+            "locname": "6800 Gulfport Blvd. S, St. Petersburg, FL 33707",
+            "address": "6800 Gulfport Blvd. S, St. Petersburg, FL 33707",
+            "city": "st. petersburg",
+            "state": "florida",
+            "state_english": "Florida",
+            "abbr": "FL",
+            "phone": "7278035056",
+            "premium": "0",
+            "opusowned": "0",
+            "showpopular": "0",
+            "point_x": "27.7579224",
+            "point_y": "-82.73261421",
+            "url": "/virtual-office/florida/st.-petersburg/location-784/",
+            "image": "/assets/mail-center.webp"
+        }
+    ],
+    "sections": [
+        {
+            "title": "OUR ST. PETERSBURG\nVIRTUAL OFFICES",
+            "body": "<h2></h2>\n<p>Enjoy the benefits of having a business address in St. Petersburg Florida without the stress and expense surrounding a “traditional office environment”. OpusVO gives you the prestige of having an office with the budget of working from home. Receive all your business mail at a professional office building. No post office box number, just a great business address to use on your business cards and other marketing material.</p>\n<p>You don’t just get a business phone number with your St. Petersburg virtual office, but also a live receptionist answering your calls the way you want them to be. Stop choosing between capturing new leads for your business and working on current clients. Do both. Get someone who looks out for you while you’re unable to break away.</p>\n",
+            "image": {
+                "url": "/newsite/wp-content/themes/ThemeDec23/assets/images/califonia-v-office.jpg",
+                "alt": "OUR ST. PETERSBURG\nVIRTUAL OFFICES",
+                "title": "OUR ST. PETERSBURG\nVIRTUAL OFFICES"
+            },
+            "layout": "image_text",
+            "imageAlignment": "right"
+        },
+        {
+            "title": "GET A VIRTUAL OFFICE\nIN ST. PETERSBURG",
+            "body": "<h2></h2>\n<p>Whether you choose to work out of your home or on the road, a St. Petersburg virtual office will give you the freedom and flexibility to get the job done in the place and style of your choosing. With a local company phone number, live receptionist, premium call transferring, and a professional business address, Opus VO provides a cost-effective way for your company to grow or establish a presence in a new market without any long-term commitments.</p>\n",
+            "image": {
+                "url": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "alt": "GET A VIRTUAL OFFICE\nIN ST. PETERSBURG",
+                "title": "GET A VIRTUAL OFFICE\nIN ST. PETERSBURG"
+            },
+            "layout": "image_text",
+            "imageAlignment": "left"
+        }
+    ],
+    "faqs": [],
+    "meta": {
+        "locations_count": 4,
+        "popular_locations_count": 0,
+        "premium_locations_count": 2,
+        "regular_locations_count": 2,
+        "sections_count": 2,
+        "faqs_count": 0
+    }
+}

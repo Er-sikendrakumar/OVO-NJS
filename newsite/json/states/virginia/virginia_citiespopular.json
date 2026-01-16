@@ -1,0 +1,27 @@
+{
+    "success": true,
+    "count": 5,
+    "state": "virginia",
+    "data": [
+        {
+            "id": "49",
+            "name": "Alexandria"
+        },
+        {
+            "id": "639",
+            "name": "Leesburg"
+        },
+        {
+            "id": "109",
+            "name": "McLean"
+        },
+        {
+            "id": "416",
+            "name": "Richmond"
+        },
+        {
+            "id": "500",
+            "name": "Virginia Beach"
+        }
+    ]
+}

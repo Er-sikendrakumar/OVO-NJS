@@ -1,0 +1,23 @@
+{
+    "success": true,
+    "page": "virtual-office/missouri/kansas-city",
+    "page_type": "location_city",
+    "view": "city",
+    "seo": {
+        "title": "Virtual Office in Kansas City, MO | Multiple Locations Available",
+        "meta_description": "Find the ultimate office solution with Opus Virtual Offices in Kansas City, Missouri. Our all-inclusive virtual offices cater to your business needs. Sign up today!",
+        "canonical": "https://www.opusvirtualoffices.com/virtual-office/missouri/kansas-city/",
+        "og": {
+            "title": "Virtual Office in Kansas City, MO | Multiple Locations Available",
+            "description": "Find the ultimate office solution with Opus Virtual Offices in Kansas City, Missouri. Our all-inclusive virtual offices cater to your business needs. Sign up today!",
+            "url": "https://www.opusvirtualoffices.com/virtual-office/missouri/kansas-city/",
+            "type": "website",
+            "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+        }
+    },
+    "data": {
+        "state": "Missouri",
+        "city": "Kansas City",
+        "mode": "virtual-office"
+    }
+}

@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "count": 5,
+    "state": "kentucky",
+    "mode": "virtual-office",
+    "data": [
+        {
+            "id": 688,
+            "location_name": "1965-B Brandenburg Road, Brandenburg, KY 40108",
+            "city": "Brandenburg",
+            "state": "Kentucky",
+            "state_abbr": "KY",
+            "address": "1965-B Brandenburg Road, Brandenburg, KY 40108",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 37.977846,
+            "point_y": -86.151714,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/kentucky/brandenburg/location-688/",
+            "phone": "2703923737"
+        },
+        {
+            "id": 1598,
+            "location_name": "710 E Main Street, Lexington, KY 40502",
+            "city": "Lexington",
+            "state": "Kentucky",
+            "state_abbr": "KY",
+            "address": "710 E Main Street, Lexington, KY 40502",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 38.0357095,
+            "point_y": -84.4854052,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1598-001-Building-scaled.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/kentucky/lexington/location-1598/",
+            "phone": "0"
+        },
+        {
+            "id": 1229,
+            "location_name": "110 West Vine Street, Lexington, KY 40507",
+            "city": "Lexington",
+            "state": "Kentucky",
+            "state_abbr": "KY",
+            "address": "110 West Vine Street, Lexington, KY 40507",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 38.0462393,
+            "point_y": -84.4989095,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1Building-23.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/kentucky/lexington/location-1229/",
+            "phone": "8596293917"
+        },
+        {
+            "id": 1395,
+            "location_name": "101 North Seventh Street, Louisville, KY 40202",
+            "city": "Louisville",
+            "state": "Kentucky",
+            "state_abbr": "KY",
+            "address": "101 North Seventh Street, Louisville, KY 40202",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 38.2576569,
+            "point_y": -85.7612575,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1395-01.bldg_-1.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/kentucky/louisville/location-1395/",
+            "phone": "5027859868"
+        },
+        {
+            "id": 706,
+            "location_name": "974 Breckenridge Ln, Louisville, KY 40207",
+            "city": "Louisville",
+            "state": "Kentucky",
+            "state_abbr": "KY",
+            "address": "974 Breckenridge Ln, Louisville, KY 40207",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 38.233051,
+            "point_y": -85.639421,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/kentucky/louisville/location-706/",
+            "phone": "5029093005"
+        }
+    ]
+}

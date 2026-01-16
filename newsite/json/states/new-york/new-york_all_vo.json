@@ -1,0 +1,863 @@
+{
+    "success": true,
+    "state": "new york",
+    "cities_virtual": [
+        {
+            "id": "403",
+            "name": "Albany",
+            "popular": "1"
+        },
+        {
+            "id": "851",
+            "name": "Amherst",
+            "popular": "0"
+        },
+        {
+            "id": "327",
+            "name": "Binghamton",
+            "popular": "0"
+        },
+        {
+            "id": "212",
+            "name": "Bronx",
+            "popular": "1"
+        },
+        {
+            "id": "98",
+            "name": "Brooklyn",
+            "popular": "1"
+        },
+        {
+            "id": "194",
+            "name": "Buffalo",
+            "popular": "1"
+        },
+        {
+            "id": "347",
+            "name": "East Setauket",
+            "popular": "0"
+        },
+        {
+            "id": "794",
+            "name": "Forest Hills",
+            "popular": "0"
+        },
+        {
+            "id": "453",
+            "name": "Glen Cove",
+            "popular": "0"
+        },
+        {
+            "id": "99",
+            "name": "Great Neck",
+            "popular": "0"
+        },
+        {
+            "id": "873",
+            "name": "Huntington",
+            "popular": "0"
+        },
+        {
+            "id": "346",
+            "name": "Kings Park",
+            "popular": "0"
+        },
+        {
+            "id": "305",
+            "name": "Larchmont",
+            "popular": "0"
+        },
+        {
+            "id": "786",
+            "name": "Long Beach",
+            "popular": "0"
+        },
+        {
+            "id": "712",
+            "name": "Long Island City",
+            "popular": "0"
+        },
+        {
+            "id": "606",
+            "name": "Melville",
+            "popular": "0"
+        },
+        {
+            "id": "884",
+            "name": "Mooers",
+            "popular": "0"
+        },
+        {
+            "id": "701",
+            "name": "New City",
+            "popular": "1"
+        },
+        {
+            "id": "681",
+            "name": "New York",
+            "popular": "0"
+        },
+        {
+            "id": "641",
+            "name": "Plainview",
+            "popular": "0"
+        },
+        {
+            "id": "741",
+            "name": "Poughkeepsie",
+            "popular": "0"
+        },
+        {
+            "id": "278",
+            "name": "Queens Village",
+            "popular": "0"
+        },
+        {
+            "id": "192",
+            "name": "Rochester",
+            "popular": "1"
+        },
+        {
+            "id": "735",
+            "name": "Scarsdale",
+            "popular": "0"
+        },
+        {
+            "id": "911",
+            "name": "Skaneateles",
+            "popular": "0"
+        },
+        {
+            "id": "337",
+            "name": "Slingerlands",
+            "popular": "0"
+        },
+        {
+            "id": "195",
+            "name": "Syracuse",
+            "popular": "1"
+        },
+        {
+            "id": "601",
+            "name": "Uniondale",
+            "popular": "0"
+        },
+        {
+            "id": "532",
+            "name": "White Plains",
+            "popular": "1"
+        }
+    ],
+    "cities_business": [
+        {
+            "id": "98",
+            "name": "Brooklyn",
+            "popular": "1"
+        },
+        {
+            "id": "681",
+            "name": "New York",
+            "popular": "0"
+        }
+    ],
+    "cities_popular": [
+        {
+            "id": "403",
+            "name": "Albany"
+        },
+        {
+            "id": "212",
+            "name": "Bronx"
+        },
+        {
+            "id": "98",
+            "name": "Brooklyn"
+        },
+        {
+            "id": "194",
+            "name": "Buffalo"
+        },
+        {
+            "id": "701",
+            "name": "New City"
+        },
+        {
+            "id": "192",
+            "name": "Rochester"
+        },
+        {
+            "id": "195",
+            "name": "Syracuse"
+        },
+        {
+            "id": "532",
+            "name": "White Plains"
+        }
+    ],
+    "locations_virtual_office": [
+        {
+            "id": 1477,
+            "location_name": "32 Court Street, Suite 904, Brooklyn, NY 11201",
+            "city": "Brooklyn",
+            "state": "New York",
+            "state_abbr": "NY",
+            "address": "32 Court Street, Suite 904, Brooklyn, NY 11201",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 1,
+            "point_x": 40.6929538,
+            "point_y": -73.9910393,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/32-Court-St-Brooklyn-NY-Building-Photo-1-HighDefinition.webp",
+                "alttext": "Street view of Opus Virtual Office’s Brooklyn, NY building located at 32 Court Street."
+            },
+            "url": "/virtual-office/new-york/brooklyn/location-1477/",
+            "phone": "7189571040"
+        },
+        {
+            "id": 1450,
+            "location_name": "26 Broadway, Suite 934, New York, NY 10004",
+            "city": "New York",
+            "state": "New York",
+            "state_abbr": "NY",
+            "address": "26 Broadway, Suite 934, New York, NY 10004",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 1,
+            "point_x": 40.7054596,
+            "point_y": -74.0132303,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1450-building-1746036916361.jpg",
+                "alttext": "Exterior of the Standard Oil Building that houses Opus Virtual Offices located in New York, New York"
+            },
+            "url": "/virtual-office/new-york/new-york/location-1450/",
+            "phone": "2123761810"
+        },
+        {
+            "id": 1545,
+            "location_name": "251 New Karner Road, Albany, NY 12205",
+            "city": "Albany",
+            "state": "New York",
+            "state_abbr": "NY",
+            "address": "251 New Karner Road, Albany, NY 12205",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 42.721420599,
+            "point_y": -73.8636361,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1545-01.bldg_.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/new-york/albany/location-1545/",
+            "phone": "5182185508"
+        },
+        {
+            "id": 1613,
+            "location_name": "2810 Sweet Home Road, Amherst, NY 14228",
+            "city": "Amherst",
+            "state": "New York",
+            "state_abbr": "NY",
+            "address": "2810 Sweet Home Road, Amherst, NY 14228",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 43.0365499,
+            "point_y": -78.80034409,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1613-01.Building.webp",
+                "alttext": null
+            },
+            "url": "/virtual-office/new-york/amherst/location-1613/",
+            "phone": "0"
+        },
+        {
+            "id": 560,
+            "location_name": "1250 Front Street, Binghamton, NY 13901",
+            "city": "Binghamton",
+            "state": "New York",
+            "state_abbr": "NY",
+            "address": "1250 Front Street, Binghamton, NY 13901",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 42.1565473,
+            "point_y": -75.8961584,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/new-york/binghamton/location-560/",
+            "phone": "6072405682"
+        },
+        {
+            "id": 409,
+            "location_name": "557 Grand Concourse, Bronx, NY 10451",
+            "city": "Bronx",
+            "state": "New York",
+            "state_abbr": "NY",
+            "address": "557 Grand Concourse, Bronx, NY 10451",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 40.81909,
+            "point_y": -73.927229,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/new-york/bronx/location-409/",
+            "phone": "7185362397"
+        },
+        {
+            "id": 1146,
+            "location_name": "266 Elmwood Avenue, Buffalo, NY 14222",
+            "city": "Buffalo",
+            "state": "New York",
+            "state_abbr": "NY",
+            "address": "266 Elmwood Avenue, Buffalo, NY 14222",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 42.903794,
+            "point_y": -78.878048,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/new-york/buffalo/location-1146/",
+            "phone": "7165413972"
+        },
+        {
+            "id": 586,
+            "location_name": "248 Route 25A, East Setauket, NY 11733",
+            "city": "East Setauket",
+            "state": "New York",
+            "state_abbr": "NY",
+            "address": "248 Route 25A, East Setauket, NY 11733",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 40.937904,
+            "point_y": -73.109935,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/new-york/east-setauket/location-586/",
+            "phone": "6319733063"
+        },
+        {
+            "id": 1471,
+            "location_name": "118-21 Queens Blvd, Forest Hills, NY 11375",
+            "city": "Forest Hills",
+            "state": "New York",
+            "state_abbr": "NY",
+            "address": "118-21 Queens Blvd, Forest Hills, NY 11375",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 40.7150909,
+            "point_y": -73.83152299,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1471-01.bldg_.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/new-york/forest-hills/location-1471/",
+            "phone": "9179338621"
+        },
+        {
+            "id": 1710,
+            "location_name": "50 Glen Street, Glen Cove, NY 11542",
+            "city": "Glen Cove",
+            "state": "New York",
+            "state_abbr": "NY",
+            "address": "50 Glen Street, Glen Cove, NY 11542",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 40.8636338,
+            "point_y": -73.6298759,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1710-01.bldg_.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/new-york/glen-cove/location-1710/",
+            "phone": "5167185857"
+        },
+        {
+            "id": 236,
+            "location_name": "16 Middle Neck Road, Great Neck, NY 11021",
+            "city": "Great Neck",
+            "state": "New York",
+            "state_abbr": "NY",
+            "address": "16 Middle Neck Road, Great Neck, NY 11021",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 40.7871725,
+            "point_y": -73.72821069,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/new-york/great-neck/location-236/",
+            "phone": "5163030610"
+        },
+        {
+            "id": 1663,
+            "location_name": "375 W Main Street, Huntington, NY 11743",
+            "city": "Huntington",
+            "state": "New York",
+            "state_abbr": "NY",
+            "address": "375 W Main Street, Huntington, NY 11743",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 40.8706396,
+            "point_y": -73.4315964,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/new-york/huntington/location-1663/",
+            "phone": "6318926696"
+        },
+        {
+            "id": 585,
+            "location_name": "21 Pulaski Road, Kings Park, NY 11754",
+            "city": "Kings Park",
+            "state": "New York",
+            "state_abbr": "NY",
+            "address": "21 Pulaski Road, Kings Park, NY 11754",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 40.8859,
+            "point_y": -73.258518,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/new-york/kings-park/location-585/",
+            "phone": "6319733064"
+        },
+        {
+            "id": 533,
+            "location_name": "2005 Palmer Avenue, Larchmont, NY 10538",
+            "city": "Larchmont",
+            "state": "New York",
+            "state_abbr": "NY",
+            "address": "2005 Palmer Avenue, Larchmont, NY 10538",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 40.930592,
+            "point_y": -73.761902,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/new-york/larchmont/location-533/",
+            "phone": "9148258812"
+        },
+        {
+            "id": 1459,
+            "location_name": "120 W Park Avenue, Long Beach, NY 11561",
+            "city": "Long Beach",
+            "state": "New York",
+            "state_abbr": "NY",
+            "address": "120 W Park Avenue, Long Beach, NY 11561",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 40.5880866,
+            "point_y": -73.6676473,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1459-01.building-3.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/new-york/long-beach/location-1459/",
+            "phone": "5169083842"
+        },
+        {
+            "id": 1294,
+            "location_name": "44-70 21st Street, Long Island City, NY 11101",
+            "city": "Long Island City",
+            "state": "New York",
+            "state_abbr": "NY",
+            "address": "44-70 21st Street, Long Island City, NY 11101",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 40.7477861,
+            "point_y": -73.94771539,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/new-york/long-island-city/location-1294/",
+            "phone": "7184124687"
+        },
+        {
+            "id": 1041,
+            "location_name": "105 Maxess Road, Melville, NY 11747",
+            "city": "Melville",
+            "state": "New York",
+            "state_abbr": "NY",
+            "address": "105 Maxess Road, Melville, NY 11747",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 40.7733302,
+            "point_y": -73.41270879,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1041-001-Building.png",
+                "alttext": null
+            },
+            "url": "/virtual-office/new-york/melville/location-1041/",
+            "phone": "6312107076"
+        },
+        {
+            "id": 1694,
+            "location_name": "1702 State Route 11, Mooers, NY 12958",
+            "city": "Mooers",
+            "state": "New York",
+            "state_abbr": "NY",
+            "address": "1702 State Route 11, Mooers, NY 12958",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 44.976602199,
+            "point_y": -73.5201964,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/new-york/mooers/location-1694/",
+            "phone": "5182185509"
+        },
+        {
+            "id": 1275,
+            "location_name": "3 E Evergreen Road, New City, NY 10956",
+            "city": "New City",
+            "state": "New York",
+            "state_abbr": "NY",
+            "address": "3 E Evergreen Road, New City, NY 10956",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 41.1473374,
+            "point_y": -73.98779609,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1275-001-Building.png",
+                "alttext": null
+            },
+            "url": "/virtual-office/new-york/new-city/location-1275/",
+            "phone": "8453932110"
+        },
+        {
+            "id": 1094,
+            "location_name": "276 5th Avenue, New York, NY 10001",
+            "city": "New York",
+            "state": "New York",
+            "state_abbr": "NY",
+            "address": "276 5th Avenue, New York, NY 10001",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 40.7459698,
+            "point_y": -73.9869095,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/6Building-2.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/new-york/new-york/location-1094/",
+            "phone": "2126344388"
+        },
+        {
+            "id": 1580,
+            "location_name": "152 E 118th Street, New York, NY 10035",
+            "city": "New York",
+            "state": "New York",
+            "state_abbr": "NY",
+            "address": "152 E 118th Street, New York, NY 10035",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 40.7995607,
+            "point_y": -73.940299,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1580-01.bldg_.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/new-york/new-york/location-1580/",
+            "phone": "2126590580"
+        },
+        {
+            "id": 1163,
+            "location_name": "211 East 43rd Street, New York, NY 10017",
+            "city": "New York",
+            "state": "New York",
+            "state_abbr": "NY",
+            "address": "211 East 43rd Street, New York, NY 10017",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 40.7512499,
+            "point_y": -73.97316789,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1163-exterior.jpg",
+                "alttext": "Exterior of building that houses Opus Virtual Offices located in New York, New York"
+            },
+            "url": "/virtual-office/new-york/new-york/location-1163/",
+            "phone": "2126344716"
+        },
+        {
+            "id": 1122,
+            "location_name": "329 South Oyster Bay Road, Plainview, NY 11803",
+            "city": "Plainview",
+            "state": "New York",
+            "state_abbr": "NY",
+            "address": "329 South Oyster Bay Road, Plainview, NY 11803",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 40.7866798,
+            "point_y": -73.5028923,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/new-york/plainview/location-1122/",
+            "phone": "3176532719"
+        },
+        {
+            "id": 1369,
+            "location_name": "2600 South Road, Poughkeepsie, NY 12601",
+            "city": "Poughkeepsie",
+            "state": "New York",
+            "state_abbr": "NY",
+            "address": "2600 South Road, Poughkeepsie, NY 12601",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 41.6658577,
+            "point_y": -73.92778329,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/new-york/poughkeepsie/location-1369/",
+            "phone": "8452456557"
+        },
+        {
+            "id": 1137,
+            "location_name": "42 Catharine Street, Poughkeepsie, NY 12601",
+            "city": "Poughkeepsie",
+            "state": "New York",
+            "state_abbr": "NY",
+            "address": "42 Catharine Street, Poughkeepsie, NY 12601",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 41.7049837,
+            "point_y": -73.92440619,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1Building110.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/new-york/poughkeepsie/location-1137/",
+            "phone": "8458183134"
+        },
+        {
+            "id": 495,
+            "location_name": "215-03 Jamaica Ave, Queens Village, NY 11428",
+            "city": "Queens Village",
+            "state": "New York",
+            "state_abbr": "NY",
+            "address": "215-03 Jamaica Ave, Queens Village, NY 11428",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 40.71726,
+            "point_y": -73.740621,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/new-york/queens-village/location-495/",
+            "phone": "7183018234"
+        },
+        {
+            "id": 1591,
+            "location_name": "1029 Lyell Avenue, Rochester, NY 14606",
+            "city": "Rochester",
+            "state": "New York",
+            "state_abbr": "NY",
+            "address": "1029 Lyell Avenue, Rochester, NY 14606",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 43.1638366,
+            "point_y": -77.651664,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/new-york/rochester/location-1591/",
+            "phone": "0"
+        },
+        {
+            "id": 1587,
+            "location_name": "3950 West Henrietta Road, Rochester, NY 14623",
+            "city": "Rochester",
+            "state": "New York",
+            "state_abbr": "NY",
+            "address": "3950 West Henrietta Road, Rochester, NY 14623",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 43.0735189,
+            "point_y": -77.6436777,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1587-01.bldg_.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/new-york/rochester/location-1587/",
+            "phone": "0"
+        },
+        {
+            "id": 1347,
+            "location_name": "14 Harwood Court, Scarsdale, NY 10583",
+            "city": "Scarsdale",
+            "state": "New York",
+            "state_abbr": "NY",
+            "address": "14 Harwood Court, Scarsdale, NY 10583",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 40.9892898,
+            "point_y": -73.8072737,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/new-york/scarsdale/location-1347/",
+            "phone": "0"
+        },
+        {
+            "id": 1752,
+            "location_name": "1326 New Seneca Tpke, Skaneateles, NY 13152",
+            "city": "Skaneateles",
+            "state": "New York",
+            "state_abbr": "NY",
+            "address": "1326 New Seneca Tpke, Skaneateles, NY 13152",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 42.948199,
+            "point_y": -76.41242059,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1752-exterior.jpg",
+                "alttext": "Exterior of building that houses Opus Virtual Offices located in Skaneateles, New York"
+            },
+            "url": "/virtual-office/new-york/skaneateles/location-1752/",
+            "phone": "3155529328"
+        },
+        {
+            "id": 572,
+            "location_name": "1972 New Scotland Road, Slingerlands, NY 12159",
+            "city": "Slingerlands",
+            "state": "New York",
+            "state_abbr": "NY",
+            "address": "1972 New Scotland Road, Slingerlands, NY 12159",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 42.6322077,
+            "point_y": -73.9028865,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/new-york/slingerlands/location-572/",
+            "phone": "5182185665"
+        },
+        {
+            "id": 1749,
+            "location_name": "1970 W Fayette St, Syracuse, NY 13204",
+            "city": "Syracuse",
+            "state": "New York",
+            "state_abbr": "NY",
+            "address": "1970 W Fayette St, Syracuse, NY 13204",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 43.0555067,
+            "point_y": -76.1863882,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1749-Exterior.jpg",
+                "alttext": "Exterior of building that houses Opus Virtual Offices located in Syracuse, New York"
+            },
+            "url": "/virtual-office/new-york/syracuse/location-1749/",
+            "phone": "3153136469"
+        },
+        {
+            "id": 1030,
+            "location_name": "405 RXR Plaza, Uniondale, NY 11556",
+            "city": "Uniondale",
+            "state": "New York",
+            "state_abbr": "NY",
+            "address": "405 RXR Plaza, Uniondale, NY 11556",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 40.7201982,
+            "point_y": -73.5838903,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1030-exterior.png",
+                "alttext": "Exterior of building that houses Opus Virtual Offices located in Uniondale, New York"
+            },
+            "url": "/virtual-office/new-york/uniondale/location-1030/",
+            "phone": "5163030611"
+        },
+        {
+            "id": 848,
+            "location_name": "75 South Broadway, White Plains, NY 10601",
+            "city": "White Plains",
+            "state": "New York",
+            "state_abbr": "NY",
+            "address": "75 South Broadway, White Plains, NY 10601",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 41.03001,
+            "point_y": -73.762419,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/848-exterior.jpg",
+                "alttext": "Exterior of building that houses Opus Virtual Offices located in White Plains, New York"
+            },
+            "url": "/virtual-office/new-york/white-plains/location-848/",
+            "phone": "9148258807"
+        }
+    ],
+    "meta": {
+        "cities_virtual_count": 29,
+        "cities_business_count": 2,
+        "cities_popular_count": 8,
+        "locations_virtual_office_count": 34
+    },
+    "seo": {
+        "title": "Virtual Office in New York | Locations Statewide | Opus VO",
+        "meta_description": "Get a prestigious New York business address and professional phone answering services with Opus Virtual Offices, the perfect office solution for your business needs.",
+        "canonical": "https://www.opusvirtualoffices.com/virtual-office/new-york/",
+        "og": {
+            "title": "Virtual Office in New York | Locations Statewide | Opus VO",
+            "description": "Get a prestigious New York business address and professional phone answering services with Opus Virtual Offices, the perfect office solution for your business needs.",
+            "url": "https://www.opusvirtualoffices.com/virtual-office/new-york/",
+            "type": "website",
+            "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+        }
+    }
+}

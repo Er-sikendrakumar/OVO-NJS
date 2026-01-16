@@ -1,0 +1,93 @@
+{
+    "success": true,
+    "location_id": 866,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Irvine",
+            "state": "CA",
+            "price": null,
+            "address": {
+                "line1": "9891 Irvine Center Drive",
+                "suite": null,
+                "city": "Irvine",
+                "state": "CA",
+                "zip": "92618",
+                "phone": "(949) 271-2650"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/866-001-Building.png",
+                    "/wp-content-mgr/wp-content/uploads/866-Conference.jpg",
+                    "/wp-content-mgr/wp-content/uploads/866-Conference2.jpg",
+                    "/wp-content-mgr/wp-content/uploads/866-Reception.jpg",
+                    "/wp-content-mgr/wp-content/uploads/866-Kitchen.jpg"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=866",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Irvine Virtual Office",
+            "body": "Experience the cachet of an illustrious business address in Irvine, free from the financial burdens associated with maintaining a brick-and-mortar office. Opus VO offers you the privilege of anchoring your business in one of two prime Irvine settings—all without incurring the considerable costs typical of a traditional office lease. Take advantage of our modern conference rooms for crucial business deliberations and client interactions, while amplifying your brand’s stature with a respected Irvine address.  Selecting a virtual office in Irvine through Opus VO grants you the unique asset of a live receptionist, committed to providing individually tailored, first-class customer service. Our team ensures that each client engagement aligns seamlessly with your particular business goals. Entrust us with routine administrative duties such as complete mail management and sophisticated call-forwarding, affording you the focus to direct your business towards further success. ",
+            "map": {
+                "lat": 33.6305893,
+                "lng": -117.7289605,
+                "zoom": 14,
+                "city": "Irvine"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Irvine, California even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Irvine. You can also adapt to better meet your clients’ unique needs within California. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Irvine virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why opt for an Irvine Virtual Office?",
+                "body": "Irvine is more than just a bastion of higher education and tech innovation; it’s a dynamic hub for business activity in sectors like finance, healthcare, and technology. Ideally situated near vital commercial centers, our Irvine location provides you with straightforward access to key industry figures and stimulating networking opportunities.  By choosing an Opus Virtual Office in Irvine, you are doing more than merely conserving operational funds; you are securing a valuable competitive edge. Propel your business to unparalleled heights with one of our virtual offices today.  Choose one of our two Opus VO Irvine locations @ 9891 Irvine Center Drive, Irvine, CA 92618 or @ 6789 Quail Hill Pkwy, Irvine, CA 92603 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Irvine - 9891 Irvine Center Drive | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our California, Irvine virtual office located at 9891 Irvine Center Drive. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/california/irvine/location-866/",
+            "og": {
+                "title": "Virtual Office in Irvine - 9891 Irvine Center Drive | $99/Month",
+                "description": "Get the ultimate office solution for your business with our California, Irvine virtual office located at 9891 Irvine Center Drive. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/california/irvine/location-866/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/866-001-Building.png"
+            }
+        }
+    }
+}

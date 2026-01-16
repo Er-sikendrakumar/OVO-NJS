@@ -1,0 +1,89 @@
+{
+    "success": true,
+    "location_id": 311,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Scottsburg",
+            "state": "IN",
+            "price": null,
+            "address": {
+                "line1": "1609 West McClain Avenue",
+                "suite": null,
+                "city": "Scottsburg",
+                "state": "IN",
+                "zip": "47170",
+                "phone": "(812) 778-9374"
+            },
+            "images": {
+                "hero": [
+                    "/assets/mail-center.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=311",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 0,
+            "nearbyPremium": 1,
+            "nearbyPremiumUrl": "/virtual-office/kentucky/louisville/location-1395/",
+            "nearbyPremiumText": "to view the nearby PREMIUM Locations for the same $99/mo",
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Scottsburg Virtual Office",
+            "body": "Secure a prominent business address in Scottsburg without bearing the cost of a physical office. With Opus VO, you can establish your venture in the thriving heart of Scottsburg while being budget-conscious. Have a high-stakes meeting or a client presentation on the horizon? Our cutting-edge conference rooms are prepared to dazzle.  When you opt for the virtual lifestyle in Scottsburg via Opus VO, a dedicated live receptionist comes as a standard feature. We’re committed to ensuring every client interaction mirrors your specific brand essence. Entrust us with your routine administrative tasks, so you can concentrate on reaching your business objectives. ",
+            "map": {
+                "lat": 38.6849895,
+                "lng": -85.7963832,
+                "zoom": 14,
+                "city": "Scottsburg"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Scottsburg, Indiana even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Scottsburg. You can also adapt to better meet your clients’ unique needs within Indiana. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Scottsburg virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Scottsburg? Why a Virtual Office?",
+                "body": "Don’t underestimate Scottsburg—it’s not just a quaint town; it’s a growing hub for a variety of industries from retail to technology. Being based in Scottsburg offers you unique access to valuable industry contacts and networking events that are essential for your business growth.  By selecting Opus VO in Scottsburg, you’re not just cutting costs; you’re also gaining a competitive advantage. Are you set to advance your business? Our top-grade virtual office services are ready to serve you.  Opus VO, Scottsburg @ 1609 West McClain Avenue, Scottsburg, IN 47170   ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Scottsburg - 1609 West McClain Avenue | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Indiana, Scottsburg virtual office located at 1609 West McClain Avenue. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/indiana/scottsburg/location-311/",
+            "og": {
+                "title": "Virtual Office in Scottsburg - 1609 West McClain Avenue | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Indiana, Scottsburg virtual office located at 1609 West McClain Avenue. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/indiana/scottsburg/location-311/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+            }
+        }
+    }
+}

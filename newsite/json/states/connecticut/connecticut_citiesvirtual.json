@@ -1,0 +1,82 @@
+{
+    "success": true,
+    "count": 15,
+    "state": "connecticut",
+    "data": [
+        {
+            "id": "529",
+            "name": "Avon",
+            "popular": "0"
+        },
+        {
+            "id": "318",
+            "name": "Branford",
+            "popular": "0"
+        },
+        {
+            "id": "533",
+            "name": "Cheshire",
+            "popular": "0"
+        },
+        {
+            "id": "434",
+            "name": "Clinton",
+            "popular": "0"
+        },
+        {
+            "id": "454",
+            "name": "Danbury",
+            "popular": "1"
+        },
+        {
+            "id": "577",
+            "name": "Darien",
+            "popular": "0"
+        },
+        {
+            "id": "432",
+            "name": "Fairfield",
+            "popular": "1"
+        },
+        {
+            "id": "435",
+            "name": "Guilford",
+            "popular": "0"
+        },
+        {
+            "id": "307",
+            "name": "Manchester",
+            "popular": "0"
+        },
+        {
+            "id": "721",
+            "name": "Middletown",
+            "popular": "0"
+        },
+        {
+            "id": "439",
+            "name": "Milford",
+            "popular": "0"
+        },
+        {
+            "id": "896",
+            "name": "Milldale",
+            "popular": "0"
+        },
+        {
+            "id": "291",
+            "name": "Southbury",
+            "popular": "0"
+        },
+        {
+            "id": "683",
+            "name": "Stamford",
+            "popular": "0"
+        },
+        {
+            "id": "450",
+            "name": "West Hartford",
+            "popular": "1"
+        }
+    ]
+}

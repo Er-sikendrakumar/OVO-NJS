@@ -1,0 +1,99 @@
+{
+    "success": true,
+    "state": "florida",
+    "city": "fort lauderdale",
+    "wp_city_post_id": null,
+    "locations": [
+        {
+            "id": "803",
+            "name": "Fort Lauderdale",
+            "locname": "515 E Las Olas Boulevard, Suite 1301, Fort Lauderdale, FL 33301",
+            "address": "515 E Las Olas Boulevard, Suite 1301, Fort Lauderdale, FL 33301",
+            "city": "fort lauderdale",
+            "state": "florida",
+            "state_english": "Florida",
+            "abbr": "FL",
+            "phone": "9549033100",
+            "premium": "1",
+            "opusowned": "1",
+            "showpopular": "0",
+            "point_x": "26.119866",
+            "point_y": "-80.1381012",
+            "url": "/business-address/florida/fort-lauderdale/location-803/",
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/803-01.bldg_-1.jpg",
+                "alttext": ""
+            }
+        }
+    ],
+    "popular_locations": [
+        {
+            "id": "803",
+            "name": "Fort Lauderdale",
+            "locname": "515 E Las Olas Boulevard, Suite 1301, Fort Lauderdale, FL 33301",
+            "address": "515 E Las Olas Boulevard, Suite 1301, Fort Lauderdale, FL 33301",
+            "city": "fort lauderdale",
+            "state": "florida",
+            "state_english": "Florida",
+            "abbr": "FL",
+            "phone": "9549033100",
+            "premium": "1",
+            "opusowned": "1",
+            "showpopular": "0",
+            "point_x": "26.119866",
+            "point_y": "-80.1381012",
+            "url": "/business-address/florida/fort-lauderdale/location-803/",
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/803-01.bldg_-1.jpg",
+                "alttext": ""
+            }
+        }
+    ],
+    "premium_locations": [],
+    "regular_locations": [],
+    "sections": [
+        {
+            "title": "OUR FORT LAUDERDALE\nVIRTUAL OFFICES",
+            "body": "<h2></h2>\n<p>Enjoy the benefits of having a business address in Fort Lauderdale Florida without the stress and expense surrounding a “traditional office environment”. OpusVO gives you the prestige of having an office with the budget of working from home. Receive all your business mail at a professional office building. No post office box number, just a great business address to use on your business cards and other marketing material.</p>\n<p>You don’t just get a business phone number with your Fort Lauderdale virtual office, but also a live receptionist answering your calls the way you want them to be. Stop choosing between capturing new leads for your business and working on current clients. Do both. Get someone who looks out for you while you’re unable to break away.</p>\n",
+            "image": {
+                "url": "/newsite/wp-content/themes/ThemeDec23/assets/images/califonia-v-office.jpg",
+                "alt": "OUR FORT LAUDERDALE\nVIRTUAL OFFICES",
+                "title": "OUR FORT LAUDERDALE\nVIRTUAL OFFICES"
+            },
+            "layout": "image_text",
+            "imageAlignment": "right"
+        },
+        {
+            "title": "GET A VIRTUAL OFFICE\nIN FORT LAUDERDALE",
+            "body": "<h2></h2>\n<p>Whether you choose to work out of your home or on the road, a Fort Lauderdale virtual office will give you the freedom and flexibility to get the job done in the place and style of your choosing. With a local company phone number, live receptionist, premium call transferring, and a professional business address, Opus VO provides a cost-effective way for your company to grow or establish a presence in a new market without any long-term commitments.</p>\n",
+            "image": {
+                "url": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "alt": "GET A VIRTUAL OFFICE\nIN FORT LAUDERDALE",
+                "title": "GET A VIRTUAL OFFICE\nIN FORT LAUDERDALE"
+            },
+            "layout": "image_text",
+            "imageAlignment": "left"
+        }
+    ],
+    "faqs": [],
+    "meta": {
+        "locations_count": 1,
+        "popular_locations_count": 1,
+        "premium_locations_count": 0,
+        "regular_locations_count": 0,
+        "sections_count": 2,
+        "faqs_count": 0
+    },
+    "seo": {
+        "title": "Virtual Office in Fort Lauderdale, FL | Multiple Locations Available",
+        "meta_description": "Find the ultimate office solution with Opus Virtual Offices in Fort Lauderdale, Florida. Our all-inclusive virtual offices cater to your business needs. Sign up today!",
+        "canonical": "https://www.opusvirtualoffices.com/business-address/florida/fort-lauderdale/",
+        "og": {
+            "title": "Virtual Office in Fort Lauderdale, FL | Multiple Locations Available",
+            "description": "Find the ultimate office solution with Opus Virtual Offices in Fort Lauderdale, Florida. Our all-inclusive virtual offices cater to your business needs. Sign up today!",
+            "url": "https://www.opusvirtualoffices.com/business-address/florida/fort-lauderdale/",
+            "type": "website",
+            "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+        }
+    }
+}

@@ -1,0 +1,93 @@
+{
+    "success": true,
+    "location_id": 1568,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Carrollton",
+            "state": "TX",
+            "price": null,
+            "address": {
+                "line1": "2340 E Trinity Mills Rd",
+                "suite": null,
+                "city": "Carrollton",
+                "state": "TX",
+                "zip": "75006",
+                "phone": "(972) 928-1614"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/1568-exterior.png",
+                    "/wp-content-mgr/wp-content/uploads/1568-conference.png",
+                    "/wp-content-mgr/wp-content/uploads/1568-reception.png",
+                    "/wp-content-mgr/wp-content/uploads/1568-kitchen.png",
+                    "/wp-content-mgr/wp-content/uploads/1568-lounge.jpg"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1568",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 1,
+            "nearbyPremiumUrl": "/virtual-office/texas/dallas/location-1255/",
+            "nearbyPremiumText": "to view the most POPULAR locations nearby for the same $99/mo",
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Carrollton Virtual Office",
+            "body": "Hesitant to start that new business venture due to the financial obligations of a physical workspace? Your solution is Opus VO. Anchor your business in one of our exclusive Carrollton locales and revel in the prestige of a notable address without stretching your budget. When those vital client meetings or decisive strategy sessions arise, our cutting-edge conference rooms are yours to use.  And that’s not where the perks stop. When you enroll in a virtual office at Opus VO in Carrollton, you’ll be provided with the extra benefit of a live receptionist. Our adept team is committed to ensuring every client touchpoint harmonizes with your specific business aims. Delegate routine admin tasks like email organization and masterful call routing to us, leaving you unencumbered to steer your business vision. ",
+            "map": {
+                "lat": 32.9845794,
+                "lng": -96.8736653,
+                "zoom": 14,
+                "city": "Carrollton"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Carrollton, Texas even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Carrollton. You can also adapt to better meet your clients’ unique needs within Texas. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Carrollton virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Carrollton? Why Opus VO?",
+                "body": "Carrollton isn’t simply a suburban haven; it’s a burgeoning business ecosystem teeming with opportunities across various domains. When you associate your virtual office with Opus VO in Carrollton, you’re not just economizing on overhead; you’re entering a thriving community of professionals, rich with prospects for alliances and advancement.  Choosing Opus VO in Carrollton goes beyond fiscal prudence; it’s a tactical decision that paves the way for enduring business success. Your next milestone is potentially just a well-thought-out virtual office agreement away.  Opus VO Location in Carrollton @ 2340 E Trinity Mills Rd, Carrollton, TX 75006 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Carrollton - 2340 E Trinity Mills Rd | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Texas, Carrollton virtual office located at 2340 E Trinity Mills Rd. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/texas/carrollton/location-1568/",
+            "og": {
+                "title": "Virtual Office in Carrollton - 2340 E Trinity Mills Rd | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Texas, Carrollton virtual office located at 2340 E Trinity Mills Rd. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/texas/carrollton/location-1568/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/1568-exterior.png"
+            }
+        }
+    }
+}

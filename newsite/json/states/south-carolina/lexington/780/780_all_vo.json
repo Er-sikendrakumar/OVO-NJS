@@ -1,0 +1,89 @@
+{
+    "success": true,
+    "location_id": 780,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Lexington",
+            "state": "SC",
+            "price": null,
+            "address": {
+                "line1": "1792 South Lake Drive",
+                "suite": null,
+                "city": "Lexington",
+                "state": "SC",
+                "zip": "29073",
+                "phone": "(803) 520-2176"
+            },
+            "images": {
+                "hero": [
+                    "/assets/mail-center.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=780",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 0,
+            "nearbyPremium": 1,
+            "nearbyPremiumUrl": "/virtual-office/south-carolina/columbia/location-1724/",
+            "nearbyPremiumText": "to view the nearby PREMIUM Locations for the same $99/mo",
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Lexington Virtual Office",
+            "body": "Discover the advantages of securing a prestigious business address in Lexington, Kentucky, without the need for a physical office space. At Opus VO, we provide you with the opportunity to position your business in the heart of Lexington’s thriving business community while optimizing operational efficiency. Our state-of-the-art conference rooms are readily available for important meetings and collaborative endeavors.  By choosing Opus VO’s virtual office in Lexington, you not only secure a prestigious address but also gain access to a skilled live receptionist who seamlessly integrates with your team. They ensure that every client interaction reflects your unique brand identity, enabling us to manage routine administrative tasks while you concentrate on your core business objectives. ",
+            "map": {
+                "lat": 33.912249,
+                "lng": -81.225813,
+                "zoom": 14,
+                "city": "Lexington"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Lexington, South Carolina even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Lexington. You can also adapt to better meet your clients’ unique needs within South Carolina. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Lexington virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Lexington? Why Opus VO?",
+                "body": "Lexington is more than just a dynamic city; it’s a flourishing business hub with opportunities spanning various sectors, including healthcare, technology, and agriculture. Possessing a Lexington address not only enhances your business reputation but also provides access to valuable networking events and industry connections.  Opting for Opus VO for your virtual office in Lexington is more than just a practical choice; it’s a strategic advantage. Are you ready to elevate your business presence? Explore our exceptional virtual office solutions today.  Opus VO, Lexington @ 1792 South Lake Drive, Lexington, SC 29073 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Lexington - 1792 South Lake Drive | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our South Carolina, Lexington virtual office located at 1792 South Lake Drive. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/south-carolina/lexington/location-780/",
+            "og": {
+                "title": "Virtual Office in Lexington - 1792 South Lake Drive | $99/Month",
+                "description": "Get the ultimate office solution for your business with our South Carolina, Lexington virtual office located at 1792 South Lake Drive. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/south-carolina/lexington/location-780/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+            }
+        }
+    }
+}

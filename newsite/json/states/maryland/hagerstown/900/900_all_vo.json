@@ -1,0 +1,92 @@
+{
+    "success": true,
+    "location_id": 900,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Hagerstown",
+            "state": "MD",
+            "price": null,
+            "address": {
+                "line1": "201 Prospect Avenue",
+                "suite": null,
+                "city": "Hagerstown",
+                "state": "MD",
+                "zip": "21742",
+                "phone": "(240) 500-1454"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/900-Exterior.png",
+                    "/wp-content-mgr/wp-content/uploads/900-Conference.png",
+                    "/wp-content-mgr/wp-content/uploads/900-reception-1747170109218.jpg",
+                    "/wp-content-mgr/wp-content/uploads/900-Kitchen.png"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=900",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Hagerstown Virtual Office",
+            "body": "Grab a prestigious Hagerstown address without the added costs and commitment of a traditional office. Opus VO makes it possible for your enterprise to take root in the thriving community of Hagerstown, without stretching your budget thin. Need to make an impression at an urgent meeting or critical client presentation? Our state-of-the-art conference facilities stand ready to w0w.  Choosing a virtual office in Hagerstown via Opus VO comes complete with a dedicated live receptionist. We ensure every interaction with your clients resonates with your brand’s ethos, creating a seamless and personalized experience. Offload your mundane administrative tasks to us, leaving you free to focus on your business goals. ",
+            "map": {
+                "lat": 39.6520313,
+                "lng": -77.7125732,
+                "zoom": 14,
+                "city": "Hagerstown"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Hagerstown, Maryland even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Hagerstown. You can also adapt to better meet your clients’ unique needs within Maryland. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Hagerstown virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Hagerstown?",
+                "body": "Hagerstown is not just about scenic beauty; it’s a dynamic hub for varied businesses, from healthcare to manufacturing. Operating in Hagerstown gives you access to valuable contacts and enriching events that can uplift your business and extend your network.  Going virtual with Opus VO in Hagerstown is not only a smart financial decision but also a strategic advantage in today’s market. Are you poised to elevate your business to the next level? Our top-of-the-line virtual office services await you.  Opus VO, Hagerstown @ 201 Prospect Avenue, Hagerstown, MD 21742 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Hagerstown - 201 Prospect Avenue | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Maryland, Hagerstown virtual office located at 201 Prospect Avenue. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/maryland/hagerstown/location-900/",
+            "og": {
+                "title": "Virtual Office in Hagerstown - 201 Prospect Avenue | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Maryland, Hagerstown virtual office located at 201 Prospect Avenue. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/maryland/hagerstown/location-900/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/900-Exterior.png"
+            }
+        }
+    }
+}

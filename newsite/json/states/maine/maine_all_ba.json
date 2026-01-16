@@ -1,0 +1,95 @@
+{
+    "success": true,
+    "state": "maine",
+    "cities_virtual": [
+        {
+            "id": "797",
+            "name": "Biddeford",
+            "popular": "1"
+        },
+        {
+            "id": "869",
+            "name": "Lewiston",
+            "popular": "0"
+        },
+        {
+            "id": "636",
+            "name": "Portland",
+            "popular": "1"
+        },
+        {
+            "id": "445",
+            "name": "Waterville",
+            "popular": "1"
+        },
+        {
+            "id": "796",
+            "name": "Yarmouth",
+            "popular": "1"
+        }
+    ],
+    "cities_business": [
+        {
+            "id": "636",
+            "name": "Portland",
+            "popular": "1"
+        }
+    ],
+    "cities_popular": [
+        {
+            "id": "797",
+            "name": "Biddeford"
+        },
+        {
+            "id": "636",
+            "name": "Portland"
+        },
+        {
+            "id": "445",
+            "name": "Waterville"
+        },
+        {
+            "id": "796",
+            "name": "Yarmouth"
+        }
+    ],
+    "locations_business_address": [
+        {
+            "id": 1112,
+            "location_name": "6 City Center, Portland, ME 04101",
+            "city": "Portland",
+            "state": "Maine",
+            "state_abbr": "ME",
+            "address": "6 City Center, Portland, ME 04101",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 43.6570753,
+            "point_y": -70.2567033,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/01_Building3.jpg",
+                "alttext": null
+            },
+            "url": "/business-address/maine/portland/location-1112/",
+            "phone": "2075093225"
+        }
+    ],
+    "meta": {
+        "cities_virtual_count": 5,
+        "cities_business_count": 1,
+        "cities_popular_count": 4,
+        "locations_business_address_count": 1
+    },
+    "seo": {
+        "title": "Virtual Business Address in Maine | Opus Virtual Offices",
+        "meta_description": "Get a prestigious business address in Maine with Opus. Multiple premium locations statewide mail handling privacy protection all for just $59/month.",
+        "canonical": "https://www.opusvirtualoffices.com/business-address/maine/",
+        "og": {
+            "title": "Virtual Business Address in Maine | Opus Virtual Offices",
+            "description": "Get a prestigious business address in Maine with Opus. Multiple premium locations statewide mail handling privacy protection all for just $59/month.",
+            "url": "https://www.opusvirtualoffices.com/business-address/maine/",
+            "type": "website",
+            "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+        }
+    }
+}

@@ -1,0 +1,109 @@
+{
+    "success": true,
+    "location_id": 936,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Beverly Hills",
+            "state": "CA",
+            "price": null,
+            "address": {
+                "line1": "9350 Wilshire Blvd",
+                "suite": "Suite 203",
+                "city": "Beverly Hills",
+                "state": "CA",
+                "zip": "90212",
+                "phone": "(310) 734-2666"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/Opus-Virtual-Office-Beverly-Hills-9350-Wilshire-Blvd-Classic-Office-Building.webp",
+                    "/wp-content-mgr/wp-content/uploads/Opus-Virtual-Office-Beverly-Hills-9350-Wilshire-Blvd-Executive-Waiting-Area.webp",
+                    "/wp-content-mgr/wp-content/uploads/Opus-Virtual-Office-Beverly-Hills-9350-Wilshire-Blvd-Boardroom-with-a-View.webp",
+                    "/wp-content-mgr/wp-content/uploads/Opus-Virtual-Office-Beverly-Hills-9350-Wilshire-Blvd-Media-Conference-Room.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 1
+            },
+            "addressOnlyOptionAvailable": 1,
+            "addressOnlyUrl": "/business-address/california/beverly-hills/location-936/",
+            "signupUrl": "/signup/?locid=936",
+            "openingHours": {
+                "opens": "08:00:00",
+                "closes": "17:00:00",
+                "daysOfWeek": [
+                    "Monday",
+                    "Tuesday",
+                    "Wednesday",
+                    "Thursday",
+                    "Friday"
+                ]
+            },
+            "opusowned": 1,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "BEVERLY HILLS VIRTUAL OFFICE",
+            "body": "Located at 9350 Wilshire, Opus VO in Beverly Hills is just the first step of Southern California opulence. Just steps from the iconic Rodeo Drive, your business will enjoy the prestige of a Beverly Hills address without the hefty price tag. This ultra-exclusive 4-star building features breathtaking views of the Golden Triangle district and the surrounding mansions. The newly renovated building includes on-site management, covered parking, and a Wells Fargo bank on the first floor for convenient financial transactions.  ",
+            "map": {
+                "lat": 34.06679,
+                "lng": -118.395504,
+                "zoom": 14,
+                "city": "Beverly Hills"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Beverly Hills, California even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Beverly Hills. You can also adapt to better meet your clients’ unique needs within California. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Beverly Hills virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "WHY OPUS VO?",
+                "body": "Choosing a virtual office in Beverly Hills with Opus VO provides you with the exclusive benefit of a live receptionist dedicated to delivering personalized, high-quality client service. Every client interaction is tailored to align with your business goals and is supported by our comprehensive administrative services. These include a corporate mailing address, digital mail sorting, a company phone and fax number, call-forwarding options, and more. You’ll also have the option of reserving meeting rooms for those important face-to-face meetings. Our skilled administrative team will handle your daily tasks, allowing you to focus on your company’s strategic growth and success. Opus VO Beverly Hills @ 9350 Wilshire Blvd, Suite 203 Beverly Hills, CA 90212",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            },
+            {
+                "title": "WHY CHOOSE BEVERLY HILLS?",
+                "body": "Beverly Hills is where the attraction of Hollywood glamour meets the serenity of California living. The famous Rodeo Drive shines with the finest boutique shops and restaurants, which are more of an experience rather than a place to shop and eat. Dive into the affluent lifestyle with A-list celebrities and dazzling palm trees that populate the streets. UCLA, located only 3 miles away, gives your business access to some of the smartest minds in the world. Beverly Hills is a dream entwined into the fabric of American culture, and you don’t have to be asleep to experience it. In Beverly Hills, luxury isn’t a privilege, it’s a lifestyle.",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/botaraton-covered.png",
+                "layout": "image_text",
+                "imageAlignment": "left"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office Beverly Hills | $99 All Inclusive | Opus Virtual Office",
+            "meta_description": "Your Beverly Hills virtual office provides a professional image through a corporate business address, virtual receptionist, and local phone number.",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/california/beverly-hills/location-936/",
+            "og": {
+                "title": "Virtual Office Beverly Hills | $99 All Inclusive | Opus Virtual Office",
+                "description": "Your Beverly Hills virtual office provides a professional image through a corporate business address, virtual receptionist, and local phone number.",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/california/beverly-hills/location-936/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/Opus-Virtual-Office-Beverly-Hills-9350-Wilshire-Blvd-Classic-Office-Building.webp"
+            }
+        }
+    }
+}

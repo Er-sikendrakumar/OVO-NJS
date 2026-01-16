@@ -1,0 +1,93 @@
+{
+    "success": true,
+    "location_id": 1023,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Edina",
+            "state": "MN",
+            "price": null,
+            "address": {
+                "line1": "5200 Willson Road",
+                "suite": null,
+                "city": "Edina",
+                "state": "MN",
+                "zip": "55424",
+                "phone": "(952) 563-3147"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/1023-exterior.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1023-conference.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1023-conference2.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1023-reception.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1023-cowork.png"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1023",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Edina Virtual Office",
+            "body": "Land yourself a distinguished Edina address without the financial strain of an actual office space. With Opus VO, you can embed your business within Edina’s bustling landscape, saving financial capital in the process. Have a vital meeting or high-stakes client presentation on the agenda? Our top-notch conference facilities are designed to dazzle.  Joining the Opus VO family in Edina means acquiring a personalized live receptionist service. Our aim is to make every client interaction feel like an organic extension of your own brand. Offload your regular admin responsibilities to us, freeing you to concentrate on achieving your business dreams. ",
+            "map": {
+                "lat": 44.9093227,
+                "lng": -93.3494021,
+                "zoom": 14,
+                "city": "Edina"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Edina, Minnesota even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Edina. You can also adapt to better meet your clients’ unique needs within Minnesota. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Edina virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Edina?",
+                "body": "Edina is more than its upscale shopping and charming neighborhoods. It’s a hub of opportunity, home to a range of industries from healthcare to digital startups. Having an Edina address opens doors to valuable networking opportunities and industry events that can elevate your business.  Choosing Opus VO in Edina isn’t just about saving money—it’s about gaining a competitive edge. Are you poised to lift your business to new heights? Our impeccable virtual office services are at your royal disposal.  Opus VO Edina @ 5200 Willson Road, Edina, MN 55424   ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Edina - 5200 Willson Road | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Minnesota, Edina virtual office located at 5200 Willson Road. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/minnesota/edina/location-1023/",
+            "og": {
+                "title": "Virtual Office in Edina - 5200 Willson Road | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Minnesota, Edina virtual office located at 5200 Willson Road. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/minnesota/edina/location-1023/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/1023-exterior.jpg"
+            }
+        }
+    }
+}

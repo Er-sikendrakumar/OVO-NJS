@@ -1,0 +1,89 @@
+{
+    "success": true,
+    "location_id": 1559,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Bethlehem",
+            "state": "PA",
+            "price": null,
+            "address": {
+                "line1": "306 S New Street",
+                "suite": null,
+                "city": "Bethlehem",
+                "state": "PA",
+                "zip": "18015",
+                "phone": "(888) 898-9868"
+            },
+            "images": {
+                "hero": [
+                    "/assets/mail-center.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1559",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 0,
+            "nearbyPremium": 1,
+            "nearbyPremiumUrl": "/virtual-office/pennsylvania/allentown/location-1239/",
+            "nearbyPremiumText": "to view the nearby PREMIUM Locations for the same $99/mo",
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Bethlehem Virtual Office",
+            "body": "Unlock the benefits of securing a prestigious business address in Bethlehem, Pennsylvania, without the need for a physical office space. At Opus VO, we provide you with the opportunity to position your business in the heart of Bethlehem’s dynamic business community while optimizing operational efficiency. Our modern conference rooms are readily available for important meetings and collaborative endeavors.  By selecting Opus VO’s virtual office in Bethlehem, you not only secure a prestigious address but also gain access to a professional live receptionist who seamlessly integrates with your team. They ensure that every client interaction embodies your unique brand identity, allowing us to manage routine administrative tasks while you focus on your core business objectives. ",
+            "map": {
+                "lat": 40.6115915,
+                "lng": -75.37863899,
+                "zoom": 14,
+                "city": "Bethlehem"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Bethlehem, Pennsylvania even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Bethlehem. You can also adapt to better meet your clients’ unique needs within Pennsylvania. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Bethlehem virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Bethlehem?",
+                "body": "Bethlehem is more than just a historic city; it’s a thriving business hub with opportunities spanning various sectors, including technology, healthcare, and manufacturing. Having a Bethlehem address not only enhances your business reputation but also grants access to essential networking events and industry connections.  Opting for Opus VO for your virtual office in Bethlehem is not just a practical choice; it’s a strategic advantage. Are you prepared to elevate your business presence? Explore our exceptional virtual office solutions today.  Opus VO, Bethlehem @ 306 S New Street, Bethlehem, PA 18015 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Bethlehem - 306 S New Street | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Pennsylvania, Bethlehem virtual office located at 306 S New Street. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/pennsylvania/bethlehem/location-1559/",
+            "og": {
+                "title": "Virtual Office in Bethlehem - 306 S New Street | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Pennsylvania, Bethlehem virtual office located at 306 S New Street. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/pennsylvania/bethlehem/location-1559/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+            }
+        }
+    }
+}

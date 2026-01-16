@@ -1,0 +1,23 @@
+{
+    "success": true,
+    "count": 4,
+    "state": "indiana",
+    "data": [
+        {
+            "id": "665",
+            "name": "Fort Wayne"
+        },
+        {
+            "id": "188",
+            "name": "Indianapolis"
+        },
+        {
+            "id": "811",
+            "name": "Merrillville"
+        },
+        {
+            "id": "151",
+            "name": "Scottsburg"
+        }
+    ]
+}

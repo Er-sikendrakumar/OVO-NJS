@@ -1,0 +1,52 @@
+{
+    "success": true,
+    "count": 9,
+    "state": "louisiana",
+    "data": [
+        {
+            "id": "208",
+            "name": "Baton Rouge",
+            "popular": "1"
+        },
+        {
+            "id": "788",
+            "name": "Carencro",
+            "popular": "0"
+        },
+        {
+            "id": "815",
+            "name": "Gretna",
+            "popular": "0"
+        },
+        {
+            "id": "777",
+            "name": "Hammond",
+            "popular": "0"
+        },
+        {
+            "id": "118",
+            "name": "Houma",
+            "popular": "0"
+        },
+        {
+            "id": "206",
+            "name": "Lafayette",
+            "popular": "1"
+        },
+        {
+            "id": "871",
+            "name": "Marrero",
+            "popular": "0"
+        },
+        {
+            "id": "126",
+            "name": "New Orleans",
+            "popular": "1"
+        },
+        {
+            "id": "696",
+            "name": "Shreveport",
+            "popular": "0"
+        }
+    ]
+}

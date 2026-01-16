@@ -1,0 +1,27 @@
+{
+    "success": true,
+    "count": 5,
+    "state": "missouri",
+    "data": [
+        {
+            "id": "842",
+            "name": "Chesterfield"
+        },
+        {
+            "id": "640",
+            "name": "Columbia"
+        },
+        {
+            "id": "143",
+            "name": "Kansas City"
+        },
+        {
+            "id": "238",
+            "name": "Lees Summit"
+        },
+        {
+            "id": "121",
+            "name": "St. Louis"
+        }
+    ]
+}

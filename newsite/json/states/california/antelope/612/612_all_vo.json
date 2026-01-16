@@ -1,0 +1,89 @@
+{
+    "success": true,
+    "location_id": 612,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Antelope",
+            "state": "CA",
+            "price": null,
+            "address": {
+                "line1": "7909 Walerga Rd",
+                "suite": null,
+                "city": "Antelope",
+                "state": "CA",
+                "zip": "95843",
+                "phone": "(916) 282-2135"
+            },
+            "images": {
+                "hero": [
+                    "/assets/mail-center.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=612",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 0,
+            "nearbyPremium": 1,
+            "nearbyPremiumUrl": "/virtual-office/california/sacramento/location-815/",
+            "nearbyPremiumText": "to view the nearby PREMIUM Locations for the same $99/mo",
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Antelope Virtual Office",
+            "body": "Indulge in the prestige of a highly regarded business address in Antelope, unburdened by the financial commitments of a physical office. Opus VO furnishes you with the exclusive option to root your organization in a superior Antelope location, all without the high expenses typical of a traditional office lease. Avail yourself of our cutting-edge conference rooms for essential business negotiations and client meetings, while boosting your brand’s status with a respected Antelope address.  Opting for a virtual office in Antelope through Opus VO provides you with the specialized service of a live receptionist. Devoted to rendering bespoke, top-tier customer service, our team guarantees that each client engagement aligns seamlessly with your distinct business objectives. Entrust routine administrative duties such as digital mail organization and complicated call-forwarding to us, affording you the space to focus entirely on elevating your business. ",
+            "map": {
+                "lat": 38.712523,
+                "lng": -121.364634,
+                "zoom": 14,
+                "city": "Antelope"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Antelope, California even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Antelope. You can also adapt to better meet your clients’ unique needs within California. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Antelope virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Choose an Antelope Virtual Office?",
+                "body": "Antelope is more than just a residential suburb of Sacramento; it’s a growing commercial nexus ripe with possibilities in sectors like healthcare, technology, and professional services. Advantageously located near important business corridors, our Antelope facility affords you easy access to critical industry associates and engaging networking platforms.  By opting for an Opus Virtual Office in Antelope, you’re accomplishing much more than merely minimizing your operational costs; you’re seizing an invaluable competitive edge. Soar your business to unprecedented levels of success by utilizing our superlative virtual office offerings today.  Opus VO Antelope @ 7909 Walerga Rd. Antelope, CA 95843  ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Antelope - 7909 Walerga Rd | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our California, Antelope virtual office located at 7909 Walerga Rd. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/california/antelope/location-612/",
+            "og": {
+                "title": "Virtual Office in Antelope - 7909 Walerga Rd | $99/Month",
+                "description": "Get the ultimate office solution for your business with our California, Antelope virtual office located at 7909 Walerga Rd. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/california/antelope/location-612/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+            }
+        }
+    }
+}

@@ -1,0 +1,97 @@
+{
+    "success": true,
+    "location_id": 1182,
+    "mode": "business-address",
+    "data": {
+        "header": {
+            "city": "Martinsburg",
+            "state": "WV",
+            "price": null,
+            "address": {
+                "line1": "126 E Burke Street",
+                "suite": null,
+                "city": "Martinsburg",
+                "state": "WV",
+                "zip": "25401",
+                "phone": "(304) 380-9008"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/1Entrance-800x450.jpg",
+                    "/wp-content-mgr/wp-content/uploads/2Lounge1-800x530.jpg",
+                    "/wp-content-mgr/wp-content/uploads/3MeetingRoom19-800x530.jpg",
+                    "/wp-content-mgr/wp-content/uploads/4Reception-736x550.jpg",
+                    "/wp-content-mgr/wp-content/uploads/4REception-800x460.jpg",
+                    "/wp-content-mgr/wp-content/uploads/5SharedSpace3-800x426.jpg",
+                    "/wp-content-mgr/wp-content/uploads/6Lounge3-800x530.jpg",
+                    "/wp-content-mgr/wp-content/uploads/7MeetingRoom2-800x530.jpg",
+                    "/wp-content-mgr/wp-content/uploads/8MeetingRoom3-800x530.jpg"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 1,
+            "addressOnlyUrl": "/business-address/west-virginia/martinsburg/location-1182/",
+            "signupUrl": "/signup/?locid=1182",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 1,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Martinsburg Virtual Office",
+            "body": "Considering a distinguished Martinsburg address to enhance your startup or bolster your current enterprise, but cautious about the costs of a traditional office? Opus VO provides the solution. Secure your brand’s presence in one of our prime Martinsburg locations, achieving the credibility of a high-profile address without the financial strain. Whenever you require a suitable environment for important meetings or client interactions, our state-of-the-art conference rooms are available to you.  An impressive address is just the start. With a virtual office at Opus VO in Martinsburg, you also gain the dedicated service of a live receptionist. Trust us to manage your client relations with the utmost professionalism, seamlessly echoing your distinct business objectives. As for daily administrative tasks like email management and advanced call-routing, let us handle those, so you can concentrate on growth and innovation. ",
+            "map": {
+                "lat": 39.4571111,
+                "lng": -77.9625105,
+                "zoom": 14,
+                "city": "Martinsburg"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Martinsburg, West Virginia even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Martinsburg. You can also adapt to better meet your clients’ unique needs within West Virginia. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Martinsburg virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Martinsburg? Why Opus VO?",
+                "body": "Martinsburg is more than a serene locale; it’s a rising hub for businesses in various sectors. By choosing a virtual office at Opus VO in Martinsburg, you’re connecting to a vibrant network of professionals, offering myriad opportunities for collaboration and advancement.  Opting for Opus VO in Martinsburg isn’t just a cost-saving measure; it’s a strategic investment in your business’s long-term success. Your next significant achievement might just be a virtual office decision away.  Opus VO Location in Martinsburg @ 126 E. Burke Street, Martinsburg, WV 25401     ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Prestigious Business Address 126 E Burke Street Martinsburg | $59/month",
+            "meta_description": "Impress clients with a virtual office at 126 E Burke Street Martinsburg enjoy a prime location mail handling digital alerts and privacy for only $59/month",
+            "canonical": "https://www.opusvirtualoffices.com/business-address/west-virginia/martinsburg/location-1182/",
+            "og": {
+                "title": "Prestigious Business Address 126 E Burke Street Martinsburg | $59/month",
+                "description": "Impress clients with a virtual office at 126 E Burke Street Martinsburg enjoy a prime location mail handling digital alerts and privacy for only $59/month",
+                "url": "https://www.opusvirtualoffices.com/business-address/west-virginia/martinsburg/location-1182/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/1Entrance.jpg"
+            }
+        }
+    }
+}

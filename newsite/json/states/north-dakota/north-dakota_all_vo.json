@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "state": "north dakota",
+    "cities_virtual": [
+        {
+            "id": "557",
+            "name": "Fargo",
+            "popular": "1"
+        },
+        {
+            "id": "803",
+            "name": "Grand Forks",
+            "popular": "1"
+        }
+    ],
+    "cities_business": [
+        {
+            "id": "803",
+            "name": "Grand Forks",
+            "popular": "1"
+        }
+    ],
+    "cities_popular": [
+        {
+            "id": "557",
+            "name": "Fargo"
+        },
+        {
+            "id": "803",
+            "name": "Grand Forks"
+        }
+    ],
+    "locations_virtual_office": [
+        {
+            "id": 930,
+            "location_name": "19 8th Street South, Fargo, ND 58103",
+            "city": "Fargo",
+            "state": "North Dakota",
+            "state_abbr": "ND",
+            "address": "19 8th Street South, Fargo, ND 58103",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 46.8742841,
+            "point_y": -96.7910796,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/north-dakota/fargo/location-930/",
+            "phone": "7015265072"
+        },
+        {
+            "id": 1502,
+            "location_name": "33 S 3rd Street, Grand Forks, ND 58201",
+            "city": "Grand Forks",
+            "state": "North Dakota",
+            "state_abbr": "ND",
+            "address": "33 S 3rd Street, Grand Forks, ND 58201",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 47.9250183,
+            "point_y": -97.0295381,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1502-01.building-2.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/north-dakota/grand-forks/location-1502/",
+            "phone": "7016701108"
+        }
+    ],
+    "meta": {
+        "cities_virtual_count": 2,
+        "cities_business_count": 1,
+        "cities_popular_count": 2,
+        "locations_virtual_office_count": 2
+    },
+    "seo": {
+        "title": "Virtual Office in North Dakota | Locations Statewide | Opus VO",
+        "meta_description": "Get a prestigious North Dakota business address and professional phone answering services with Opus Virtual Offices, the perfect office solution for your business needs.",
+        "canonical": "https://www.opusvirtualoffices.com/virtual-office/north-dakota/",
+        "og": {
+            "title": "Virtual Office in North Dakota | Locations Statewide | Opus VO",
+            "description": "Get a prestigious North Dakota business address and professional phone answering services with Opus Virtual Offices, the perfect office solution for your business needs.",
+            "url": "https://www.opusvirtualoffices.com/virtual-office/north-dakota/",
+            "type": "website",
+            "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+        }
+    }
+}

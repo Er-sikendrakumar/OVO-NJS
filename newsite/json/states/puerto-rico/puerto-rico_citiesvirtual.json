@@ -1,0 +1,17 @@
+{
+    "success": true,
+    "count": 2,
+    "state": "puerto rico",
+    "data": [
+        {
+            "id": "793",
+            "name": "Guaynabo",
+            "popular": "0"
+        },
+        {
+            "id": "729",
+            "name": "San Juan",
+            "popular": "0"
+        }
+    ]
+}

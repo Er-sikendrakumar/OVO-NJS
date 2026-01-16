@@ -1,0 +1,93 @@
+{
+    "success": true,
+    "location_id": 1486,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Coral Springs",
+            "state": "FL",
+            "price": null,
+            "address": {
+                "line1": "9900 W Sample Road",
+                "suite": null,
+                "city": "Coral Springs",
+                "state": "FL",
+                "zip": "33065",
+                "phone": "(954) 361-9532"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/1486-001-Building.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1486-02.meeting.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1486-03.reception.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1486-04.meeting.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1486-05.meeting.jpg"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1486",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 1,
+            "nearbyPremiumUrl": "/virtual-office/florida/boca-raton/location-776/",
+            "nearbyPremiumText": "to view the most POPULAR locations nearby for the same $99/mo",
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Coral Springs Virtual Office",
+            "body": "Get the professional address your business deserves in Coral Springs, without the financial burden of a physical workspace. With Opus VO, you can set your business amidst the vibrant Coral Springs landscape for a fraction of the cost of a regular office. Make use of our state-of-the-art conference rooms for those essential meetings and elevate your brand with an impressive Coral Springs address.   Joining the Opus VO family in Coral Springs means you also gain access to a dedicated live receptionist. Our team excels in delivering top-notch, tailored customer service, ensuring your clients always have an experience that’s in line with your brand’s vision. We’ve got your administrative needs covered— from sorting your digital mail to managing your calls—so you can concentrate on taking your business to the next level. ",
+            "map": {
+                "lat": 26.2719864,
+                "lng": -80.2590082,
+                "zoom": 14,
+                "city": "Coral Springs"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Coral Springs, Florida even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Coral Springs. You can also adapt to better meet your clients’ unique needs within Florida. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Coral Springs virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Coral Springs?",
+                "body": "Coral Springs isn’t just a family-friendly suburb; it’s an emerging business community with rich opportunities in various fields like healthcare, tech, and retail. Our Coral Springs office is strategically located, offering you a convenient gateway to key business relationships and essential networking events.  By choosing an Opus Virtual Office in Coral Springs, you’re not only cutting down your operating expenses; you’re adding a strategic advantage to your business. Take the leap and experience our first-rate virtual office services today.  Opus VO Coral Springs @ 9900 W Sample Road, Coral Springs, FL 33065 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Coral Springs - 9900 W Sample Road | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Florida, Coral Springs virtual office located at 9900 W Sample Road. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/florida/coral-springs/location-1486/",
+            "og": {
+                "title": "Virtual Office in Coral Springs - 9900 W Sample Road | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Florida, Coral Springs virtual office located at 9900 W Sample Road. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/florida/coral-springs/location-1486/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/1486-001-Building.jpg"
+            }
+        }
+    }
+}

@@ -1,0 +1,136 @@
+{
+    "success": true,
+    "state": "north carolina",
+    "city": "wilmington",
+    "wp_city_post_id": null,
+    "locations": [
+        {
+            "id": "1638",
+            "name": "Wilmington",
+            "locname": "1608 Queen Street, Wilmington, NC 28401",
+            "address": "1608 Queen Street, Wilmington, NC 28401",
+            "city": "wilmington",
+            "state": "north carolina",
+            "state_english": "North Carolina",
+            "abbr": "NC",
+            "phone": "9107865393",
+            "premium": "1",
+            "opusowned": "0",
+            "showpopular": "0",
+            "point_x": "34.227953",
+            "point_y": "-77.9272292",
+            "url": "/virtual-office/north-carolina/wilmington/location-1638/",
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1638-01.bldg_.jpg",
+                "alttext": ""
+            }
+        },
+        {
+            "id": "1565",
+            "name": "Wilmington",
+            "locname": "6400 Carolina Beach Road, Wilmington, NC 28412",
+            "address": "6400 Carolina Beach Road, Wilmington, NC 28412",
+            "city": "wilmington",
+            "state": "north carolina",
+            "state_english": "North Carolina",
+            "abbr": "NC",
+            "phone": "9105999435",
+            "premium": "0",
+            "opusowned": "0",
+            "showpopular": "0",
+            "point_x": "34.1070135",
+            "point_y": "-77.901479",
+            "url": "/virtual-office/north-carolina/wilmington/location-1565/",
+            "image": "/assets/mail-center.webp"
+        }
+    ],
+    "popular_locations": [],
+    "premium_locations": [
+        {
+            "id": "1638",
+            "name": "Wilmington",
+            "locname": "1608 Queen Street, Wilmington, NC 28401",
+            "address": "1608 Queen Street, Wilmington, NC 28401",
+            "city": "wilmington",
+            "state": "north carolina",
+            "state_english": "North Carolina",
+            "abbr": "NC",
+            "phone": "9107865393",
+            "premium": "1",
+            "opusowned": "0",
+            "showpopular": "0",
+            "point_x": "34.227953",
+            "point_y": "-77.9272292",
+            "url": "/virtual-office/north-carolina/wilmington/location-1638/",
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1638-01.bldg_.jpg",
+                "alttext": ""
+            }
+        }
+    ],
+    "regular_locations": [
+        {
+            "id": "1565",
+            "name": "Wilmington",
+            "locname": "6400 Carolina Beach Road, Wilmington, NC 28412",
+            "address": "6400 Carolina Beach Road, Wilmington, NC 28412",
+            "city": "wilmington",
+            "state": "north carolina",
+            "state_english": "North Carolina",
+            "abbr": "NC",
+            "phone": "9105999435",
+            "premium": "0",
+            "opusowned": "0",
+            "showpopular": "0",
+            "point_x": "34.1070135",
+            "point_y": "-77.901479",
+            "url": "/virtual-office/north-carolina/wilmington/location-1565/",
+            "image": "/assets/mail-center.webp"
+        }
+    ],
+    "sections": [
+        {
+            "title": "OUR WILMINGTON\nVIRTUAL OFFICES",
+            "body": "<h2></h2>\n<p>Enjoy the benefits of having a business address in Wilmington North Carolina without the stress and expense surrounding a “traditional office environment”. OpusVO gives you the prestige of having an office with the budget of working from home. Receive all your business mail at a professional office building. No post office box number, just a great business address to use on your business cards and other marketing material.</p>\n<p>You don’t just get a business phone number with your Wilmington virtual office, but also a live receptionist answering your calls the way you want them to be. Stop choosing between capturing new leads for your business and working on current clients. Do both. Get someone who looks out for you while you’re unable to break away.</p>\n",
+            "image": {
+                "url": "/newsite/wp-content/themes/ThemeDec23/assets/images/califonia-v-office.jpg",
+                "alt": "OUR WILMINGTON\nVIRTUAL OFFICES",
+                "title": "OUR WILMINGTON\nVIRTUAL OFFICES"
+            },
+            "layout": "image_text",
+            "imageAlignment": "right"
+        },
+        {
+            "title": "GET A VIRTUAL OFFICE\nIN WILMINGTON",
+            "body": "<h2></h2>\n<p>Whether you choose to work out of your home or on the road, a Wilmington virtual office will give you the freedom and flexibility to get the job done in the place and style of your choosing. With a local company phone number, live receptionist, premium call transferring, and a professional business address, Opus VO provides a cost-effective way for your company to grow or establish a presence in a new market without any long-term commitments.</p>\n",
+            "image": {
+                "url": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "alt": "GET A VIRTUAL OFFICE\nIN WILMINGTON",
+                "title": "GET A VIRTUAL OFFICE\nIN WILMINGTON"
+            },
+            "layout": "image_text",
+            "imageAlignment": "left"
+        }
+    ],
+    "faqs": [],
+    "meta": {
+        "locations_count": 2,
+        "popular_locations_count": 0,
+        "premium_locations_count": 1,
+        "regular_locations_count": 1,
+        "sections_count": 2,
+        "faqs_count": 0
+    },
+    "seo": {
+        "title": "Virtual Office in Wilmington, NC | Multiple Locations Available",
+        "meta_description": "Find the ultimate office solution with Opus Virtual Offices in Wilmington, North Carolina. Our all-inclusive virtual offices cater to your business needs. Sign up today!",
+        "canonical": "https://www.opusvirtualoffices.com/virtual-office/north-carolina/wilmington/",
+        "og": {
+            "title": "Virtual Office in Wilmington, NC | Multiple Locations Available",
+            "description": "Find the ultimate office solution with Opus Virtual Offices in Wilmington, North Carolina. Our all-inclusive virtual offices cater to your business needs. Sign up today!",
+            "url": "https://www.opusvirtualoffices.com/virtual-office/north-carolina/wilmington/",
+            "type": "website",
+            "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+        }
+    }
+}

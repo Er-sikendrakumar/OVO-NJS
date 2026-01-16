@@ -1,0 +1,75 @@
+{
+    "success": true,
+    "type": "virtual-office",
+    "sutype": 1,
+    "data": {
+        "bundles": [
+            {
+                "id": "1",
+                "bundlename": "The Essentials",
+                "bundleshort": "Solution",
+                "bundlephantom": "99.00",
+                "bundleprice": "99.00",
+                "services": []
+            },
+            {
+                "id": "2",
+                "bundlename": "The Essentials +",
+                "bundleshort": "PLUS",
+                "bundlephantom": "129.00",
+                "bundleprice": "119.00",
+                "services": {
+                    "14": "Callout",
+                    "20": "Tollfree",
+                    "28": "Call Logs"
+                }
+            },
+            {
+                "id": "3",
+                "bundlename": "The Professional",
+                "bundleshort": "PRO",
+                "bundlephantom": "179.00",
+                "bundleprice": "149.00",
+                "services": {
+                    "14": "Callout",
+                    "20": "Tollfree",
+                    "28": "Call Logs",
+                    "29": "Supervised Transfer"
+                }
+            },
+            {
+                "id": "4",
+                "bundlename": "The Best Value",
+                "bundleshort": "PREMIUM",
+                "bundlephantom": "229.00",
+                "bundleprice": "179.00",
+                "services": {
+                    "14": "Callout",
+                    "20": "Tollfree",
+                    "25": "Message Taking",
+                    "28": "Call Logs",
+                    "29": "Supervised Transfer"
+                }
+            }
+        ],
+        "all_services": {
+            "14": "Callout",
+            "20": "Tollfree",
+            "28": "Call Logs",
+            "29": "Supervised Transfer",
+            "25": "Message Taking"
+        },
+        "description": "All plans include the following: Prestigious Business Address, Live Call Answering, Call Transferring, 2 Voicemail Boxes, Business Phone/Fax Number, and Voicemail/Fax Converted to Email.",
+        "optional_features": [
+            "Toll-Free Number",
+            "Callout",
+            "Texting",
+            "Audio Conference Bridge",
+            "Additional Extension(s)/Voice Box(es)",
+            "Call Recording",
+            "Incoming Call Log Feature",
+            "Supervised Call Transfer",
+            "Message Taking"
+        ]
+    }
+}

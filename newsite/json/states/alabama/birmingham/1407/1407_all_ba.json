@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "location_id": 1407,
+    "mode": "business-address",
+    "data": {
+        "header": {
+            "city": "Birmingham",
+            "state": "AL",
+            "price": null,
+            "address": {
+                "line1": "4000 Eagle Point Corporate Drive",
+                "suite": null,
+                "city": "Birmingham",
+                "state": "AL",
+                "zip": "35242",
+                "phone": "(205) 561-0019"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/1407-01-Building-e1709839370316.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1407-02.lobby_-754x550.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1407-03.meeting-800x533.jpg"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 1,
+            "addressOnlyUrl": "/business-address/alabama/birmingham/location-1407/",
+            "signupUrl": "/signup/?locid=1407",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 1,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Birmingham City Page",
+            "body": "Elevate your business image with a distinguished business address in Birmingham, while eschewing the financial burden and logistical hurdles of a traditional office space. Opus VO allows your enterprise to cultivate a commanding presence in Birmingham by offering premier mail-handling services, inviting spaces for client meet-ups, and cutting-edge meeting rooms. Situate your business in an iconic building at the heart of Birmingham’s vibrant commercial area.  By choosing a virtual office in Birmingham through Opus VO, you’ll have the unique service of a live receptionist, who will provide your clients with a tailored experience that meets your specific needs. Our exhaustive array of administrative offerings, such as complete mail handling, exceptional call-forwarding options, and full administrative supportive services, enables you to concentrate on business expansion as we take care of your daily operations. ",
+            "map": {
+                "lat": 33.4000316,
+                "lng": -86.6647414,
+                "zoom": 14,
+                "city": "Birmingham"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Birmingham, Alabama even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Birmingham. You can also adapt to better meet your clients’ unique needs within Alabama. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Birmingham virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Go for a Birmingham Virtual Office?",
+                "body": "Birmingham is more than its rich history; it is an emerging hub for diverse sectors, including healthcare, finance, and technology. Harness the potential of Birmingham’s expanding business community by situating your company amidst a plethora of opportunities that could substantially contribute to your bottom line. With a prime location near crucial business and social hubs, our Birmingham venue provides you with easy access to valuable networking events, industry conventions, and meetups.  Opting for an Opus Virtual Office in Birmingham gives your business a marked competitive advantage at a cost significantly lower than that of leasing traditional office spaces. Make the right decision to propel your business to new heights by utilizing our top-tier virtual office solutions today.  Opus VO, Birmingham @ 4000 Eagle Point Corporate Drive, Birmingham, AL 35242 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Prestigious Business Address 4000 Eagle Point Corporate Drive Birmingham | $59/month",
+            "meta_description": "Impress clients with a virtual office at 4000 Eagle Point Corporate Drive Birmingham enjoy a prime location mail handling digital alerts and privacy for only $59/month",
+            "canonical": "https://www.opusvirtualoffices.com/business-address/alabama/birmingham/location-1407/",
+            "og": {
+                "title": "Prestigious Business Address 4000 Eagle Point Corporate Drive Birmingham | $59/month",
+                "description": "Impress clients with a virtual office at 4000 Eagle Point Corporate Drive Birmingham enjoy a prime location mail handling digital alerts and privacy for only $59/month",
+                "url": "https://www.opusvirtualoffices.com/business-address/alabama/birmingham/location-1407/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/1407-01-Building-e1709839370316.jpg"
+            }
+        }
+    }
+}

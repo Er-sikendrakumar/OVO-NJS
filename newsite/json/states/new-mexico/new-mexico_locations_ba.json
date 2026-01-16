@@ -1,0 +1,27 @@
+{
+    "success": true,
+    "count": 1,
+    "state": "new mexico",
+    "mode": "business-address",
+    "data": [
+        {
+            "id": 1718,
+            "location_name": "8206 Louisiana Blvd NE, Albuquerque, NM 87113",
+            "city": "Albuquerque",
+            "state": "New Mexico",
+            "state_abbr": "NM",
+            "address": "8206 Louisiana Blvd NE, Albuquerque, NM 87113",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 35.1764606,
+            "point_y": -106.5677211,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1718-01.bldg_.jpg",
+                "alttext": null
+            },
+            "url": "/business-address/new-mexico/albuquerque/location-1718/",
+            "phone": "5058357969"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "success": true,
+    "page": "business-address/alabama",
+    "page_type": "location_state",
+    "view": "state",
+    "seo": {
+        "title": "Virtual Business Address in Alabama | Opus Virtual Offices",
+        "meta_description": "Get a prestigious business address in Alabama with Opus. Multiple premium locations statewide mail handling privacy protection all for just $59/month.",
+        "canonical": "https://www.opusvirtualoffices.com/business-address/alabama/",
+        "og": {
+            "title": "Virtual Business Address in Alabama | Opus Virtual Offices",
+            "description": "Get a prestigious business address in Alabama with Opus. Multiple premium locations statewide mail handling privacy protection all for just $59/month.",
+            "url": "https://www.opusvirtualoffices.com/business-address/alabama/",
+            "type": "website",
+            "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+        }
+    },
+    "data": {
+        "state": "Alabama",
+        "mode": "business-address"
+    }
+}

@@ -1,0 +1,85 @@
+{
+    "success": true,
+    "state": "wyoming",
+    "cities_virtual": [
+        {
+            "id": "802",
+            "name": "Casper",
+            "popular": "1"
+        },
+        {
+            "id": "459",
+            "name": "Cheyenne",
+            "popular": "1"
+        }
+    ],
+    "cities_business": [],
+    "cities_popular": [
+        {
+            "id": "802",
+            "name": "Casper"
+        },
+        {
+            "id": "459",
+            "name": "Cheyenne"
+        }
+    ],
+    "locations_virtual_office": [
+        {
+            "id": 1501,
+            "location_name": "144 E Midwest Avenue, Casper, WY 82601",
+            "city": "Casper",
+            "state": "Wyoming",
+            "state_abbr": "WY",
+            "address": "144 E Midwest Avenue, Casper, WY 82601",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 42.8478475,
+            "point_y": -106.3241651,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/wyoming/casper/location-1501/",
+            "phone": "3072753257"
+        },
+        {
+            "id": 907,
+            "location_name": "1712 Pioneer Avenue, Cheyenne, WY 82001",
+            "city": "Cheyenne",
+            "state": "Wyoming",
+            "state_abbr": "WY",
+            "address": "1712 Pioneer Avenue, Cheyenne, WY 82001",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 41.1331947,
+            "point_y": -104.8187634,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/907-04-Building.png",
+                "alttext": null
+            },
+            "url": "/virtual-office/wyoming/cheyenne/location-907/",
+            "phone": "3072749304"
+        }
+    ],
+    "meta": {
+        "cities_virtual_count": 2,
+        "cities_business_count": 0,
+        "cities_popular_count": 2,
+        "locations_virtual_office_count": 2
+    },
+    "seo": {
+        "title": "Virtual Office in Wyoming | Locations Statewide | Opus VO",
+        "meta_description": "Get a prestigious Wyoming business address and professional phone answering services with Opus Virtual Offices, the perfect office solution for your business needs.",
+        "canonical": "https://www.opusvirtualoffices.com/virtual-office/wyoming/",
+        "og": {
+            "title": "Virtual Office in Wyoming | Locations Statewide | Opus VO",
+            "description": "Get a prestigious Wyoming business address and professional phone answering services with Opus Virtual Offices, the perfect office solution for your business needs.",
+            "url": "https://www.opusvirtualoffices.com/virtual-office/wyoming/",
+            "type": "website",
+            "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+        }
+    }
+}

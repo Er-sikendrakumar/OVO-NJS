@@ -1,0 +1,87 @@
+{
+    "success": true,
+    "location_id": 1393,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "St. Louis Park",
+            "state": "MN",
+            "price": null,
+            "address": {
+                "line1": "5775 Wayzata Blvd",
+                "suite": null,
+                "city": "St. Louis Park",
+                "state": "MN",
+                "zip": "55416",
+                "phone": "(952) 563-3148"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/1393-building-1743107049776.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1393-conference-1743107049380-scaled.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1393-Training-Room-1743107049745-scaled.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1393-reception2-1743107049648.webp",
+                    "/wp-content-mgr/wp-content/uploads/1393-Common-Area-1743107049977.jpg"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1393",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "St. Louis Park Virtual Office",
+            "body": "Secure a distinguished St. Louis Park business address without the financial drain of an actual office. With Opus VO, you have the opportunity to plant your business in the thriving heart of St. Louis Park while optimizing your budget. Need to host a game-changing meeting or client discussion? Our state-of-the-art conference rooms are fashioned to exceed expectations.  When you select a virtual office in St. Louis Park through Opus VO, you’ll also receive the services of a dedicated live receptionist. We are committed to ensuring that every client interaction perfectly embodies your brand’s values. Outsource your day-to-day admin tasks to us, leaving you free to pursue your business objectives. ",
+            "map": {
+                "lat": 44.9689748,
+                "lng": -93.3541108,
+                "zoom": 14,
+                "city": "St. Louis Park"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in St. Louis Park, Minnesota even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of St. Louis Park. You can also adapt to better meet your clients’ unique needs within Minnesota. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our St. Louis Park virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why St. Louis Park?",
+                "body": "St. Louis Park is not merely a hub of natural beauty; it’s a burgeoning focal point for industries ranging from healthcare to tech startups. A St. Louis Park address gives you the key to extensive networking possibilities and powerful business opportunities.  Opting for Opus VO in St. Louis Park isn’t just wise from a financial standpoint; it’s a strategic boon for your business. Are you ready to ascend to new heights? Our elite virtual office services await your command.  Opus VO, St. Louis Park @ 5775 Wayzata Blvd St. Louis Park, MN 55416  ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "success": false,
+            "message": "Invalid page path format. Only alphanumeric characters, hyphens, underscores, and slashes allowed.",
+            "page": "virtual-office/minnesota/st.-louis-park/location-1393",
+            "data": []
+        }
+    }
+}

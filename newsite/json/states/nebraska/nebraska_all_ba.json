@@ -1,0 +1,72 @@
+{
+    "success": true,
+    "state": "nebraska",
+    "cities_virtual": [
+        {
+            "id": "171",
+            "name": "Lincoln",
+            "popular": "1"
+        },
+        {
+            "id": "174",
+            "name": "Omaha",
+            "popular": "1"
+        }
+    ],
+    "cities_business": [
+        {
+            "id": "171",
+            "name": "Lincoln",
+            "popular": "1"
+        }
+    ],
+    "cities_popular": [
+        {
+            "id": "171",
+            "name": "Lincoln"
+        },
+        {
+            "id": "174",
+            "name": "Omaha"
+        }
+    ],
+    "locations_business_address": [
+        {
+            "id": 1328,
+            "location_name": "151 N. 8th Street, Lincoln, NE 68508",
+            "city": "Lincoln",
+            "state": "Nebraska",
+            "state_abbr": "NE",
+            "address": "151 N. 8th Street, Lincoln, NE 68508",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 40.8144018,
+            "point_y": -96.7102224,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1328-01.Building-Virtual-Office-Lincoln-Nebraska.jpg",
+                "alttext": null
+            },
+            "url": "/business-address/nebraska/lincoln/location-1328/",
+            "phone": "4028813875"
+        }
+    ],
+    "meta": {
+        "cities_virtual_count": 2,
+        "cities_business_count": 1,
+        "cities_popular_count": 2,
+        "locations_business_address_count": 1
+    },
+    "seo": {
+        "title": "Virtual Business Address in Nebraska | Opus Virtual Offices",
+        "meta_description": "Get a prestigious business address in Nebraska with Opus. Multiple premium locations statewide mail handling privacy protection all for just $59/month.",
+        "canonical": "https://www.opusvirtualoffices.com/business-address/nebraska/",
+        "og": {
+            "title": "Virtual Business Address in Nebraska | Opus Virtual Offices",
+            "description": "Get a prestigious business address in Nebraska with Opus. Multiple premium locations statewide mail handling privacy protection all for just $59/month.",
+            "url": "https://www.opusvirtualoffices.com/business-address/nebraska/",
+            "type": "website",
+            "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+        }
+    }
+}

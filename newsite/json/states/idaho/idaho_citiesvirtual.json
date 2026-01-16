@@ -1,0 +1,22 @@
+{
+    "success": true,
+    "count": 3,
+    "state": "idaho",
+    "data": [
+        {
+            "id": "530",
+            "name": "Boise",
+            "popular": "1"
+        },
+        {
+            "id": "905",
+            "name": "Coeur D Alene",
+            "popular": "0"
+        },
+        {
+            "id": "383",
+            "name": "Dalton Gardens",
+            "popular": "1"
+        }
+    ]
+}

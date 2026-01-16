@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "location_id": 907,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Cheyenne",
+            "state": "WY",
+            "price": null,
+            "address": {
+                "line1": "1712 Pioneer Avenue",
+                "suite": null,
+                "city": "Cheyenne",
+                "state": "WY",
+                "zip": "82001",
+                "phone": "(307) 274-9304"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/907-04-Building.png",
+                    "/wp-content-mgr/wp-content/uploads/907-Board-Room.jpg",
+                    "/wp-content-mgr/wp-content/uploads/907-Reception.jpg"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=907",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Cheyenne Virtual Office",
+            "body": "Experience the advantage of a prestigious business address in Cheyenne, Wyoming, without the hassle or financial burden of maintaining a conventional office. With Opus VO, you can establish a professional presence in Cheyenne without incurring the costs of a physical workspace. Receive your business mail, welcome clients, and convene meetings in our state-of-the-art meeting rooms. Elevate your business status with a distinguished address in a prominent building in Cheyenne’s commercial hub.  Choosing a virtual office in Cheyenne through Opus VO provides you with the added benefit of a live receptionist, delivering a personalized experience for your clients. Each client interaction is uniquely tailored to meet your specific needs, supported by our suite of superior administrative services like digital mail handling, exceptional call forwarding, and more. Redirect your focus towards business growth and let our dedicated administrative team manage the day-to-day tasks. ",
+            "map": {
+                "lat": 41.1331947,
+                "lng": -104.8187634,
+                "zoom": 14,
+                "city": "Cheyenne"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Cheyenne, Wyoming even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Cheyenne. You can also adapt to better meet your clients’ unique needs within Wyoming. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Cheyenne virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Choose a Cheyenne Virtual Office",
+                "body": "Cheyenne offers far more than just its rich cultural heritage and natural beauty. The city serves as a growing business hub, attracting a variety of sectors from technology to healthcare. Align your business with a blossoming economy and tap into local opportunities that could significantly contribute to your revenue. Situated conveniently near local landmarks and business centers, our Cheyenne location gives you easy access to networking events and trade shows.  Opting for an Opus Virtual Office in Cheyenne empowers your business with a competitive edge, all for a fraction of the cost of traditional office space. Elevate your business to new heights by taking advantage of forward-thinking solutions today.  Opus VO, Cheyenne @  1712 Pioneer Avenue, Cheyenne, WY 82001 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Cheyenne - 1712 Pioneer Avenue | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Wyoming, Cheyenne virtual office located at 1712 Pioneer Avenue. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/wyoming/cheyenne/location-907/",
+            "og": {
+                "title": "Virtual Office in Cheyenne - 1712 Pioneer Avenue | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Wyoming, Cheyenne virtual office located at 1712 Pioneer Avenue. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/wyoming/cheyenne/location-907/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/907-04-Building.png"
+            }
+        }
+    }
+}

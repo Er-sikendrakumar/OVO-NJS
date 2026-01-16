@@ -1,0 +1,89 @@
+{
+    "success": true,
+    "location_id": 457,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Fort Lee",
+            "state": "NJ",
+            "price": null,
+            "address": {
+                "line1": "2037 Lemoine Avenue",
+                "suite": null,
+                "city": "Fort Lee",
+                "state": "NJ",
+                "zip": "07024",
+                "phone": "(201) 267-9726"
+            },
+            "images": {
+                "hero": [
+                    "/assets/mail-center.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=457",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 0,
+            "nearbyPremium": 1,
+            "nearbyPremiumUrl": "/virtual-office/new-york/new-york/location-1450/",
+            "nearbyPremiumText": "to view nearby PREMIUM Locations that offer Meeting Rooms for the same $99/mo",
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Fort Lee Virtual Office",
+            "body": "Searching for a notable Fort Lee address but not interested in the long-term obligations of a physical office? Opus VO is your ideal choice. Position your business in Fort Lee’s thriving commercial sector, all without stretching your budget. For those essential client meetings or collaborative sessions, our contemporary conference rooms stand at the ready.  By selecting our virtual workspace in Fort Lee, you’re securing more than just an esteemed address. You’ll also benefit from a professional live receptionist who integrates seamlessly with your team. They’ll ensure that every client interaction mirrors your unique brand, enabling us to handle the routine administrative work so you can concentrate on what truly matters—your primary business goals. ",
+            "map": {
+                "lat": 40.8525299,
+                "lng": -73.9694971,
+                "zoom": 14,
+                "city": "Fort Lee"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Fort Lee, New Jersey even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Fort Lee. You can also adapt to better meet your clients’ unique needs within New Jersey. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Fort Lee virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Fort Lee?",
+                "body": "Fort Lee is more than just a gateway to New York City; it’s a robust business center with a diverse range of opportunities—from tech to finance to services. A Fort Lee address doesn’t just add prestige to your business; it also opens doors to valuable networking events and key industry connections.  Choosing Opus VO for your virtual workspace in Fort Lee is not merely a logistical decision; it’s a competitive advantage. Ready to elevate your business standing? Explore our selection of exceptional virtual workspace solutions today.  Opus VO, Fort Lee @ 2037 Lemoine Avenue, Fort Lee, NJ 07024 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Fort Lee - 2037 Lemoine Avenue | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our New Jersey, Fort Lee virtual office located at 2037 Lemoine Avenue. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/new-jersey/fort-lee/location-457/",
+            "og": {
+                "title": "Virtual Office in Fort Lee - 2037 Lemoine Avenue | $99/Month",
+                "description": "Get the ultimate office solution for your business with our New Jersey, Fort Lee virtual office located at 2037 Lemoine Avenue. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/new-jersey/fort-lee/location-457/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+            }
+        }
+    }
+}

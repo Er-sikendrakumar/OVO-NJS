@@ -1,0 +1,23 @@
+{
+    "success": true,
+    "page": "virtual-office/california/palm-desert",
+    "page_type": "location_city",
+    "view": "city",
+    "seo": {
+        "title": "Virtual Office in Palm Desert, CA | Multiple Locations Available",
+        "meta_description": "Find the ultimate office solution with Opus Virtual Offices in Palm Desert, California. Our all-inclusive virtual offices cater to your business needs. Sign up today!",
+        "canonical": "https://www.opusvirtualoffices.com/virtual-office/california/palm-desert/",
+        "og": {
+            "title": "Virtual Office in Palm Desert, CA | Multiple Locations Available",
+            "description": "Find the ultimate office solution with Opus Virtual Offices in Palm Desert, California. Our all-inclusive virtual offices cater to your business needs. Sign up today!",
+            "url": "https://www.opusvirtualoffices.com/virtual-office/california/palm-desert/",
+            "type": "website",
+            "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+        }
+    },
+    "data": {
+        "state": "California",
+        "city": "Palm Desert",
+        "mode": "virtual-office"
+    }
+}

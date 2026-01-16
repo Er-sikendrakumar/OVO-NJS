@@ -1,0 +1,89 @@
+{
+    "success": true,
+    "location_id": 593,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Riverbank",
+            "state": "CA",
+            "price": null,
+            "address": {
+                "line1": "2228 Patterson Road",
+                "suite": null,
+                "city": "Riverbank",
+                "state": "CA",
+                "zip": "95367",
+                "phone": "(209) 554-5527"
+            },
+            "images": {
+                "hero": [
+                    "/assets/mail-center.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=593",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 0,
+            "nearbyPremium": 1,
+            "nearbyPremiumUrl": "/virtual-office/california/modesto/location-1291/",
+            "nearbyPremiumText": "to view the nearby PREMIUM Locations for the same $99/mo",
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Riverbank Virtual Office",
+            "body": "Experience the advantages of a distinguished business address in Riverbank minus the financial strain of maintaining a physical office space. Opus VO offers you the exclusive chance to root your business in a prime Riverbank location, all while sidestepping the prohibitive costs of a traditional office lease. Take advantage of our advanced conference rooms for essential business discussions and client engagements, further boosting your company’s reputation with a respected Riverbank address.  Selecting a virtual office in Riverbank through Opus VO offers you the added benefit of a live receptionist committed to offering customized, top-notch customer service. Our dedicated team makes certain every client interaction falls in line with your specific business aspirations. Hand over the day-to-day admin tasks like managing digital mail and complex call-forwarding to us, giving you the freedom to focus solely on your business’ future growth. ",
+            "map": {
+                "lat": 37.7316751,
+                "lng": -120.9571633,
+                "zoom": 14,
+                "city": "Riverbank"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Riverbank, California even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Riverbank. You can also adapt to better meet your clients’ unique needs within California. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Riverbank virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Choose a Riverbank Virtual Office?",
+                "body": "Riverbank is not just a quaint community; it’s an emerging commercial locale with opportunities in sectors like agriculture, retail, and services. Conveniently located near important business opportunities, our Riverbank location provides you with direct access to invaluable industry contacts and engaging networking platforms.  By choosing an Opus Virtual Office in Riverbank, you’re accomplishing much more than just minimizing your operational expenses; you’re securing an invaluable competitive advantage. Elevate your business to new summits of success by making use of our premium virtual office services today.  Opus VO Riverbank @ 2228 Patterson Road, Riverbank, CA 95367 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Riverbank - 2228 Patterson Road | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our California, Riverbank virtual office located at 2228 Patterson Road. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/california/riverbank/location-593/",
+            "og": {
+                "title": "Virtual Office in Riverbank - 2228 Patterson Road | $99/Month",
+                "description": "Get the ultimate office solution for your business with our California, Riverbank virtual office located at 2228 Patterson Road. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/california/riverbank/location-593/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+            }
+        }
+    }
+}

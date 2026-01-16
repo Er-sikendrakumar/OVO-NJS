@@ -1,0 +1,12 @@
+{
+    "success": true,
+    "count": 1,
+    "state": "utah",
+    "data": [
+        {
+            "id": "315",
+            "name": "Salt Lake City",
+            "popular": "1"
+        }
+    ]
+}

@@ -1,0 +1,113 @@
+{
+    "success": true,
+    "location_id": 1285,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Miami",
+            "state": "FL",
+            "price": null,
+            "address": {
+                "line1": "848 Brickell Avenue",
+                "suite": "PH5",
+                "city": "Miami",
+                "state": "FL",
+                "zip": "33131",
+                "phone": "(305) 847-9000"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/wh_shay_zaidenberg-001.webp",
+                    "/wp-content-mgr/wp-content/uploads/wh_shay_zaidenberg-018.webp",
+                    "/wp-content-mgr/wp-content/uploads/wh_shay_zaidenberg-012.webp",
+                    "/wp-content-mgr/wp-content/uploads/wh_shay_zaidenberg-006.webp",
+                    "/wp-content-mgr/wp-content/uploads/wh_shay_zaidenberg-003.webp",
+                    "/wp-content-mgr/wp-content/uploads/wh_shay_zaidenberg-005.webp",
+                    "/wp-content-mgr/wp-content/uploads/wh_shay_zaidenberg-011.webp",
+                    "/wp-content-mgr/wp-content/uploads/wh_shay_zaidenberg-010.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 1
+            },
+            "addressOnlyOptionAvailable": 1,
+            "addressOnlyUrl": "/business-address/florida/miami/location-1285/",
+            "signupUrl": "/signup/?locid=1285",
+            "openingHours": {
+                "opens": "08:30:00",
+                "closes": "17:30:00",
+                "daysOfWeek": [
+                    "Monday",
+                    "Tuesday",
+                    "Wednesday",
+                    "Thursday",
+                    "Friday"
+                ]
+            },
+            "opusowned": 1,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "GET A PRESTIGIOUS MIAMI BUSINESS ADDRESS AND RECEPTIONIST SERVICE",
+            "body": "Enjoy the energy of Miami’s Brickell District with a premium virtual office at 848 Brickell Avenue. Located in a penthouse suite, this business address offers stunning views of Downtown Miami and is just steps away from world-class hotels and fine dining. The building features on-site banking, a spacious parking garage, on-site property management, and an upscale restaurant with table service. As a Class-A office tower, it also provides 24/7 security and convenient street parking. 848 Brickell Ave isn’t just an address it’s the future of business space in South Florida.",
+            "map": {
+                "lat": 25.7649598,
+                "lng": -80.1914436,
+                "zoom": 14,
+                "city": "Miami"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Miami, Florida even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Miami. You can also adapt to better meet your clients’ unique needs within Florida. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Miami virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "848 BRICKELL AVENUE, MIAMI, FL, 33131",
+                "body": "Choosing virtual offices in Miami with Opus VO gives your business a polished, professional presence without the high cost of a traditional office. You’ll have access to a live receptionist who provides friendly, personalized service to everyone who contacts your business. We make sure every interaction aligns with your brand and goals. Your plan includes a real corporate mailing address, digital mail management, a dedicated business phone and fax number, and advanced call-forwarding options. Need your mail sent to another location? We’ve got you covered with secure and reliable mail forwarding. Our experienced team handles your daily administrative tasks so you can stay focused on growing your business while we take care of the rest. Opus VO Miami location @ 848 Brickell Avenue, Penthouse 5 Miami, FL 33131  ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            },
+            {
+                "title": "CHOOSE MIAMI VIRTUAL OFFICES",
+                "body": "Miami is a vibrant city known as the gateway to Latin America and for good reason. From the colorful Art Deco buildings of South Beach to the calm beauty of Biscayne Bay, it’s a place where business and lifestyle blend seamlessly. The city is home to fast-growing industries like finance, tourism, healthcare, and international trade, making it a smart choice for entrepreneurs and professionals. Whether you’re exploring the Everglades or enjoying the energy of Miami Beach, there’s something here for everyone. Plus, with Miami International Airport just 20 minutes from your office, you’ll have easy access to Latin America and major cities across the globe.",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/botaraton-covered.png",
+                "layout": "image_text",
+                "imageAlignment": "left"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Miami - 848 Brickell Avenue | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Florida, Miami virtual office located at 848 Brickell Avenue. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/florida/miami/location-1285/",
+            "og": {
+                "title": "Virtual Office in Miami - 848 Brickell Avenue | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Florida, Miami virtual office located at 848 Brickell Avenue. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/florida/miami/location-1285/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/wh_shay_zaidenberg-001.webp"
+            }
+        }
+    }
+}

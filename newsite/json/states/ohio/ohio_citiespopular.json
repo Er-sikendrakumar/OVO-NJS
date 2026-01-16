@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "count": 6,
+    "state": "ohio",
+    "data": [
+        {
+            "id": "688",
+            "name": "Akron"
+        },
+        {
+            "id": "180",
+            "name": "Cincinnati"
+        },
+        {
+            "id": "544",
+            "name": "Cleveland"
+        },
+        {
+            "id": "177",
+            "name": "Columbus"
+        },
+        {
+            "id": "694",
+            "name": "Highland Heights"
+        },
+        {
+            "id": "657",
+            "name": "Toledo"
+        }
+    ]
+}

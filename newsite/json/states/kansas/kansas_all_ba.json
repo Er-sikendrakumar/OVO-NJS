@@ -1,0 +1,72 @@
+{
+    "success": true,
+    "state": "kansas",
+    "cities_virtual": [
+        {
+            "id": "574",
+            "name": "Topeka",
+            "popular": "1"
+        },
+        {
+            "id": "362",
+            "name": "Wichita",
+            "popular": "1"
+        }
+    ],
+    "cities_business": [
+        {
+            "id": "574",
+            "name": "Topeka",
+            "popular": "1"
+        }
+    ],
+    "cities_popular": [
+        {
+            "id": "574",
+            "name": "Topeka"
+        },
+        {
+            "id": "362",
+            "name": "Wichita"
+        }
+    ],
+    "locations_business_address": [
+        {
+            "id": 969,
+            "location_name": "2611 SW 17th Street, Topeka, KS 66604",
+            "city": "Topeka",
+            "state": "Kansas",
+            "state_abbr": "KS",
+            "address": "2611 SW 17th Street, Topeka, KS 66604",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 39.036579,
+            "point_y": -95.710419,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/969-Front-Building.jpg",
+                "alttext": null
+            },
+            "url": "/business-address/kansas/topeka/location-969/",
+            "phone": "7853807268"
+        }
+    ],
+    "meta": {
+        "cities_virtual_count": 2,
+        "cities_business_count": 1,
+        "cities_popular_count": 2,
+        "locations_business_address_count": 1
+    },
+    "seo": {
+        "title": "Virtual Business Address in Kansas | Opus Virtual Offices",
+        "meta_description": "Get a prestigious business address in Kansas with Opus. Multiple premium locations statewide mail handling privacy protection all for just $59/month.",
+        "canonical": "https://www.opusvirtualoffices.com/business-address/kansas/",
+        "og": {
+            "title": "Virtual Business Address in Kansas | Opus Virtual Offices",
+            "description": "Get a prestigious business address in Kansas with Opus. Multiple premium locations statewide mail handling privacy protection all for just $59/month.",
+            "url": "https://www.opusvirtualoffices.com/business-address/kansas/",
+            "type": "website",
+            "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+        }
+    }
+}

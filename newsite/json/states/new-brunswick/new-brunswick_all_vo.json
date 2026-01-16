@@ -1,0 +1,76 @@
+{
+    "success": true,
+    "state": "new brunswick",
+    "cities_virtual": [
+        {
+            "id": "626",
+            "name": "Moncton",
+            "popular": "0"
+        },
+        {
+            "id": "804",
+            "name": "Saint John",
+            "popular": "0"
+        }
+    ],
+    "cities_business": [],
+    "cities_popular": [],
+    "locations_virtual_office": [
+        {
+            "id": 1518,
+            "location_name": "500 St George Street, Moncton, NB E1C 1Y3",
+            "city": "Moncton",
+            "state": "New Brunswick",
+            "state_abbr": "NB",
+            "address": "500 St George Street, Moncton, NB E1C 1Y3",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 46.0884321,
+            "point_y": -64.79449509,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1518-01-bldg.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/new-brunswick/moncton/location-1518/",
+            "phone": "5068013036"
+        },
+        {
+            "id": 1504,
+            "location_name": "107 Charlotte Street, Saint John, NB E2L2J2",
+            "city": "Saint John",
+            "state": "New Brunswick",
+            "state_abbr": "NB",
+            "address": "107 Charlotte Street, Saint John, NB E2L2J2",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 45.2725828,
+            "point_y": -66.0587619,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1504-01.bldg_.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/new-brunswick/saint-john/location-1504/",
+            "phone": "5064069136"
+        }
+    ],
+    "meta": {
+        "cities_virtual_count": 2,
+        "cities_business_count": 0,
+        "cities_popular_count": 0,
+        "locations_virtual_office_count": 2
+    },
+    "seo": {
+        "title": "Virtual Office in New Brunswick | Locations Statewide | Opus VO",
+        "meta_description": "Get a prestigious New Brunswick business address and professional phone answering services with Opus Virtual Offices, the perfect office solution for your business needs.",
+        "canonical": "https://www.opusvirtualoffices.com/virtual-office/new-brunswick/",
+        "og": {
+            "title": "Virtual Office in New Brunswick | Locations Statewide | Opus VO",
+            "description": "Get a prestigious New Brunswick business address and professional phone answering services with Opus Virtual Offices, the perfect office solution for your business needs.",
+            "url": "https://www.opusvirtualoffices.com/virtual-office/new-brunswick/",
+            "type": "website",
+            "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+        }
+    }
+}

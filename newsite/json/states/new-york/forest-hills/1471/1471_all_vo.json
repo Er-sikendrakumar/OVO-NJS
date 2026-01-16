@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "location_id": 1471,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Forest Hills",
+            "state": "NY",
+            "price": null,
+            "address": {
+                "line1": "118-21 Queens Blvd",
+                "suite": null,
+                "city": "Forest Hills",
+                "state": "NY",
+                "zip": "11375",
+                "phone": "(917) 933-8621"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/1471-01.bldg_.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1471-02.meeting.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1471-03.meeting.jpg"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1471",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 1,
+            "nearbyPremiumUrl": "/virtual-office/new-york/brooklyn/location-1477/",
+            "nearbyPremiumText": "to view the most POPULAR locations nearby for the same $99/mo",
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Forest Hills Virtual Office",
+            "body": "Fancy a distinguished Forest Hills address but not the burden of a full-fledged office? Opus VO is here to help. Place your business in the core of Forest Hills’ lively commercial district, all while keeping a watchful eye on your finances. For those key meetings and team brainstorming sessions, our top-of-the-line conference rooms are ready to serve.  When you choose our virtual workspace in Forest Hills, you’re netting more than just an esteemed address. You also get the support of a professional live receptionist who will smoothly integrate with your team. They’ll make sure every interaction with your clients is consistent with your brand’s unique ethos, freeing us to handle the daily admin tasks while you focus on your key business goals. ",
+            "map": {
+                "lat": 40.7150909,
+                "lng": -73.83152299,
+                "zoom": 14,
+                "city": "Forest Hills"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Forest Hills, New York even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Forest Hills. You can also adapt to better meet your clients’ unique needs within New York. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Forest Hills virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Forest Hills?",
+                "body": "Forest Hills isn’t just a residential paradise; it’s also a booming business locale with varied opportunities across industries such as retail, services, and healthcare. Having a Forest Hills address not only boosts your brand image but also connects you to a network of industry-related events and vital connections.  Opting for Opus VO for your virtual workspace in Forest Hills isn’t just a practical move; it’s a strategic edge. Ready to kick your business up a notch? Check out our range of adaptable virtual workspace packages today.  Opus VO, Forest Hills @ 118-21 Queens Blvd, Forest Hills, NY 11375 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Forest Hills - 118-21 Queens Blvd | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our New York, Forest Hills virtual office located at 118-21 Queens Blvd. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/new-york/forest-hills/location-1471/",
+            "og": {
+                "title": "Virtual Office in Forest Hills - 118-21 Queens Blvd | $99/Month",
+                "description": "Get the ultimate office solution for your business with our New York, Forest Hills virtual office located at 118-21 Queens Blvd. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/new-york/forest-hills/location-1471/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/1471-01.bldg_.jpg"
+            }
+        }
+    }
+}

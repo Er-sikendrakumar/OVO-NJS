@@ -1,0 +1,89 @@
+{
+    "success": true,
+    "location_id": 734,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Buena Park",
+            "state": "CA",
+            "price": null,
+            "address": {
+                "line1": "5825 Lincoln Avenue",
+                "suite": null,
+                "city": "Buena Park",
+                "state": "CA",
+                "zip": "90620",
+                "phone": "(714) 242-3816"
+            },
+            "images": {
+                "hero": [
+                    "/assets/mail-center.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=734",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 0,
+            "nearbyPremium": 1,
+            "nearbyPremiumUrl": "/virtual-office/california/los-angeles/location-1362/",
+            "nearbyPremiumText": "to view nearby PREMIUM Locations that offer Meeting Rooms for the same $99/mo",
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Buena Park Virtual Office",
+            "body": "Savor the distinction of an esteemed business address in Buena Park without the financial burdens often associated with a physical workspace. Opus VO graciously offers you the opportunity to establish your organization in one of our select Buena Park locations, at a fraction of the cost of a standard office lease. Take advantage of our state-of-the-art conference rooms for imperative business discussions and client collaborations, while amplifying your brand’s prestige with a celebrated Buena Park address.  Electing to have a virtual office in Buena Park through Opus VO affords you the extraordinary benefit of a live receptionist. Unyielding in our dedication to deliver personalized, superlative customer service, our team assures that each client engagement seamlessly aligns with your specific business goals. Surrender day-to-day administrative functions such as digital mail handling and call-forwarding to us, thus giving you the opportunity to focus on driving your business forward. ",
+            "map": {
+                "lat": 33.831791,
+                "lng": -118.031725,
+                "zoom": 14,
+                "city": "Buena Park"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Buena Park, California even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Buena Park. You can also adapt to better meet your clients’ unique needs within California. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Buena Park virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Choose a Buena Park Virtual Office?",
+                "body": "Buena Park is not merely a Southern California suburb; it’s a dynamic business landscape teeming with prospects, notably in sectors like tourism, entertainment, and retail. Ideally located near essential business districts, our Buena Park offices provide you with convenient access to crucial industry contacts and invigorating networking opportunities.  By selecting an Opus Virtual Office in Buena Park, you’re achieving more than reduced operating costs; you’re acquiring a crucial competitive advantage. Elevate your business to unparalleled success by embracing our virtual office solutions today.  Opus VO @ 5825 Lincoln Avenue, Buena Park, CA 90620  ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Buena Park - 5825 Lincoln Avenue | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our California, Buena Park virtual office located at 5825 Lincoln Avenue. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/california/buena-park/location-734/",
+            "og": {
+                "title": "Virtual Office in Buena Park - 5825 Lincoln Avenue | $99/Month",
+                "description": "Get the ultimate office solution for your business with our California, Buena Park virtual office located at 5825 Lincoln Avenue. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/california/buena-park/location-734/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+            }
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "success": true,
+    "count": 5,
+    "state": "new hampshire",
+    "data": [
+        {
+            "id": "910",
+            "name": "Dover",
+            "popular": "0"
+        },
+        {
+            "id": "352",
+            "name": "Lee",
+            "popular": "1"
+        },
+        {
+            "id": "107",
+            "name": "Manchester",
+            "popular": "1"
+        },
+        {
+            "id": "339",
+            "name": "Milford",
+            "popular": "1"
+        },
+        {
+            "id": "850",
+            "name": "Stratham",
+            "popular": "1"
+        }
+    ]
+}

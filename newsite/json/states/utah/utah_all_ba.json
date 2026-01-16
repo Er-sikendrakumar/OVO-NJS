@@ -1,0 +1,77 @@
+{
+    "success": true,
+    "state": "utah",
+    "cities_virtual": [
+        {
+            "id": "920",
+            "name": "Orem",
+            "popular": "0"
+        },
+        {
+            "id": "315",
+            "name": "Salt Lake City",
+            "popular": "1"
+        },
+        {
+            "id": "224",
+            "name": "West Valley City",
+            "popular": "1"
+        }
+    ],
+    "cities_business": [
+        {
+            "id": "315",
+            "name": "Salt Lake City",
+            "popular": "1"
+        }
+    ],
+    "cities_popular": [
+        {
+            "id": "315",
+            "name": "Salt Lake City"
+        },
+        {
+            "id": "224",
+            "name": "West Valley City"
+        }
+    ],
+    "locations_business_address": [
+        {
+            "id": 1342,
+            "location_name": "159 West Broadway, Salt Lake City, UT 84101",
+            "city": "Salt Lake City",
+            "state": "Utah",
+            "state_abbr": "UT",
+            "address": "159 West Broadway, Salt Lake City, UT 84101",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 40.7626543,
+            "point_y": -111.8958533,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1342_Salt_Lake_City_Utah_Opus_Virtual_Office_Building_1.jpg",
+                "alttext": null
+            },
+            "url": "/business-address/utah/salt-lake-city/location-1342/",
+            "phone": "8014498232"
+        }
+    ],
+    "meta": {
+        "cities_virtual_count": 3,
+        "cities_business_count": 1,
+        "cities_popular_count": 2,
+        "locations_business_address_count": 1
+    },
+    "seo": {
+        "title": "Virtual Business Address in Utah | Opus Virtual Offices",
+        "meta_description": "Get a prestigious business address in Utah with Opus. Multiple premium locations statewide mail handling privacy protection all for just $59/month.",
+        "canonical": "https://www.opusvirtualoffices.com/business-address/utah/",
+        "og": {
+            "title": "Virtual Business Address in Utah | Opus Virtual Offices",
+            "description": "Get a prestigious business address in Utah with Opus. Multiple premium locations statewide mail handling privacy protection all for just $59/month.",
+            "url": "https://www.opusvirtualoffices.com/business-address/utah/",
+            "type": "website",
+            "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+        }
+    }
+}

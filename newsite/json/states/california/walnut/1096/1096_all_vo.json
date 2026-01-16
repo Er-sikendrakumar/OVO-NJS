@@ -1,0 +1,89 @@
+{
+    "success": true,
+    "location_id": 1096,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Walnut",
+            "state": "CA",
+            "price": null,
+            "address": {
+                "line1": "385 S. Lemon Avenue",
+                "suite": null,
+                "city": "Walnut",
+                "state": "CA",
+                "zip": "91789",
+                "phone": "(909) 259-0295"
+            },
+            "images": {
+                "hero": [
+                    "/assets/mail-center.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1096",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 0,
+            "nearbyPremium": 1,
+            "nearbyPremiumUrl": "/virtual-office/california/los-angeles/location-1362/",
+            "nearbyPremiumText": "to view nearby PREMIUM Locations that offer Meeting Rooms for the same $99/mo",
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Walnut Virtual Office",
+            "body": "Achieve the prominence of a distinguished Walnut business address without the financial burden of a physical office. Opus VO grants you the esteemed opportunity to situate your business in a top-tier Walnut location, all without the heavy costs of a conventional office lease. Utilize our cutting-edge conference rooms for crucial business meetings and impactful client encounters, while elevating your brand’s profile with a prestigious Walnut address.  By choosing a virtual office in Walnut through Opus VO, you benefit from the invaluable service of a live receptionist. Devoted to delivering personalized, superior customer service, our team assures that each client interaction aligns perfectly with your unique business objectives. Let go of routine administrative tasks such as mail organization and complete call handling and gift yourself the freedom to focus on propelling your business forward.",
+            "map": {
+                "lat": 34.0102871,
+                "lng": -117.8600144,
+                "zoom": 14,
+                "city": "Walnut"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Walnut, California even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Walnut. You can also adapt to better meet your clients’ unique needs within California. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Walnut virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Choose a Walnut Virtual Office?",
+                "body": "Walnut is more than just a suburban community; it is a growing commercial center, abundant with opportunities in sectors like education, technology, and professional services. Conveniently located near essential business thoroughfares, our Walnut facility offers you effortless access to significant industry contacts and invigorating networking events.  By opting for an Opus Virtual Office in Walnut, you’re doing more than just minimizing your operational expenses; you’re acquiring a significant competitive edge. Elevate your business to unparalleled levels of achievement by taking advantage of our superior virtual office services today.  Opus VO Walnut @385 S. Lemon Avenue, Walnut, CA 91789 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Walnut - 385 S. Lemon Avenue | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our California, Walnut virtual office located at 385 S. Lemon Avenue. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/california/walnut/location-1096/",
+            "og": {
+                "title": "Virtual Office in Walnut - 385 S. Lemon Avenue | $99/Month",
+                "description": "Get the ultimate office solution for your business with our California, Walnut virtual office located at 385 S. Lemon Avenue. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/california/walnut/location-1096/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+            }
+        }
+    }
+}

@@ -1,0 +1,182 @@
+{
+    "success": true,
+    "state": "north carolina",
+    "cities_virtual": [
+        {
+            "id": "249",
+            "name": "Asheville",
+            "popular": "1"
+        },
+        {
+            "id": "42",
+            "name": "Chapel Hill",
+            "popular": "0"
+        },
+        {
+            "id": "68",
+            "name": "Charlotte",
+            "popular": "1"
+        },
+        {
+            "id": "125",
+            "name": "Clemmons",
+            "popular": "0"
+        },
+        {
+            "id": "700",
+            "name": "Fayetteville",
+            "popular": "0"
+        },
+        {
+            "id": "555",
+            "name": "Greensboro",
+            "popular": "1"
+        },
+        {
+            "id": "882",
+            "name": "Greenville",
+            "popular": "0"
+        },
+        {
+            "id": "886",
+            "name": "Henderson",
+            "popular": "0"
+        },
+        {
+            "id": "747",
+            "name": "High Point",
+            "popular": "1"
+        },
+        {
+            "id": "104",
+            "name": "Huntersville",
+            "popular": "0"
+        },
+        {
+            "id": "718",
+            "name": "Matthews",
+            "popular": "0"
+        },
+        {
+            "id": "719",
+            "name": "Monroe",
+            "popular": "0"
+        },
+        {
+            "id": "270",
+            "name": "Raleigh",
+            "popular": "0"
+        },
+        {
+            "id": "792",
+            "name": "Rocky Mount",
+            "popular": "0"
+        },
+        {
+            "id": "343",
+            "name": "Wilmington",
+            "popular": "1"
+        },
+        {
+            "id": "142",
+            "name": "Winston Salem",
+            "popular": "1"
+        }
+    ],
+    "cities_business": [
+        {
+            "id": "68",
+            "name": "Charlotte",
+            "popular": "1"
+        },
+        {
+            "id": "270",
+            "name": "Raleigh",
+            "popular": "0"
+        }
+    ],
+    "cities_popular": [
+        {
+            "id": "249",
+            "name": "Asheville"
+        },
+        {
+            "id": "68",
+            "name": "Charlotte"
+        },
+        {
+            "id": "555",
+            "name": "Greensboro"
+        },
+        {
+            "id": "747",
+            "name": "High Point"
+        },
+        {
+            "id": "343",
+            "name": "Wilmington"
+        },
+        {
+            "id": "142",
+            "name": "Winston Salem"
+        }
+    ],
+    "locations_business_address": [
+        {
+            "id": 1737,
+            "location_name": "1515 Mockingbird Lane, Charlotte, NC 28209",
+            "city": "Charlotte",
+            "state": "North Carolina",
+            "state_abbr": "NC",
+            "address": "1515 Mockingbird Lane, Charlotte, NC 28209",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 35.1674642,
+            "point_y": -80.8491078,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1737-building-1748873523575.webp",
+                "alttext": "Exterior of building that houses Opus Virtual Offices located in Charlotte, North Carolina"
+            },
+            "url": "/business-address/north-carolina/charlotte/location-1737/",
+            "phone": "7047784406"
+        },
+        {
+            "id": 1682,
+            "location_name": "4801 Glenwood Avenue, Raleigh, NC 27612",
+            "city": "Raleigh",
+            "state": "North Carolina",
+            "state_abbr": "NC",
+            "address": "4801 Glenwood Avenue, Raleigh, NC 27612",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 35.843023,
+            "point_y": -78.6822368,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1682-01.bldg_.jpg",
+                "alttext": null
+            },
+            "url": "/business-address/north-carolina/raleigh/location-1682/",
+            "phone": "9195616436"
+        }
+    ],
+    "meta": {
+        "cities_virtual_count": 16,
+        "cities_business_count": 2,
+        "cities_popular_count": 6,
+        "locations_business_address_count": 2
+    },
+    "seo": {
+        "title": "Virtual Business Address in North Carolina | Opus Virtual Offices",
+        "meta_description": "Get a prestigious business address in North Carolina with Opus. Multiple premium locations statewide mail handling privacy protection all for just $59/month.",
+        "canonical": "https://www.opusvirtualoffices.com/business-address/north-carolina/",
+        "og": {
+            "title": "Virtual Business Address in North Carolina | Opus Virtual Offices",
+            "description": "Get a prestigious business address in North Carolina with Opus. Multiple premium locations statewide mail handling privacy protection all for just $59/month.",
+            "url": "https://www.opusvirtualoffices.com/business-address/north-carolina/",
+            "type": "website",
+            "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+        }
+    }
+}

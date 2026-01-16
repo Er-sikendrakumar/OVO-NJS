@@ -1,0 +1,23 @@
+{
+    "success": true,
+    "count": 4,
+    "state": "maine",
+    "data": [
+        {
+            "id": "797",
+            "name": "Biddeford"
+        },
+        {
+            "id": "636",
+            "name": "Portland"
+        },
+        {
+            "id": "445",
+            "name": "Waterville"
+        },
+        {
+            "id": "796",
+            "name": "Yarmouth"
+        }
+    ]
+}

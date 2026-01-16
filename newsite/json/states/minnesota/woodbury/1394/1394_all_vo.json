@@ -1,0 +1,94 @@
+{
+    "success": true,
+    "location_id": 1394,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Woodbury",
+            "state": "MN",
+            "price": null,
+            "address": {
+                "line1": "2042 Wooddale Drive",
+                "suite": null,
+                "city": "Woodbury",
+                "state": "MN",
+                "zip": "55125",
+                "phone": "(651) 236-6498"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/1394-building-1743107144242.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1394-conference-1743107144361.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1394-conference2-1743107144361.webp",
+                    "/wp-content-mgr/wp-content/uploads/1394-reception-1743107144361.webp",
+                    "/wp-content-mgr/wp-content/uploads/1394-Training-Room-1743107144759.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1394-Kitchen-Amenities-1743107144571-scaled.jpg"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1394",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Woodbury Virtual Office",
+            "body": "Secure an enviable business address in Woodbury without the financial burden of a brick-and-mortar location. With Opus VO, you have the opportunity to elevate your business within Woodbury’s dynamic ecosystem, all while protecting your fiscal resources. For your key meetings and essential client presentations, our state-of-the-art conference rooms are poised to dazzle.  When you opt for a virtual office in Woodbury via Opus VO, a specialized live receptionist is part of your package. We are committed to making each client interaction feel like an effortless extension of your own brand. Delegate your routine administrative tasks to us, freeing you to aim higher in your business endeavors. ",
+            "map": {
+                "lat": 44.9193078,
+                "lng": -92.9747273,
+                "zoom": 14,
+                "city": "Woodbury"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Woodbury, Minnesota even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Woodbury. You can also adapt to better meet your clients’ unique needs within Minnesota. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Woodbury virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Woodbury?",
+                "body": "Woodbury is not just suburban comfort; it’s an emerging hub for various industries from healthcare to tech startups. Having your business address in Woodbury gives you a strategic advantage in networking with key players and clientele in the area.  Choosing Opus VO in Woodbury isn’t just a financial win—it’s a game-changer for your business. Are you set to take your business to the next level? Our unparalleled virtual office services are at your command.  Opus VO Woodbury @ 2042 Wooddale Drive, Woodbury, MN 55125   ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Woodbury - 2042 Wooddale Drive | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Minnesota, Woodbury virtual office located at 2042 Wooddale Drive. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/minnesota/woodbury/location-1394/",
+            "og": {
+                "title": "Virtual Office in Woodbury - 2042 Wooddale Drive | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Minnesota, Woodbury virtual office located at 2042 Wooddale Drive. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/minnesota/woodbury/location-1394/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/1394-building-1743107144242.jpg"
+            }
+        }
+    }
+}

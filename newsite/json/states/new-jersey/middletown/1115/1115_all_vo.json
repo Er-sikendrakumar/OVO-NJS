@@ -1,0 +1,93 @@
+{
+    "success": true,
+    "location_id": 1115,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Middletown",
+            "state": "NJ",
+            "price": null,
+            "address": {
+                "line1": "107 Tindall Road",
+                "suite": null,
+                "city": "Middletown",
+                "state": "NJ",
+                "zip": "07748",
+                "phone": "(732) 301-3514"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/1115-Exterior.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1115-Conference.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1115-Conference2.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1115-Reception.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1115-Lounge.jpg"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1115",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 1,
+            "nearbyPremiumUrl": "/virtual-office/new-york/brooklyn/location-1477/",
+            "nearbyPremiumText": "to view the most POPULAR locations nearby for the same $99/mo",
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Middletown Virtual Office",
+            "body": "Are you interested in a distinguished Middletown address without the hassle of a physical office? Opus VO has got you covered. Position your business in the heart of Middletown’s bustling commercial zone, while keeping an eye on your budget. For those key meetings or team brainstorming sessions, our modern conference rooms are ready and waiting.  By choosing our virtual workspace in Middletown, you gain more than just an impressive address. You’ll also enjoy the services of a professional live receptionist who fits right into your team’s workflow. They’ll handle every client interaction in a manner consistent with your brand’s identity, allowing us to take on the administrative load while you focus on achieving your primary business objectives. ",
+            "map": {
+                "lat": 40.4071548,
+                "lng": -74.1008773,
+                "zoom": 14,
+                "city": "Middletown"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Middletown, New Jersey even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Middletown. You can also adapt to better meet your clients’ unique needs within New Jersey. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Middletown virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Middletown?",
+                "body": "Middletown is not just a friendly community; it’s also a hotbed for business activity across various sectors, from tech to healthcare. A Middletown address doesn’t just add gravitas to your business—it also plugs you into a network of local events and industry influencers.  Opting for Opus VO as your virtual workspace in Middletown is more than just a logistical convenience; it’s a strategic edge. Ready to boost your business standing? Dive into our diverse range of virtual workspace packages today.  Opus VO, Middletown @ 107 Tindall Road, Middletown, NJ 07748   ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Middletown - 107 Tindall Road | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our New Jersey, Middletown virtual office located at 107 Tindall Road. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/new-jersey/middletown/location-1115/",
+            "og": {
+                "title": "Virtual Office in Middletown - 107 Tindall Road | $99/Month",
+                "description": "Get the ultimate office solution for your business with our New Jersey, Middletown virtual office located at 107 Tindall Road. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/new-jersey/middletown/location-1115/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/1115-Exterior.jpg"
+            }
+        }
+    }
+}

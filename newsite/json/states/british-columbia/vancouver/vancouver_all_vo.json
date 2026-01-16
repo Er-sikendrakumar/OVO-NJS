@@ -1,0 +1,141 @@
+{
+    "success": true,
+    "state": "british columbia",
+    "city": "vancouver",
+    "wp_city_post_id": null,
+    "locations": [
+        {
+            "id": "1135",
+            "name": "Vancouver",
+            "locname": "300-3665 Kingsway, Vancouver, BC V5R 5W2",
+            "address": "300-3665 Kingsway, Vancouver, BC V5R 5W2",
+            "city": "vancouver",
+            "state": "british columbia",
+            "state_english": "British Columbia",
+            "abbr": "BC",
+            "phone": "6042279087",
+            "premium": "1",
+            "opusowned": "0",
+            "showpopular": "0",
+            "point_x": "49.2326333",
+            "point_y": "-123.0242383",
+            "url": "/virtual-office/british-columbia/vancouver/location-1135/",
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1Building35.jpg",
+                "alttext": ""
+            }
+        },
+        {
+            "id": "1650",
+            "name": "Vancouver",
+            "locname": "720-999 West Broadway, Vancouver, BC V5Z 1K5",
+            "address": "720-999 West Broadway, Vancouver, BC V5Z 1K5",
+            "city": "vancouver",
+            "state": "british columbia",
+            "state_english": "British Columbia",
+            "abbr": "BC",
+            "phone": "6042590328",
+            "premium": "1",
+            "opusowned": "0",
+            "showpopular": "0",
+            "point_x": "49.2637502",
+            "point_y": "-123.1261031",
+            "url": "/virtual-office/british-columbia/vancouver/location-1650/",
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1650-01-Building.webp",
+                "alttext": ""
+            }
+        }
+    ],
+    "popular_locations": [],
+    "premium_locations": [
+        {
+            "id": "1135",
+            "name": "Vancouver",
+            "locname": "300-3665 Kingsway, Vancouver, BC V5R 5W2",
+            "address": "300-3665 Kingsway, Vancouver, BC V5R 5W2",
+            "city": "vancouver",
+            "state": "british columbia",
+            "state_english": "British Columbia",
+            "abbr": "BC",
+            "phone": "6042279087",
+            "premium": "1",
+            "opusowned": "0",
+            "showpopular": "0",
+            "point_x": "49.2326333",
+            "point_y": "-123.0242383",
+            "url": "/virtual-office/british-columbia/vancouver/location-1135/",
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1Building35.jpg",
+                "alttext": ""
+            }
+        },
+        {
+            "id": "1650",
+            "name": "Vancouver",
+            "locname": "720-999 West Broadway, Vancouver, BC V5Z 1K5",
+            "address": "720-999 West Broadway, Vancouver, BC V5Z 1K5",
+            "city": "vancouver",
+            "state": "british columbia",
+            "state_english": "British Columbia",
+            "abbr": "BC",
+            "phone": "6042590328",
+            "premium": "1",
+            "opusowned": "0",
+            "showpopular": "0",
+            "point_x": "49.2637502",
+            "point_y": "-123.1261031",
+            "url": "/virtual-office/british-columbia/vancouver/location-1650/",
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1650-01-Building.webp",
+                "alttext": ""
+            }
+        }
+    ],
+    "regular_locations": [],
+    "sections": [
+        {
+            "title": "OUR VANCOUVER\nVIRTUAL OFFICES",
+            "body": "<h2></h2>\n<p>Enjoy the benefits of having a business address in Vancouver British Columbia without the stress and expense surrounding a “traditional office environment”. OpusVO gives you the prestige of having an office with the budget of working from home. Receive all your business mail at a professional office building. No post office box number, just a great business address to use on your business cards and other marketing material.</p>\n<p>You don’t just get a business phone number with your Vancouver virtual office, but also a live receptionist answering your calls the way you want them to be. Stop choosing between capturing new leads for your business and working on current clients. Do both. Get someone who looks out for you while you’re unable to break away.</p>\n",
+            "image": {
+                "url": "/newsite/wp-content/themes/ThemeDec23/assets/images/califonia-v-office.jpg",
+                "alt": "OUR VANCOUVER\nVIRTUAL OFFICES",
+                "title": "OUR VANCOUVER\nVIRTUAL OFFICES"
+            },
+            "layout": "image_text",
+            "imageAlignment": "right"
+        },
+        {
+            "title": "GET A VIRTUAL OFFICE\nIN VANCOUVER",
+            "body": "<h2></h2>\n<p>Whether you choose to work out of your home or on the road, a Vancouver virtual office will give you the freedom and flexibility to get the job done in the place and style of your choosing. With a local company phone number, live receptionist, premium call transferring, and a professional business address, Opus VO provides a cost-effective way for your company to grow or establish a presence in a new market without any long-term commitments.</p>\n",
+            "image": {
+                "url": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "alt": "GET A VIRTUAL OFFICE\nIN VANCOUVER",
+                "title": "GET A VIRTUAL OFFICE\nIN VANCOUVER"
+            },
+            "layout": "image_text",
+            "imageAlignment": "left"
+        }
+    ],
+    "faqs": [],
+    "meta": {
+        "locations_count": 2,
+        "popular_locations_count": 0,
+        "premium_locations_count": 2,
+        "regular_locations_count": 0,
+        "sections_count": 2,
+        "faqs_count": 0
+    },
+    "seo": {
+        "title": "Virtual Office in Vancouver, BC | Multiple Locations Available",
+        "meta_description": "Find the ultimate office solution with Opus Virtual Offices in Vancouver, British Columbia. Our all-inclusive virtual offices cater to your business needs. Sign up today!",
+        "canonical": "https://www.opusvirtualoffices.com/virtual-office/british-columbia/vancouver/",
+        "og": {
+            "title": "Virtual Office in Vancouver, BC | Multiple Locations Available",
+            "description": "Find the ultimate office solution with Opus Virtual Offices in Vancouver, British Columbia. Our all-inclusive virtual offices cater to your business needs. Sign up today!",
+            "url": "https://www.opusvirtualoffices.com/virtual-office/british-columbia/vancouver/",
+            "type": "website",
+            "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+        }
+    }
+}

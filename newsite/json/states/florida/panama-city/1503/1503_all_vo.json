@@ -1,0 +1,94 @@
+{
+    "success": true,
+    "location_id": 1503,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Panama City",
+            "state": "FL",
+            "price": null,
+            "address": {
+                "line1": "97 West Oak Avenue",
+                "suite": null,
+                "city": "Panama City",
+                "state": "FL",
+                "zip": "32401",
+                "phone": "(850) 801-3186"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/1503-01.bldg_.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1503-02.meeting.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1503-03.front_.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1503-04.meeting.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1503-05.desks_.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1503-06.meeting.jpg"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1503",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Panama City Beach Virtual Office",
+            "body": "Secure a distinguished business address in Panama City Beach, minus the expense of an on-site location. With Opus VO, immerse your business in the bustling vibe of Panama City Beach without depleting your finances. Got a make-or-break meeting or a game-changing client session on the horizon? Our ultra-modern conference rooms are designed to make a lasting impression.  When you opt for a virtual presence in Panama City Beach through Opus VO, you gain the services of a committed live receptionist dedicated to ensuring each client encounter mirrors your unique brand essence. Pass along your day-to-day administrative tasks to us, liberating you to pursue your business dreams. ",
+            "map": {
+                "lat": 30.1549411,
+                "lng": -85.66245719,
+                "zoom": 14,
+                "city": "Panama City"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Panama City, Florida even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Panama City. You can also adapt to better meet your clients’ unique needs within Florida. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Panama City virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Panama City Beach?",
+                "body": "anama City Beach isn’t just a vacation paradise; it’s a booming hub for a diverse array of industries, from tourism to tech. By setting up shop in Panama City Beach, you’re plugging into a network filled with valuable contacts and growth-oriented events.  By choosing Opus VO in Panama City Beach, you’re doing more than saving money—you’re seizing a competitive edge. Prepared to take your business to the next level? Our premier virtual office solutions are here to help you thrive.  Opus VO, Panama City Beach @ 19211 Panama City Beach Pkwy., Panama City Beach, FL 32413 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Panama City - 97 West Oak Avenue | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Florida, Panama City virtual office located at 97 West Oak Avenue. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/florida/panama-city/location-1503/",
+            "og": {
+                "title": "Virtual Office in Panama City - 97 West Oak Avenue | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Florida, Panama City virtual office located at 97 West Oak Avenue. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/florida/panama-city/location-1503/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/1503-01.bldg_.jpg"
+            }
+        }
+    }
+}

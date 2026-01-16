@@ -1,0 +1,1680 @@
+{
+    "success": true,
+    "count": 88,
+    "state": "florida",
+    "mode": "virtual-office",
+    "data": [
+        {
+            "id": 1285,
+            "location_name": "848 Brickell Avenue, PH5, Miami, FL 33131",
+            "city": "Miami",
+            "state": "Florida",
+            "state_abbr": "FL",
+            "address": "848 Brickell Avenue, PH5, Miami, FL 33131",
+            "premium": 1,
+            "showpopular": 1,
+            "opusowned": 1,
+            "point_x": 25.7649598,
+            "point_y": -80.1914436,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/wh_shay_zaidenberg-001.webp",
+                "alttext": "Aerial view of Opus Virtual Office at 848 Brickell Avenue, Miami, FL"
+            },
+            "url": "/virtual-office/florida/miami/location-1285/",
+            "phone": "3058479000"
+        },
+        {
+            "id": 776,
+            "location_name": "1825 NW Corporate Blvd, Suite 110, Boca Raton, FL 33431",
+            "city": "Boca Raton",
+            "state": "Florida",
+            "state_abbr": "FL",
+            "address": "1825 NW Corporate Blvd, Suite 110, Boca Raton, FL 33431",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 1,
+            "point_x": 26.3715128,
+            "point_y": -80.12234099,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/Boca-Raton-Virtual-Office-Space-1825-NW-Corporate-Blvd-.webp",
+                "alttext": "Modern Boca Raton FL Virtual Office Building at 1825 NW Corporate Blvd"
+            },
+            "url": "/virtual-office/florida/boca-raton/location-776/",
+            "phone": "5619886900"
+        },
+        {
+            "id": 803,
+            "location_name": "515 E Las Olas Boulevard, Suite 1301, Fort Lauderdale, FL 33301",
+            "city": "Fort Lauderdale",
+            "state": "Florida",
+            "state_abbr": "FL",
+            "address": "515 E Las Olas Boulevard, Suite 1301, Fort Lauderdale, FL 33301",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 1,
+            "point_x": 26.119866,
+            "point_y": -80.1381012,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/803-01.bldg_-1.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/florida/fort-lauderdale/location-803/",
+            "phone": "9549033100"
+        },
+        {
+            "id": 1499,
+            "location_name": "200 E Robinson Street, Suite 1120, Orlando, FL 32801",
+            "city": "Orlando",
+            "state": "Florida",
+            "state_abbr": "FL",
+            "address": "200 E Robinson Street, Suite 1120, Orlando, FL 32801",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 1,
+            "point_x": 28.5453809,
+            "point_y": -81.375407,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/Opus-Virtual-Office-Orlando-200-E-Robinson-Street-Towering-Office-Building.webp",
+                "alttext": "Tall office building at 200 E Robinson Street, Orlando, FL, home to Opus Virtual Office, under a cloudy sky."
+            },
+            "url": "/virtual-office/florida/orlando/location-1499/",
+            "phone": "4075592000"
+        },
+        {
+            "id": 885,
+            "location_name": "401 East Jackson Street, Suite 2340, Tampa, FL 33602",
+            "city": "Tampa",
+            "state": "Florida",
+            "state_abbr": "FL",
+            "address": "401 East Jackson Street, Suite 2340, Tampa, FL 33602",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 1,
+            "point_x": 27.9467609,
+            "point_y": -82.45627759,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/Tampa-FL-Virtual-Office-at-Truist-Place-401-E-Jackson-St.webp",
+                "alttext": "Exterior view of the virtual office building at 401 E Jackson St, Tampa, FL."
+            },
+            "url": "/virtual-office/florida/tampa/location-885/",
+            "phone": "8133153990"
+        },
+        {
+            "id": 1680,
+            "location_name": "1501 Corporate Drive, Boynton Beach, FL 33426",
+            "city": "Boynton Beach",
+            "state": "Florida",
+            "state_abbr": "FL",
+            "address": "1501 Corporate Drive, Boynton Beach, FL 33426",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 26.5136789,
+            "point_y": -80.0776454,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/Boynton-Beach-Virtual-Office-Entrance-at-1501-Corporate-Drive.webp",
+                "alttext": "Building entrance of Opus Virtual Offices at 1501 Corporate Drive, Boynton Beach, FL."
+            },
+            "url": "/virtual-office/florida/boynton-beach/location-1680/",
+            "phone": "5619391761"
+        },
+        {
+            "id": 136,
+            "location_name": "7282 55th Avenue East, Bradenton, FL 34203",
+            "city": "Bradenton",
+            "state": "Florida",
+            "state_abbr": "FL",
+            "address": "7282 55th Avenue East, Bradenton, FL 34203",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 27.440618,
+            "point_y": -82.461583,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/florida/bradenton/location-136/",
+            "phone": "9418932784"
+        },
+        {
+            "id": 1674,
+            "location_name": "2708 Santa Barbara Blvd, Cape Coral, FL 33914",
+            "city": "Cape Coral",
+            "state": "Florida",
+            "state_abbr": "FL",
+            "address": "2708 Santa Barbara Blvd, Cape Coral, FL 33914",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 26.6023924,
+            "point_y": -81.9748664,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/florida/cape-coral/location-1674/",
+            "phone": "2395392034"
+        },
+        {
+            "id": 1530,
+            "location_name": "19 Del Prado Blvd N, Cape Coral, FL 33909",
+            "city": "Cape Coral",
+            "state": "Florida",
+            "state_abbr": "FL",
+            "address": "19 Del Prado Blvd N, Cape Coral, FL 33909",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 26.650955,
+            "point_y": -81.940719,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/florida/cape-coral/location-1530/",
+            "phone": "2396873915"
+        },
+        {
+            "id": 993,
+            "location_name": "13575 58th Street N., Clearwater, FL 33760",
+            "city": "Clearwater",
+            "state": "Florida",
+            "state_abbr": "FL",
+            "address": "13575 58th Street N., Clearwater, FL 33760",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 27.895359,
+            "point_y": -82.711698,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/993-Exterior.jpg",
+                "alttext": "Exterior of building that houses Opus Virtual Offices located in Clearwater, Florida"
+            },
+            "url": "/virtual-office/florida/clearwater/location-993/",
+            "phone": "7278035054"
+        },
+        {
+            "id": 757,
+            "location_name": "1825 Ponce De Leon Blvd., Coral Gables, FL 33134",
+            "city": "Coral Gables",
+            "state": "Florida",
+            "state_abbr": "FL",
+            "address": "1825 Ponce De Leon Blvd., Coral Gables, FL 33134",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 25.7554346,
+            "point_y": -80.258605,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/florida/coral-gables/location-757/",
+            "phone": "3059084475"
+        },
+        {
+            "id": 758,
+            "location_name": "1172 S Dixie Hwy, Coral Gables, FL 33146",
+            "city": "Coral Gables",
+            "state": "Florida",
+            "state_abbr": "FL",
+            "address": "1172 S Dixie Hwy, Coral Gables, FL 33146",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 25.715507,
+            "point_y": -80.275547,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/florida/coral-gables/location-758/",
+            "phone": "3057177626"
+        },
+        {
+            "id": 1486,
+            "location_name": "9900 W Sample Road, Coral Springs, FL 33065",
+            "city": "Coral Springs",
+            "state": "Florida",
+            "state_abbr": "FL",
+            "address": "9900 W Sample Road, Coral Springs, FL 33065",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 26.2719864,
+            "point_y": -80.2590082,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1486-001-Building.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/florida/coral-springs/location-1486/",
+            "phone": "9543619532"
+        },
+        {
+            "id": 10,
+            "location_name": "934 University Dr., Coral Springs, FL 33071",
+            "city": "Coral Springs",
+            "state": "Florida",
+            "state_abbr": "FL",
+            "address": "934 University Dr., Coral Springs, FL 33071",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 26.2433432,
+            "point_y": -80.2565474,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/florida/coral-springs/location-10/",
+            "phone": "9545097020"
+        },
+        {
+            "id": 731,
+            "location_name": "11352 W. State Rd. 84, Davie, FL 33325",
+            "city": "Davie",
+            "state": "Florida",
+            "state_abbr": "FL",
+            "address": "11352 W. State Rd. 84, Davie, FL 33325",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 26.111283,
+            "point_y": -80.302083,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/florida/davie/location-731/",
+            "phone": "9548613996"
+        },
+        {
+            "id": 1662,
+            "location_name": "132 W International Speedway Blvd, Daytona Beach, FL 32114",
+            "city": "Daytona Beach",
+            "state": "Florida",
+            "state_abbr": "FL",
+            "address": "132 W International Speedway Blvd, Daytona Beach, FL 32114",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 29.2120632,
+            "point_y": -81.0205713,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1662-01.bldg_.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/florida/daytona-beach/location-1662/",
+            "phone": "3863872386"
+        },
+        {
+            "id": 1453,
+            "location_name": "623 N Grandview Avenue, Daytona Beach, FL 32118",
+            "city": "Daytona Beach",
+            "state": "Florida",
+            "state_abbr": "FL",
+            "address": "623 N Grandview Avenue, Daytona Beach, FL 32118",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 29.235999799,
+            "point_y": -81.0140339,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1453-01.bldg_.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/florida/daytona-beach/location-1453/",
+            "phone": "3863872382"
+        },
+        {
+            "id": 1448,
+            "location_name": "8400 NW 33rd Street, Doral, FL 33122",
+            "city": "Doral",
+            "state": "Florida",
+            "state_abbr": "FL",
+            "address": "8400 NW 33rd Street, Doral, FL 33122",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 25.8042199,
+            "point_y": -80.33404929,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1448-Building-Exterior.01.jpg",
+                "alttext": "Exterior of building housing Opus Virtual Offices located in Doral, Florida"
+            },
+            "url": "/virtual-office/florida/doral/location-1448/",
+            "phone": "3058942992"
+        },
+        {
+            "id": 299,
+            "location_name": "11150 N. Williams St, Dunnellon, FL 34432",
+            "city": "Dunnellon",
+            "state": "Florida",
+            "state_abbr": "FL",
+            "address": "11150 N. Williams St, Dunnellon, FL 34432",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 29.062262,
+            "point_y": -82.454106,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/florida/dunnellon/location-299/",
+            "phone": "3522773306"
+        },
+        {
+            "id": 1349,
+            "location_name": "12557 New Brittany Boulevard, Fort Myers, FL 33907",
+            "city": "Fort Myers",
+            "state": "Florida",
+            "state_abbr": "FL",
+            "address": "12557 New Brittany Boulevard, Fort Myers, FL 33907",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 26.5596481,
+            "point_y": -81.8797072,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1349-001-Building.png",
+                "alttext": null
+            },
+            "url": "/virtual-office/florida/fort-myers/location-1349/",
+            "phone": "2394970866"
+        },
+        {
+            "id": 1025,
+            "location_name": "15050 Elderberry Lane, Fort Myers, FL 33907",
+            "city": "Fort Myers",
+            "state": "Florida",
+            "state_abbr": "FL",
+            "address": "15050 Elderberry Lane, Fort Myers, FL 33907",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 26.5234302,
+            "point_y": -81.8877375,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1025-building.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/florida/fort-myers/location-1025/",
+            "phone": "2396873924"
+        },
+        {
+            "id": 1173,
+            "location_name": "1992 Lewis Turner Blvd., Fort Walton Beach, FL 32547",
+            "city": "Fort Walton Beach",
+            "state": "Florida",
+            "state_abbr": "FL",
+            "address": "1992 Lewis Turner Blvd., Fort Walton Beach, FL 32547",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 30.4691919,
+            "point_y": -86.61088339,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1173-001-Building-e1709912425903.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/florida/fort-walton-beach/location-1173/",
+            "phone": "8508012021"
+        },
+        {
+            "id": 997,
+            "location_name": "9200 NW 39th Avenue, Gainesville, FL 32606",
+            "city": "Gainesville",
+            "state": "Florida",
+            "state_abbr": "FL",
+            "address": "9200 NW 39th Avenue, Gainesville, FL 32606",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 29.6895698,
+            "point_y": -82.4409357,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/florida/gainesville/location-997/",
+            "phone": "3523902119"
+        },
+        {
+            "id": 1769,
+            "location_name": "4727 NW 53rd Ave, Gainesville, FL 32653",
+            "city": "Gainesville",
+            "state": "Florida",
+            "state_abbr": "FL",
+            "address": "4727 NW 53rd Ave, Gainesville, FL 32653",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 29.7018847,
+            "point_y": -82.39281369,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1769-Exterior.jpg",
+                "alttext": "Exterior of building that houses Opus Virtual Offices located in Gainesville, FL"
+            },
+            "url": "/virtual-office/florida/gainesville/location-1769/",
+            "phone": "3523902119"
+        },
+        {
+            "id": 1490,
+            "location_name": "205 S Dixie Drive, Haines City, FL 33844",
+            "city": "Haines City",
+            "state": "Florida",
+            "state_abbr": "FL",
+            "address": "205 S Dixie Drive, Haines City, FL 33844",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 28.1233637,
+            "point_y": -81.6375848,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/florida/haines-city/location-1490/",
+            "phone": "8638680095"
+        },
+        {
+            "id": 1082,
+            "location_name": "7777 Davie Road Ext., Hollywood, FL 33024",
+            "city": "Hollywood",
+            "state": "Florida",
+            "state_abbr": "FL",
+            "address": "7777 Davie Road Ext., Hollywood, FL 33024",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 26.0356817,
+            "point_y": -80.2442257,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1Building10.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/florida/hollywood/location-1082/",
+            "phone": "9545097021"
+        },
+        {
+            "id": 1483,
+            "location_name": "13475 Atlantic Blvd, Jacksonville, FL 32225",
+            "city": "Jacksonville",
+            "state": "Florida",
+            "state_abbr": "FL",
+            "address": "13475 Atlantic Blvd, Jacksonville, FL 32225",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 30.3222754,
+            "point_y": -81.4525321,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/florida/jacksonville/location-1483/",
+            "phone": "9044839527"
+        },
+        {
+            "id": 1266,
+            "location_name": "9428 Baymeadows Road, Jacksonville, FL 32256",
+            "city": "Jacksonville",
+            "state": "Florida",
+            "state_abbr": "FL",
+            "address": "9428 Baymeadows Road, Jacksonville, FL 32256",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 30.219511,
+            "point_y": -81.5623166,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1266-exterior.jpg",
+                "alttext": "Exterior of building that houses Opus Virtual Offices located in Jacksonville, Florida"
+            },
+            "url": "/virtual-office/florida/jacksonville/location-1266/",
+            "phone": "9046773523"
+        },
+        {
+            "id": 1708,
+            "location_name": "7751 Belfort Parkway, Jacksonville, FL 32256",
+            "city": "Jacksonville",
+            "state": "Florida",
+            "state_abbr": "FL",
+            "address": "7751 Belfort Parkway, Jacksonville, FL 32256",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 30.2433353,
+            "point_y": -81.5820306,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1708-Exterior.jpg",
+                "alttext": "Exterior of building that houses Opus Virtual Offices located in Jacksonville, Florida"
+            },
+            "url": "/virtual-office/florida/jacksonville/location-1708/",
+            "phone": "9045204168"
+        },
+        {
+            "id": 542,
+            "location_name": "77 Harbor Drive, Key Biscayne, FL 33149",
+            "city": "Key Biscayne",
+            "state": "Florida",
+            "state_abbr": "FL",
+            "address": "77 Harbor Drive, Key Biscayne, FL 33149",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 25.699191,
+            "point_y": -80.162908,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/florida/key-biscayne/location-542/",
+            "phone": "3057177623"
+        },
+        {
+            "id": 152,
+            "location_name": "1200 Fourth Street, Key West, FL 33040",
+            "city": "Key West",
+            "state": "Florida",
+            "state_abbr": "FL",
+            "address": "1200 Fourth Street, Key West, FL 33040",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 24.560425,
+            "point_y": -81.780109,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/florida/key-west/location-152/",
+            "phone": "3057177719"
+        },
+        {
+            "id": 1474,
+            "location_name": "109 N Beaumont Avenue, Kissimmee, FL 34741",
+            "city": "Kissimmee",
+            "state": "Florida",
+            "state_abbr": "FL",
+            "address": "109 N Beaumont Avenue, Kissimmee, FL 34741",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 28.2930679,
+            "point_y": -81.4097183,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1474-03.bldg_-1.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/florida/kissimmee/location-1474/",
+            "phone": "4079568697"
+        },
+        {
+            "id": 1531,
+            "location_name": "1540 International Pkwy, Lake Mary, FL 32746",
+            "city": "Lake Mary",
+            "state": "Florida",
+            "state_abbr": "FL",
+            "address": "1540 International Pkwy, Lake Mary, FL 32746",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 28.7850199,
+            "point_y": -81.3589329,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1531-exterior.jpg",
+                "alttext": "Exterior of building that houses Opus Virtual Offices located in Lake Mary, Florida"
+            },
+            "url": "/virtual-office/florida/lake-mary/location-1531/",
+            "phone": "4079568696"
+        },
+        {
+            "id": 1491,
+            "location_name": "23781 US Hwy 27, Lake Wales, FL 33859",
+            "city": "Lake Wales",
+            "state": "Florida",
+            "state_abbr": "FL",
+            "address": "23781 US Hwy 27, Lake Wales, FL 33859",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 27.9577639,
+            "point_y": -81.6205799,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/florida/lake-wales/location-1491/",
+            "phone": "8636953445"
+        },
+        {
+            "id": 21,
+            "location_name": "8927 Hypoluxo Rd, Lake Worth, FL 33467",
+            "city": "Lake Worth",
+            "state": "Florida",
+            "state_abbr": "FL",
+            "address": "8927 Hypoluxo Rd, Lake Worth, FL 33467",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 26.5672,
+            "point_y": -80.186478,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/florida/lake-worth/location-21/",
+            "phone": "5615710618"
+        },
+        {
+            "id": 868,
+            "location_name": "304 E Pine Street, Lakeland, FL 33801",
+            "city": "Lakeland",
+            "state": "Florida",
+            "state_abbr": "FL",
+            "address": "304 E Pine Street, Lakeland, FL 33801",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 28.046124,
+            "point_y": -81.95483,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/florida/lakeland/location-868/",
+            "phone": "8638680096"
+        },
+        {
+            "id": 1549,
+            "location_name": "211 E Main Street, Lakeland, FL 33801",
+            "city": "Lakeland",
+            "state": "Florida",
+            "state_abbr": "FL",
+            "address": "211 E Main Street, Lakeland, FL 33801",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 28.0438581,
+            "point_y": -81.9556941,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1549-01.bldg_.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/florida/lakeland/location-1549/",
+            "phone": "8639132462"
+        },
+        {
+            "id": 433,
+            "location_name": "11161 E State Road 70, Lakewood Ranch, FL 34202",
+            "city": "Lakewood Ranch",
+            "state": "Florida",
+            "state_abbr": "FL",
+            "address": "11161 E State Road 70, Lakewood Ranch, FL 34202",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 27.432643,
+            "point_y": -82.430994,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/florida/lakewood-ranch/location-433/",
+            "phone": "9419266193"
+        },
+        {
+            "id": 1556,
+            "location_name": "1446 Lee Blvd, Lehigh Acres, FL 33936",
+            "city": "Lehigh Acres",
+            "state": "Florida",
+            "state_abbr": "FL",
+            "address": "1446 Lee Blvd, Lehigh Acres, FL 33936",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 26.6148898,
+            "point_y": -81.6562667,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/florida/lehigh-acres/location-1556/",
+            "phone": "0"
+        },
+        {
+            "id": 1597,
+            "location_name": "575 S Wickham Road, Melbourne, FL 32904",
+            "city": "Melbourne",
+            "state": "Florida",
+            "state_abbr": "FL",
+            "address": "575 S Wickham Road, Melbourne, FL 32904",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 28.0982984,
+            "point_y": -80.6719217,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1597-01.building.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/florida/melbourne/location-1597/",
+            "phone": "0"
+        },
+        {
+            "id": 1144,
+            "location_name": "1031 Ives Dairy Road, Miami, FL 33179",
+            "city": "Miami",
+            "state": "Florida",
+            "state_abbr": "FL",
+            "address": "1031 Ives Dairy Road, Miami, FL 33179",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 25.9656589,
+            "point_y": -80.1811917,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1144-Exterior.png",
+                "alttext": "Exterior of building that houses Opus Virtual Offices located in Miami, Florida"
+            },
+            "url": "/virtual-office/florida/miami/location-1144/",
+            "phone": "3058942997"
+        },
+        {
+            "id": 872,
+            "location_name": "2665 South Bayshore Drive, Miami, FL 33133",
+            "city": "Miami",
+            "state": "Florida",
+            "state_abbr": "FL",
+            "address": "2665 South Bayshore Drive, Miami, FL 33133",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 25.7308589,
+            "point_y": -80.2356689,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/872-001-Building.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/florida/miami/location-872/",
+            "phone": "3057049913"
+        },
+        {
+            "id": 755,
+            "location_name": "6538 Collins Avenue, Miami Beach, FL 33141",
+            "city": "Miami Beach",
+            "state": "Florida",
+            "state_abbr": "FL",
+            "address": "6538 Collins Avenue, Miami Beach, FL 33141",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 25.848855,
+            "point_y": -80.12028,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/florida/miami-beach/location-755/",
+            "phone": "3058949493"
+        },
+        {
+            "id": 756,
+            "location_name": "1521 Alton Road, Miami Beach, FL 33139",
+            "city": "Miami Beach",
+            "state": "Florida",
+            "state_abbr": "FL",
+            "address": "1521 Alton Road, Miami Beach, FL 33139",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 25.787777,
+            "point_y": -80.141111,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/florida/miami-beach/location-756/",
+            "phone": "3058949497"
+        },
+        {
+            "id": 871,
+            "location_name": "1680 Michigan Avenue, Miami Beach, FL 33139",
+            "city": "Miami Beach",
+            "state": "Florida",
+            "state_abbr": "FL",
+            "address": "1680 Michigan Avenue, Miami Beach, FL 33139",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 25.7917344,
+            "point_y": -80.1390831,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/871-Exterior.jpg",
+                "alttext": "Exterior of building that houses Opus Virtual Offices located in Miami, Florida"
+            },
+            "url": "/virtual-office/florida/miami-beach/location-871/",
+            "phone": "3057177625"
+        },
+        {
+            "id": 1659,
+            "location_name": "2355 Vanderbilt Beach Road, Naples, FL 34109",
+            "city": "Naples",
+            "state": "Florida",
+            "state_abbr": "FL",
+            "address": "2355 Vanderbilt Beach Road, Naples, FL 34109",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 26.2454367,
+            "point_y": -81.77216539,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1659-02-Building.webp",
+                "alttext": null
+            },
+            "url": "/virtual-office/florida/naples/location-1659/",
+            "phone": "2392158427"
+        },
+        {
+            "id": 1660,
+            "location_name": "340 9th Street North, Naples, FL 34102",
+            "city": "Naples",
+            "state": "Florida",
+            "state_abbr": "FL",
+            "address": "340 9th Street North, Naples, FL 34102",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 26.1512202,
+            "point_y": -81.7956714,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/florida/naples/location-1660/",
+            "phone": "2396873927"
+        },
+        {
+            "id": 317,
+            "location_name": "9119 Ridge Road, New Port Richey, FL 34654",
+            "city": "New Port Richey",
+            "state": "Florida",
+            "state_abbr": "FL",
+            "address": "9119 Ridge Road, New Port Richey, FL 34654",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 28.2806498,
+            "point_y": -82.6637778,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/florida/new-port-richey/location-317/",
+            "phone": "7274374304"
+        },
+        {
+            "id": 753,
+            "location_name": "1835 NE Miami Gardens Drive, North Miami Beach, FL 33179",
+            "city": "North Miami Beach",
+            "state": "Florida",
+            "state_abbr": "FL",
+            "address": "1835 NE Miami Gardens Drive, North Miami Beach, FL 33179",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 25.94609,
+            "point_y": -80.164131,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/florida/north-miami-beach/location-753/",
+            "phone": "3057177621"
+        },
+        {
+            "id": 627,
+            "location_name": "11420 US Highway 1, North Palm Beach, FL 33408",
+            "city": "North Palm Beach",
+            "state": "Florida",
+            "state_abbr": "FL",
+            "address": "11420 US Highway 1, North Palm Beach, FL 33408",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 26.84271,
+            "point_y": -80.061658,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/florida/north-palm-beach/location-627/",
+            "phone": "5618533299"
+        },
+        {
+            "id": 1671,
+            "location_name": "1121 West Price Blvd, North Port, FL 34288",
+            "city": "North Port",
+            "state": "Florida",
+            "state_abbr": "FL",
+            "address": "1121 West Price Blvd, North Port, FL 34288",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 27.0677689,
+            "point_y": -82.1589869,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/florida/north-port/location-1671/",
+            "phone": "9419266146"
+        },
+        {
+            "id": 1487,
+            "location_name": "217 SE 1st Avenue, Ocala, FL 34471",
+            "city": "Ocala",
+            "state": "Florida",
+            "state_abbr": "FL",
+            "address": "217 SE 1st Avenue, Ocala, FL 34471",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 29.1844159,
+            "point_y": -82.1355858,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1487-01.bldg_.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/florida/ocala/location-1487/",
+            "phone": "3218957228"
+        },
+        {
+            "id": 1374,
+            "location_name": "603 East Fort King Street, Ocala, FL 34471",
+            "city": "Ocala",
+            "state": "Florida",
+            "state_abbr": "FL",
+            "address": "603 East Fort King Street, Ocala, FL 34471",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 29.1827798,
+            "point_y": -82.1340773,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1374-001-Building.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/florida/ocala/location-1374/",
+            "phone": "3522773314"
+        },
+        {
+            "id": 13,
+            "location_name": "6231 PGA Blvd, Palm Beach Gardens, FL 33418",
+            "city": "Palm Beach Gardens",
+            "state": "Florida",
+            "state_abbr": "FL",
+            "address": "6231 PGA Blvd, Palm Beach Gardens, FL 33418",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 26.839186,
+            "point_y": -80.13356,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/florida/palm-beach-gardens/location-13/",
+            "phone": "5618700369"
+        },
+        {
+            "id": 1441,
+            "location_name": "7711 North Military Trail, Palm Beach Gardens, FL 33410",
+            "city": "Palm Beach Gardens",
+            "state": "Florida",
+            "state_abbr": "FL",
+            "address": "7711 North Military Trail, Palm Beach Gardens, FL 33410",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 26.7890855,
+            "point_y": -80.1074242,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1441-01.bldg_.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/florida/palm-beach-gardens/location-1441/",
+            "phone": "5615710619"
+        },
+        {
+            "id": 1511,
+            "location_name": "800 Belle Terre Pkwy, Palm Coast, FL 32164",
+            "city": "Palm Coast",
+            "state": "Florida",
+            "state_abbr": "FL",
+            "address": "800 Belle Terre Pkwy, Palm Coast, FL 32164",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 29.4877213,
+            "point_y": -81.2199545,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/florida/palm-coast/location-1511/",
+            "phone": "3863872384"
+        },
+        {
+            "id": 605,
+            "location_name": "1334 Tampa Road, Palm Harbor, FL 34683",
+            "city": "Palm Harbor",
+            "state": "Florida",
+            "state_abbr": "FL",
+            "address": "1334 Tampa Road, Palm Harbor, FL 34683",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 28.067848,
+            "point_y": -82.76284,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/florida/palm-harbor/location-605/",
+            "phone": "7274374307"
+        },
+        {
+            "id": 1503,
+            "location_name": "97 West Oak Avenue, Panama City, FL 32401",
+            "city": "Panama City",
+            "state": "Florida",
+            "state_abbr": "FL",
+            "address": "97 West Oak Avenue, Panama City, FL 32401",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 30.1549411,
+            "point_y": -85.66245719,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1503-01.bldg_.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/florida/panama-city/location-1503/",
+            "phone": "8508013186"
+        },
+        {
+            "id": 177,
+            "location_name": "19211 Panama City Beach Pkwy., Panama City Beach, FL 32413",
+            "city": "Panama City Beach",
+            "state": "Florida",
+            "state_abbr": "FL",
+            "address": "19211 Panama City Beach Pkwy., Panama City Beach, FL 32413",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 30.242871,
+            "point_y": -85.918141,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/florida/panama-city-beach/location-177/",
+            "phone": "8506889721"
+        },
+        {
+            "id": 1170,
+            "location_name": "1931 NW 150th Avenue, Pembroke Pines, FL 33028",
+            "city": "Pembroke Pines",
+            "state": "Florida",
+            "state_abbr": "FL",
+            "address": "1931 NW 150th Avenue, Pembroke Pines, FL 33028",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 26.0251667,
+            "point_y": -80.3465873,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1170-exterior.png",
+                "alttext": "Exterior of building that houses Opus Virtual Offices located in Pembroke Pines, Florida"
+            },
+            "url": "/virtual-office/florida/pembroke-pines/location-1170/",
+            "phone": "9542565683"
+        },
+        {
+            "id": 1037,
+            "location_name": "18503 Pines Boulevard, Pembroke Pines, FL 33029",
+            "city": "Pembroke Pines",
+            "state": "Florida",
+            "state_abbr": "FL",
+            "address": "18503 Pines Boulevard, Pembroke Pines, FL 33029",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 26.0108091,
+            "point_y": -80.396025,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1037-building-5.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/florida/pembroke-pines/location-1037/",
+            "phone": "9546919362"
+        },
+        {
+            "id": 1480,
+            "location_name": "186 N Palafox Street, Pensacola, FL 32502",
+            "city": "Pensacola",
+            "state": "Florida",
+            "state_abbr": "FL",
+            "address": "186 N Palafox Street, Pensacola, FL 32502",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 30.415132,
+            "point_y": -87.2155049,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1480-01.bldg_.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/florida/pensacola/location-1480/",
+            "phone": "8506665074"
+        },
+        {
+            "id": 897,
+            "location_name": "6901-A North 9th Avenue, Pensacola, FL 32504",
+            "city": "Pensacola",
+            "state": "Florida",
+            "state_abbr": "FL",
+            "address": "6901-A North 9th Avenue, Pensacola, FL 32504",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 30.4969692,
+            "point_y": -87.1899872,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/florida/pensacola/location-897/",
+            "phone": "8506593482"
+        },
+        {
+            "id": 1375,
+            "location_name": "1805 James L. Redman Parkway, Plant City, FL 33563",
+            "city": "Plant City",
+            "state": "Florida",
+            "state_abbr": "FL",
+            "address": "1805 James L. Redman Parkway, Plant City, FL 33563",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 27.9956049,
+            "point_y": -82.1221805,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1375-01.Building.jpg",
+                "alttext": "Plant City virtual office"
+            },
+            "url": "/virtual-office/florida/plant-city/location-1375/",
+            "phone": "8136935184"
+        },
+        {
+            "id": 1057,
+            "location_name": "1680 SW Bayshore Boulevard, Port St. Lucie, FL 34984",
+            "city": "Port St. Lucie",
+            "state": "Florida",
+            "state_abbr": "FL",
+            "address": "1680 SW Bayshore Boulevard, Port St. Lucie, FL 34984",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 27.2903134,
+            "point_y": -80.36521849,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/florida/port-st.-lucie/location-1057/",
+            "phone": "7729242386"
+        },
+        {
+            "id": 912,
+            "location_name": "5475 NW St. James Drive, Port St. Lucie, FL 34983",
+            "city": "Port St. Lucie",
+            "state": "Florida",
+            "state_abbr": "FL",
+            "address": "5475 NW St. James Drive, Port St. Lucie, FL 34983",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 27.3550192,
+            "point_y": -80.35817839,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/florida/port-st.-lucie/location-912/",
+            "phone": "7729243744"
+        },
+        {
+            "id": 1523,
+            "location_name": "265 E Marion Avenue, Punta Gorda, FL 33950",
+            "city": "Punta Gorda",
+            "state": "Florida",
+            "state_abbr": "FL",
+            "address": "265 E Marion Avenue, Punta Gorda, FL 33950",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 26.9372831,
+            "point_y": -82.0473114,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1523-001-Building.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/florida/punta-gorda/location-1523/",
+            "phone": "9418932715"
+        },
+        {
+            "id": 1437,
+            "location_name": "881 Barton Boulevard, Rockledge, FL 32955",
+            "city": "Rockledge",
+            "state": "Florida",
+            "state_abbr": "FL",
+            "address": "881 Barton Boulevard, Rockledge, FL 32955",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 28.330307,
+            "point_y": -80.7400851,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1437-04.bldg_.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/florida/rockledge/location-1437/",
+            "phone": "3212163069"
+        },
+        {
+            "id": 940,
+            "location_name": "677 North Washington Boulevard, Sarasota, FL 34236",
+            "city": "Sarasota",
+            "state": "Florida",
+            "state_abbr": "FL",
+            "address": "677 North Washington Boulevard, Sarasota, FL 34236",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 27.3419372,
+            "point_y": -82.5315885,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/940-Building.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/florida/sarasota/location-940/",
+            "phone": "9418934595"
+        },
+        {
+            "id": 1569,
+            "location_name": "14391 Spring Hill Drive, Spring Hill, FL 34609",
+            "city": "Spring Hill",
+            "state": "Florida",
+            "state_abbr": "FL",
+            "address": "14391 Spring Hill Drive, Spring Hill, FL 34609",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 28.4799824,
+            "point_y": -82.4866128,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/florida/spring-hill/location-1569/",
+            "phone": "3526983469"
+        },
+        {
+            "id": 1729,
+            "location_name": "2800 N 6th Street, St Augustine, FL 32084",
+            "city": "St Augustine",
+            "state": "Florida",
+            "state_abbr": "FL",
+            "address": "2800 N 6th Street, St Augustine, FL 32084",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 29.9168358,
+            "point_y": -81.3526983,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/florida/st-augustine/location-1729/",
+            "phone": "9045969932"
+        },
+        {
+            "id": 1124,
+            "location_name": "9800 4th Street N, St. Petersburg, FL 33702",
+            "city": "St. Petersburg",
+            "state": "Florida",
+            "state_abbr": "FL",
+            "address": "9800 4th Street N, St. Petersburg, FL 33702",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 27.8614168,
+            "point_y": -82.63975099,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1124-001-Building-scaled.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/florida/st.-petersburg/location-1124/",
+            "phone": "7277679913"
+        },
+        {
+            "id": 1582,
+            "location_name": "100 2nd Avenue S, St. Petersburg, FL 33701",
+            "city": "St. Petersburg",
+            "state": "Florida",
+            "state_abbr": "FL",
+            "address": "100 2nd Avenue S, St. Petersburg, FL 33701",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 27.7693083,
+            "point_y": -82.634502,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1582-001-Building.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/florida/st.-petersburg/location-1582/",
+            "phone": "0"
+        },
+        {
+            "id": 784,
+            "location_name": "6800 Gulfport Blvd. S, St. Petersburg, FL 33707",
+            "city": "St. Petersburg",
+            "state": "Florida",
+            "state_abbr": "FL",
+            "address": "6800 Gulfport Blvd. S, St. Petersburg, FL 33707",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 27.7579224,
+            "point_y": -82.73261421,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/florida/st.-petersburg/location-784/",
+            "phone": "7278035056"
+        },
+        {
+            "id": 315,
+            "location_name": "1700 66th Street North, St. Petersburg, FL 33710",
+            "city": "St. Petersburg",
+            "state": "Florida",
+            "state_abbr": "FL",
+            "address": "1700 66th Street North, St. Petersburg, FL 33710",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 27.786588,
+            "point_y": -82.728659,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/florida/st.-petersburg/location-315/",
+            "phone": "7274374306"
+        },
+        {
+            "id": 1334,
+            "location_name": "1 SE Ocean Blvd, Stuart, FL 34994",
+            "city": "Stuart",
+            "state": "Florida",
+            "state_abbr": "FL",
+            "address": "1 SE Ocean Blvd, Stuart, FL 34994",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 27.1978123,
+            "point_y": -80.2522379,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1334-01.Virtual_Office_Stuart_Florida_Building.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/florida/stuart/location-1334/",
+            "phone": "7729243745"
+        },
+        {
+            "id": 1055,
+            "location_name": "1334 Timberlane Road, Tallahassee, FL 32312",
+            "city": "Tallahassee",
+            "state": "Florida",
+            "state_abbr": "FL",
+            "address": "1334 Timberlane Road, Tallahassee, FL 32312",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 30.5038732,
+            "point_y": -84.2573055,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1055-01.Building.webp",
+                "alttext": null
+            },
+            "url": "/virtual-office/florida/tallahassee/location-1055/",
+            "phone": "8507453164"
+        },
+        {
+            "id": 1675,
+            "location_name": "123 E Tarpon Avenue, Tarpon Springs, FL 34689",
+            "city": "Tarpon Springs",
+            "state": "Florida",
+            "state_abbr": "FL",
+            "address": "123 E Tarpon Avenue, Tarpon Springs, FL 34689",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 28.1463268,
+            "point_y": -82.7564112,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1675-01.bldg_.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/florida/tarpon-springs/location-1675/",
+            "phone": "7276251311"
+        },
+        {
+            "id": 1558,
+            "location_name": "339 E Burleigh Boulevard, Tavares, FL 32778",
+            "city": "Tavares",
+            "state": "Florida",
+            "state_abbr": "FL",
+            "address": "339 E Burleigh Boulevard, Tavares, FL 32778",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 28.8172159,
+            "point_y": -81.72626439,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/florida/tavares/location-1558/",
+            "phone": "3523902497"
+        },
+        {
+            "id": 1526,
+            "location_name": "323 South Washington Ave, Titusville, FL 32796",
+            "city": "Titusville",
+            "state": "Florida",
+            "state_abbr": "FL",
+            "address": "323 South Washington Ave, Titusville, FL 32796",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 28.6118278,
+            "point_y": -80.80730419,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1526-01.bldg_.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/florida/titusville/location-1526/",
+            "phone": "3212163069"
+        },
+        {
+            "id": 223,
+            "location_name": "6252 Commercial Way, Weeki Wachee, FL 34613",
+            "city": "Weeki Wachee",
+            "state": "Florida",
+            "state_abbr": "FL",
+            "address": "6252 Commercial Way, Weeki Wachee, FL 34613",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 28.520989,
+            "point_y": -82.570262,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/florida/weeki-wachee/location-223/",
+            "phone": "3523902496"
+        },
+        {
+            "id": 1053,
+            "location_name": "9314 Forest Hill Boulevard, Wellington, FL 33411",
+            "city": "Wellington",
+            "state": "Florida",
+            "state_abbr": "FL",
+            "address": "9314 Forest Hill Boulevard, Wellington, FL 33411",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 26.650646,
+            "point_y": -80.203817,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/florida/wellington/location-1053/",
+            "phone": "5612373053"
+        },
+        {
+            "id": 1423,
+            "location_name": "27453 Cashford Cir, Wesley Chapel, FL 33544",
+            "city": "Wesley Chapel",
+            "state": "Florida",
+            "state_abbr": "FL",
+            "address": "27453 Cashford Cir, Wesley Chapel, FL 33544",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 28.1898133,
+            "point_y": -82.3604038,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/florida/wesley-chapel/location-1423/",
+            "phone": "8135652759"
+        },
+        {
+            "id": 1306,
+            "location_name": "401 N Rosemary Avenue, West Palm Beach, FL 33401",
+            "city": "West Palm Beach",
+            "state": "Florida",
+            "state_abbr": "FL",
+            "address": "401 N Rosemary Avenue, West Palm Beach, FL 33401",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 26.716314,
+            "point_y": -80.057072,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1306-01.Entry_Virtual_Office_West_Palm_Beach_Florida.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/florida/west-palm-beach/location-1306/",
+            "phone": "5615786666"
+        },
+        {
+            "id": 1734,
+            "location_name": "311 Golf Road, West Palm Beach, FL 33407",
+            "city": "West Palm Beach",
+            "state": "Florida",
+            "state_abbr": "FL",
+            "address": "311 Golf Road, West Palm Beach, FL 33407",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 26.7373935,
+            "point_y": -80.052538,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1734-exterior.jpg",
+                "alttext": "Exterior of building that houses Opus Virtual Offices located in West Palm Beach, Florida"
+            },
+            "url": "/virtual-office/florida/west-palm-beach/location-1734/",
+            "phone": "5618533299"
+        },
+        {
+            "id": 1372,
+            "location_name": "2645 Executive Park Drive, Weston, FL 33331",
+            "city": "Weston",
+            "state": "Florida",
+            "state_abbr": "FL",
+            "address": "2645 Executive Park Drive, Weston, FL 33331",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 26.0859542,
+            "point_y": -80.3742598,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1372-01.Building.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/florida/weston/location-1372/",
+            "phone": "9546283879"
+        },
+        {
+            "id": 759,
+            "location_name": "300 E Oakland Park Blvd., Wilton Manors, FL 33334",
+            "city": "Wilton Manors",
+            "state": "Florida",
+            "state_abbr": "FL",
+            "address": "300 E Oakland Park Blvd., Wilton Manors, FL 33334",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 26.166534,
+            "point_y": -80.142322,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/florida/wilton-manors/location-759/",
+            "phone": "9545097005"
+        },
+        {
+            "id": 460,
+            "location_name": "5840 Red Bug Lake Rd, Winter Springs, FL 32708",
+            "city": "Winter Springs",
+            "state": "Florida",
+            "state_abbr": "FL",
+            "address": "5840 Red Bug Lake Rd, Winter Springs, FL 32708",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 28.647885,
+            "point_y": -81.267483,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/florida/winter-springs/location-460/",
+            "phone": "4075692020"
+        }
+    ]
+}

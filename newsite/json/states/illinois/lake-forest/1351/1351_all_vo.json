@@ -1,0 +1,89 @@
+{
+    "success": true,
+    "location_id": 1351,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Lake Forest",
+            "state": "IL",
+            "price": null,
+            "address": {
+                "line1": "736 N Western Avenue",
+                "suite": null,
+                "city": "Lake Forest",
+                "state": "IL",
+                "zip": "60045",
+                "phone": "(847) 739-9167"
+            },
+            "images": {
+                "hero": [
+                    "/assets/mail-center.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1351",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 0,
+            "nearbyPremium": 1,
+            "nearbyPremiumUrl": "/virtual-office/illinois/chicago/location-1430/",
+            "nearbyPremiumText": "to view nearby PREMIUM Locations that offer Meeting Rooms for the same $99/mo",
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Lake Forest Virtual Office",
+            "body": "Secure an aspirational business address in Lake Forest, without the expenses of a physical location. With Opus VO, your enterprise can enjoy the dynamic pulse of Lake Forest while conserving your financial assets. Important meeting on the horizon or a pitch that needs to wow? Our state-of-the-art conference rooms are primed for impact.  When you opt for a virtual presence in Lake Forest via Opus VO, an attentive live receptionist is part and parcel of your package. Our aim is to ensure each client interaction aligns effortlessly with your unique brand identity. Offload your everyday admin tasks to us, freeing up your energies to focus on your business goals. ",
+            "map": {
+                "lat": 42.2529808,
+                "lng": -87.84049,
+                "zoom": 14,
+                "city": "Lake Forest"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Lake Forest, Illinois even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Lake Forest. You can also adapt to better meet your clients’ unique needs within Illinois. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Lake Forest virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Lake Forest?",
+                "body": "Lake Forest is more than just scenic beauty; it’s a burgeoning hub for industries including tech, retail, and healthcare. By positioning yourself in Lake Forest, you’re not just local—you’re plugged into a network that can supercharge your business growth.  Opting for Opus VO in Lake Forest is more than a smart budgetary decision—it’s an investment in your competitive edge. Ready to advance your business to the next level? Our premium virtual office services are on standby.  Opus VO, Lake Forest @ 736 N Western Avenue, Lake Forest, IL 60045 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Lake Forest - 736 N Western Avenue | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Illinois, Lake Forest virtual office located at 736 N Western Avenue. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/illinois/lake-forest/location-1351/",
+            "og": {
+                "title": "Virtual Office in Lake Forest - 736 N Western Avenue | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Illinois, Lake Forest virtual office located at 736 N Western Avenue. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/illinois/lake-forest/location-1351/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+            }
+        }
+    }
+}

@@ -1,0 +1,89 @@
+{
+    "success": true,
+    "location_id": 600,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Atascadero",
+            "state": "CA",
+            "price": null,
+            "address": {
+                "line1": "7395 El Camino Real",
+                "suite": null,
+                "city": "Atascadero",
+                "state": "CA",
+                "zip": "93422",
+                "phone": "(805) 624-3163"
+            },
+            "images": {
+                "hero": [
+                    "/assets/mail-center.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=600",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 0,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Atascadero Virtual Office",
+            "body": "Get a top-notch business address in Atascadero without the hassle and cost of a physical office. Opus VO makes it super easy to set up your business in a prime Atascadero location, and you won’t have to break the bank to do it. Take advantage of our high-tech conference rooms for important meetings and client meet ups. Plus, it’s a great way to elevate your brand image with a business address in professional hub.  When you pick a virtual office in Atascadero through Opus VO, you get a live receptionist as part of the deal. Our team’s all about giving you and your clients excellent service that fits what your business is trying to achieve. Leave the boring stuff like sorting digital mail and managing calls to us. That way, you can focus on taking your business to the next level. ",
+            "map": {
+                "lat": 35.482815,
+                "lng": -120.65947,
+                "zoom": 14,
+                "city": "Atascadero"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Atascadero, California even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Atascadero. You can also adapt to better meet your clients’ unique needs within California. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Atascadero virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Go for an Atascadero Virtual Office?",
+                "body": "Atascadero’s not just a nice place to visit; it’s also a growing spot for business. We’re talking opportunities in everything from agriculture to healthcare. Our Atascadero offices are right where you want to be, making it easy to connect with key people in your industry and attend networking events.  By going with an Opus Virtual Office in Atascadero, you’re not just saving money; you’re giving your business an edge. Don’t miss out on a chance to make your business even better—check out our top-of-the-line virtual office services today.  Opus VO Atascadero @ 7395 El Camino Real, Atascadero, Ca. 93422        ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Atascadero - 7395 El Camino Real | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our California, Atascadero virtual office located at 7395 El Camino Real. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/california/atascadero/location-600/",
+            "og": {
+                "title": "Virtual Office in Atascadero - 7395 El Camino Real | $99/Month",
+                "description": "Get the ultimate office solution for your business with our California, Atascadero virtual office located at 7395 El Camino Real. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/california/atascadero/location-600/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+            }
+        }
+    }
+}

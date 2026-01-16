@@ -1,0 +1,52 @@
+{
+    "success": true,
+    "state": "saskatchewan",
+    "cities_virtual": [
+        {
+            "id": "674",
+            "name": "Regina",
+            "popular": "0"
+        }
+    ],
+    "cities_business": [],
+    "cities_popular": [],
+    "locations_virtual_office": [
+        {
+            "id": 1205,
+            "location_name": "918 Albert Street, Regina, SK S4R2P7",
+            "city": "Regina",
+            "state": "Saskatchewan",
+            "state_abbr": "SK",
+            "address": "918 Albert Street, Regina, SK S4R2P7",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 50.4640728,
+            "point_y": -104.618604,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/saskatchewan/regina/location-1205/",
+            "phone": "3062051973"
+        }
+    ],
+    "meta": {
+        "cities_virtual_count": 1,
+        "cities_business_count": 0,
+        "cities_popular_count": 0,
+        "locations_virtual_office_count": 1
+    },
+    "seo": {
+        "title": "Virtual Office in Saskatchewan | Locations Statewide | Opus VO",
+        "meta_description": "Get a prestigious Saskatchewan business address and professional phone answering services with Opus Virtual Offices, the perfect office solution for your business needs.",
+        "canonical": "https://www.opusvirtualoffices.com/virtual-office/saskatchewan/",
+        "og": {
+            "title": "Virtual Office in Saskatchewan | Locations Statewide | Opus VO",
+            "description": "Get a prestigious Saskatchewan business address and professional phone answering services with Opus Virtual Offices, the perfect office solution for your business needs.",
+            "url": "https://www.opusvirtualoffices.com/virtual-office/saskatchewan/",
+            "type": "website",
+            "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+        }
+    }
+}

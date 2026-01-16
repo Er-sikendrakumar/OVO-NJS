@@ -1,0 +1,89 @@
+{
+    "success": true,
+    "location_id": 1490,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Haines City",
+            "state": "FL",
+            "price": null,
+            "address": {
+                "line1": "205 S Dixie Drive",
+                "suite": null,
+                "city": "Haines City",
+                "state": "FL",
+                "zip": "33844",
+                "phone": "(863) 868-0095"
+            },
+            "images": {
+                "hero": [
+                    "/assets/mail-center.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1490",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 0,
+            "nearbyPremium": 1,
+            "nearbyPremiumUrl": "/virtual-office/florida/kissimmee/location-1474/",
+            "nearbyPremiumText": "to view the nearby PREMIUM Locations for the same $99/mo",
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Hanes City Virtual Office",
+            "body": "Set up shop with an impressive Haines City address, minus the steep costs of a physical office space. At Opus VO, we give you the chance to locate your business amidst Haines City’s growing commercial scene. Need a venue for crucial meetings or customer rendezvous? Our modern conference rooms are ready and waiting.  When you choose a virtual office in Haines City with Opus VO, a live receptionist comes as part of the package, who’ll ensure each client interaction is handled with the top-notch service that reflects your business ethos. Hand off routine tasks like managing mail and answering calls to us, so you can put your energy into scaling your business. ",
+            "map": {
+                "lat": 28.1233637,
+                "lng": -81.6375848,
+                "zoom": 14,
+                "city": "Haines City"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Haines City, Florida even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Haines City. You can also adapt to better meet your clients’ unique needs within Florida. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Haines City virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Haines City?",
+                "body": "Forget the small-town stereotype—Haines City is a budding commercial hub in sectors ranging from retail to healthcare. Our Haines City site makes it convenient for you to connect with essential business contacts and to stay in the loop on upcoming networking events.  By opting for Opus VO in Haines City, you’re not just being cost-effective; you’re securing a competitive advantage. Activate our premium virtual office services today and take your business to the next level.  Opus VO, Haines City @ 205 S Dixie Drive, Haines City, FL 33844 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Haines City - 205 S Dixie Drive | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Florida, Haines City virtual office located at 205 S Dixie Drive. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/florida/haines-city/location-1490/",
+            "og": {
+                "title": "Virtual Office in Haines City - 205 S Dixie Drive | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Florida, Haines City virtual office located at 205 S Dixie Drive. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/florida/haines-city/location-1490/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+            }
+        }
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "success": true,
+    "count": 1,
+    "state": "kentucky",
+    "mode": "business-address",
+    "data": [
+        {
+            "id": 1395,
+            "location_name": "101 North Seventh Street, Louisville, KY 40202",
+            "city": "Louisville",
+            "state": "Kentucky",
+            "state_abbr": "KY",
+            "address": "101 North Seventh Street, Louisville, KY 40202",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 38.2576569,
+            "point_y": -85.7612575,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1395-01.bldg_-1.jpg",
+                "alttext": null
+            },
+            "url": "/business-address/kentucky/louisville/location-1395/",
+            "phone": "5027859868"
+        }
+    ]
+}

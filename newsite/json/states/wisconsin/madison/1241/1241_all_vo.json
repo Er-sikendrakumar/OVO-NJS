@@ -1,0 +1,93 @@
+{
+    "success": true,
+    "location_id": 1241,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Madison",
+            "state": "WI",
+            "price": null,
+            "address": {
+                "line1": "6709 Raymond Road",
+                "suite": null,
+                "city": "Madison",
+                "state": "WI",
+                "zip": "53719",
+                "phone": "(608) 535-5413"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/1241-01.bldg_-413x550.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1241-02.Conference-734x550.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1241-03.Conference-800x519.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1241-04.Board_-800x537.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1241-05.Meeting-379x550.jpg"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1241",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Madison Virtual Office",
+            "body": "Thinking about securing a prestigious Madison address to launch your startup or elevate your existing business, but apprehensive about the cost of a traditional office space? Opus VO offers the ideal solution. Establish your brand at one of our select Madison locations and relish the allure of a prestigious address without the financial burden. Whenever the need arises for a top-notch space for crucial meetings or meaningful client consultations, our state-of-the-art conference rooms stand ready.  But the advantages don’t stop with a distinguished address. Choose a virtual office plan at Opus VO in Madison, and a live receptionist is part of the deal. Count on our capable team to manage your customer interactions with finesse, tailored to your specific business priorities. For routine administrative duties like digital mail oversight and efficient call routing, we’ve got it covered, letting you direct your focus toward business growth. ",
+            "map": {
+                "lat": 43.0314109,
+                "lng": -89.49794279,
+                "zoom": 14,
+                "city": "Madison"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Madison, Wisconsin even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Madison. You can also adapt to better meet your clients’ unique needs within Wisconsin. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Madison virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Madison? Why Opus VO?",
+                "body": "Madison isn’t just a vibrant capital city; it’s also a dynamic business nucleus with expansive opportunities across a variety of sectors. By setting up your virtual office via Opus VO in Madison, you gain immediate entry into an energetic professional ecosystem rich with possibilities for synergies and growth.  Choosing Opus VO in Madison isn’t just about budget management; it’s a thoughtful decision that sets your business on the course for substantial success. Your next groundbreaking achievement could be merely a virtual office decision away.  Choose from two of our Opus VO locations in Madison @ 6709 Raymond Road, Madison, WI 53719, or 4230 East Towne Blvd, Madison, WI 53704 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Madison - 6709 Raymond Road | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Wisconsin, Madison virtual office located at 6709 Raymond Road. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/wisconsin/madison/location-1241/",
+            "og": {
+                "title": "Virtual Office in Madison - 6709 Raymond Road | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Wisconsin, Madison virtual office located at 6709 Raymond Road. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/wisconsin/madison/location-1241/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/1241-01.bldg_.jpg"
+            }
+        }
+    }
+}

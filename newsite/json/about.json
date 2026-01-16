@@ -1,0 +1,17 @@
+{
+    "success": true,
+    "page": "about",
+    "page_type": "simple",
+    "seo": {
+        "title": "About Us - Opus Virtual Offices",
+        "meta_description": "Discover how Opus Virtual Offices helps businesses grow with top-tier virtual services, trusted by thousands to deliver value, flexibility, and support.",
+        "canonical": "https://njs.opusvirtualoffices.com/about/",
+        "og": {
+            "title": "About Us - Opus Virtual Offices",
+            "description": "Discover how Opus Virtual Offices helps businesses grow with top-tier virtual services, trusted by thousands to deliver value, flexibility, and support.",
+            "url": "https://njs.opusvirtualoffices.com/about/",
+            "type": "website",
+            "image": "https://njs.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "success": true,
+    "count": 2,
+    "state": "virginia",
+    "mode": "business-address",
+    "data": [
+        {
+            "id": 1419,
+            "location_name": "2800 Eisenhower Avenue, Alexandria, VA 22314",
+            "city": "Alexandria",
+            "state": "Virginia",
+            "state_abbr": "VA",
+            "address": "2800 Eisenhower Avenue, Alexandria, VA 22314",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 38.8016031,
+            "point_y": -77.0817187,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1419-01.bldg_.jpg",
+                "alttext": null
+            },
+            "url": "/business-address/virginia/alexandria/location-1419/",
+            "phone": "7033401416"
+        },
+        {
+            "id": 1585,
+            "location_name": "1550 Wilson Blvd, Arlington, VA 22209",
+            "city": "Arlington",
+            "state": "Virginia",
+            "state_abbr": "VA",
+            "address": "1550 Wilson Blvd, Arlington, VA 22209",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 38.8942529,
+            "point_y": -77.0759154,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1585-01.building.jpg",
+                "alttext": null
+            },
+            "url": "/business-address/virginia/arlington/location-1585/",
+            "phone": "7032149026"
+        }
+    ]
+}

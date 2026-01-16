@@ -1,0 +1,92 @@
+{
+    "success": true,
+    "location_id": 1566,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Vallejo",
+            "state": "CA",
+            "price": null,
+            "address": {
+                "line1": "425 Virginia Street",
+                "suite": null,
+                "city": "Vallejo",
+                "state": "CA",
+                "zip": "94590",
+                "phone": "(707) 324-3419"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/1566-01.bldg_.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1566-02.meetingroom.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1566-03.meetingroom.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1566-04.front_.jpg"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1566",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Vallejo Virtual Office",
+            "body": "Secure an esteemed business address in Vallejo without the financial strain of maintaining a physical office. Opus VO allows you the luxury of situating your business in an ideal Vallejo location without the significant costs of a traditional office lease. Take advantage of our state-of-the-art conference rooms for essential business discussions and client meetings, all while amplifying your brand’s reputation with an esteemed Vallejo address.  When you choose a virtual office in Vallejo through Opus VO, you also receive the specialized service of a live receptionist. Committed to delivering custom, first-class customer service, our team ensures that every client interaction is perfectly attuned to your individual business objectives. Hand off everyday administrative tasks like sorting digital mail and complex call-forwarding to us, granting you the freedom to focus solely on advancing your business. ",
+            "map": {
+                "lat": 38.1018749,
+                "lng": -122.2558618,
+                "zoom": 14,
+                "city": "Vallejo"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Vallejo, California even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Vallejo. You can also adapt to better meet your clients’ unique needs within California. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Vallejo virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Vallejo?",
+                "body": "Vallejo isn’t just a Bay Area commuter town; it’s an emerging commercial center filled with opportunities in sectors such as maritime, healthcare, and technology. Our Vallejo office is strategically located, offering you easy access to critical business associates and engaging networking events.  By opting for an Opus Virtual Office in Vallejo, you’re doing much more than simply reducing your overhead; you’re acquiring an invaluable competitive edge. Raise your business to unprecedented levels of success by taking advantage of our superior virtual office services today.  Opus VO Vallejo @ 425 Virginia Street, Vallejo, CA 94590 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Vallejo - 425 Virginia Street | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our California, Vallejo virtual office located at 425 Virginia Street. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/california/vallejo/location-1566/",
+            "og": {
+                "title": "Virtual Office in Vallejo - 425 Virginia Street | $99/Month",
+                "description": "Get the ultimate office solution for your business with our California, Vallejo virtual office located at 425 Virginia Street. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/california/vallejo/location-1566/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/1566-01.bldg_.jpg"
+            }
+        }
+    }
+}

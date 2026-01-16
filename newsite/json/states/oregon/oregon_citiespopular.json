@@ -1,0 +1,23 @@
+{
+    "success": true,
+    "count": 4,
+    "state": "oregon",
+    "data": [
+        {
+            "id": "843",
+            "name": "Bend"
+        },
+        {
+            "id": "231",
+            "name": "Hillsboro"
+        },
+        {
+            "id": "193",
+            "name": "Portland"
+        },
+        {
+            "id": "167",
+            "name": "Salem"
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "success": true,
+    "count": 1,
+    "state": "tennessee",
+    "data": [
+        {
+            "id": "474",
+            "name": "Nashville",
+            "popular": "1"
+        }
+    ]
+}

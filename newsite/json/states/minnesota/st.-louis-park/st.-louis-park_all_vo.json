@@ -1,0 +1,87 @@
+{
+    "success": true,
+    "state": "minnesota",
+    "city": "st. louis park",
+    "wp_city_post_id": null,
+    "locations": [
+        {
+            "id": "1393",
+            "name": "St. Louis Park",
+            "locname": "5775 Wayzata Blvd, St. Louis Park, MN 55416",
+            "address": "5775 Wayzata Blvd, St. Louis Park, MN 55416",
+            "city": "st. louis park",
+            "state": "minnesota",
+            "state_english": "Minnesota",
+            "abbr": "MN",
+            "phone": "9525633148",
+            "premium": "1",
+            "opusowned": "0",
+            "showpopular": "0",
+            "point_x": "44.9689748",
+            "point_y": "-93.3541108",
+            "url": "/virtual-office/minnesota/st.-louis-park/location-1393/",
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1393-building-1743107049776.jpg",
+                "alttext": "Exterior of building that houses Opus Virtual Offices located in St. Lois Park, Minnesota"
+            }
+        }
+    ],
+    "popular_locations": [],
+    "premium_locations": [
+        {
+            "id": "1393",
+            "name": "St. Louis Park",
+            "locname": "5775 Wayzata Blvd, St. Louis Park, MN 55416",
+            "address": "5775 Wayzata Blvd, St. Louis Park, MN 55416",
+            "city": "st. louis park",
+            "state": "minnesota",
+            "state_english": "Minnesota",
+            "abbr": "MN",
+            "phone": "9525633148",
+            "premium": "1",
+            "opusowned": "0",
+            "showpopular": "0",
+            "point_x": "44.9689748",
+            "point_y": "-93.3541108",
+            "url": "/virtual-office/minnesota/st.-louis-park/location-1393/",
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1393-building-1743107049776.jpg",
+                "alttext": "Exterior of building that houses Opus Virtual Offices located in St. Lois Park, Minnesota"
+            }
+        }
+    ],
+    "regular_locations": [],
+    "sections": [
+        {
+            "title": "OUR ST. LOUIS PARK\nVIRTUAL OFFICES",
+            "body": "<h2></h2>\n<p>Enjoy the benefits of having a business address in St. Louis Park Minnesota without the stress and expense surrounding a “traditional office environment”. OpusVO gives you the prestige of having an office with the budget of working from home. Receive all your business mail at a professional office building. No post office box number, just a great business address to use on your business cards and other marketing material.</p>\n<p>You don’t just get a business phone number with your St. Louis Park virtual office, but also a live receptionist answering your calls the way you want them to be. Stop choosing between capturing new leads for your business and working on current clients. Do both. Get someone who looks out for you while you’re unable to break away.</p>\n",
+            "image": {
+                "url": "/newsite/wp-content/themes/ThemeDec23/assets/images/califonia-v-office.jpg",
+                "alt": "OUR ST. LOUIS PARK\nVIRTUAL OFFICES",
+                "title": "OUR ST. LOUIS PARK\nVIRTUAL OFFICES"
+            },
+            "layout": "image_text",
+            "imageAlignment": "right"
+        },
+        {
+            "title": "GET A VIRTUAL OFFICE\nIN ST. LOUIS PARK",
+            "body": "<h2></h2>\n<p>Whether you choose to work out of your home or on the road, a St. Louis Park virtual office will give you the freedom and flexibility to get the job done in the place and style of your choosing. With a local company phone number, live receptionist, premium call transferring, and a professional business address, Opus VO provides a cost-effective way for your company to grow or establish a presence in a new market without any long-term commitments.</p>\n",
+            "image": {
+                "url": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "alt": "GET A VIRTUAL OFFICE\nIN ST. LOUIS PARK",
+                "title": "GET A VIRTUAL OFFICE\nIN ST. LOUIS PARK"
+            },
+            "layout": "image_text",
+            "imageAlignment": "left"
+        }
+    ],
+    "faqs": [],
+    "meta": {
+        "locations_count": 1,
+        "popular_locations_count": 0,
+        "premium_locations_count": 1,
+        "regular_locations_count": 0,
+        "sections_count": 2,
+        "faqs_count": 0
+    }
+}

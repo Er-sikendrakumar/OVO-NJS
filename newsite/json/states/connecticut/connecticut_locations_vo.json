@@ -1,0 +1,312 @@
+{
+    "success": true,
+    "count": 16,
+    "state": "connecticut",
+    "mode": "virtual-office",
+    "data": [
+        {
+            "id": 1735,
+            "location_name": "20 Tower Lane, Avon, CT 06001",
+            "city": "Avon",
+            "state": "Connecticut",
+            "state_abbr": "CT",
+            "address": "20 Tower Lane, Avon, CT 06001",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 41.8070062,
+            "point_y": -72.8413381,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1735-exterior.jpg",
+                "alttext": "Exterior of building that houses Opus Virtual Offices located in Avon, Connecticut"
+            },
+            "url": "/virtual-office/connecticut/avon/location-1735/",
+            "phone": "8603270179"
+        },
+        {
+            "id": 1668,
+            "location_name": "119 Montowese Street, Branford, CT 06405",
+            "city": "Branford",
+            "state": "Connecticut",
+            "state_abbr": "CT",
+            "address": "119 Montowese Street, Branford, CT 06405",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 41.2791867,
+            "point_y": -72.8069713,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/119-Montowese-Street-Branford-CT-Virtual-Office-Building.webp",
+                "alttext": "Exterior of Opus Virtual Office at 119 Montowese Street, Branford, CT."
+            },
+            "url": "/virtual-office/connecticut/branford/location-1668/",
+            "phone": "2038934245"
+        },
+        {
+            "id": 548,
+            "location_name": "1204 Main St., Branford, CT 06405",
+            "city": "Branford",
+            "state": "Connecticut",
+            "state_abbr": "CT",
+            "address": "1204 Main St., Branford, CT 06405",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 41.284064,
+            "point_y": -72.810035,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/connecticut/branford/location-548/",
+            "phone": "2034054086"
+        },
+        {
+            "id": 1738,
+            "location_name": "275 Maple Ave, Cheshire, CT 06410",
+            "city": "Cheshire",
+            "state": "Connecticut",
+            "state_abbr": "CT",
+            "address": "275 Maple Ave, Cheshire, CT 06410",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 41.5067187,
+            "point_y": -72.9036754,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1738-building-1749521139309.webp",
+                "alttext": "Exterior of building that houses Opus Virtual Offices located in Cheshire, Connecticut"
+            },
+            "url": "/virtual-office/connecticut/cheshire/location-1738/",
+            "phone": "2034054093"
+        },
+        {
+            "id": 694,
+            "location_name": "24 W. Main Street, Clinton, CT 06413",
+            "city": "Clinton",
+            "state": "Connecticut",
+            "state_abbr": "CT",
+            "address": "24 W. Main Street, Clinton, CT 06413",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 41.278743,
+            "point_y": -72.529117,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/connecticut/clinton/location-694/",
+            "phone": "8603270466"
+        },
+        {
+            "id": 1639,
+            "location_name": "36 Mill Plain Road, Danbury, CT 06811",
+            "city": "Danbury",
+            "state": "Connecticut",
+            "state_abbr": "CT",
+            "address": "36 Mill Plain Road, Danbury, CT 06811",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 41.3885519,
+            "point_y": -73.49776059,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1639-01.Building.webp",
+                "alttext": null
+            },
+            "url": "/virtual-office/connecticut/danbury/location-1639/",
+            "phone": "2034054097"
+        },
+        {
+            "id": 981,
+            "location_name": "30 Old Kings Highway South, Darien, CT 06820",
+            "city": "Darien",
+            "state": "Connecticut",
+            "state_abbr": "CT",
+            "address": "30 Old Kings Highway South, Darien, CT 06820",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 41.0750929,
+            "point_y": -73.47008559,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/981-Exterior.jpg",
+                "alttext": "Exterior of building that houses Opus Virtual Offices located in Darien, Connecticut"
+            },
+            "url": "/virtual-office/connecticut/darien/location-981/",
+            "phone": "2034054098"
+        },
+        {
+            "id": 692,
+            "location_name": "2490 Black Rock Turnpike, Fairfield, CT 06825",
+            "city": "Fairfield",
+            "state": "Connecticut",
+            "state_abbr": "CT",
+            "address": "2490 Black Rock Turnpike, Fairfield, CT 06825",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 41.184749,
+            "point_y": -73.256339,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/connecticut/fairfield/location-692/",
+            "phone": "2034054087"
+        },
+        {
+            "id": 695,
+            "location_name": "800 Village Walk, Guilford, CT 06437",
+            "city": "Guilford",
+            "state": "Connecticut",
+            "state_abbr": "CT",
+            "address": "800 Village Walk, Guilford, CT 06437",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 41.287906,
+            "point_y": -72.67424,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/connecticut/guilford/location-695/",
+            "phone": "2034054092"
+        },
+        {
+            "id": 1595,
+            "location_name": "903 Main Street, Manchester, CT 06040",
+            "city": "Manchester",
+            "state": "Connecticut",
+            "state_abbr": "CT",
+            "address": "903 Main Street, Manchester, CT 06040",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 41.7697754,
+            "point_y": -72.5203484,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1595-01.bldg_.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/connecticut/manchester/location-1595/",
+            "phone": "0"
+        },
+        {
+            "id": 1313,
+            "location_name": "515 Centerpoint Drive, Middletown, CT 06457",
+            "city": "Middletown",
+            "state": "Connecticut",
+            "state_abbr": "CT",
+            "address": "515 Centerpoint Drive, Middletown, CT 06457",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 41.5916005,
+            "point_y": -72.711715,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1313-01.bldg_.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/connecticut/middletown/location-1313/",
+            "phone": "8603270469"
+        },
+        {
+            "id": 699,
+            "location_name": "167 Cherry Street, Milford, CT 06460",
+            "city": "Milford",
+            "state": "Connecticut",
+            "state_abbr": "CT",
+            "address": "167 Cherry Street, Milford, CT 06460",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 41.228709,
+            "point_y": -73.049742,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/connecticut/milford/location-699/",
+            "phone": "2034054095"
+        },
+        {
+            "id": 1715,
+            "location_name": "1656 Meriden Waterbury Tpke, Milldale, CT 06467",
+            "city": "Milldale",
+            "state": "Connecticut",
+            "state_abbr": "CT",
+            "address": "1656 Meriden Waterbury Tpke, Milldale, CT 06467",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 41.5636981,
+            "point_y": -72.9020618,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/connecticut/milldale/location-1715/",
+            "phone": "8608387008"
+        },
+        {
+            "id": 508,
+            "location_name": "385 Main Street S., Southbury, CT 06488",
+            "city": "Southbury",
+            "state": "Connecticut",
+            "state_abbr": "CT",
+            "address": "385 Main Street S., Southbury, CT 06488",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 41.472349,
+            "point_y": -73.222226,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/connecticut/southbury/location-508/",
+            "phone": "2034054085"
+        },
+        {
+            "id": 1751,
+            "location_name": "1177 High Ridge Rd, Stamford, CT 06905",
+            "city": "Stamford",
+            "state": "Connecticut",
+            "state_abbr": "CT",
+            "address": "1177 High Ridge Rd, Stamford, CT 06905",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 41.1093935,
+            "point_y": -73.5467078,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1751-Exterior-1.jpg",
+                "alttext": "Exterior of building that houses Opus Virtual Offices located in Stamford, Connecticut"
+            },
+            "url": "/virtual-office/connecticut/stamford/location-1751/",
+            "phone": "2034965741"
+        },
+        {
+            "id": 711,
+            "location_name": "1022 Blvd, West Hartford, CT 06119",
+            "city": "West Hartford",
+            "state": "Connecticut",
+            "state_abbr": "CT",
+            "address": "1022 Blvd, West Hartford, CT 06119",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 41.7607341,
+            "point_y": -72.7152007,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/connecticut/west-hartford/location-711/",
+            "phone": "8603270483"
+        }
+    ]
+}

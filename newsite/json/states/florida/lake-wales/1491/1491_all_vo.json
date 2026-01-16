@@ -1,0 +1,89 @@
+{
+    "success": true,
+    "location_id": 1491,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Lake Wales",
+            "state": "FL",
+            "price": null,
+            "address": {
+                "line1": "23781 US Hwy 27",
+                "suite": null,
+                "city": "Lake Wales",
+                "state": "FL",
+                "zip": "33859",
+                "phone": "(863) 695-3445"
+            },
+            "images": {
+                "hero": [
+                    "/assets/mail-center.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1491",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 0,
+            "nearbyPremium": 1,
+            "nearbyPremiumUrl": "/virtual-office/florida/lakeland/location-1549/",
+            "nearbyPremiumText": "to view the nearby PREMIUM Locations for the same $99/mo",
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Lake Wales Virtual Office",
+            "body": "Get your hands on a prestigious Lake Wales business address without the burden of physical office costs. Opus VO allows you to establish your company in the heart of Lake Wales, offering you more bang for your buck. When the time comes for vital client meetings or team huddles, our cutting-edge conference rooms are at your disposal.  Choosing a virtual office in Lake Wales through Opus VO doesn’t just provide you an address; it also includes a live receptionist to elevate your customer service. We’re here to handle your day-to-day admin tasks, so you can focus on the bigger picture and drive your business forward. ",
+            "map": {
+                "lat": 27.9577639,
+                "lng": -81.6205799,
+                "zoom": 14,
+                "city": "Lake Wales"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Lake Wales, Florida even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Lake Wales. You can also adapt to better meet your clients’ unique needs within Florida. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Lake Wales virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Lake Wales?",
+                "body": "Don’t underestimate Lake Wales; it’s more than just scenic landscapes. It’s rapidly evolving as a key business locale, with sectors like tourism, agriculture, and local services providing a wealth of opportunities. Our Lake Wales location grants you easy access to the who’s who in the industry and invites you to networking events that are too good to miss.  By opting for an Opus VO in Lake Wales, you’re not just saving money—you’re seizing a competitive advantage. So, are you ready to elevate your business game? Our superior virtual office services are ready when you are.  Opus VO, Lake Wales @ 23781 US Hwy 27, Lake Wales, FL 33859 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Lake Wales - 23781 US Hwy 27 | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Florida, Lake Wales virtual office located at 23781 US Hwy 27. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/florida/lake-wales/location-1491/",
+            "og": {
+                "title": "Virtual Office in Lake Wales - 23781 US Hwy 27 | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Florida, Lake Wales virtual office located at 23781 US Hwy 27. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/florida/lake-wales/location-1491/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+            }
+        }
+    }
+}

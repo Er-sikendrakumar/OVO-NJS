@@ -1,0 +1,89 @@
+{
+    "success": true,
+    "location_id": 1146,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Buffalo",
+            "state": "NY",
+            "price": null,
+            "address": {
+                "line1": "266 Elmwood Avenue",
+                "suite": null,
+                "city": "Buffalo",
+                "state": "NY",
+                "zip": "14222",
+                "phone": "(716) 541-3972"
+            },
+            "images": {
+                "hero": [
+                    "/assets/mail-center.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1146",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 0,
+            "nearbyPremium": 1,
+            "nearbyPremiumUrl": "/virtual-office/new-york/amherst/location-1613/",
+            "nearbyPremiumText": "to view the nearby PREMIUM Locations for the same $99/mo",
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Buffalo Virtual Page",
+            "body": "Eyeing a premium Buffalo address without the overhead of a conventional office? Opus VO is your go-to. Secure your business in Buffalo’s thriving commercial arena, all while maintaining a lean budget. For those crucial in-person meetings or team sessions, our advanced conference rooms are geared up and ready.  When you select our virtual workspace in Buffalo, you’re securing more than just an impactful address. You also tap into the services of an adept live receptionist who will integrate smoothly with your team. They’ll ensure each client exchange is in line with your unique brand, leaving us to manage the everyday admin tasks while you focus on your core business objectives. ",
+            "map": {
+                "lat": 42.903794,
+                "lng": -78.878048,
+                "zoom": 14,
+                "city": "Buffalo"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Buffalo, New York even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Buffalo. You can also adapt to better meet your clients’ unique needs within New York. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Buffalo virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Buffalo?",
+                "body": "Buffalo is more than just a city of neighborly love; it’s a bustling hub for business across sectors like healthcare, tech, and manufacturing. A Buffalo address lends weight to your business identity and also opens doors to key networking opportunities and connections within your industry.  Opting for Opus VO as your virtual workspace in Buffalo is not just a smart move; it’s a strategic edge. Ready to amp up your business presence? Check out our range of flexible virtual workspace solutions today.  Opus VO, Buffalo @ 266 Elmwood Avenue, Buffalo, NY 14222 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Buffalo - 266 Elmwood Avenue | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our New York, Buffalo virtual office located at 266 Elmwood Avenue. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/new-york/buffalo/location-1146/",
+            "og": {
+                "title": "Virtual Office in Buffalo - 266 Elmwood Avenue | $99/Month",
+                "description": "Get the ultimate office solution for your business with our New York, Buffalo virtual office located at 266 Elmwood Avenue. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/new-york/buffalo/location-1146/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+            }
+        }
+    }
+}

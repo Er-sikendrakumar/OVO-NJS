@@ -1,0 +1,17 @@
+{
+    "success": true,
+    "page": "our-top-locations",
+    "page_type": "simple",
+    "seo": {
+        "title": "Our Top Locations",
+        "meta_description": "Explore the top virtual office locations from Opus Virtual Offices. Find premium business addresses in key cities nationwide. Learn more today!",
+        "canonical": "https://njs.opusvirtualoffices.com/our-top-locations/",
+        "og": {
+            "title": "Our Top Locations",
+            "description": "Explore the top virtual office locations from Opus Virtual Offices. Find premium business addresses in key cities nationwide. Learn more today!",
+            "url": "https://njs.opusvirtualoffices.com/our-top-locations/",
+            "type": "website",
+            "image": "https://njs.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+        }
+    }
+}

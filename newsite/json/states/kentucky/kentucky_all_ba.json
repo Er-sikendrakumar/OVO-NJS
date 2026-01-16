@@ -1,0 +1,81 @@
+{
+    "success": true,
+    "state": "kentucky",
+    "cities_virtual": [
+        {
+            "id": "430",
+            "name": "Brandenburg",
+            "popular": "1"
+        },
+        {
+            "id": "501",
+            "name": "Lexington",
+            "popular": "1"
+        },
+        {
+            "id": "446",
+            "name": "Louisville",
+            "popular": "1"
+        }
+    ],
+    "cities_business": [
+        {
+            "id": "446",
+            "name": "Louisville",
+            "popular": "1"
+        }
+    ],
+    "cities_popular": [
+        {
+            "id": "430",
+            "name": "Brandenburg"
+        },
+        {
+            "id": "501",
+            "name": "Lexington"
+        },
+        {
+            "id": "446",
+            "name": "Louisville"
+        }
+    ],
+    "locations_business_address": [
+        {
+            "id": 1395,
+            "location_name": "101 North Seventh Street, Louisville, KY 40202",
+            "city": "Louisville",
+            "state": "Kentucky",
+            "state_abbr": "KY",
+            "address": "101 North Seventh Street, Louisville, KY 40202",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 38.2576569,
+            "point_y": -85.7612575,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1395-01.bldg_-1.jpg",
+                "alttext": null
+            },
+            "url": "/business-address/kentucky/louisville/location-1395/",
+            "phone": "5027859868"
+        }
+    ],
+    "meta": {
+        "cities_virtual_count": 3,
+        "cities_business_count": 1,
+        "cities_popular_count": 3,
+        "locations_business_address_count": 1
+    },
+    "seo": {
+        "title": "Virtual Business Address in Kentucky | Opus Virtual Offices",
+        "meta_description": "Get a prestigious business address in Kentucky with Opus. Multiple premium locations statewide mail handling privacy protection all for just $59/month.",
+        "canonical": "https://www.opusvirtualoffices.com/business-address/kentucky/",
+        "og": {
+            "title": "Virtual Business Address in Kentucky | Opus Virtual Offices",
+            "description": "Get a prestigious business address in Kentucky with Opus. Multiple premium locations statewide mail handling privacy protection all for just $59/month.",
+            "url": "https://www.opusvirtualoffices.com/business-address/kentucky/",
+            "type": "website",
+            "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+        }
+    }
+}

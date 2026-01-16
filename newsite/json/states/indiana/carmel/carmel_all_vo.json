@@ -1,0 +1,99 @@
+{
+    "success": true,
+    "state": "indiana",
+    "city": "carmel",
+    "wp_city_post_id": null,
+    "locations": [
+        {
+            "id": "1676",
+            "name": "Carmel",
+            "locname": "38 West Main Street, Carmel, IN 46032",
+            "address": "38 West Main Street, Carmel, IN 46032",
+            "city": "carmel",
+            "state": "indiana",
+            "state_english": "Indiana",
+            "abbr": "IN",
+            "phone": "3172071674",
+            "premium": "1",
+            "opusowned": "0",
+            "showpopular": "0",
+            "point_x": "39.9785393",
+            "point_y": "-86.12810689",
+            "url": "/virtual-office/indiana/carmel/location-1676/",
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/Virtual-Office-at-Carmel-Indiana-Exterior-at-38-West-Main-Street.webp",
+                "alttext": "Exterior view of Opus Virtual Offices' 38 West Main Street, Carmel, Indiana location and street parking."
+            }
+        }
+    ],
+    "popular_locations": [],
+    "premium_locations": [
+        {
+            "id": "1676",
+            "name": "Carmel",
+            "locname": "38 West Main Street, Carmel, IN 46032",
+            "address": "38 West Main Street, Carmel, IN 46032",
+            "city": "carmel",
+            "state": "indiana",
+            "state_english": "Indiana",
+            "abbr": "IN",
+            "phone": "3172071674",
+            "premium": "1",
+            "opusowned": "0",
+            "showpopular": "0",
+            "point_x": "39.9785393",
+            "point_y": "-86.12810689",
+            "url": "/virtual-office/indiana/carmel/location-1676/",
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/Virtual-Office-at-Carmel-Indiana-Exterior-at-38-West-Main-Street.webp",
+                "alttext": "Exterior view of Opus Virtual Offices' 38 West Main Street, Carmel, Indiana location and street parking."
+            }
+        }
+    ],
+    "regular_locations": [],
+    "sections": [
+        {
+            "title": "OUR CARMEL\nVIRTUAL OFFICES",
+            "body": "<h2></h2>\n<p>Enjoy the benefits of having a business address in Carmel Indiana without the stress and expense surrounding a “traditional office environment”. OpusVO gives you the prestige of having an office with the budget of working from home. Receive all your business mail at a professional office building. No post office box number, just a great business address to use on your business cards and other marketing material.</p>\n<p>You don’t just get a business phone number with your Carmel virtual office, but also a live receptionist answering your calls the way you want them to be. Stop choosing between capturing new leads for your business and working on current clients. Do both. Get someone who looks out for you while you’re unable to break away.</p>\n",
+            "image": {
+                "url": "/newsite/wp-content/themes/ThemeDec23/assets/images/califonia-v-office.jpg",
+                "alt": "OUR CARMEL\nVIRTUAL OFFICES",
+                "title": "OUR CARMEL\nVIRTUAL OFFICES"
+            },
+            "layout": "image_text",
+            "imageAlignment": "right"
+        },
+        {
+            "title": "GET A VIRTUAL OFFICE\nIN CARMEL",
+            "body": "<h2></h2>\n<p>Whether you choose to work out of your home or on the road, a Carmel virtual office will give you the freedom and flexibility to get the job done in the place and style of your choosing. With a local company phone number, live receptionist, premium call transferring, and a professional business address, Opus VO provides a cost-effective way for your company to grow or establish a presence in a new market without any long-term commitments.</p>\n",
+            "image": {
+                "url": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "alt": "GET A VIRTUAL OFFICE\nIN CARMEL",
+                "title": "GET A VIRTUAL OFFICE\nIN CARMEL"
+            },
+            "layout": "image_text",
+            "imageAlignment": "left"
+        }
+    ],
+    "faqs": [],
+    "meta": {
+        "locations_count": 1,
+        "popular_locations_count": 0,
+        "premium_locations_count": 1,
+        "regular_locations_count": 0,
+        "sections_count": 2,
+        "faqs_count": 0
+    },
+    "seo": {
+        "title": "Virtual Office in Carmel, IN | Multiple Locations Available",
+        "meta_description": "Find the ultimate office solution with Opus Virtual Offices in Carmel, Indiana. Our all-inclusive virtual offices cater to your business needs. Sign up today!",
+        "canonical": "https://www.opusvirtualoffices.com/virtual-office/indiana/carmel/",
+        "og": {
+            "title": "Virtual Office in Carmel, IN | Multiple Locations Available",
+            "description": "Find the ultimate office solution with Opus Virtual Offices in Carmel, Indiana. Our all-inclusive virtual offices cater to your business needs. Sign up today!",
+            "url": "https://www.opusvirtualoffices.com/virtual-office/indiana/carmel/",
+            "type": "website",
+            "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+        }
+    }
+}

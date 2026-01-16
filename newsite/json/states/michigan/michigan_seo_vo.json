@@ -1,0 +1,22 @@
+{
+    "success": true,
+    "page": "virtual-office/michigan",
+    "page_type": "location_state",
+    "view": "state",
+    "seo": {
+        "title": "Virtual Office in Michigan | Locations Statewide | Opus VO",
+        "meta_description": "Get a prestigious Michigan business address and professional phone answering services with Opus Virtual Offices, the perfect office solution for your business needs.",
+        "canonical": "https://www.opusvirtualoffices.com/virtual-office/michigan/",
+        "og": {
+            "title": "Virtual Office in Michigan | Locations Statewide | Opus VO",
+            "description": "Get a prestigious Michigan business address and professional phone answering services with Opus Virtual Offices, the perfect office solution for your business needs.",
+            "url": "https://www.opusvirtualoffices.com/virtual-office/michigan/",
+            "type": "website",
+            "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+        }
+    },
+    "data": {
+        "state": "Michigan",
+        "mode": "virtual-office"
+    }
+}

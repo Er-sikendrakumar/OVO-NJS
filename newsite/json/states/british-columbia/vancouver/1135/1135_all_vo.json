@@ -1,0 +1,97 @@
+{
+    "success": true,
+    "location_id": 1135,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Vancouver",
+            "state": "BC",
+            "price": null,
+            "address": {
+                "line1": "300-3665 Kingsway",
+                "suite": null,
+                "city": "Vancouver",
+                "state": "BC",
+                "zip": "V5R 5W2",
+                "phone": "(604) 227-9087"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/Opus-Virtual-Office-Vancouver-Building-Exterior.webp",
+                    "/wp-content-mgr/wp-content/uploads/Opus-Virtual-Office-Vancouver-Reception-scaled.webp",
+                    "/wp-content-mgr/wp-content/uploads/Opus-Virtual-Office-Vancouver-Conference-Room-scaled.webp",
+                    "/wp-content-mgr/wp-content/uploads/Opus-Virtual-Office-Vancouver-Waiting-Area-scaled.webp",
+                    "/wp-content-mgr/wp-content/uploads/Opus-Virtual-Office-Vancouver-Cozy-Private-Office-scaled.webp",
+                    "/wp-content-mgr/wp-content/uploads/Opus-Virtual-Office-Vancouver-Private-Office-scaled.webp",
+                    "/wp-content-mgr/wp-content/uploads/1Building35-800x417.jpg",
+                    "/wp-content-mgr/wp-content/uploads/2Reception12-800x416.jpg",
+                    "/wp-content-mgr/wp-content/uploads/3BoardRoom3-800x452.jpg"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1135",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Vancouver Virtual Office",
+            "body": "Thinking about a Vancouver-based location for your startup or ongoing venture but put off by the expenses of a full-time office? Opus VO is your perfect match. Secure your business in one of our premier Vancouver spots, offering you a noteworthy address without the fiscal strain. Plus, when you need the right space for crucial meetings or meaningful client engagements, our first-rate conference rooms are readily available.  The advantages go beyond an esteemed address. When you choose a virtual office at Opus VO in Vancouver, you also secure the service of a live receptionist. Count on our proficient team to manage your client relations with care, as well as take on routine tasks like digital mail organization and call management. This way, you can di",
+            "map": {
+                "lat": 49.2326333,
+                "lng": -123.0242383,
+                "zoom": 14,
+                "city": "Vancouver"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Vancouver, British Columbia even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Vancouver. You can also adapt to better meet your clients’ unique needs within British Columbia. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Vancouver virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Vancouver? Why Opus VO?",
+                "body": "Vancouver is more than just a scenic city; it’s a bustling hive of business activity with a wealth of opportunities in diverse industries. By setting up your virtual office with Opus VO in Vancouver, you gain immediate entry into a thriving community of professionals ripe for networking and collaboration.  Choosing Opus VO in Vancouver is not merely a way to curb expenses; it’s a decisive move that opens doors to untold business possibilities. Your next big breakthrough might be just a single virtual office decision away.  Choose from two of our Opus VO locations in Vancouver @ 300-3665 Kingsway, Vancouver, BC V5R 5W2 or 600-890 West Pender Street, Vancouver, BC V6C 1J9. ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Vancouver - 300-3665 Kingsway | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our British Columbia, Vancouver virtual office located at 300-3665 Kingsway. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/british-columbia/vancouver/location-1135/",
+            "og": {
+                "title": "Virtual Office in Vancouver - 300-3665 Kingsway | $99/Month",
+                "description": "Get the ultimate office solution for your business with our British Columbia, Vancouver virtual office located at 300-3665 Kingsway. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/british-columbia/vancouver/location-1135/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/Opus-Virtual-Office-Vancouver-Building-Exterior.webp"
+            }
+        }
+    }
+}

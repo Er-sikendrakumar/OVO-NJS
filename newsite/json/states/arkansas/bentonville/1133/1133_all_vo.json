@@ -1,0 +1,93 @@
+{
+    "success": true,
+    "location_id": 1133,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Bentonville",
+            "state": "AR",
+            "price": null,
+            "address": {
+                "line1": "900 SE 5th Street",
+                "suite": null,
+                "city": "Bentonville",
+                "state": "AR",
+                "zip": "72712",
+                "phone": "(479) 310-8582"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/1133-Exterior.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1133-conference.png",
+                    "/wp-content-mgr/wp-content/uploads/1133-Cowork.png",
+                    "/wp-content-mgr/wp-content/uploads/1133-Lounge.png",
+                    "/wp-content-mgr/wp-content/uploads/1133-Kitchen.png"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1133",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": "Mail Forwarding Available for Additional Fee"
+        },
+        "overview": {
+            "heading": "Bentonville Virtual Office",
+            "body": "Get a prestigious business address in Bentonville without the financial burden of maintaining a physical office. Opus VO enables you to situate your enterprise in a select Bentonville location, all for a fraction of the cost of a conventional office lease. Utilize our state-of-the-art conference rooms for crucial business discussions and client meetings while amplifying your company’s image with an exclusive Bentonville address.  Selecting a virtual office in Bentonville through Opus VO provides you with the unique benefit of a live receptionist. Unwavering in our commitment to providing customized, exceptional customer service, our team ensures each client interaction is in perfect alignment with your specific business goals. Entrust us with administrative duties like digital mail management and complex call-forwarding, freeing you to concentrate on your business’ upward trajectory.",
+            "map": {
+                "lat": 36.3668375,
+                "lng": -94.1991712,
+                "zoom": 14,
+                "city": "Bentonville"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Bentonville, Arkansas even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Bentonville. You can also adapt to better meet your clients’ unique needs within Arkansas. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Bentonville virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Choose a Bentonville Virtual Office?",
+                "body": "Bentonville is not merely a quaint Southern town; it’s a growing business hub rich in opportunities, particularly in sectors like retail, logistics, and technology. Conveniently located near key commercial zones, our Bentonville offices grant you effortless access to crucial business connections and inspiring networking events.  By opting for an Opus Virtual Office in Bentonville, you’re doing more than reducing your operating costs; you’re capturing an invaluable competitive advantage. Grow your business to new pinnacles of success by leveraging our superior virtual office services today.  Opus VO Bentonville locations @ 900 SE 5th Street, Bentonville, AR 72712 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Bentonville - 900 SE 5th Street | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Arkansas, Bentonville virtual office located at 900 SE 5th Street. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/arkansas/bentonville/location-1133/",
+            "og": {
+                "title": "Virtual Office in Bentonville - 900 SE 5th Street | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Arkansas, Bentonville virtual office located at 900 SE 5th Street. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/arkansas/bentonville/location-1133/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/1133-Exterior.jpg"
+            }
+        }
+    }
+}

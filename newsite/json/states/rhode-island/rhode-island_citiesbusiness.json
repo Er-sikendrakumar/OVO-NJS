@@ -1,0 +1,17 @@
+{
+    "success": true,
+    "count": 2,
+    "state": "rhode island",
+    "data": [
+        {
+            "id": "885",
+            "name": "Cumberland",
+            "popular": "0"
+        },
+        {
+            "id": "443",
+            "name": "Providence",
+            "popular": "1"
+        }
+    ]
+}

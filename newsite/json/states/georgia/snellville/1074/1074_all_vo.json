@@ -1,0 +1,93 @@
+{
+    "success": true,
+    "location_id": 1074,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Snellville",
+            "state": "GA",
+            "price": null,
+            "address": {
+                "line1": "2330 Scenic Highway South",
+                "suite": null,
+                "city": "Snellville",
+                "state": "GA",
+                "zip": "30078",
+                "phone": "(678) 331-7213"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/1074-Exterior.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1074-Conference1.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1074-Conference2.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1074-Reception.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1074-Kitchen.jpg"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1074",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 1,
+            "nearbyPremiumUrl": "/virtual-office/georgia/atlanta/location-684/",
+            "nearbyPremiumText": "to view the most POPULAR locations nearby for the same $99/mo",
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Snellville Virtual Office",
+            "body": "Elevate your business with an esteemed address in Snellville without bearing the overheads and complications of physical office space. Opus VO allows you to establish a reputable presence in the thriving Snellville business community while taking advantage of features like professional mail reception, welcoming client spaces, and cutting-edge meeting rooms. Enhance your business identity with a prestigious location in one of Snellville’s key commercial areas.  Opting for a Snellville virtual office via Opus VO affords you the luxury of a live receptionist who provides a tailored, quality experience for each client interaction. Benefit from an array of high-level administrative services that include streamlined digital mail services, call forwarding, and additional customizable solutions. Focus on scaling your business while our committed admin staff takes care of routine operational tasks. ",
+            "map": {
+                "lat": 33.8547669,
+                "lng": -84.0214232,
+                "zoom": 14,
+                "city": "Snellville"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Snellville, Georgia even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Snellville. You can also adapt to better meet your clients’ unique needs within Georgia. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Snellville virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Choose a Virtual Office in Snellville?",
+                "body": "Snellville offers more than just Southern charm; it’s an economic hub drawing a wide range of industries, from retail to tech startups. By situating your business in Snellville, you unlock a wealth of local opportunities that could contribute significantly to your bottom line. Our Snellville location is strategically located near essential business and networking centers, making it a convenient choice for business growth.  An Opus Virtual Office in Snellville not only reduces costs but also provides your venture with a significant competitive advantage. Make the smart choice for your business today and leverage the power of our innovative virtual office solutions.  Opus VO, Snellville @ 2330 Scenic Highway South, Snellville, GA 30078 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Snellville - 2330 Scenic Highway South | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Georgia, Snellville virtual office located at 2330 Scenic Highway South. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/georgia/snellville/location-1074/",
+            "og": {
+                "title": "Virtual Office in Snellville - 2330 Scenic Highway South | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Georgia, Snellville virtual office located at 2330 Scenic Highway South. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/georgia/snellville/location-1074/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/1074-Exterior.jpg"
+            }
+        }
+    }
+}

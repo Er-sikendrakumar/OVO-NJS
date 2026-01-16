@@ -1,0 +1,89 @@
+{
+    "success": true,
+    "location_id": 1594,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Dunwoody",
+            "state": "GA",
+            "price": null,
+            "address": {
+                "line1": "5579 Chamblee Dunwoody Road",
+                "suite": null,
+                "city": "Dunwoody",
+                "state": "GA",
+                "zip": "30338",
+                "phone": "(888) 898-9868"
+            },
+            "images": {
+                "hero": [
+                    "/assets/mail-center.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1594",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 0,
+            "nearbyPremium": 1,
+            "nearbyPremiumUrl": "/virtual-office/georgia/atlanta/location-684/",
+            "nearbyPremiumText": "to view nearby PREMIUM Locations that offer Meeting Rooms for the same $99/mo",
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Dunwoody Virtual Office",
+            "body": "Land yourself an impressive business address in Dunwoody without the hassle or cost of a physical office. Opus VO gives you the opportunity to plant your business flag right in the heart of Dunwoody, without draining your budget. Need a space for those high-stakes meetings or client interactions? Our contemporary conference rooms have you covered.  When you opt for a virtual office in Dunwoody through Opus VO, a live receptionist is part of the package. Our goal is to make every client interaction feel like a seamless extension of your unique business flair. So, go ahead and offload those tedious admin tasks to us, freeing you up to pursue your entrepreneurial goals. ",
+            "map": {
+                "lat": 33.9507321,
+                "lng": -84.3360275,
+                "zoom": 14,
+                "city": "Dunwoody"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Dunwoody, Georgia even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Dunwoody. You can also adapt to better meet your clients’ unique needs within Georgia. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Dunwoody virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Dunwoody? Why a Virtual Office?",
+                "body": "Think Dunwoody is just a suburban retreat? Think again. It’s emerging as a business-friendly environment with varied sectors like tech, finance, and healthcare. Our Dunwoody location connects you to key industry players and essential networking events.  Choosing Opus VO in Dunwoody doesn’t just mean you’re saving on expenses; it means you’re gaining a competitive edge. Ready to take the leap? Our top-notch virtual office services are here, waiting for you.  Opus VO Dunwoody @ 5579 Chamblee Dunwoody Road, Dunwoody, GA 30338 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Dunwoody - 5579 Chamblee Dunwoody Road | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Georgia, Dunwoody virtual office located at 5579 Chamblee Dunwoody Road. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/georgia/dunwoody/location-1594/",
+            "og": {
+                "title": "Virtual Office in Dunwoody - 5579 Chamblee Dunwoody Road | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Georgia, Dunwoody virtual office located at 5579 Chamblee Dunwoody Road. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/georgia/dunwoody/location-1594/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+            }
+        }
+    }
+}

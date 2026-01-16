@@ -1,0 +1,99 @@
+{
+    "success": true,
+    "state": "florida",
+    "city": "orlando",
+    "wp_city_post_id": null,
+    "locations": [
+        {
+            "id": "1499",
+            "name": "Orlando",
+            "locname": "200 E Robinson Street, Suite 1120, Orlando, FL 32801",
+            "address": "200 E Robinson Street, Suite 1120, Orlando, FL 32801",
+            "city": "orlando",
+            "state": "florida",
+            "state_english": "Florida",
+            "abbr": "FL",
+            "phone": "4075592000",
+            "premium": "1",
+            "opusowned": "1",
+            "showpopular": "0",
+            "point_x": "28.5453809",
+            "point_y": "-81.375407",
+            "url": "/business-address/florida/orlando/location-1499/",
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/Opus-Virtual-Office-Orlando-200-E-Robinson-Street-Towering-Office-Building.webp",
+                "alttext": "Tall office building at 200 E Robinson Street, Orlando, FL, home to Opus Virtual Office, under a cloudy sky."
+            }
+        }
+    ],
+    "popular_locations": [
+        {
+            "id": "1499",
+            "name": "Orlando",
+            "locname": "200 E Robinson Street, Suite 1120, Orlando, FL 32801",
+            "address": "200 E Robinson Street, Suite 1120, Orlando, FL 32801",
+            "city": "orlando",
+            "state": "florida",
+            "state_english": "Florida",
+            "abbr": "FL",
+            "phone": "4075592000",
+            "premium": "1",
+            "opusowned": "1",
+            "showpopular": "0",
+            "point_x": "28.5453809",
+            "point_y": "-81.375407",
+            "url": "/business-address/florida/orlando/location-1499/",
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/Opus-Virtual-Office-Orlando-200-E-Robinson-Street-Towering-Office-Building.webp",
+                "alttext": "Tall office building at 200 E Robinson Street, Orlando, FL, home to Opus Virtual Office, under a cloudy sky."
+            }
+        }
+    ],
+    "premium_locations": [],
+    "regular_locations": [],
+    "sections": [
+        {
+            "title": "OUR ORLANDO\nVIRTUAL OFFICES",
+            "body": "<h2></h2>\n<p>Enjoy the benefits of having a business address in Orlando Florida without the stress and expense surrounding a “traditional office environment”. OpusVO gives you the prestige of having an office with the budget of working from home. Receive all your business mail at a professional office building. No post office box number, just a great business address to use on your business cards and other marketing material.</p>\n<p>You don’t just get a business phone number with your Orlando virtual office, but also a live receptionist answering your calls the way you want them to be. Stop choosing between capturing new leads for your business and working on current clients. Do both. Get someone who looks out for you while you’re unable to break away.</p>\n",
+            "image": {
+                "url": "/newsite/wp-content/themes/ThemeDec23/assets/images/califonia-v-office.jpg",
+                "alt": "OUR ORLANDO\nVIRTUAL OFFICES",
+                "title": "OUR ORLANDO\nVIRTUAL OFFICES"
+            },
+            "layout": "image_text",
+            "imageAlignment": "right"
+        },
+        {
+            "title": "GET A VIRTUAL OFFICE\nIN ORLANDO",
+            "body": "<h2></h2>\n<p>Whether you choose to work out of your home or on the road, a Orlando virtual office will give you the freedom and flexibility to get the job done in the place and style of your choosing. With a local company phone number, live receptionist, premium call transferring, and a professional business address, Opus VO provides a cost-effective way for your company to grow or establish a presence in a new market without any long-term commitments.</p>\n",
+            "image": {
+                "url": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "alt": "GET A VIRTUAL OFFICE\nIN ORLANDO",
+                "title": "GET A VIRTUAL OFFICE\nIN ORLANDO"
+            },
+            "layout": "image_text",
+            "imageAlignment": "left"
+        }
+    ],
+    "faqs": [],
+    "meta": {
+        "locations_count": 1,
+        "popular_locations_count": 1,
+        "premium_locations_count": 0,
+        "regular_locations_count": 0,
+        "sections_count": 2,
+        "faqs_count": 0
+    },
+    "seo": {
+        "title": "Virtual Office in Orlando, FL | Multiple Locations Available",
+        "meta_description": "Find the ultimate office solution with Opus Virtual Offices in Orlando, Florida. Our all-inclusive virtual offices cater to your business needs. Sign up today!",
+        "canonical": "https://www.opusvirtualoffices.com/business-address/florida/orlando/",
+        "og": {
+            "title": "Virtual Office in Orlando, FL | Multiple Locations Available",
+            "description": "Find the ultimate office solution with Opus Virtual Offices in Orlando, Florida. Our all-inclusive virtual offices cater to your business needs. Sign up today!",
+            "url": "https://www.opusvirtualoffices.com/business-address/florida/orlando/",
+            "type": "website",
+            "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+        }
+    }
+}

@@ -1,0 +1,93 @@
+{
+    "success": true,
+    "location_id": 950,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Livonia",
+            "state": "MI",
+            "price": null,
+            "address": {
+                "line1": "15530 Middlebelt Road",
+                "suite": null,
+                "city": "Livonia",
+                "state": "MI",
+                "zip": "48154",
+                "phone": "(734) 821-5703"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/950-001-Building.jpg",
+                    "/wp-content-mgr/wp-content/uploads/950-Building-2.jpg",
+                    "/wp-content-mgr/wp-content/uploads/950-Board-Room-733x550.jpg",
+                    "/wp-content-mgr/wp-content/uploads/950-Conference-Room-733x550.jpg",
+                    "/wp-content-mgr/wp-content/uploads/950-Reception-577x550.jpg"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=950",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Livonia Virtual Office",
+            "body": "Secure an esteemed business address in Livonia without the burden of a physical office. At Opus VO, we offer you the chance to situate your enterprise in the heart of Livonia’s thriving business community, all while maintaining financial agility. Got a vital meeting or a high-stakes client pitch? Our advanced conference rooms are tailored to impress.  When you choose to go virtual in Livonia via Opus VO, a personalized live receptionist comes as part of your package. We ensure that each point of client contact aligns with your brand’s unique identity. Delegate your routine administrative duties to us, affording you the time to pursue your entrepreneurial vision. ",
+            "map": {
+                "lat": 42.4000734,
+                "lng": -83.3340058,
+                "zoom": 14,
+                "city": "Livonia"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Livonia, Michigan even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Livonia. You can also adapt to better meet your clients’ unique needs within Michigan. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Livonia virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Livonia?",
+                "body": "Livonia is more than just a suburban gem; it’s an evolving hotspot for industries ranging from automotive to retail. By situating yourself in Livonia, you gain access to a multitude of networking opportunities and industry events that can amplify your business’s growth potential.  Choosing Opus VO in Livonia isn’t just a cost-cutting maneuver—it’s a tactical advantage. Are you prepared to elevate your business profile? Our superior virtual office solutions are here to help you make that leap.  Opus VO, Livonia @ 15530 Middlebelt Road, Livonia, MI 48154  ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Livonia - 15530 Middlebelt Road | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Michigan, Livonia virtual office located at 15530 Middlebelt Road. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/michigan/livonia/location-950/",
+            "og": {
+                "title": "Virtual Office in Livonia - 15530 Middlebelt Road | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Michigan, Livonia virtual office located at 15530 Middlebelt Road. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/michigan/livonia/location-950/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/950-001-Building.jpg"
+            }
+        }
+    }
+}

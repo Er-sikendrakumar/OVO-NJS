@@ -1,0 +1,89 @@
+{
+    "success": true,
+    "location_id": 759,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Wilton Manors",
+            "state": "FL",
+            "price": null,
+            "address": {
+                "line1": "300 E Oakland Park Blvd.",
+                "suite": null,
+                "city": "Wilton Manors",
+                "state": "FL",
+                "zip": "33334",
+                "phone": "(954) 509-7005"
+            },
+            "images": {
+                "hero": [
+                    "/assets/mail-center.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=759",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 0,
+            "nearbyPremium": 1,
+            "nearbyPremiumUrl": "/virtual-office/florida/fort-lauderdale/location-803/",
+            "nearbyPremiumText": "to view nearby PREMIUM Locations that offer Meeting Rooms for the same $99/mo",
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Wilton Manors Virtual Office",
+            "body": "Land a prime business address in Wilton Manors without breaking the bank on a physical office. With Opus VO, you can situate your venture in the dynamic environment of Wilton Manors while safeguarding your budget. Have a crucial meeting or high-stakes client pitch coming up? Our state-of-the-art conference rooms are here to dazzle.  When you opt for a virtual presence in Wilton Manors through Opus VO, a skilled live receptionist is part of the deal, whose sole focus is to make every client interaction a seamless reflection of your brand’s unique flair. Hand over your routine admin tasks to us, liberating you to pursue your business dreams. ",
+            "map": {
+                "lat": 26.166534,
+                "lng": -80.142322,
+                "zoom": 14,
+                "city": "Wilton Manors"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Wilton Manors, Florida even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Wilton Manors. You can also adapt to better meet your clients’ unique needs within Florida. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Wilton Manors virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Wilton Manors?",
+                "body": "Think Wilton Manors is just another suburban enclave? Think again. It’s an emerging hub for a diverse array of industries from tech startups to creative ventures. Having a business address in Wilton Manors connects you to valuable industry contacts and impactful networking events.  Choosing Opus VO in Wilton Manors is more than a cost-saving move—it’s a strategic play. Are you set to elevate your business? Our top-tier virtual office services are ready for you.  Opus VO, Wilton Manors @ 300 E Oakland Park Blvd., Wilton Manors, FL 33334 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Wilton Manors - 300 E Oakland Park Blvd. | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Florida, Wilton Manors virtual office located at 300 E Oakland Park Blvd.. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/florida/wilton-manors/location-759/",
+            "og": {
+                "title": "Virtual Office in Wilton Manors - 300 E Oakland Park Blvd. | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Florida, Wilton Manors virtual office located at 300 E Oakland Park Blvd.. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/florida/wilton-manors/location-759/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+            }
+        }
+    }
+}

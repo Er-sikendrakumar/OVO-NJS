@@ -1,0 +1,37 @@
+# Location Page API
+
+The location detail page pulls content from the following REST resources under `https://www.opusvirtualoffices.com/wp-json/opus/v1/location/{locId}/…`. Replace `{locId}` with a numeric `locations2.id` (for example, Atlanta Buckhead is `684`). All routes are `GET` and public. Example URLs:
+
+- Header: `https://www.opusvirtualoffices.com/wp-json/opus/v1/location/684/header`
+- Overview: `https://www.opusvirtualoffices.com/wp-json/opus/v1/location/684/overview`
+- FAQs: `https://www.opusvirtualoffices.com/wp-json/opus/v1/location/684/faqs`
+- Sections: `https://www.opusvirtualoffices.com/wp-json/opus/v1/location/684/sections`
+
+## `/header`
+Provides the hero/header block data:
+- `city`, `state`, `price`
+- `address`: line1, suite (if present), city/state/zip, formatted phone
+- `images.hero`: ordered hero/gallery URLs
+- `features`: bundle booleans (Mail‑X flag mirrors CES `ismail`)
+- `addressOnlyOptionAvailable`: `1` only when the location is Opus-owned or mail-only; includes `addressOnlyUrl` when true ----IMPORTANT FOR ADDRESS ONLY 
+- `signupUrl`: `/signup/?locid={locId}` with existing query params preserved when present
+- `promo`: optional headline/subheadline/disclaimer/CTA pulled from `location_header_promo` (falls back to the $99/mo banner)
+
+## `/overview`
+Backs the “Atlanta Virtual Office” intro block:
+- `heading`: `section_2_heading` ACF override or default `{CITY} VIRTUAL OFFICE`
+- `body`: sanitized description (state footer text > fallback blurb)
+- `map`: lat/lng/zoom from `locations2.point_x/point_y`
+- `pointsOfInterest`: optional repeater entries (`location_points_of_interest` / `points_of_interest`)
+
+## `/faqs`
+Matches the FAQ accordion on the page. Returns an array of `{ question, answer }` when `locations2.showfaq == 1` and the FAQ post’s `show_on_location_page` checkbox is `yes`. City/state tokens inside the content (`#City#`, `#State#`) are replaced prior to stripping HTML.
+
+## `/sections`
+Feeds the narrative blocks under the FAQ:
+- First preference is the `location_sections` repeater (each entry includes `title`, `body`, `image`, `layout`, and `imageAlignment`).
+- When no custom sections exist, the endpoint automatically recreates the theme defaults:
+  1. **Section 3** – heading extracted from `location_description_part_two`, body text sanitized, image defaults to `assets/images/coral-springs.jpg` unless overridden by `section_3_*` fields.
+  2. **Section 4** – only for Opus-owned locations, using `section_4_*` fields with a fallback image of `assets/images/botaraton-covered.png`.
+
+Each endpoint returns empty arrays/strings if the underlying content is disabled so the frontend can gracefully hide the component.

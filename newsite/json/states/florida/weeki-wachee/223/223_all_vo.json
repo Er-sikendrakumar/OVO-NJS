@@ -1,0 +1,89 @@
+{
+    "success": true,
+    "location_id": 223,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Weeki Wachee",
+            "state": "FL",
+            "price": null,
+            "address": {
+                "line1": "6252 Commercial Way",
+                "suite": null,
+                "city": "Weeki Wachee",
+                "state": "FL",
+                "zip": "34613",
+                "phone": "(352) 390-2496"
+            },
+            "images": {
+                "hero": [
+                    "/assets/mail-center.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=223",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 0,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Weeki Wachee Virtual Office",
+            "body": "Secure an exceptional business address in Weeki Wachee without the burden of leasing a physical space. With Opus VO, you can situate your business right in the heart of Weeki Wachee’s bustling landscape, all the while safeguarding your financial reserves. Upcoming crucial meeting or need to wow a client? Our state-of-the-art conference rooms are prepared to dazzle.  Opting for a virtual office in Weeki Wachee via Opus VO means you also acquire a dedicated live receptionist committed to ensuring each client interaction is a seamless reflection of your brand’s unique flair. Hand over those day-to-day admin tasks to us, and free yourself to chase after your business dreams. ",
+            "map": {
+                "lat": 28.520989,
+                "lng": -82.570262,
+                "zoom": 14,
+                "city": "Weeki Wachee"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Weeki Wachee, Florida even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Weeki Wachee. You can also adapt to better meet your clients’ unique needs within Florida. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Weeki Wachee virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Weeki Wachee?",
+                "body": "Think Weeki Wachee is just mermaids and springs? Think again. It’s increasingly becoming a destination for various business sectors including tourism, retail, and local enterprises. Being present in Weeki Wachee gives you access to valuable networking events and industry leaders that can boost your business.  With Opus VO in Weeki Wachee, you’re not just making a wise financial decision—you’re gaining a competitive edge. Ready to elevate your game? Our top-notch virtual office services are ready and waiting for you.  Opus VO, Weeki Wachee @ 6252 Commercial Way, Weeki Wachee, FL 34613 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Weeki Wachee - 6252 Commercial Way | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Florida, Weeki Wachee virtual office located at 6252 Commercial Way. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/florida/weeki-wachee/location-223/",
+            "og": {
+                "title": "Virtual Office in Weeki Wachee - 6252 Commercial Way | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Florida, Weeki Wachee virtual office located at 6252 Commercial Way. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/florida/weeki-wachee/location-223/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+            }
+        }
+    }
+}

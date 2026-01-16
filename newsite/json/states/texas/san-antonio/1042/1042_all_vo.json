@@ -1,0 +1,95 @@
+{
+    "success": true,
+    "location_id": 1042,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "San Antonio",
+            "state": "TX",
+            "price": null,
+            "address": {
+                "line1": "21750 Hardy Oak Blvd",
+                "suite": null,
+                "city": "San Antonio",
+                "state": "TX",
+                "zip": "78258",
+                "phone": "(210) 739-1532"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/1042-01-Building.png",
+                    "/wp-content-mgr/wp-content/uploads/2SharedSpace-650x550.jpg",
+                    "/wp-content-mgr/wp-content/uploads/3BoardRoom6-733x550.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1Building66-800x409.jpg",
+                    "/wp-content-mgr/wp-content/uploads/2SharedSpace1-650x550.jpg",
+                    "/wp-content-mgr/wp-content/uploads/3BoardRoom7-733x550.jpg",
+                    "/wp-content-mgr/wp-content/uploads/4BoardRoom21-733x550.jpg"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1042",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "San Antonio Virtual Office",
+            "body": "Enjoy the perks of a high-profile business address in San Antonio, without the hassle and financial commitments of a traditional office environment. Opus VO offers you the luxury of a premium San Antonio location at a cost that’s a fraction of leasing a physical office. Handle your business communications, welcome your clients, and conduct meetings in our cutting-edge, fully outfitted-conference rooms. Improve your business credibility with an impressive address in one of San Antonio’s leading business districts.  Choosing a virtual office in San Antonio through Opus VO gives you the unique benefit of a live receptionist, providing a tailored, first-rate service experience for your clients. Each client interaction is uniquely tailored to your business objectives, supported by our all-encompassing range of administrative services. This includes complete mail handling, advanced call functionalities, and more. Allow our professional administrative team to manage your daily operational needs, freeing you to concentrate on strategic growth and business enhancement. ",
+            "map": {
+                "lat": 29.6450001,
+                "lng": -98.49166389,
+                "zoom": 14,
+                "city": "San Antonio"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in San Antonio, Texas even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of San Antonio. You can also adapt to better meet your clients’ unique needs within Texas. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our San Antonio virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why opt for a San Antonio Virtual Office?",
+                "body": "San Antonio is more than a historical city; it’s a vibrant economic landscape with industries as diverse as tourism, healthcare, and cybersecurity. Position your business in this flourishing market to unlock local opportunities that could significantly contribute to your revenue. Strategically situated near crucial business hubs and social gatherings, our San Antonio location offers you easy access to essential networking events and industry activities.  By selecting an Opus Virtual Office in San Antonio, you not only cut costs associated with traditional office spaces; you also give your business a competitive advantage. Boost your enterprise to the next level by leveraging our top-notch virtual office solutions today.  Choose from three Opus VO, San Antonio locations  @ 4040 Broadway Street San Antonio, TX 78209  @ 21750 Hardy Oak Blvd, San Antonio, TX 78258  @ 5460 Babcock Road, San Antonio, TX 78240  ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in San Antonio - 21750 Hardy Oak Blvd | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Texas, San Antonio virtual office located at 21750 Hardy Oak Blvd. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/texas/san-antonio/location-1042/",
+            "og": {
+                "title": "Virtual Office in San Antonio - 21750 Hardy Oak Blvd | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Texas, San Antonio virtual office located at 21750 Hardy Oak Blvd. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/texas/san-antonio/location-1042/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/1042-01-Building.png"
+            }
+        }
+    }
+}

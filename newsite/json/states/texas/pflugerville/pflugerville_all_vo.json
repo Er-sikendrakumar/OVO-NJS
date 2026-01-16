@@ -1,0 +1,99 @@
+{
+    "success": true,
+    "state": "texas",
+    "city": "pflugerville",
+    "wp_city_post_id": null,
+    "locations": [
+        {
+            "id": "1605",
+            "name": "Pflugerville",
+            "locname": "2911 A.W. Grimes Blvd, Pflugerville, TX 78660",
+            "address": "2911 A.W. Grimes Blvd, Pflugerville, TX 78660",
+            "city": "pflugerville",
+            "state": "texas",
+            "state_english": "Texas",
+            "abbr": "TX",
+            "phone": "0",
+            "premium": "1",
+            "opusowned": "0",
+            "showpopular": "0",
+            "point_x": "30.4791361",
+            "point_y": "-97.64309659",
+            "url": "/virtual-office/texas/pflugerville/location-1605/",
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1605-01.Building.webp",
+                "alttext": ""
+            }
+        }
+    ],
+    "popular_locations": [],
+    "premium_locations": [
+        {
+            "id": "1605",
+            "name": "Pflugerville",
+            "locname": "2911 A.W. Grimes Blvd, Pflugerville, TX 78660",
+            "address": "2911 A.W. Grimes Blvd, Pflugerville, TX 78660",
+            "city": "pflugerville",
+            "state": "texas",
+            "state_english": "Texas",
+            "abbr": "TX",
+            "phone": "0",
+            "premium": "1",
+            "opusowned": "0",
+            "showpopular": "0",
+            "point_x": "30.4791361",
+            "point_y": "-97.64309659",
+            "url": "/virtual-office/texas/pflugerville/location-1605/",
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1605-01.Building.webp",
+                "alttext": ""
+            }
+        }
+    ],
+    "regular_locations": [],
+    "sections": [
+        {
+            "title": "OUR PFLUGERVILLE\nVIRTUAL OFFICES",
+            "body": "<h2></h2>\n<p>Enjoy the benefits of having a business address in Pflugerville Texas without the stress and expense surrounding a “traditional office environment”. OpusVO gives you the prestige of having an office with the budget of working from home. Receive all your business mail at a professional office building. No post office box number, just a great business address to use on your business cards and other marketing material.</p>\n<p>You don’t just get a business phone number with your Pflugerville virtual office, but also a live receptionist answering your calls the way you want them to be. Stop choosing between capturing new leads for your business and working on current clients. Do both. Get someone who looks out for you while you’re unable to break away.</p>\n",
+            "image": {
+                "url": "/newsite/wp-content/themes/ThemeDec23/assets/images/califonia-v-office.jpg",
+                "alt": "OUR PFLUGERVILLE\nVIRTUAL OFFICES",
+                "title": "OUR PFLUGERVILLE\nVIRTUAL OFFICES"
+            },
+            "layout": "image_text",
+            "imageAlignment": "right"
+        },
+        {
+            "title": "GET A VIRTUAL OFFICE\nIN PFLUGERVILLE",
+            "body": "<h2></h2>\n<p>Whether you choose to work out of your home or on the road, a Pflugerville virtual office will give you the freedom and flexibility to get the job done in the place and style of your choosing. With a local company phone number, live receptionist, premium call transferring, and a professional business address, Opus VO provides a cost-effective way for your company to grow or establish a presence in a new market without any long-term commitments.</p>\n",
+            "image": {
+                "url": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "alt": "GET A VIRTUAL OFFICE\nIN PFLUGERVILLE",
+                "title": "GET A VIRTUAL OFFICE\nIN PFLUGERVILLE"
+            },
+            "layout": "image_text",
+            "imageAlignment": "left"
+        }
+    ],
+    "faqs": [],
+    "meta": {
+        "locations_count": 1,
+        "popular_locations_count": 0,
+        "premium_locations_count": 1,
+        "regular_locations_count": 0,
+        "sections_count": 2,
+        "faqs_count": 0
+    },
+    "seo": {
+        "title": "Virtual Office in Pflugerville, TX | Multiple Locations Available",
+        "meta_description": "Find the ultimate office solution with Opus Virtual Offices in Pflugerville, Texas. Our all-inclusive virtual offices cater to your business needs. Sign up today!",
+        "canonical": "https://www.opusvirtualoffices.com/virtual-office/texas/pflugerville/",
+        "og": {
+            "title": "Virtual Office in Pflugerville, TX | Multiple Locations Available",
+            "description": "Find the ultimate office solution with Opus Virtual Offices in Pflugerville, Texas. Our all-inclusive virtual offices cater to your business needs. Sign up today!",
+            "url": "https://www.opusvirtualoffices.com/virtual-office/texas/pflugerville/",
+            "type": "website",
+            "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+        }
+    }
+}

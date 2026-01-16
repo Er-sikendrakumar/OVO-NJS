@@ -1,0 +1,89 @@
+{
+    "success": true,
+    "location_id": 420,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Douglas",
+            "state": "GA",
+            "price": null,
+            "address": {
+                "line1": "512 South Peterson Avenue",
+                "suite": null,
+                "city": "Douglas",
+                "state": "GA",
+                "zip": "31533",
+                "phone": "(912) 590-3145"
+            },
+            "images": {
+                "hero": [
+                    "/assets/mail-center.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=420",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 0,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Douglas Virtual Office",
+            "body": "Secure a prestigious business address in Douglas without breaking the bank on a physical office. With Opus VO, you can establish your venture in the lively core of Douglas, while still safeguarding your finances. Important meeting or a key client encounter coming up? Our state-of-the-art conference rooms are set to make an impression.  By choosing Opus VO in Douglas, you’re not just getting an address; you’re also acquiring a devoted live receptionist. Our aim is to make each point of client contact a seamless extension of your business persona. Hand off your routine admin responsibilities to us and liberate yourself to pursue those big business dreams. ",
+            "map": {
+                "lat": 31.503114,
+                "lng": -82.850402,
+                "zoom": 14,
+                "city": "Douglas"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Douglas, Georgia even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Douglas. You can also adapt to better meet your clients’ unique needs within Georgia. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Douglas virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Douglas?",
+                "body": "Don’t underestimate Douglas—it’s more than just another town. This locale is gaining traction in diverse industries from technology to healthcare. Stationing your business in Douglas offers you direct access to relevant industry figures and invaluable networking opportunities.  Going virtual in Douglas via Opus VO isn’t just a cost-saving strategy—it’s an advantage that sets you apart. Ready for your next business breakthrough? Our first-rate virtual office services are here for you.  Opus VO, Douglas @ 512 South Peterson Avenue, Douglas, GA 31533     ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Douglas - 512 South Peterson Avenue | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Georgia, Douglas virtual office located at 512 South Peterson Avenue. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/georgia/douglas/location-420/",
+            "og": {
+                "title": "Virtual Office in Douglas - 512 South Peterson Avenue | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Georgia, Douglas virtual office located at 512 South Peterson Avenue. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/georgia/douglas/location-420/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+            }
+        }
+    }
+}

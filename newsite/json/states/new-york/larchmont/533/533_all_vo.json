@@ -1,0 +1,89 @@
+{
+    "success": true,
+    "location_id": 533,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Larchmont",
+            "state": "NY",
+            "price": null,
+            "address": {
+                "line1": "2005 Palmer Avenue",
+                "suite": null,
+                "city": "Larchmont",
+                "state": "NY",
+                "zip": "10538",
+                "phone": "(914) 825-8812"
+            },
+            "images": {
+                "hero": [
+                    "/assets/mail-center.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=533",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 0,
+            "nearbyPremium": 1,
+            "nearbyPremiumUrl": "/virtual-office/new-york/brooklyn/location-1477/",
+            "nearbyPremiumText": "to view nearby PREMIUM Locations that offer Meeting Rooms for the same $99/mo",
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Larchmont Virtual Office",
+            "body": "Interested in an elite Larchmont address but not so keen on the upkeep of a full-time office? Opus VO is your go-to. Anchor your business within Larchmont’s thriving commercial sector while keeping your budget in check. Our state-of-the-art conference rooms are prepared for those pivotal meetings or team get-togethers.  When you choose our virtual workspace in Larchmont, you’re receiving more than just a distinguished address. You also acquire the services of an expert live receptionist who will blend effortlessly into your team. They’ll ensure that every client exchange is in tune with your unique brand philosophy, enabling us to handle routine administrative chores while you focus on your core business goals. ",
+            "map": {
+                "lat": 40.930592,
+                "lng": -73.761902,
+                "zoom": 14,
+                "city": "Larchmont"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Larchmont, New York even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Larchmont. You can also adapt to better meet your clients’ unique needs within New York. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Larchmont virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Larchmont?",
+                "body": "Larchmont is more than just a charming village; it’s a robust business community with a variety of opportunities across sectors like finance, healthcare, and law. A Larchmont address not only lifts your business reputation but also provides you access to a valuable network of industry events and connections.  Selecting Opus VO for your virtual workspace in Larchmont isn’t just a convenient choice; it’s a strategic leg-up. Are you set to amplify your business? Explore our comprehensive range of virtual workspace solutions today.  Opus VO, Larchmont @ 2005 Palmer Avenue, Larchmont, NY 10538 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Larchmont - 2005 Palmer Avenue | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our New York, Larchmont virtual office located at 2005 Palmer Avenue. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/new-york/larchmont/location-533/",
+            "og": {
+                "title": "Virtual Office in Larchmont - 2005 Palmer Avenue | $99/Month",
+                "description": "Get the ultimate office solution for your business with our New York, Larchmont virtual office located at 2005 Palmer Avenue. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/new-york/larchmont/location-533/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+            }
+        }
+    }
+}

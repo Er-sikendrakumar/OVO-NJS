@@ -1,0 +1,93 @@
+{
+    "success": true,
+    "location_id": 1258,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Jackson",
+            "state": "MS",
+            "price": null,
+            "address": {
+                "line1": "4780 I-55 N",
+                "suite": null,
+                "city": "Jackson",
+                "state": "MS",
+                "zip": "39211",
+                "phone": "(601) 724-9582"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/1258-03.meeting.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1258-04.meeting.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1258-05.shared.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1258-001-Building.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1258-02.lobby_.jpg"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 1,
+            "addressOnlyUrl": "/business-address/mississippi/jackson/location-1258/",
+            "signupUrl": "/signup/?locid=1258",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 1,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Jackson Virtual Office",
+            "body": "Secure a prestigious Jackson address without the hefty price tag of physical office space. Opus VO allows you to situate your business within the dynamic Jackson business community, preserving your budget for more strategic investments. Have an upcoming pivotal meeting or key presentation? Our state-of-the-art conference rooms are primed to make a statement.  Choose a virtual office in Jackson through Opus VO and benefit from our dedicated live receptionist service. We take great care to ensure each client interaction feels like an authentic extension of your own brand. Hand-off your routine administrative duties to us, freeing you to focus on realizing your business goals. ",
+            "map": {
+                "lat": 32.3598283,
+                "lng": -90.1493821,
+                "zoom": 14,
+                "city": "Jackson"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Jackson, Mississippi even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Jackson. You can also adapt to better meet your clients’ unique needs within Mississippi. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Jackson virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Jackson?",
+                "body": "Don’t underestimate Jackson—it’s not just the state capital. It’s a growing center for a variety of industries, including healthcare, manufacturing, and tech startups. Being established in Jackson means having access to a rich network of industry leaders and events that can amplify your business reach and potential.  Selecting Opus VO in Jackson is more than a smart financial choice—it’s a competitive advantage. Are you prepared to level up your business? Our superior virtual office services are here to support you.  Opus VO Jackson @ 4780 I-55 N, Jackson, MS 39211    ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Jackson - 4780 I-55 N | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Mississippi, Jackson virtual office located at 4780 I-55 N. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/mississippi/jackson/location-1258/",
+            "og": {
+                "title": "Virtual Office in Jackson - 4780 I-55 N | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Mississippi, Jackson virtual office located at 4780 I-55 N. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/mississippi/jackson/location-1258/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/1258-03.meeting.jpg"
+            }
+        }
+    }
+}

@@ -1,0 +1,89 @@
+{
+    "success": true,
+    "location_id": 1400,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "San Marcos",
+            "state": "CA",
+            "price": null,
+            "address": {
+                "line1": "711 Center Drive",
+                "suite": null,
+                "city": "San Marcos",
+                "state": "CA",
+                "zip": "92069",
+                "phone": "(760) 406-8918"
+            },
+            "images": {
+                "hero": [
+                    "/assets/mail-center.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1400",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 0,
+            "nearbyPremium": 1,
+            "nearbyPremiumUrl": "/virtual-office/california/san-diego/location-1771/",
+            "nearbyPremiumText": "to view the nearby PREMIUM Locations for the same $99/mo",
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "San Marcos Virtual Office",
+            "body": "Enjoy the prestige of an illustrious business address in San Marcos, without the financial burden of a physical workspace. Opus VO presents you with the select opportunity to establish your company in a prime San Marcos setting, all while avoiding the substantial costs associated with a traditional office lease. Benefit from our advanced conference facilities for crucial business interactions and client liaison, while amplifying your brand’s visibility with a distinguished San Marcos address.  When you opt for a virtual office in San Marcos via Opus VO, you’re rewarded with the exclusive service of a live receptionist. Dedicated to delivering customized, superior customer care, our team guarantees each client encounter aligns flawlessly with your unique business needs. Offload routine administrative chores like mail coordination and complex call-handling to us, freeing you up to focus on your business’ growth and success. ",
+            "map": {
+                "lat": 33.1336642,
+                "lng": -117.1238556,
+                "zoom": 14,
+                "city": "San Marcos"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in San Marcos, California even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of San Marcos. You can also adapt to better meet your clients’ unique needs within California. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our San Marcos virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Choose San Marcos?",
+                "body": "San Marcos isn’t just a charming locale; it’s a rising business center with opportunities in sectors ranging from education to technology. Conveniently located near critical business areas, our San Marcos office grants you unimpeded access to vital industry connections and inspiring business events.  By selecting an Opus Virtual Office in San Marcos, you’re not just cutting operational expenses; you’re seizing a notable competitive advantage. Catapult your enterprise to unprecedented success by taking advantage of our exceptional virtual office services today.  Opus VO San Marcos @ 711 Center Drive, San Marcos, CA 9206",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in San Marcos - 711 Center Drive | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our California, San Marcos virtual office located at 711 Center Drive. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/california/san-marcos/location-1400/",
+            "og": {
+                "title": "Virtual Office in San Marcos - 711 Center Drive | $99/Month",
+                "description": "Get the ultimate office solution for your business with our California, San Marcos virtual office located at 711 Center Drive. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/california/san-marcos/location-1400/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+            }
+        }
+    }
+}

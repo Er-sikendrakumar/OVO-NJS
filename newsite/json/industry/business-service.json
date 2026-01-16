@@ -1,0 +1,73 @@
+{
+    "success": true,
+    "slug": "business-service",
+    "page_id": "13030",
+    "page_title": "Business Service",
+    "hero": {
+        "heading": "Establish your\u2028corporate business\u2028presence with Opus VO",
+        "description": "<p>Whether you run a consulting firm, marketing agency, or financial service, Opus VO provides a real office address, live call answering, and a professional image for <strong>only $99/mo</strong></p>\n",
+        "image": "https://www.opusvirtualoffices.com/newsite/wp-content/uploads/2025/11/business_services_1x.webp"
+    },
+    "services": {
+        "heading": "Strengthen Your Business Service Brand with a Complete Virtual Office Solution",
+        "description": "<p>Empower your firm with a prestigious business address, live call answering, and a full suite of professional tools designed to enhance credibility and streamline daily operations.</p>\n",
+        "image": "https://www.opusvirtualoffices.com/newsite/wp-content/uploads/2025/11/business_services_illustration_1x.webp"
+    },
+    "features": [
+        {
+            "title": "Prestigious Business Address",
+            "description": "Select one of our Virtual Offices locations as your primary business address and use it to receive all your mail and packages."
+        },
+        {
+            "title": "Live Call Answering",
+            "description": "Monday through Friday from 8:30am to 5:30pm (in PST timezone 8am to 5pm) a live receptionist will be answering all incoming calls on behalf of your company."
+        },
+        {
+            "title": "Premium Call Transferring",
+            "description": "All calls that are being transferred to your personal extension by our Live Receptionist will ring up to 4 phone numbers provided by you. If the call is not answered, your personal extension voice mail box will activate"
+        },
+        {
+            "title": "Company Phone and Fax Number",
+            "description": "Select one of our local phone and fax numbers as your primary company line."
+        },
+        {
+            "title": "Voicemail & Fax converted to Email",
+            "description": "All voice mail messages and faxes are being forwarded to Tenant's provided e-mail address as a WAV / PDF File."
+        }
+    ],
+    "industry_content": [
+        {
+            "main_heading": "<h2>Grow Your Business with a Virtual Office</h2>",
+            "industry_paragraph": "<p>For service-based professionals, whether you run a marketing firm, IT company, trucking and logistics business, real estate agency, or insurance practice, credibility and flexibility are key.</p>\n<p>Opus Virtual Offices provides the professional foundation you need to strengthen your brand image, impress clients, and operate efficiently from anywhere.</p>\n<p>From startups to established businesses, Opus Virtual Offices scales with your needs, offering month-to-month flexibility and no long-term commitments.</p>\n"
+        },
+        {
+            "main_heading": "<h3>Cut Costs, Not Opportunities</h3>",
+            "industry_paragraph": "<p>With our virtual office business address, you&#8217;ll drastically reduce overhead while still maintaining a prestigious, professional image!</p>\n<p>In the United States, the national average cost for leasing an office space is roughly $33 per square foot, according to a Commercial Edge report. But that is only the average. In cities like New York, Chicago, San Francisco, and Boston, you will typically pay a lot more.</p>\n<p>Prime locations in major business districts command higher rental rates due to their high foot traffic, reputation, and accessibility. For instance, rental costs are higher in real estate markets in busy cities like New York and Los Angeles, which average $50-$200+ per square foot.</p>\n<p>Establish your business in a prime city location and save thousands with our virtual office instead!</p>\n"
+        },
+        {
+            "main_heading": "<h3>Capture Every Lead You Earn</h3>",
+            "industry_paragraph": "<p>As a service business, maintaining exceptional customer service for your clients is critical. With Opus, our live receptionists ensure every call gets answered promptly. From current clients to prospective ones, the virtual Receptionist will answer every call during office hours, so you can focus on growing your business.</p>\n"
+        },
+        {
+            "main_heading": "<h3>The Complete Office Solution</h3>",
+            "industry_paragraph": "<p>An All-inclusive Opus virtual office includes more than just an address. You&#8217;ll receive professional mail handling, package acceptance, and access to our virtual receptionist, ensuring every call is answered professionally while you focus on serving your clients.</p>\n<p>Additionally, our premium address locations offer on-demand access to meeting rooms and private offices in prime city locations, perfect for client presentations or team collaboration sessions. Business consultants are especially appreciative of our virtual office because it provides the flexibility to meet clients professionally anywhere in our network.</p>\n"
+        },
+        {
+            "main_heading": "<h3>Get started today and discover how a virtual office with Opus can elevate your business presence and support your growth, no matter where you work.</h3>",
+            "industry_paragraph": ""
+        }
+    ],
+    "seo": {
+        "title": "Business Service - Opus Virtual Offices",
+        "meta_description": "",
+        "canonical": "https://www.opusvirtualoffices.com/is-a-virtual-office-for-me/business-service/",
+        "og": {
+            "title": "Business Service - Opus Virtual Offices",
+            "description": "",
+            "url": "https://www.opusvirtualoffices.com/is-a-virtual-office-for-me/business-service/",
+            "type": "website",
+            "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+        }
+    },
+    "generated_at": "2025-12-08 14:37:57"
+}

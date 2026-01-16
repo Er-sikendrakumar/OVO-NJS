@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "location_id": 1390,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Bloomington",
+            "state": "MN",
+            "price": null,
+            "address": {
+                "line1": "3800 American Blvd West",
+                "suite": null,
+                "city": "Bloomington",
+                "state": "MN",
+                "zip": "55431",
+                "phone": "(952) 563-3146"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/1390-01.bldg_-662x550.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1390-02.meeting1-582x550.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1390-03.meeting2-589x550.jpg"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1390",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Bloomington Virtual Office",
+            "body": "Secure a prestigious Bloomington address without the burden of traditional office space. With Opus VO, you can place your business in the vibrant heart of Bloomington, all while optimizing your budget. Need to host a significant meeting or nail that client pitch? Our state-of-the-art conference rooms are set to impress.  When you go virtual in Bloomington through Opus VO, a dedicated live receptionist comes as part of the package. We ensure that each client interaction is a seamless extension of your brand’s unique values. Hand over your day-to-day admin tasks to us, leaving you free to pursue your business goals. ",
+            "map": {
+                "lat": 44.8567517,
+                "lng": -93.3284249,
+                "zoom": 14,
+                "city": "Bloomington"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Bloomington, Minnesota even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Bloomington. You can also adapt to better meet your clients’ unique needs within Minnesota. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Bloomington virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Bloomington?",
+                "body": "Don’t overlook Bloomington; it’s not just a university town. It’s a booming center for diverse industries, from education to tech startups. A Bloomington location means you’re connected to a rich tapestry of professionals and events that can supercharge your business network.  Choosing Opus VO in Bloomington is not just a financially astute move—it’s a business strategy. Ready to elevate your business profile? Our first-class virtual office services await your command.  Choose from two of our Opus VO locations in Bloomington @ 3800 American Blvd West, Bloomington, MN 55431, or 7900 International Drive, Bloomington, MN 55425  ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Bloomington - 3800 American Blvd West | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Minnesota, Bloomington virtual office located at 3800 American Blvd West. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/minnesota/bloomington/location-1390/",
+            "og": {
+                "title": "Virtual Office in Bloomington - 3800 American Blvd West | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Minnesota, Bloomington virtual office located at 3800 American Blvd West. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/minnesota/bloomington/location-1390/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/1390-01.bldg_.jpg"
+            }
+        }
+    }
+}

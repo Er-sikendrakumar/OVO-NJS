@@ -1,0 +1,39 @@
+{
+    "success": true,
+    "count": 8,
+    "state": "new york",
+    "data": [
+        {
+            "id": "403",
+            "name": "Albany"
+        },
+        {
+            "id": "212",
+            "name": "Bronx"
+        },
+        {
+            "id": "98",
+            "name": "Brooklyn"
+        },
+        {
+            "id": "194",
+            "name": "Buffalo"
+        },
+        {
+            "id": "701",
+            "name": "New City"
+        },
+        {
+            "id": "192",
+            "name": "Rochester"
+        },
+        {
+            "id": "195",
+            "name": "Syracuse"
+        },
+        {
+            "id": "532",
+            "name": "White Plains"
+        }
+    ]
+}

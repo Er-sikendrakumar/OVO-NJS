@@ -1,0 +1,89 @@
+{
+    "success": true,
+    "location_id": 1310,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Matthews",
+            "state": "NC",
+            "price": null,
+            "address": {
+                "line1": "3116 Weddington Road",
+                "suite": null,
+                "city": "Matthews",
+                "state": "NC",
+                "zip": "28105",
+                "phone": "(704) 470-0285"
+            },
+            "images": {
+                "hero": [
+                    "/assets/mail-center.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1310",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 0,
+            "nearbyPremium": 1,
+            "nearbyPremiumUrl": "/virtual-office/north-carolina/charlotte/location-1737/",
+            "nearbyPremiumText": "to view the nearby PREMIUM Locations for the same $99/mo",
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Mathews Virtual Office",
+            "body": "Interested in securing a prestigious Mathews address without the commitments of a traditional office? Opus VO has the solution. Position your business in the heart of Mathews’ dynamic business community while managing your expenses wisely. Our modern conference rooms are at your disposal for crucial meetings and collaborative sessions.  When you choose our virtual workspace in Mathews, you’re not just securing a sought-after address. You’re also gaining access to a professional live receptionist who seamlessly integrates with your team. They ensure that every client interaction aligns with your unique brand identity, allowing us to manage routine administrative tasks while you focus on your core business objectives. ",
+            "map": {
+                "lat": 35.082011,
+                "lng": -80.732422,
+                "zoom": 14,
+                "city": "Matthews"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Matthews, North Carolina even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Matthews. You can also adapt to better meet your clients’ unique needs within North Carolina. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Matthews virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Mathews?",
+                "body": "Mathews is not just a charming town; it’s a thriving business hub with opportunities spanning various sectors, including tourism, healthcare, and technology. Having a Mathews address not only elevates your business reputation but also provides access to valuable networking events and industry connections.  Opting for Opus VO for your virtual office in Mathews is more than a practical choice; it’s a strategic advantage. Are you ready to elevate your business presence? Explore our exceptional virtual office solutions today.  Opus VO, Mathews @ 3116 Weddington Road, Matthews, NC 28105 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Matthews - 3116 Weddington Road | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our North Carolina, Matthews virtual office located at 3116 Weddington Road. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/north-carolina/matthews/location-1310/",
+            "og": {
+                "title": "Virtual Office in Matthews - 3116 Weddington Road | $99/Month",
+                "description": "Get the ultimate office solution for your business with our North Carolina, Matthews virtual office located at 3116 Weddington Road. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/north-carolina/matthews/location-1310/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+            }
+        }
+    }
+}

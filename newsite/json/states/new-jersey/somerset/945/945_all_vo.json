@@ -1,0 +1,89 @@
+{
+    "success": true,
+    "location_id": 945,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Somerset",
+            "state": "NJ",
+            "price": null,
+            "address": {
+                "line1": "458 Elizabeth Avenue",
+                "suite": null,
+                "city": "Somerset",
+                "state": "NJ",
+                "zip": "08873",
+                "phone": "(732) 301-3513"
+            },
+            "images": {
+                "hero": [
+                    "/assets/mail-center.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=945",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 0,
+            "nearbyPremium": 1,
+            "nearbyPremiumUrl": "/virtual-office/new-jersey/bridgewater/location-1664/",
+            "nearbyPremiumText": "to view the nearby PREMIUM Locations for the same $99/mo",
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Somerset Virtual Office",
+            "body": "Interested in a high-end Somerset address, but not the overhead and upkeep of a brick-and-mortar space? Look no further than Opus VO. Position your venture in Somerset’s thriving business community, all while keeping your costs under control. Should you need to conduct essential meetings or host team brainstorming sessions, our contemporary conference rooms are at your disposal.  When you choose our virtual workspace in Somerset, you’re getting more than just an influential address. You also tap into the services of a professional live receptionist who will integrate seamlessly with your existing team. They’ll ensure that every client engagement is on-brand, freeing us to handle routine administrative work, while you focus on steering your business toward success. ",
+            "map": {
+                "lat": 40.5289949,
+                "lng": -74.5404366,
+                "zoom": 14,
+                "city": "Somerset"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Somerset, New Jersey even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Somerset. You can also adapt to better meet your clients’ unique needs within New Jersey. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Somerset virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Somerset?",
+                "body": "Somerset isn’t just a charming locale; it’s also a hotspot for business with opportunities in sectors like tech, healthcare, and services. A Somerset address adds gravitas to your venture and unlocks access to valuable networking events and significant industry players.  Opting for Opus VO in Somerset isn’t just about making life easier; it’s a strategic move. Are you ready to take your business game up a notch? Check out our diversified range of virtual workspace offerings today.  Opus VO, Somerset @458 Elizabeth Avenue, Somerset, NJ 08873    ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Somerset - 458 Elizabeth Avenue | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our New Jersey, Somerset virtual office located at 458 Elizabeth Avenue. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/new-jersey/somerset/location-945/",
+            "og": {
+                "title": "Virtual Office in Somerset - 458 Elizabeth Avenue | $99/Month",
+                "description": "Get the ultimate office solution for your business with our New Jersey, Somerset virtual office located at 458 Elizabeth Avenue. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/new-jersey/somerset/location-945/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+            }
+        }
+    }
+}

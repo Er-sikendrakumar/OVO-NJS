@@ -1,0 +1,109 @@
+{
+    "success": true,
+    "location_id": 942,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Wilmington",
+            "state": "DE",
+            "price": null,
+            "address": {
+                "line1": "1201 North Market Street",
+                "suite": "Suite 111",
+                "city": "Wilmington",
+                "state": "DE",
+                "zip": "19801",
+                "phone": "(302) 298-0000"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/Opus-Virtual-Office-Wilmington-1201-North-Market-Street-Exterior.webp",
+                    "/wp-content-mgr/wp-content/uploads/Opus-Virtual-Office-Wilmington-1201-North-Market-Street-Executive-Boardroom.webp",
+                    "/wp-content-mgr/wp-content/uploads/Opus-Virtual-Office-Wilmington-1201-North-Market-Street-Intimate-Meeting-Room.webp",
+                    "/wp-content-mgr/wp-content/uploads/Opus-Virtual-Office-Wilmington-1201-North-Market-Street-Oval-Meeting-Room.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 1
+            },
+            "addressOnlyOptionAvailable": 1,
+            "addressOnlyUrl": "/business-address/delaware/wilmington/location-942/",
+            "signupUrl": "/signup/?locid=942",
+            "openingHours": {
+                "opens": "08:30:00",
+                "closes": "17:30:00",
+                "daysOfWeek": [
+                    "Monday",
+                    "Tuesday",
+                    "Wednesday",
+                    "Thursday",
+                    "Friday"
+                ]
+            },
+            "opusowned": 1,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Delaware Virtual Office",
+            "body": "Embrace the next generation of business with an Opus Virtual Office in Delaware. Positioned in a state known for its business-friendly environment and innovative spirit, Opus introduces a virtual office solution tailored for visionaries who prioritize both reputation and agility. Acquire a distinguished business address in Delaware’s prime business locales, ensuring your company radiates a solid brand image without the hefty costs associated with traditional office spaces.   Our services extend far beyond a business address. In a business world rapidly gravitating towards virtual offices, our Delaware-centric suites merge finesse with functionality, encompassing complete call handling, mail processing, and first-class administrative support so your clients know they are your top priority.  Capitalize on the multifaceted benefits of our Delaware virtual office solutions. ",
+            "map": {
+                "lat": 39.7479883,
+                "lng": -75.5469842,
+                "zoom": 14,
+                "city": "Wilmington"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Wilmington, Delaware even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Wilmington. You can also adapt to better meet your clients’ unique needs within Delaware. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Wilmington virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Virtual Office in Wilmington De.? Here's Why",
+                "body": "Wilmington, Delaware, is more than just a financial center; it’s a growing hive of opportunity across sectors like healthcare, technology, and legal services. Our Wilmington location is ideally placed, giving you direct routes to essential industry players and must-attend networking events.  By choosing an Opus Virtual Office in Wilmington, De., you’re doing more than just minimizing costs—you’re acquiring a critical edge over your competitors. So, are you ready to up your business game? Our premier virtual office services are ready and waiting.  Opus VO Wilmington @ 1201 North Market Street, Suite 111 Wilmington, DE 19801 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            },
+            {
+                "title": "OPUS VO HAS YOU COVERED",
+                "body": "Our Willmington, Delaware virtual office is on Market Street, a mere 4-minute walk to many outdoor eateries and pubs, including the new food hall, that attracts many young professionals. In close proximity to the I-95, it is easily accessible for day travelers and lunch business meetings. You can duck into the Brandywine Zoo or the Casino @ Delaware Park when you need a break from day meetings. Both are a short distance away. This is the perfect location for any entrepreneur looking to set up shop and get the best benefits for their corporation. As an Opus VO premium client, you receive the following services: inbound/outbound call transfer, live receptionist call answer, digital mail sort, corporate mailing address, voicemail conversion to other digital services, and conference rooms for when you need those face-to-face meetings on demand.",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/botaraton-covered.png",
+                "layout": "image_text",
+                "imageAlignment": "left"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Wilmington - 1201 North Market Street | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Delaware, Wilmington virtual office located at 1201 North Market Street. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/delaware/wilmington/location-942/",
+            "og": {
+                "title": "Virtual Office in Wilmington - 1201 North Market Street | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Delaware, Wilmington virtual office located at 1201 North Market Street. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/delaware/wilmington/location-942/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/Opus-Virtual-Office-Wilmington-1201-North-Market-Street-Exterior.webp"
+            }
+        }
+    }
+}

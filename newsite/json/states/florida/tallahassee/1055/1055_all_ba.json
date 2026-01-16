@@ -1,0 +1,92 @@
+{
+    "success": true,
+    "location_id": 1055,
+    "mode": "business-address",
+    "data": {
+        "header": {
+            "city": "Tallahassee",
+            "state": "FL",
+            "price": null,
+            "address": {
+                "line1": "1334 Timberlane Road",
+                "suite": null,
+                "city": "Tallahassee",
+                "state": "FL",
+                "zip": "32312",
+                "phone": "(850) 745-3164"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/1055-01.Building.webp",
+                    "/wp-content-mgr/wp-content/uploads/1055-entrance-734x550.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1055-reception-726x550.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1055-board-room-734x550.jpg"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 1,
+            "addressOnlyUrl": "/business-address/florida/tallahassee/location-1055/",
+            "signupUrl": "/signup/?locid=1055",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 1,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Tallahassee Virtual Office",
+            "body": "Secure a prestigious business address in Tallahassee without the financial strain of a physical location. With Opus VO, you can situate your enterprise in the midst of Tallahassee’s bustling commerce, all the while keeping your overhead low. When it’s crunch time for high-stakes meetings, our state-of-the-art conference rooms are your secret weapon.  Choose the virtual path in Tallahassee through Opus VO, and a specialized live receptionist will strive to make each client interaction feel like a seamless extension of your own brand. Unload your routine administrative tasks onto us, allowing you more time to pursue your business vision. ",
+            "map": {
+                "lat": 30.5038732,
+                "lng": -84.2573055,
+                "zoom": 14,
+                "city": "Tallahassee"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Tallahassee, Florida even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Tallahassee. You can also adapt to better meet your clients’ unique needs within Florida. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Tallahassee virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Tallahassee?",
+                "body": "Don’t sell Tallahassee short. It’s not just a political hub; it’s a thriving landscape for a variety of sectors including law, education, and tech. Placing your virtual office in Tallahassee connects you to a valuable network of professionals and growth opportunities.  Picking Opus VO in Tallahassee is more than a cost-saving measure—it’s a tactical advantage. Eager to push your business forward? Our exceptional virtual office services await you.  Choose from two Opus VO locations in Tallahassee @ 1334 Timberlane Road, Tallahassee, FL 32312 or 1563 Capital Circle SE, Tallahassee, FL 32301 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Prestigious Business Address 1334 Timberlane Road Tallahassee | $59/month",
+            "meta_description": "Impress clients with a virtual office at 1334 Timberlane Road Tallahassee enjoy a prime location mail handling digital alerts and privacy for only $59/month",
+            "canonical": "https://www.opusvirtualoffices.com/business-address/florida/tallahassee/location-1055/",
+            "og": {
+                "title": "Prestigious Business Address 1334 Timberlane Road Tallahassee | $59/month",
+                "description": "Impress clients with a virtual office at 1334 Timberlane Road Tallahassee enjoy a prime location mail handling digital alerts and privacy for only $59/month",
+                "url": "https://www.opusvirtualoffices.com/business-address/florida/tallahassee/location-1055/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/1055-01.Building.webp"
+            }
+        }
+    }
+}

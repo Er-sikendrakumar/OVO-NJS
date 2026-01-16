@@ -1,0 +1,94 @@
+{
+    "success": true,
+    "location_id": 1206,
+    "mode": "business-address",
+    "data": {
+        "header": {
+            "city": "Boston",
+            "state": "MA",
+            "price": null,
+            "address": {
+                "line1": "265 Franklin Street",
+                "suite": null,
+                "city": "Boston",
+                "state": "MA",
+                "zip": "02110",
+                "phone": "(617) 802-4204"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/1206-001-Building.jpg",
+                    "/wp-content-mgr/wp-content/uploads/2Lobby-5-800x545.jpg",
+                    "/wp-content-mgr/wp-content/uploads/3Reception-4-800x532.jpg",
+                    "/wp-content-mgr/wp-content/uploads/5BoardRoom-800x529.jpg",
+                    "/wp-content-mgr/wp-content/uploads/6ConferenceRoom-800x536.jpg",
+                    "/wp-content-mgr/wp-content/uploads/9office2_8_6_12-800x550.jpg"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 1,
+            "addressOnlyUrl": "/business-address/massachusetts/boston/location-1206/",
+            "signupUrl": "/signup/?locid=1206",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 1,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Boston Virtual Office",
+            "body": "Reap the benefits of a prestigious business address in Boston, without the complications and financial burden of a traditional office environment. Opus VO presents you with the opportunity to establish your business in a high-end Boston location, all at a fraction of the cost of conventional office spaces. Manage your professional communications, greet your clientele, and hold meetings in our modern, fully-equipped conference rooms. Strengthen your corporate presence with a noteworthy address in one of Boston’s elite business districts.  Choosing a virtual office in Boston through Opus VO provides you with the exclusive feature of a live receptionist, offering tailored, top-tier client service experiences. Each client interaction is meticulously designed to meet your unique business needs and is supported by a full spectrum of administrative services, including complete mail management, best-in-class call management, and more. Our experienced administrative staff will handle your routine activities, freeing you up to focus on strategic planning and business expansion. ",
+            "map": {
+                "lat": 42.3564979,
+                "lng": -71.0533518,
+                "zoom": 14,
+                "city": "Boston"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Boston, Massachusetts even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Boston. You can also adapt to better meet your clients’ unique needs within Massachusetts. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Boston virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why choose a Boston Virtual Office?",
+                "body": "Boston is more than a hub of history and academia; it’s a thriving economic powerhouse with diverse sectors like biotechnology, finance, and tech startups. Position your business in this dynamic landscape to access local opportunities that can substantially boost your revenue. Strategically located near key commercial centers and social venues, our Boston location offers you convenient access to vital networking events and industry conferences.  By selecting an Opus Virtual Office in Boston, you not only minimize costs related to traditional office spaces but also gain a competitive advantage in the marketplace. Propel your business to new heights by leveraging our state-of-the-art virtual office services today.    Opus VO, Boston @ 265 Franklin Street, Boston, MA 02110      ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Prestigious Business Address 265 Franklin Street Boston | $59/month",
+            "meta_description": "Impress clients with a virtual office at 265 Franklin Street Boston enjoy a prime location mail handling digital alerts and privacy for only $59/month",
+            "canonical": "https://www.opusvirtualoffices.com/business-address/massachusetts/boston/location-1206/",
+            "og": {
+                "title": "Prestigious Business Address 265 Franklin Street Boston | $59/month",
+                "description": "Impress clients with a virtual office at 265 Franklin Street Boston enjoy a prime location mail handling digital alerts and privacy for only $59/month",
+                "url": "https://www.opusvirtualoffices.com/business-address/massachusetts/boston/location-1206/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/1206-001-Building.jpg"
+            }
+        }
+    }
+}

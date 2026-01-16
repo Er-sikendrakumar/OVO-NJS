@@ -1,0 +1,77 @@
+{
+    "success": true,
+    "state": "idaho",
+    "cities_virtual": [
+        {
+            "id": "530",
+            "name": "Boise",
+            "popular": "1"
+        },
+        {
+            "id": "905",
+            "name": "Coeur D Alene",
+            "popular": "0"
+        },
+        {
+            "id": "383",
+            "name": "Dalton Gardens",
+            "popular": "1"
+        }
+    ],
+    "cities_business": [
+        {
+            "id": "905",
+            "name": "Coeur D Alene",
+            "popular": "0"
+        }
+    ],
+    "cities_popular": [
+        {
+            "id": "530",
+            "name": "Boise"
+        },
+        {
+            "id": "383",
+            "name": "Dalton Gardens"
+        }
+    ],
+    "locations_business_address": [
+        {
+            "id": 1739,
+            "location_name": "311 E Coeur D Alene Ave, Coeur D Alene, ID 83815",
+            "city": "Coeur D Alene",
+            "state": "Idaho",
+            "state_abbr": "ID",
+            "address": "311 E Coeur D Alene Ave, Coeur D Alene, ID 83815",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 47.675363399,
+            "point_y": -116.782081,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1739-Exterior.jpg",
+                "alttext": "Exterior of building that houses Opus Virtual Offices located in Coeur D Alene, Idaho"
+            },
+            "url": "/business-address/idaho/coeur-d-alene/location-1739/",
+            "phone": "2085153859"
+        }
+    ],
+    "meta": {
+        "cities_virtual_count": 3,
+        "cities_business_count": 1,
+        "cities_popular_count": 2,
+        "locations_business_address_count": 1
+    },
+    "seo": {
+        "title": "Virtual Business Address in Idaho | Opus Virtual Offices",
+        "meta_description": "Get a prestigious business address in Idaho with Opus. Multiple premium locations statewide mail handling privacy protection all for just $59/month.",
+        "canonical": "https://www.opusvirtualoffices.com/business-address/idaho/",
+        "og": {
+            "title": "Virtual Business Address in Idaho | Opus Virtual Offices",
+            "description": "Get a prestigious business address in Idaho with Opus. Multiple premium locations statewide mail handling privacy protection all for just $59/month.",
+            "url": "https://www.opusvirtualoffices.com/business-address/idaho/",
+            "type": "website",
+            "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+        }
+    }
+}

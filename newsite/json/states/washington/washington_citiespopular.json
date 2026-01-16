@@ -1,0 +1,19 @@
+{
+    "success": true,
+    "count": 3,
+    "state": "washington",
+    "data": [
+        {
+            "id": "322",
+            "name": "Bellevue"
+        },
+        {
+            "id": "213",
+            "name": "Seattle"
+        },
+        {
+            "id": "565",
+            "name": "Spokane"
+        }
+    ]
+}

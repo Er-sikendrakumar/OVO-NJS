@@ -1,0 +1,83 @@
+{
+    "success": true,
+    "location_id": 1312,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "St. Charles",
+            "state": "IL",
+            "price": null,
+            "address": {
+                "line1": "11 E Main Street",
+                "suite": null,
+                "city": "St. Charles",
+                "state": "IL",
+                "zip": "60174",
+                "phone": "(630) 315-2455"
+            },
+            "images": {
+                "hero": [
+                    "/assets/mail-center.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1312",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 0,
+            "nearbyPremium": 1,
+            "nearbyPremiumUrl": "/virtual-office/illinois/oak-brook-terrace/location-1632/",
+            "nearbyPremiumText": "to view the nearby PREMIUM Locations for the same $99/mo",
+            "locationDescription": "This location does not offer mail forwarding"
+        },
+        "overview": {
+            "heading": "St. Charles Virtual Office",
+            "body": "Land a prestigious business address in St. Charles without the fixed overhead of physical office space. With Opus VO, you can situate your business in the midst of St. Charles’ burgeoning economy, while preserving your financial reserves. For those imperative client consultations or mission-critical strategy sessions, our state-of-the-art conference rooms stand at the ready.  Embrace the virtual life in St. Charles through Opus VO, and you’ll gain the expertise of a dedicated live receptionist. We focus on making each client encounter a flawless extension of your unique brand identity. Send your mundane administrative tasks our way, freeing you to chase loftier business dreams. ",
+            "map": {
+                "lat": 41.9136772,
+                "lng": -88.31271079,
+                "zoom": 14,
+                "city": "St. Charles"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in St. Charles, Illinois even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of St. Charles. You can also adapt to better meet your clients’ unique needs within Illinois. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our St. Charles virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why St. Charles? Why Go Virtual?",
+                "body": "St. Charles is far more than a charming riverside locale. It’s an ascending center of business activity across various industries, from retail to technology. A business address here not only connects you with local experts but also opens doors to pivotal networking events.  Opting for Opus VO in St. Charles isn’t just a wise fiscal choice—it’s a strategic advantage. Prepared to make your next business move? Our unparalleled virtual office services await your command.  Opus VO, St. Charles @ 11 E Main Street, St. Charles, IL 60174 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "success": false,
+            "message": "Invalid page path format. Only alphanumeric characters, hyphens, underscores, and slashes allowed.",
+            "page": "virtual-office/illinois/st.-charles/location-1312",
+            "data": []
+        }
+    }
+}

@@ -1,0 +1,93 @@
+{
+    "success": true,
+    "location_id": 1584,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Burlington",
+            "state": "MA",
+            "price": null,
+            "address": {
+                "line1": "10 Mall Road",
+                "suite": null,
+                "city": "Burlington",
+                "state": "MA",
+                "zip": "01803",
+                "phone": "(888) 898-9868"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/1584-exterior.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1584-conference.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1584-conference2.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1584-lounge2.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1584-lounge.jpg"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1584",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Burlington Virtual Office",
+            "body": "Claim a distinguished Burlington business address without the financial burden of a physical office space. At Opus VO, you can situate your venture amid Burlington’s thriving business environment while still being judicious with your capital. Need a venue for an essential client meeting or a high-stakes presentation? Our sophisticated conference rooms are at your service, designed to captivate and impress.  Get a virtual office in Burlington through Opus VO, and benefit from our dedicated live receptionist feature. We ensure that each client communication resonates with the values and vibe of your own unique brand. Outsource your routine clerical work to us, freeing you up to chase greater entrepreneurial objectives. ",
+            "map": {
+                "lat": 42.4915083,
+                "lng": -71.1954326,
+                "zoom": 14,
+                "city": "Burlington"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Burlington, Massachusetts even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Burlington. You can also adapt to better meet your clients’ unique needs within Massachusetts. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Burlington virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Burlington?",
+                "body": "Not to be underestimated, Burlington is a hub of innovation, attracting a range of industries from tech to finance. Having a virtual office in Burlington grants you access to influential networks and events that can elevate your business visibility.  By choosing Opus VO in Burlington, you’re not merely saving money—you’re gaining a competitive edge. Ready to escalate your business to new heights? Our premium virtual office services await your command.  Opus VO Burlington @ 10 Mall Road, Burlington, MA 01803 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Burlington - 10 Mall Road | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Massachusetts, Burlington virtual office located at 10 Mall Road. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/massachusetts/burlington/location-1584/",
+            "og": {
+                "title": "Virtual Office in Burlington - 10 Mall Road | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Massachusetts, Burlington virtual office located at 10 Mall Road. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/massachusetts/burlington/location-1584/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/1584-exterior.jpg"
+            }
+        }
+    }
+}

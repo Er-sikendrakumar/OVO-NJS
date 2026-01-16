@@ -1,0 +1,232 @@
+{
+    "success": true,
+    "state": "indiana",
+    "cities_virtual": [
+        {
+            "id": "909",
+            "name": "Beech Grove",
+            "popular": "0"
+        },
+        {
+            "id": "877",
+            "name": "Carmel",
+            "popular": "0"
+        },
+        {
+            "id": "863",
+            "name": "Dyer",
+            "popular": "0"
+        },
+        {
+            "id": "665",
+            "name": "Fort Wayne",
+            "popular": "1"
+        },
+        {
+            "id": "188",
+            "name": "Indianapolis",
+            "popular": "1"
+        },
+        {
+            "id": "811",
+            "name": "Merrillville",
+            "popular": "1"
+        },
+        {
+            "id": "151",
+            "name": "Scottsburg",
+            "popular": "1"
+        }
+    ],
+    "cities_business": [],
+    "cities_popular": [
+        {
+            "id": "665",
+            "name": "Fort Wayne"
+        },
+        {
+            "id": "188",
+            "name": "Indianapolis"
+        },
+        {
+            "id": "811",
+            "name": "Merrillville"
+        },
+        {
+            "id": "151",
+            "name": "Scottsburg"
+        }
+    ],
+    "locations_virtual_office": [
+        {
+            "id": 1747,
+            "location_name": "301 Main Street, Beech Grove, IN 46107",
+            "city": "Beech Grove",
+            "state": "Indiana",
+            "state_abbr": "IN",
+            "address": "301 Main Street, Beech Grove, IN 46107",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 39.7215262,
+            "point_y": -86.08517669,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1747-Exterior.webp",
+                "alttext": "Exterior of building that houses Opus Virtual Offices located in Beech Grove, Indiana"
+            },
+            "url": "/virtual-office/indiana/beech-grove/location-1747/",
+            "phone": "3179070401"
+        },
+        {
+            "id": 1676,
+            "location_name": "38 West Main Street, Carmel, IN 46032",
+            "city": "Carmel",
+            "state": "Indiana",
+            "state_abbr": "IN",
+            "address": "38 West Main Street, Carmel, IN 46032",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 39.9785393,
+            "point_y": -86.12810689,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/Virtual-Office-at-Carmel-Indiana-Exterior-at-38-West-Main-Street.webp",
+                "alttext": "Exterior view of Opus Virtual Offices' 38 West Main Street, Carmel, Indiana location and street parking."
+            },
+            "url": "/virtual-office/indiana/carmel/location-1676/",
+            "phone": "3172071674"
+        },
+        {
+            "id": 1634,
+            "location_name": "425 Joliet Street, Dyer, IN 46311",
+            "city": "Dyer",
+            "state": "Indiana",
+            "state_abbr": "IN",
+            "address": "425 Joliet Street, Dyer, IN 46311",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 41.4939275,
+            "point_y": -87.51760039,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1634-001-Building.webp",
+                "alttext": null
+            },
+            "url": "/virtual-office/indiana/dyer/location-1634/",
+            "phone": "2198372669"
+        },
+        {
+            "id": 1350,
+            "location_name": "3201 Stellhorn Road, Fort Wayne, IN 46815",
+            "city": "Fort Wayne",
+            "state": "Indiana",
+            "state_abbr": "IN",
+            "address": "3201 Stellhorn Road, Fort Wayne, IN 46815",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 41.1198103,
+            "point_y": -85.09888189,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1350-01.Building.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/indiana/fort-wayne/location-1350/",
+            "phone": "2602402913"
+        },
+        {
+            "id": 1745,
+            "location_name": "8520 Allison Pointe Blvd, Indianapolis, IN 46250",
+            "city": "Indianapolis",
+            "state": "Indiana",
+            "state_abbr": "IN",
+            "address": "8520 Allison Pointe Blvd, Indianapolis, IN 46250",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 39.90952,
+            "point_y": -86.08510539,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1745-Exterior.jpg",
+                "alttext": "Exterior of building that houses Opus Virtual Offices located in Indianapolis, Indiana"
+            },
+            "url": "/virtual-office/indiana/indianapolis/location-1745/",
+            "phone": "3179070393"
+        },
+        {
+            "id": 527,
+            "location_name": "11715 Fox Road, Indianapolis, IN 46236",
+            "city": "Indianapolis",
+            "state": "Indiana",
+            "state_abbr": "IN",
+            "address": "11715 Fox Road, Indianapolis, IN 46236",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 39.9017895,
+            "point_y": -85.9592773,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/indiana/indianapolis/location-527/",
+            "phone": "3176532659"
+        },
+        {
+            "id": 1516,
+            "location_name": "5164 E 81st Avenue, Merrillville, IN 46410",
+            "city": "Merrillville",
+            "state": "Indiana",
+            "state_abbr": "IN",
+            "address": "5164 E 81st Avenue, Merrillville, IN 46410",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 41.4717241,
+            "point_y": -87.2741533,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1516-exterior.jpeg",
+                "alttext": "Exterior of building that houses Opus Virtual Offices located in Merrillville, Indiana"
+            },
+            "url": "/virtual-office/indiana/merrillville/location-1516/",
+            "phone": "2192456748"
+        },
+        {
+            "id": 311,
+            "location_name": "1609 West McClain Avenue, Scottsburg, IN 47170",
+            "city": "Scottsburg",
+            "state": "Indiana",
+            "state_abbr": "IN",
+            "address": "1609 West McClain Avenue, Scottsburg, IN 47170",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 38.6849895,
+            "point_y": -85.7963832,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/indiana/scottsburg/location-311/",
+            "phone": "8127789374"
+        }
+    ],
+    "meta": {
+        "cities_virtual_count": 7,
+        "cities_business_count": 0,
+        "cities_popular_count": 4,
+        "locations_virtual_office_count": 8
+    },
+    "seo": {
+        "title": "Virtual Office in Indiana | Locations Statewide | Opus VO",
+        "meta_description": "Get a prestigious Indiana business address and professional phone answering services with Opus Virtual Offices, the perfect office solution for your business needs.",
+        "canonical": "https://www.opusvirtualoffices.com/virtual-office/indiana/",
+        "og": {
+            "title": "Virtual Office in Indiana | Locations Statewide | Opus VO",
+            "description": "Get a prestigious Indiana business address and professional phone answering services with Opus Virtual Offices, the perfect office solution for your business needs.",
+            "url": "https://www.opusvirtualoffices.com/virtual-office/indiana/",
+            "type": "website",
+            "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+        }
+    }
+}

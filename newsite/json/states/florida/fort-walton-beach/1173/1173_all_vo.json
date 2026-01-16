@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "location_id": 1173,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Fort Walton Beach",
+            "state": "FL",
+            "price": null,
+            "address": {
+                "line1": "1992 Lewis Turner Blvd.",
+                "suite": null,
+                "city": "Fort Walton Beach",
+                "state": "FL",
+                "zip": "32547",
+                "phone": "(850) 801-2021"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/1173-001-Building-e1709912425903.jpg",
+                    "/wp-content-mgr/wp-content/uploads/2Reception31.jpg",
+                    "/wp-content-mgr/wp-content/uploads/3MeetingRoom--794x550.jpg"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1173",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Fort Walten Beach Virtual Office",
+            "body": "Upgrade your business presence with a prestigious Fort Walton Beach address, all without the overhead of a physical office. Opus VO offers an economical solution that places your company right in the heart of this vibrant area. When it’s time for those critical in-person meetings, our state-of-the-art conference rooms are at your disposal.  By choosing a virtual office in Fort Walton Beach via Opus VO, you also secure a live receptionist to complement your business. Our focus is on delivering a customer experience that aligns seamlessly with your brand’s unique ethos. Let us handle the routine administrative tasks, freeing you to concentrate on business expansion. ",
+            "map": {
+                "lat": 30.4691919,
+                "lng": -86.61088339,
+                "zoom": 14,
+                "city": "Fort Walton Beach"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Fort Walton Beach, Florida even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Fort Walton Beach. You can also adapt to better meet your clients’ unique needs within Florida. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Fort Walton Beach virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Fort Walton Beach?",
+                "body": "Beyond its coastal appeal, Fort Walton Beach is a burgeoning hub for industries like defense, tourism, and healthcare. Our strategic Fort Walton Beach location grants you easy access to important industry networks and a calendar full of impactful networking events.  With an Opus VO virtual office in Fort Walton Beach, you’re not merely saving on expenses—you’re seizing a competitive advantage. Take the plunge into our world-class virtual office services now.  Opus VO, Fort Walton Beach @ 1992 Lewis Turner Blvd., Fort Walton Beach, FL 32547 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Fort Walton Beach - 1992 Lewis Turner Blvd. | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Florida, Fort Walton Beach virtual office located at 1992 Lewis Turner Blvd.. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/florida/fort-walton-beach/location-1173/",
+            "og": {
+                "title": "Virtual Office in Fort Walton Beach - 1992 Lewis Turner Blvd. | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Florida, Fort Walton Beach virtual office located at 1992 Lewis Turner Blvd.. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/florida/fort-walton-beach/location-1173/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/1173-001-Building-e1709912425903.jpg"
+            }
+        }
+    }
+}

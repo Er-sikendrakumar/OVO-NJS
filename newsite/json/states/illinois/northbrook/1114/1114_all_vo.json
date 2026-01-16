@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "location_id": 1114,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Northbrook",
+            "state": "IL",
+            "price": null,
+            "address": {
+                "line1": "1363 Shermer Road",
+                "suite": null,
+                "city": "Northbrook",
+                "state": "IL",
+                "zip": "60062",
+                "phone": "(847) 457-4950"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/1114-exterior.png",
+                    "/wp-content-mgr/wp-content/uploads/1114-Conference.png",
+                    "/wp-content-mgr/wp-content/uploads/1114-Reception.png"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1114",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 1,
+            "nearbyPremiumUrl": "/virtual-office/illinois/chicago/location-1430/",
+            "nearbyPremiumText": "to view the most POPULAR locations nearby for the same $99/mo",
+            "locationDescription": "This location does not offer mail forwarding"
+        },
+        "overview": {
+            "heading": "Northbrook Virtual Office",
+            "body": "Secure a prestigious Northbrook address without the premium price of a physical location. With Opus VO, you can station your business in the heart of Northbrook’s dynamic business community, all while safeguarding your financial capital. When it’s time for those high-stakes meetings or essential client pitches, our luxurious conference rooms stand at the ready.  By selecting the virtual option in Northbrook through Opus VO, you also gain a dedicated live receptionist. We ensure that every point of contact with your clientele resonates with your brand’s unique aura. Let us handle the day-to-day admin clutter, liberating you to achieve your business ambitions. ",
+            "map": {
+                "lat": 42.127450499,
+                "lng": -87.8283416,
+                "zoom": 14,
+                "city": "Northbrook"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Northbrook, Illinois even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Northbrook. You can also adapt to better meet your clients’ unique needs within Illinois. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Northbrook virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Northbrook?",
+                "body": "Don’t overlook Northbrook; it’s not just a suburban enclave. It’s a thriving center for sectors like finance, technology, and healthcare. Claiming a Northbrook address connects you with industry influencers and beneficial networking events.  Opting for Opus VO in Northbrook isn’t just an economical choice—it’s a strategic maneuver. Ready to propel your business forward? Our unrivaled virtual office services are here to serve you.  Opus VO, Northbrook @ 1363 Shermer Road, Northbrook, IL 60062 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Northbrook - 1363 Shermer Road | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Illinois, Northbrook virtual office located at 1363 Shermer Road. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/illinois/northbrook/location-1114/",
+            "og": {
+                "title": "Virtual Office in Northbrook - 1363 Shermer Road | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Illinois, Northbrook virtual office located at 1363 Shermer Road. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/illinois/northbrook/location-1114/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/1114-exterior.png"
+            }
+        }
+    }
+}

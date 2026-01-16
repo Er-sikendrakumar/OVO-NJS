@@ -1,0 +1,110 @@
+{
+    "success": true,
+    "location_id": 1323,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Houston",
+            "state": "TX",
+            "price": null,
+            "address": {
+                "line1": "3050 Post Oak Blvd",
+                "suite": "Suite 510",
+                "city": "Houston",
+                "state": "TX",
+                "zip": "77056",
+                "phone": "(281) 954-2788"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/Opus-Virtual-Office-Houston-3050-Post-Oak-Blvd-Glass-Tower-Exterior.webp",
+                    "/wp-content-mgr/wp-content/uploads/Opus-Virtual-Office-Houston-3050-Post-Oak-Blvd-Conference-Room-with-a-View.webp",
+                    "/wp-content-mgr/wp-content/uploads/Opus-Virtual-Office-Houston-3050-Post-Oak-Blvd-Executive-Boardroom.webp",
+                    "/wp-content-mgr/wp-content/uploads/Opus-Virtual-Office-Houston-3050-Post-Oak-Blvd-Reflective-Glass-Building.webp",
+                    "/wp-content-mgr/wp-content/uploads/Opus-Virtual-Office-Houston-3050-Post-Oak-Blvd-Tech-Ready-Meeting-Room.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 1
+            },
+            "addressOnlyOptionAvailable": 1,
+            "addressOnlyUrl": "/business-address/texas/houston/location-1323/",
+            "signupUrl": "/signup/?locid=1323",
+            "openingHours": {
+                "opens": "09:00:00",
+                "closes": "18:00:00",
+                "daysOfWeek": [
+                    "Monday",
+                    "Tuesday",
+                    "Wednesday",
+                    "Thursday",
+                    "Friday"
+                ]
+            },
+            "opusowned": 1,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Houston Virtual Offices",
+            "body": "Blast off to new heights in the space city of Houston with a prestigious business address and meeting rooms from Opus VO. Surrounded by lush trees and tranquil lakes, 3050 Post Oak is the picturesque location that many companies dream about. This deluxe Class-A building features a private parking garage, 24/7 security, controlled office space access, and a walkability score of 86, making it the quintessential place to set up your business workspace in Houston. 3050 Post Oak is more than just a prime location—it’s where professionalism meets convenience. Whether you need flexible meeting rooms for client presentations or a sophisticated workspace to conduct your day-to-day operations, this office address sets the tone for success. Your new business address is located a hop, skip, and a jump away from the Houston Galleria, the largest luxury mall in Texas. Featuring top retailers, 4-star hotels, and fine dining establishments, the Galleria is the perfect place to explore before or after your successful meeting.",
+            "map": {
+                "lat": 29.7338521,
+                "lng": -95.4628312,
+                "zoom": 14,
+                "city": "Houston"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Houston, Texas even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Houston. You can also adapt to better meet your clients’ unique needs within Texas. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Houston virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "WHY OPUS?",
+                "body": "Opting for a virtual office in Houston through Opus VO gives you the exclusive advantage of a live receptionist committed to offering personalized, top-tier client service. Every point of client contact is carefully designed to resonate with your unique business objectives, supported by our wide range of administrative and office services. These amenities include a corporate mailing address, digital mail sorting, company phone and fax number, state-of-the-art call-forwarding options, and beyond. Our efficient administrative staff will manage your day-to-day tasks, freeing you to concentrate on your company’s strategic growth and success. Opus VO, Houston @ 3050 Post Oak Blvd, Suite 510 Houston, TX 77056   ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            },
+            {
+                "title": "CHOOSE HOUSTON",
+                "body": "Home to dozens of Fortune 500 companies and NASA, Houston is the dynamic business heart of Texas. Houston’s business economy thrives on diversification. Major industries include healthcare, technology, biomedical research, and manufacturing. Houston’s pro-business mindset and low taxes encourages relocation and expansion. Endless amenities such as nationally ranked public golf courses and world-renowned museums place Houston as a hub for families in the Southwest. With multiple international airports and the Johnson Space Center near your new Houston office, your business will enter the stratosphere.",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/botaraton-covered.png",
+                "layout": "image_text",
+                "imageAlignment": "left"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Houston - 3050 Post Oak Blvd | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Texas, Houston virtual office located at 3050 Post Oak Blvd. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/texas/houston/location-1323/",
+            "og": {
+                "title": "Virtual Office in Houston - 3050 Post Oak Blvd | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Texas, Houston virtual office located at 3050 Post Oak Blvd. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/texas/houston/location-1323/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/Opus-Virtual-Office-Houston-3050-Post-Oak-Blvd-Glass-Tower-Exterior.webp"
+            }
+        }
+    }
+}

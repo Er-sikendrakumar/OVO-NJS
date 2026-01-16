@@ -1,0 +1,89 @@
+{
+    "success": true,
+    "location_id": 409,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Bronx",
+            "state": "NY",
+            "price": null,
+            "address": {
+                "line1": "557 Grand Concourse",
+                "suite": null,
+                "city": "Bronx",
+                "state": "NY",
+                "zip": "10451",
+                "phone": "(718) 536-2397"
+            },
+            "images": {
+                "hero": [
+                    "/assets/mail-center.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=409",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 0,
+            "nearbyPremium": 1,
+            "nearbyPremiumUrl": "/virtual-office/new-york/new-york/location-1450/",
+            "nearbyPremiumText": "to view nearby PREMIUM Locations that offer Meeting Rooms for the same $99/mo",
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Bronx Virtual Office",
+            "body": "Interested in a Bronx address but don’t want the hassle of a traditional office? Opus VO has got your back. Establish your venture in the midst of the Bronx’s bustling business community, all while staying budget-friendly. And when it comes to must-have meetings or team collaborations, our top-tier conference rooms are set to impress.  By opting for our virtual workspace in the Bronx, you’re getting more than just a great address. You also secure a skilled live receptionist who becomes an extension of your team. They’ll ensure every client conversation resonates with your unique brand ethos, allowing us to manage the nitty-gritty admin stuff while you focus on achieving your business goals. ",
+            "map": {
+                "lat": 40.81909,
+                "lng": -73.927229,
+                "zoom": 14,
+                "city": "Bronx"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Bronx, New York even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Bronx. You can also adapt to better meet your clients’ unique needs within New York. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Bronx virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why the Bronx?",
+                "body": "The Bronx is not just an iconic borough; it’s also a thriving business landscape with ample opportunities across various sectors, such as healthcare, retail, and services. Sporting a Bronx address doesn’t just boost your business profile; it also connects you to invaluable networking events and industry insiders.  Choosing Opus VO for your virtual workspace in the Bronx isn’t just about saving time and money; it’s a tactical win. Ready to up your business game? Explore our range of virtual workspace solutions today.  Opus VO, Bronx @ 557 Grand Concourse, Bronx, NY 10451 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Bronx - 557 Grand Concourse | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our New York, Bronx virtual office located at 557 Grand Concourse. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/new-york/bronx/location-409/",
+            "og": {
+                "title": "Virtual Office in Bronx - 557 Grand Concourse | $99/Month",
+                "description": "Get the ultimate office solution for your business with our New York, Bronx virtual office located at 557 Grand Concourse. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/new-york/bronx/location-409/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+            }
+        }
+    }
+}

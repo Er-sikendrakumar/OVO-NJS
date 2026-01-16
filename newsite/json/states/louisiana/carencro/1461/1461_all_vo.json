@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "location_id": 1461,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Carencro",
+            "state": "LA",
+            "price": null,
+            "address": {
+                "line1": "3419 NW Evangeline Thwy",
+                "suite": null,
+                "city": "Carencro",
+                "state": "LA",
+                "zip": "70520",
+                "phone": "(337) 592-6005"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/1461-01.bldg-.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1461-conference.png",
+                    "/wp-content-mgr/wp-content/uploads/1461-reception.png"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1461",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Carencro Virtual Office",
+            "body": "Claim a prestigious business address in Carencro without the cost associated with a physical workspace. With Opus VO, you can solidify your business presence in the energetic landscape of Carencro, all while conserving your financial reserves. Have a critical business meeting or a vital client pitch on the horizon? Our cutting-edge meeting rooms are geared to impress.  When you select a virtual workspace in Carencro via Opus VO, a specialized live receptionist is part of your package. Our aim is to ensure that every interaction with your clientele reflects the essence of your brand. Outsource your everyday administrative tasks to us, empowering you to focus on pursuing your business vision. ",
+            "map": {
+                "lat": 30.3022294,
+                "lng": -92.0286163,
+                "zoom": 14,
+                "city": "Carencro"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Carencro, Louisiana even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Carencro. You can also adapt to better meet your clients’ unique needs within Louisiana. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Carencro virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Carencro? Why a Virtual Office?",
+                "body": "",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Carencro - 3419 NW Evangeline Thwy | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Louisiana, Carencro virtual office located at 3419 NW Evangeline Thwy. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/louisiana/carencro/location-1461/",
+            "og": {
+                "title": "Virtual Office in Carencro - 3419 NW Evangeline Thwy | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Louisiana, Carencro virtual office located at 3419 NW Evangeline Thwy. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/louisiana/carencro/location-1461/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/1461-01.bldg-.jpg"
+            }
+        }
+    }
+}

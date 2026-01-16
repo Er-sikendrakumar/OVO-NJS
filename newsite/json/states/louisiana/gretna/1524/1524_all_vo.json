@@ -1,0 +1,89 @@
+{
+    "success": true,
+    "location_id": 1524,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Gretna",
+            "state": "LA",
+            "price": null,
+            "address": {
+                "line1": "2112 Belle Chasse Hwy",
+                "suite": null,
+                "city": "Gretna",
+                "state": "LA",
+                "zip": "70056",
+                "phone": "(504) 872-3759"
+            },
+            "images": {
+                "hero": [
+                    "/assets/mail-center.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1524",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 0,
+            "nearbyPremium": 1,
+            "nearbyPremiumUrl": "/virtual-office/louisiana/marrero/location-1657/",
+            "nearbyPremiumText": "to view the nearby PREMIUM Locations for the same $99/mo",
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Gretna Virtual Office",
+            "body": "Secure a prominent business address in Gretna without incurring the expenses of a traditional office. With Opus VO, anchor your enterprise in the dynamic atmosphere of Gretna, all the while safeguarding your financial assets. Need a venue for a vital meeting or an imperative client pitch? Our state-of-the-art conference rooms stand ready to dazzle.  When you choose a virtual office in Gretna via Opus VO, a personalized live receptionist is included in your plan. We ensure that every client interaction harmonizes seamlessly with your unique brand identity. Delegate your day-to-day clerical duties to us, liberating you to concentrate on your entrepreneurial dreams. ",
+            "map": {
+                "lat": 29.8880181,
+                "lng": -90.0318187,
+                "zoom": 14,
+                "city": "Gretna"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Gretna, Louisiana even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Gretna. You can also adapt to better meet your clients’ unique needs within Louisiana. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Gretna virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Gretna?",
+                "body": "Don’t underestimate Gretna—it’s not just scenic views. It’s an emerging nexus for a variety of sectors. By establishing your business in Gretna, you gain access to networking opportunities and industry events that can elevate your business to new heights.  Embracing Opus VO in Gretna is more than an economical choice; it’s a competitive edge. Are you prepared to take your business to the next level? Our first-class virtual office services are at your disposal.  Opus VO, Gretna @ 2112 Belle Chasse Hwy, Gretna, LA 70056 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Gretna - 2112 Belle Chasse Hwy | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Louisiana, Gretna virtual office located at 2112 Belle Chasse Hwy. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/louisiana/gretna/location-1524/",
+            "og": {
+                "title": "Virtual Office in Gretna - 2112 Belle Chasse Hwy | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Louisiana, Gretna virtual office located at 2112 Belle Chasse Hwy. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/louisiana/gretna/location-1524/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+            }
+        }
+    }
+}

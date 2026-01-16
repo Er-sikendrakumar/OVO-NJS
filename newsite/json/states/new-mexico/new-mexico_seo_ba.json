@@ -1,0 +1,22 @@
+{
+    "success": true,
+    "page": "business-address/new-mexico",
+    "page_type": "location_state",
+    "view": "state",
+    "seo": {
+        "title": "Virtual Business Address in New Mexico | Opus Virtual Offices",
+        "meta_description": "Get a prestigious business address in New Mexico with Opus. Multiple premium locations statewide mail handling privacy protection all for just $59/month.",
+        "canonical": "https://www.opusvirtualoffices.com/business-address/new-mexico/",
+        "og": {
+            "title": "Virtual Business Address in New Mexico | Opus Virtual Offices",
+            "description": "Get a prestigious business address in New Mexico with Opus. Multiple premium locations statewide mail handling privacy protection all for just $59/month.",
+            "url": "https://www.opusvirtualoffices.com/business-address/new-mexico/",
+            "type": "website",
+            "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+        }
+    },
+    "data": {
+        "state": "New Mexico",
+        "mode": "business-address"
+    }
+}

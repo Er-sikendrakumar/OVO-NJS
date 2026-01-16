@@ -1,0 +1,23 @@
+{
+    "success": true,
+    "page": "virtual-office/nova-scotia/halifax",
+    "page_type": "location_city",
+    "view": "city",
+    "seo": {
+        "title": "Virtual Office in Halifax, NS | Multiple Locations Available",
+        "meta_description": "Find the ultimate office solution with Opus Virtual Offices in Halifax, Nova Scotia. Our all-inclusive virtual offices cater to your business needs. Sign up today!",
+        "canonical": "https://www.opusvirtualoffices.com/virtual-office/nova-scotia/halifax/",
+        "og": {
+            "title": "Virtual Office in Halifax, NS | Multiple Locations Available",
+            "description": "Find the ultimate office solution with Opus Virtual Offices in Halifax, Nova Scotia. Our all-inclusive virtual offices cater to your business needs. Sign up today!",
+            "url": "https://www.opusvirtualoffices.com/virtual-office/nova-scotia/halifax/",
+            "type": "website",
+            "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+        }
+    },
+    "data": {
+        "state": "Nova Scotia",
+        "city": "Halifax",
+        "mode": "virtual-office"
+    }
+}

@@ -1,0 +1,89 @@
+{
+    "success": true,
+    "location_id": 654,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Griffin",
+            "state": "GA",
+            "price": null,
+            "address": {
+                "line1": "1697 N. Express Way",
+                "suite": null,
+                "city": "Griffin",
+                "state": "GA",
+                "zip": "30223",
+                "phone": "(770) 308-4127"
+            },
+            "images": {
+                "hero": [
+                    "/assets/mail-center.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=654",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 0,
+            "nearbyPremium": 1,
+            "nearbyPremiumUrl": "/virtual-office/georgia/jonesboro/location-1758/",
+            "nearbyPremiumText": "to view the nearby PREMIUM Locations for the same $99/mo",
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Griffin Virtual Office",
+            "body": "Get your hands on an elite business address in Griffin, minus the costs of setting up a physical office. With Opus VO, you have the liberty to position your enterprise in the energetic landscape of Griffin without burning a hole in your pocket. Have a crucial meeting or a client presentation to nail? Our state-of-the-art conference rooms are prepped and ready to dazzle.  Choosing a virtual office in Griffin via Opus VO means you get a live receptionist as part of your deal who’s committed to ensuring every client communication flows smoothly and reflects your unique business identity. Send us those repetitive admin tasks, freeing your time to focus on your business ambitions. ",
+            "map": {
+                "lat": 33.28026,
+                "lng": -84.29199,
+                "zoom": 14,
+                "city": "Griffin"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Griffin, Georgia even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Griffin. You can also adapt to better meet your clients’ unique needs within Georgia. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Griffin virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Griffin?",
+                "body": "If you thought Griffin was just another small-town charm, you need to recalibrate. This place is steadily gaining traction as a friendly environment for businesses of all shapes and sizes—from tech to manufacturing. Our Griffin location puts you in the hub of meaningful industry connections and must-attend networking events.  So, by choosing Opus VO in Griffin, you’re not merely economizing—you’re arming yourself with a strategic advantage. Are you set to kick things up a notch? Our premium virtual office services are at your fingertips.  Opus VO Griffin @ 1697 N. Express Way, Griffin, GA 30223 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Griffin - 1697 N. Express Way | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Georgia, Griffin virtual office located at 1697 N. Express Way. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/georgia/griffin/location-654/",
+            "og": {
+                "title": "Virtual Office in Griffin - 1697 N. Express Way | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Georgia, Griffin virtual office located at 1697 N. Express Way. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/georgia/griffin/location-654/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+            }
+        }
+    }
+}

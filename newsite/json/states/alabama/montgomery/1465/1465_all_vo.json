@@ -1,0 +1,89 @@
+{
+    "success": true,
+    "location_id": 1465,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Montgomery",
+            "state": "AL",
+            "price": null,
+            "address": {
+                "line1": "4171 Lomac Street",
+                "suite": null,
+                "city": "Montgomery",
+                "state": "AL",
+                "zip": "36106",
+                "phone": "(334) 659-1704"
+            },
+            "images": {
+                "hero": [
+                    "/assets/mail-center.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1465",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 0,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Montgomery Virtual Office",
+            "body": "Experience the advantages of a prestigious business address in Montgomery, without the necessity for a physical office. Opus VO offers you the opportunity to locate your business in a standout Montgomery setting at a fraction of the cost of a standard office lease. Access our state-of-the-art conference rooms for important meetings and client consultations, while bolstering your brand with a distinguished Montgomery address.  Choosing a virtual office in Montgomery through Opus VO grants you the special benefit of a live receptionist. Our team is committed to delivering personalized, exceptional customer service, ensuring each client interaction aligns with your specific business goals. Let us manage routine administrative duties like digital mail sorting and advanced call-forwarding, freeing you to focus on your company’s growth. ",
+            "map": {
+                "lat": 32.3578591,
+                "lng": -86.2344088,
+                "zoom": 14,
+                "city": "Montgomery"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Montgomery, Alabama even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Montgomery. You can also adapt to better meet your clients’ unique needs within Alabama. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Montgomery virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why choose a Montgomery Virtual Office?",
+                "body": "Montgomery is more than the state capital; it’s a burgeoning economic center with diverse opportunities in sectors such as government, healthcare, and education. Strategically located near vital business hubs, our Montgomery office provides you with convenient access to important industry connections and valuable networking events.  By selecting an Opus Virtual Office in Montgomery, you’re not only cutting operational expenses; you’re also securing a critical competitive edge for your business. Enhance your company’s potential for success by leveraging our top-tier virtual office services today.  Opus VO, Montgomery @ 4171 Lomac Street, Montgomery, Al. 36106   ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Montgomery - 4171 Lomac Street | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Alabama, Montgomery virtual office located at 4171 Lomac Street. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/alabama/montgomery/location-1465/",
+            "og": {
+                "title": "Virtual Office in Montgomery - 4171 Lomac Street | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Alabama, Montgomery virtual office located at 4171 Lomac Street. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/alabama/montgomery/location-1465/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+            }
+        }
+    }
+}

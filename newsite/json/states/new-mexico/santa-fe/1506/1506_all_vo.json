@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "location_id": 1506,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Santa Fe",
+            "state": "NM",
+            "price": null,
+            "address": {
+                "line1": "314 S Guadalupe Street",
+                "suite": null,
+                "city": "Santa Fe",
+                "state": "NM",
+                "zip": "87501",
+                "phone": "(505) 835-7981"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/1506-01.bldg_.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1506-03.meeting-733x550.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1506-04-meeting-800x433.jpg"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1506",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": "This location does not offer mail forwarding"
+        },
+        "overview": {
+            "heading": "Santa Fe Virtual Office",
+            "body": "Looking for a coveted Santa Fe address without the complications of a traditional office? Opus VO has got you sorted. Place your enterprise squarely in Santa Fe’s vibrant commercial landscape while keeping your expenses lean. For those must-attend meetings or team huddles, our state-of-the-art conference rooms are at your beck and call.  When you opt for our virtual workspace in Santa Fe, you’re gaining more than just an esteemed address. You also access a highly competent live receptionist who will integrate effortlessly with your team. They’ll ensure that each client interaction echoes your brand’s unique qualities, freeing us to manage your day-to-day admin tasks so you can focus on your core business pursuits. ",
+            "map": {
+                "lat": 35.6864145,
+                "lng": -105.94534,
+                "zoom": 14,
+                "city": "Santa Fe"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Santa Fe, New Mexico even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Santa Fe. You can also adapt to better meet your clients’ unique needs within New Mexico. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Santa Fe virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Santa Fe?",
+                "body": "Santa Fe is not just an artistic and cultural center; it’s also a fertile ground for business across various industries like tourism, tech, and healthcare. A Santa Fe address provides more than prestige; it opens doors to valuable networking events and meaningful connections within your industry.  Choosing Opus VO as your virtual workspace in Santa Fe is not merely about convenience; it’s a strategic advantage. Are you set to elevate your business to the next level? Explore our array of customizable virtual workspace packages today.  Opus VO, Santa Fe @ 314 S Guadalupe Street, Santa Fe, NM 87501 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Santa Fe - 314 S Guadalupe Street | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our New Mexico, Santa Fe virtual office located at 314 S Guadalupe Street. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/new-mexico/santa-fe/location-1506/",
+            "og": {
+                "title": "Virtual Office in Santa Fe - 314 S Guadalupe Street | $99/Month",
+                "description": "Get the ultimate office solution for your business with our New Mexico, Santa Fe virtual office located at 314 S Guadalupe Street. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/new-mexico/santa-fe/location-1506/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/1506-01.bldg_.jpg"
+            }
+        }
+    }
+}

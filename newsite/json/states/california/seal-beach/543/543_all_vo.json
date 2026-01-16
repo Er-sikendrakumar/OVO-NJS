@@ -1,0 +1,89 @@
+{
+    "success": true,
+    "location_id": 543,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Seal Beach",
+            "state": "CA",
+            "price": null,
+            "address": {
+                "line1": "1077 E. Pacific Coast Hwy",
+                "suite": null,
+                "city": "Seal Beach",
+                "state": "CA",
+                "zip": "90740",
+                "phone": "(562) 683-6147"
+            },
+            "images": {
+                "hero": [
+                    "/assets/mail-center.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=543",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 0,
+            "nearbyPremium": 1,
+            "nearbyPremiumUrl": "/virtual-office/california/los-angeles/location-1362/",
+            "nearbyPremiumText": "to view nearby PREMIUM Locations that offer Meeting Rooms for the same $99/mo",
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Seal Beach Virtual Office",
+            "body": "Enjoy the prestige of a high-profile business address in Seal Beach without the overhead of a brick-and-mortar office. Opus VO gives you the exceptional opportunity to establish your business in a first-class Seal Beach location, all without the expense of a standard office lease. Utilize our state-of-the-art conference rooms for important. business meetings and client engagements, while elevating your brand with a professional Seal Beach address.  Opting for a virtual office in Seal Beach through Opus VO provides you with a receptionist focused on offering personalized, top-notch customer service. Our team ensures that each client interaction is flawlessly aligned with your specific business goals. Let go of the daily grind of dealing with admin task, us handle your mail management and business calls. This will free ou to focus on growing your business.  ",
+            "map": {
+                "lat": 33.743765,
+                "lng": -118.100793,
+                "zoom": 14,
+                "city": "Seal Beach"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Seal Beach, California even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Seal Beach. You can also adapt to better meet your clients’ unique needs within California. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Seal Beach virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Choose a Seal Beach Virtual Office?",
+                "body": "Seal Beach isn’t merely a coastal gem; it’s the center of commerce with possibilities in industries such as maritime, tourism, and healthcare. Conveniently situated near key business districts, our Seal Beach office affords you uncomplicated access to influential industry contacts and invigorating networking events.  By choosing an Opus Virtual Office in Seal Beach, you’re doing much more than lowering your operational costs; you’re acquiring a significant edge over your competition. Catapult your business to new heights by taking advantage of our superior virtual office services today.  Opus VO Seal Beach @ 1077 E. Pacific Coast Hwy Seal Beach, CA 90740   ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Seal Beach - 1077 E. Pacific Coast Hwy | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our California, Seal Beach virtual office located at 1077 E. Pacific Coast Hwy. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/california/seal-beach/location-543/",
+            "og": {
+                "title": "Virtual Office in Seal Beach - 1077 E. Pacific Coast Hwy | $99/Month",
+                "description": "Get the ultimate office solution for your business with our California, Seal Beach virtual office located at 1077 E. Pacific Coast Hwy. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/california/seal-beach/location-543/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+            }
+        }
+    }
+}

@@ -1,0 +1,99 @@
+{
+    "success": true,
+    "state": "virginia",
+    "city": "alexandria",
+    "wp_city_post_id": null,
+    "locations": [
+        {
+            "id": "1419",
+            "name": "Alexandria",
+            "locname": "2800 Eisenhower Avenue, Alexandria, VA 22314",
+            "address": "2800 Eisenhower Avenue, Alexandria, VA 22314",
+            "city": "alexandria",
+            "state": "virginia",
+            "state_english": "Virginia",
+            "abbr": "VA",
+            "phone": "7033401416",
+            "premium": "1",
+            "opusowned": "0",
+            "showpopular": "0",
+            "point_x": "38.8016031",
+            "point_y": "-77.0817187",
+            "url": "/business-address/virginia/alexandria/location-1419/",
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1419-01.bldg_.jpg",
+                "alttext": ""
+            }
+        }
+    ],
+    "popular_locations": [],
+    "premium_locations": [
+        {
+            "id": "1419",
+            "name": "Alexandria",
+            "locname": "2800 Eisenhower Avenue, Alexandria, VA 22314",
+            "address": "2800 Eisenhower Avenue, Alexandria, VA 22314",
+            "city": "alexandria",
+            "state": "virginia",
+            "state_english": "Virginia",
+            "abbr": "VA",
+            "phone": "7033401416",
+            "premium": "1",
+            "opusowned": "0",
+            "showpopular": "0",
+            "point_x": "38.8016031",
+            "point_y": "-77.0817187",
+            "url": "/business-address/virginia/alexandria/location-1419/",
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1419-01.bldg_.jpg",
+                "alttext": ""
+            }
+        }
+    ],
+    "regular_locations": [],
+    "sections": [
+        {
+            "title": "OUR ALEXANDRIA\nVIRTUAL OFFICES",
+            "body": "<h2></h2>\n<p>Enjoy the benefits of having a business address in Alexandria Virginia without the stress and expense surrounding a “traditional office environment”. OpusVO gives you the prestige of having an office with the budget of working from home. Receive all your business mail at a professional office building. No post office box number, just a great business address to use on your business cards and other marketing material.</p>\n<p>You don’t just get a business phone number with your Alexandria virtual office, but also a live receptionist answering your calls the way you want them to be. Stop choosing between capturing new leads for your business and working on current clients. Do both. Get someone who looks out for you while you’re unable to break away.</p>\n",
+            "image": {
+                "url": "/newsite/wp-content/themes/ThemeDec23/assets/images/califonia-v-office.jpg",
+                "alt": "OUR ALEXANDRIA\nVIRTUAL OFFICES",
+                "title": "OUR ALEXANDRIA\nVIRTUAL OFFICES"
+            },
+            "layout": "image_text",
+            "imageAlignment": "right"
+        },
+        {
+            "title": "GET A VIRTUAL OFFICE\nIN ALEXANDRIA",
+            "body": "<h2></h2>\n<p>Whether you choose to work out of your home or on the road, a Alexandria virtual office will give you the freedom and flexibility to get the job done in the place and style of your choosing. With a local company phone number, live receptionist, premium call transferring, and a professional business address, Opus VO provides a cost-effective way for your company to grow or establish a presence in a new market without any long-term commitments.</p>\n",
+            "image": {
+                "url": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "alt": "GET A VIRTUAL OFFICE\nIN ALEXANDRIA",
+                "title": "GET A VIRTUAL OFFICE\nIN ALEXANDRIA"
+            },
+            "layout": "image_text",
+            "imageAlignment": "left"
+        }
+    ],
+    "faqs": [],
+    "meta": {
+        "locations_count": 1,
+        "popular_locations_count": 0,
+        "premium_locations_count": 1,
+        "regular_locations_count": 0,
+        "sections_count": 2,
+        "faqs_count": 0
+    },
+    "seo": {
+        "title": "Virtual Office in Alexandria, VA | Multiple Locations Available",
+        "meta_description": "Find the ultimate office solution with Opus Virtual Offices in Alexandria, Virginia. Our all-inclusive virtual offices cater to your business needs. Sign up today!",
+        "canonical": "https://www.opusvirtualoffices.com/business-address/virginia/alexandria/",
+        "og": {
+            "title": "Virtual Office in Alexandria, VA | Multiple Locations Available",
+            "description": "Find the ultimate office solution with Opus Virtual Offices in Alexandria, Virginia. Our all-inclusive virtual offices cater to your business needs. Sign up today!",
+            "url": "https://www.opusvirtualoffices.com/business-address/virginia/alexandria/",
+            "type": "website",
+            "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+        }
+    }
+}

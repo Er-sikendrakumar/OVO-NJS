@@ -1,0 +1,89 @@
+{
+    "success": true,
+    "location_id": 605,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Palm Harbor",
+            "state": "FL",
+            "price": null,
+            "address": {
+                "line1": "1334 Tampa Road",
+                "suite": null,
+                "city": "Palm Harbor",
+                "state": "FL",
+                "zip": "34683",
+                "phone": "(727) 437-4307"
+            },
+            "images": {
+                "hero": [
+                    "/assets/mail-center.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=605",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 0,
+            "nearbyPremium": 1,
+            "nearbyPremiumUrl": "/virtual-office/florida/tampa/location-885/",
+            "nearbyPremiumText": "to view nearby PREMIUM Locations that offer Meeting Rooms for the same $99/mo",
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Palm Harbor Virtual Office",
+            "body": "Secure a top-tier business address in Palm Harbor without the financial drain of a physical workspace. With Opus VO, you can put your business on the map in Palm Harbor’s dynamic landscape, without breaking the bank. Got a game-changing meeting or an essential client pitch on the horizon? Our high-end conference rooms are tailored to impress.  When you opt for a virtual office in Palm Harbor through Opus VO, you’ll get the benefit of a dedicated live receptionist whose aim is to make each client engagement feel like an effortless extension of your own unique brand. Offload those day-to-day administrative tasks to us so you can zero in on your business goals. ",
+            "map": {
+                "lat": 28.067848,
+                "lng": -82.76284,
+                "zoom": 14,
+                "city": "Palm Harbor"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Palm Harbor, Florida even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Palm Harbor. You can also adapt to better meet your clients’ unique needs within Florida. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Palm Harbor virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Palm Harbor?",
+                "body": "Look beyond Palm Harbor’s scenic charm—it’s a booming hub for a myriad of industries, from tourism to tech. Having a business address here means you’ll have access to invaluable contacts and significant networking events that can elevate your enterprise.  Selecting Opus VO in Palm Harbor is more than just a smart budget choice; it’s a competitive edge. Ready to take your business to the next level? Our premium virtual office services await you.  Opus VO, Palm Harbor @ 1334 Tampa Road, Palm Harbor, FL 34683 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Palm Harbor - 1334 Tampa Road | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Florida, Palm Harbor virtual office located at 1334 Tampa Road. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/florida/palm-harbor/location-605/",
+            "og": {
+                "title": "Virtual Office in Palm Harbor - 1334 Tampa Road | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Florida, Palm Harbor virtual office located at 1334 Tampa Road. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/florida/palm-harbor/location-605/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+            }
+        }
+    }
+}

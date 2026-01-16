@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "location_id": 1160,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Vancouver",
+            "state": "WA",
+            "price": null,
+            "address": {
+                "line1": "9407 NE Vancouver Mall Drive",
+                "suite": null,
+                "city": "Vancouver",
+                "state": "WA",
+                "zip": "98662",
+                "phone": "(360) 558-7386"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/1Building55.jpg",
+                    "/wp-content-mgr/wp-content/uploads/2Lobby12.jpg",
+                    "/wp-content-mgr/wp-content/uploads/3MeetingRoom14.jpg"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1160",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Vancouver Virtual Office",
+            "body": "Have you ever dreamed of a prime Vancouver address to elevate your startup or grow your existing venture, but shied away due to the expenses of a physical office? Opus VO makes that dream accessible. Stake your brand’s claim in one of our select Vancouver spots, capturing the essence of a high-end address without depleting your resources. For those moments when only the best setting will do for critical meetings or impactful client engagements, our modern conference rooms are at your service.  But the benefits extend beyond a prestigious address. With a virtual office at Opus VO in Vancouver, you’re also enlisting the dedicated support of a live receptionist. Rely on us to handle your client interactions with unmatched professionalism, all in alignment with your unique business persona. Task us with the day-to-day admin like digital mail management and advanced call-routing, leaving you free to pursue growth and innovation. ",
+            "map": {
+                "lat": 45.6574727,
+                "lng": -122.5761802,
+                "zoom": 14,
+                "city": "Vancouver"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Vancouver, Washington even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Vancouver. You can also adapt to better meet your clients’ unique needs within Washington. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Vancouver virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Opt for Vancouver and Opus VO?",
+                "body": "Vancouver is more than a stunning skyline and vibrant culture; it’s a focal point for business across varied sectors. By setting up your virtual office in Vancouver via Opus VO, you gain instant access to a bustling professional community filled with opportunities that could be your next big break.  Choosing Opus VO in Vancouver isn’t just a cost-cutting move; it’s a proactive step toward realizing your brand’s full potential. The next big thing for your business might just be a virtual office away.  Choose from 3 Opus VO Locations in Vancouver   9407 NE Van Mall Drive, Vancouver, WA 98662   15640 NE Fourth Plain Blvd., Vancouver, WA 98682  9208 NE Highway 99, Vancouver, WA 98665 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Vancouver - 9407 NE Vancouver Mall Drive | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Washington, Vancouver virtual office located at 9407 NE Vancouver Mall Drive. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/washington/vancouver/location-1160/",
+            "og": {
+                "title": "Virtual Office in Vancouver - 9407 NE Vancouver Mall Drive | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Washington, Vancouver virtual office located at 9407 NE Vancouver Mall Drive. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/washington/vancouver/location-1160/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/1Building55.jpg"
+            }
+        }
+    }
+}

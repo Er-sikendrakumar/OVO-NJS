@@ -1,0 +1,130 @@
+{
+    "success": true,
+    "state": "wisconsin",
+    "cities_virtual": [
+        {
+            "id": "335",
+            "name": "Eau Claire",
+            "popular": "1"
+        },
+        {
+            "id": "800",
+            "name": "Glendale",
+            "popular": "0"
+        },
+        {
+            "id": "602",
+            "name": "Green Bay",
+            "popular": "0"
+        },
+        {
+            "id": "417",
+            "name": "Hartford",
+            "popular": "0"
+        },
+        {
+            "id": "286",
+            "name": "Kenosha",
+            "popular": "0"
+        },
+        {
+            "id": "311",
+            "name": "Madison",
+            "popular": "1"
+        },
+        {
+            "id": "426",
+            "name": "Milwaukee",
+            "popular": "1"
+        },
+        {
+            "id": "161",
+            "name": "Superior",
+            "popular": "0"
+        }
+    ],
+    "cities_business": [
+        {
+            "id": "311",
+            "name": "Madison",
+            "popular": "1"
+        },
+        {
+            "id": "426",
+            "name": "Milwaukee",
+            "popular": "1"
+        }
+    ],
+    "cities_popular": [
+        {
+            "id": "335",
+            "name": "Eau Claire"
+        },
+        {
+            "id": "311",
+            "name": "Madison"
+        },
+        {
+            "id": "426",
+            "name": "Milwaukee"
+        }
+    ],
+    "locations_business_address": [
+        {
+            "id": 1615,
+            "location_name": "2921 Landmark Place, Madison, WI 53713",
+            "city": "Madison",
+            "state": "Wisconsin",
+            "state_abbr": "WI",
+            "address": "2921 Landmark Place, Madison, WI 53713",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 43.0325978,
+            "point_y": -89.42760799,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1615-01.bldg_-1.jpg",
+                "alttext": null
+            },
+            "url": "/business-address/wisconsin/madison/location-1615/",
+            "phone": "0"
+        },
+        {
+            "id": 1420,
+            "location_name": "313 N Plankinton Avenue, Milwaukee, WI 53203",
+            "city": "Milwaukee",
+            "state": "Wisconsin",
+            "state_abbr": "WI",
+            "address": "313 N Plankinton Avenue, Milwaukee, WI 53203",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 43.0339657,
+            "point_y": -87.91183439,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1420-01.bldg_.jpg",
+                "alttext": null
+            },
+            "url": "/business-address/wisconsin/milwaukee/location-1420/",
+            "phone": "4142030212"
+        }
+    ],
+    "meta": {
+        "cities_virtual_count": 8,
+        "cities_business_count": 2,
+        "cities_popular_count": 3,
+        "locations_business_address_count": 2
+    },
+    "seo": {
+        "title": "Virtual Business Address in Wisconsin | Opus Virtual Offices",
+        "meta_description": "Get a prestigious business address in Wisconsin with Opus. Multiple premium locations statewide mail handling privacy protection all for just $59/month.",
+        "canonical": "https://www.opusvirtualoffices.com/business-address/wisconsin/",
+        "og": {
+            "title": "Virtual Business Address in Wisconsin | Opus Virtual Offices",
+            "description": "Get a prestigious business address in Wisconsin with Opus. Multiple premium locations statewide mail handling privacy protection all for just $59/month.",
+            "url": "https://www.opusvirtualoffices.com/business-address/wisconsin/",
+            "type": "website",
+            "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+        }
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "success": true,
+    "state": "vermont",
+    "cities_virtual": [
+        {
+            "id": "537",
+            "name": "Shelburne",
+            "popular": "1"
+        }
+    ],
+    "cities_business": [
+        {
+            "id": "537",
+            "name": "Shelburne",
+            "popular": "1"
+        }
+    ],
+    "cities_popular": [
+        {
+            "id": "537",
+            "name": "Shelburne"
+        }
+    ],
+    "locations_virtual_office": [
+        {
+            "id": 861,
+            "location_name": "145 Pine Haven Shores, Shelburne, VT 05482",
+            "city": "Shelburne",
+            "state": "Vermont",
+            "state_abbr": "VT",
+            "address": "145 Pine Haven Shores, Shelburne, VT 05482",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 44.4189163,
+            "point_y": -73.2153202,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/861-001-Building.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/vermont/shelburne/location-861/",
+            "phone": "8029229887"
+        }
+    ],
+    "meta": {
+        "cities_virtual_count": 1,
+        "cities_business_count": 1,
+        "cities_popular_count": 1,
+        "locations_virtual_office_count": 1
+    },
+    "seo": {
+        "title": "Virtual Office in Vermont | Locations Statewide | Opus VO",
+        "meta_description": "Get a prestigious Vermont business address and professional phone answering services with Opus Virtual Offices, the perfect office solution for your business needs.",
+        "canonical": "https://www.opusvirtualoffices.com/virtual-office/vermont/",
+        "og": {
+            "title": "Virtual Office in Vermont | Locations Statewide | Opus VO",
+            "description": "Get a prestigious Vermont business address and professional phone answering services with Opus Virtual Offices, the perfect office solution for your business needs.",
+            "url": "https://www.opusvirtualoffices.com/virtual-office/vermont/",
+            "type": "website",
+            "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+        }
+    }
+}

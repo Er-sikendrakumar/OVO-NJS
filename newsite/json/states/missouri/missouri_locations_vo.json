@@ -1,0 +1,160 @@
+{
+    "success": true,
+    "count": 8,
+    "state": "missouri",
+    "mode": "virtual-office",
+    "data": [
+        {
+            "id": 902,
+            "location_name": "400 Chesterfield Center, Chesterfield, MO 63017",
+            "city": "Chesterfield",
+            "state": "Missouri",
+            "state_abbr": "MO",
+            "address": "400 Chesterfield Center, Chesterfield, MO 63017",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 38.6518264,
+            "point_y": -90.5617783,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/902-1.400-Chesterfield-Center-St.-Louis-MO-63017.Building.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/missouri/chesterfield/location-902/",
+            "phone": "3148980931"
+        },
+        {
+            "id": 1121,
+            "location_name": "1400 Forum Boulevard, Columbia, MO 65203",
+            "city": "Columbia",
+            "state": "Missouri",
+            "state_abbr": "MO",
+            "address": "1400 Forum Boulevard, Columbia, MO 65203",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 38.9358392,
+            "point_y": -92.3591917,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/missouri/columbia/location-1121/",
+            "phone": "5735148424"
+        },
+        {
+            "id": 1778,
+            "location_name": "517 Court St, Fulton, MO 65261",
+            "city": "Fulton",
+            "state": "Missouri",
+            "state_abbr": "MO",
+            "address": "517 Court St, Fulton, MO 65261",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 38.8480676,
+            "point_y": -91.948245,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1778-Day-office.jpg",
+                "alttext": "Virtual office day office located in Fulton, Missouri"
+            },
+            "url": "/virtual-office/missouri/fulton/location-1778/",
+            "phone": "0"
+        },
+        {
+            "id": 1711,
+            "location_name": "710 Central Street, Kansas City, MO 64105",
+            "city": "Kansas City",
+            "state": "Missouri",
+            "state_abbr": "MO",
+            "address": "710 Central Street, Kansas City, MO 64105",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 39.1054263,
+            "point_y": -94.58654589,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1711-01.bldg_.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/missouri/kansas-city/location-1711/",
+            "phone": "8164103557"
+        },
+        {
+            "id": 1300,
+            "location_name": "210 SW Market Street, Lees Summit, MO 64063",
+            "city": "Lees Summit",
+            "state": "Missouri",
+            "state_abbr": "MO",
+            "address": "210 SW Market Street, Lees Summit, MO 64063",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 38.9117023,
+            "point_y": -94.3798929,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1300-01.Building.jpg",
+                "alttext": "virtual office Lee’s Summit"
+            },
+            "url": "/virtual-office/missouri/lees-summit/location-1300/",
+            "phone": "8167051464"
+        },
+        {
+            "id": 440,
+            "location_name": "312 SW Greenwich Dr., Lees Summit, MO 64082",
+            "city": "Lees Summit",
+            "state": "Missouri",
+            "state_abbr": "MO",
+            "address": "312 SW Greenwich Dr., Lees Summit, MO 64082",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 38.8519897,
+            "point_y": -94.3825355,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/missouri/lees-summit/location-440/",
+            "phone": "8164101740"
+        },
+        {
+            "id": 903,
+            "location_name": "12747 Olive Boulevard, St. Louis, MO 63141",
+            "city": "St. Louis",
+            "state": "Missouri",
+            "state_abbr": "MO",
+            "address": "12747 Olive Boulevard, St. Louis, MO 63141",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 38.6806214,
+            "point_y": -90.4716907,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/903-1.12747-Olive-Boulevard-St.-Louis-MO-63141.Building.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/missouri/st.-louis/location-903/",
+            "phone": "3142970137"
+        },
+        {
+            "id": 1590,
+            "location_name": "401 Pine Street, St. Louis, MO 63102",
+            "city": "St. Louis",
+            "state": "Missouri",
+            "state_abbr": "MO",
+            "address": "401 Pine Street, St. Louis, MO 63102",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 38.6269813,
+            "point_y": -90.1884652,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1590-exterior.jpg",
+                "alttext": "Exterior of building that hosts Opus Virtual Offices located in St. Louis, Missouri"
+            },
+            "url": "/virtual-office/missouri/st.-louis/location-1590/",
+            "phone": "0"
+        }
+    ]
+}

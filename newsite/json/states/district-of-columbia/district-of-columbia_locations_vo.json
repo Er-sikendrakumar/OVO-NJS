@@ -1,0 +1,46 @@
+{
+    "success": true,
+    "count": 2,
+    "state": "district of columbia",
+    "mode": "virtual-office",
+    "data": [
+        {
+            "id": 1414,
+            "location_name": "1775 Eye Street NW, Washington, DC 20006",
+            "city": "Washington",
+            "state": "District of Columbia",
+            "state_abbr": "DC",
+            "address": "1775 Eye Street NW, Washington, DC 20006",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 38.9012681,
+            "point_y": -77.0409583,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1414-001-Building.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/district-of-columbia/washington/location-1414/",
+            "phone": "2024818981"
+        },
+        {
+            "id": 1744,
+            "location_name": "1235 Pennsylvania Ave SE, Washington, DC 20003",
+            "city": "Washington",
+            "state": "District of Columbia",
+            "state_abbr": "DC",
+            "address": "1235 Pennsylvania Ave SE, Washington, DC 20003",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 38.8815678,
+            "point_y": -76.9892623,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/district-of-columbia/washington/location-1744/",
+            "phone": "2027967759"
+        }
+    ]
+}

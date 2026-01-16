@@ -1,0 +1,94 @@
+{
+    "success": true,
+    "location_id": 1453,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Daytona Beach",
+            "state": "FL",
+            "price": null,
+            "address": {
+                "line1": "623 N Grandview Avenue",
+                "suite": null,
+                "city": "Daytona Beach",
+                "state": "FL",
+                "zip": "32118",
+                "phone": "(386) 387-2382"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/1453-01.bldg_-684x550.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1453-02.front_-722x550.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1453-03.meeting-709x550.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1453-04.front_-739x550.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1453-05.meeting-698x550.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1453-06.shared-714x550.jpg"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1453",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Daytona Virtual Office",
+            "body": "Land a coveted Daytona Beach business address without the commitment of an expensive physical office. With Opus VO, you can set up shop virtually in this vibrant city, amping up your brand’s image without breaking the bank. Need a locale for those big client meetings or brainstorming sessions? Our high-quality conference rooms are at your service.  When you opt for a virtual office in Daytona Beach via Opus VO, you’ll also get the support of a live receptionist. We’re all about providing a seamless, top-notch customer service experience that gels with your brand and business objectives. Say goodbye to tedious admin work like handling calls and managing mail—leave that to us, so you can focus on the growth and success of your business. ",
+            "map": {
+                "lat": 29.235999799,
+                "lng": -81.0140339,
+                "zoom": 14,
+                "city": "Daytona Beach"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Daytona Beach, Florida even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Daytona Beach. You can also adapt to better meet your clients’ unique needs within Florida. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Daytona Beach virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Daytona Beach?",
+                "body": "Daytona Beach isn’t just a tourist destination; it’s a burgeoning hub for businesses in sectors like hospitality, healthcare, and tech. Our Daytona Beach location offers you a strategic advantage, putting you in close proximity to valuable industry contacts and must-attend networking events.  By choosing a Daytona Beach virtual office with Opus VO, you’re not just cutting costs—you’re setting your business up for success with a leg up on the competition. Take the plunge and experience our top-tier virtual office solutions today.  Opus VO, Daytona Beach @ 627 N Grandview Avenue, Daytona Beach, FL 32118  ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Daytona Beach - 623 N Grandview Avenue | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Florida, Daytona Beach virtual office located at 623 N Grandview Avenue. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/florida/daytona-beach/location-1453/",
+            "og": {
+                "title": "Virtual Office in Daytona Beach - 623 N Grandview Avenue | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Florida, Daytona Beach virtual office located at 623 N Grandview Avenue. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/florida/daytona-beach/location-1453/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/1453-01.bldg_.jpg"
+            }
+        }
+    }
+}

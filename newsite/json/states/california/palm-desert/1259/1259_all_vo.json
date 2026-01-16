@@ -1,0 +1,94 @@
+{
+    "success": true,
+    "location_id": 1259,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Palm Desert",
+            "state": "CA",
+            "price": null,
+            "address": {
+                "line1": "74-710 Hwy 111",
+                "suite": null,
+                "city": "Palm Desert",
+                "state": "CA",
+                "zip": "92260",
+                "phone": "(760) 459-8148"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/1259-0Building-800x333.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1259-1FWPD-LargeMeetingRoom1.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1259-2Reception.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1259-3SharedSpace-800x517.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1259-4FWPD-Lobby.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1259-5MeetingRoom-800x533.jpg"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1259",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Palm Dessert Virtual Office",
+            "body": "Enjoy the privilege of an esteemed business address in Palm Desert without the financial burden of a physical office. Opus VO provides you with an exclusive opportunity to anchor your business in a highly desirable Palm Desert location, all at a fraction of the cost of a regular office lease. Utilize our top-of-the-line conference rooms for pivotal business meetings and client rendezvous, while amplifying your brand’s prestige with a reputable Palm Desert address.  Selecting a virtual office in Palm Desert through Opus VO affords you the service of a live receptionist committed to delivering personalized, superior customer service to your clients. Our team ensures each client interaction is impeccably aligned with your individual business objectives. Outsource the day-to-day administrative tasks such as digital mail handling and complete call management to us, creating the freedom to zero in on your business’ growth and success. ",
+            "map": {
+                "lat": 33.7218726,
+                "lng": -116.3616103,
+                "zoom": 14,
+                "city": "Palm Desert"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Palm Desert, California even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Palm Desert. You can also adapt to better meet your clients’ unique needs within California. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Palm Desert virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why opt for a Palm Desert Virtual Office?",
+                "body": "Palm Desert is not merely a sun-soaked haven; it’s an expanding commercial center with diverse opportunities in sectors like tourism, retail, and healthcare. Advantageously positioned near vital business areas, our Palm Desert office facilitates easy access to indispensable industry contacts and invigorating networking events.  By choosing an Opus Virtual Office in Palm Desert, you’re not just reducing your operational expenses; you’re acquiring a meaningful competitive edge. Catapult your business to unparalleled levels of success by leveraging our exceptional virtual office services today.  Opus VO Palm Desert @ 74-710 Hwy 111, Palm Desert, CA 92260 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Palm Desert - 74-710 Hwy 111 | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our California, Palm Desert virtual office located at 74-710 Hwy 111. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/california/palm-desert/location-1259/",
+            "og": {
+                "title": "Virtual Office in Palm Desert - 74-710 Hwy 111 | $99/Month",
+                "description": "Get the ultimate office solution for your business with our California, Palm Desert virtual office located at 74-710 Hwy 111. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/california/palm-desert/location-1259/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/1259-0Building.jpg"
+            }
+        }
+    }
+}

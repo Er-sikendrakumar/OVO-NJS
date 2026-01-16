@@ -1,0 +1,89 @@
+{
+    "success": true,
+    "location_id": 821,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Santa Barbara",
+            "state": "CA",
+            "price": null,
+            "address": {
+                "line1": "3905 State Street",
+                "suite": null,
+                "city": "Santa Barbara",
+                "state": "CA",
+                "zip": "93105",
+                "phone": "(805) 624-3160"
+            },
+            "images": {
+                "hero": [
+                    "/assets/mail-center.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=821",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 0,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Santa Barbara Virtual Office",
+            "body": "Enjoy the prestige of a notable business address in Santa Barbara without the financial commitments of a physical workspace. Opus VO affords you the special chance to position your business in a prime Santa Barbara setting, all without the hefty expenses associated with traditional office leases. Make the most of our state-of-the-art conference rooms for vital business discussions and client consultations, while amplifying your brand’s reputation with a sought-after Santa Barbara address.  When you opt for a virtual office in Santa Barbara via Opus VO, you also gain the specialized service of a live receptionist. Devoted to offering bespoke, top-level customer service, our team guarantees each client interaction is precisely tuned to your unique business objectives. Hand over the routine administrative tasks such as sorting digital mail and detailed call-forwarding to us, leaving you the leisure to focus on your business’ development and growth. ",
+            "map": {
+                "lat": 34.440418,
+                "lng": -119.751485,
+                "zoom": 14,
+                "city": "Santa Barbara"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Santa Barbara, California even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Santa Barbara. You can also adapt to better meet your clients’ unique needs within California. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Santa Barbara virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Choose Santa Barbara?",
+                "body": "Santa Barbara is more than a picturesque seaside community; it is a dynamic commercial nucleus brimming with potential in sectors like tourism, technology, and education. Perfectly located near essential business districts, our Santa Barbara office provides you with convenient access to critical industry players and motivating networking events.  By selecting an Opus Virtual Office in Santa Barbara, you’re doing more than minimizing your operating expenses; you’re securing a substantial competitive advantage. Propel your business to extraordinary heights by taking advantage of our premium virtual office services today.  Opus VO Santa Barbara @ 3905 State Street, Santa Barbara, CA 93105 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Santa Barbara - 3905 State Street | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our California, Santa Barbara virtual office located at 3905 State Street. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/california/santa-barbara/location-821/",
+            "og": {
+                "title": "Virtual Office in Santa Barbara - 3905 State Street | $99/Month",
+                "description": "Get the ultimate office solution for your business with our California, Santa Barbara virtual office located at 3905 State Street. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/california/santa-barbara/location-821/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+            }
+        }
+    }
+}

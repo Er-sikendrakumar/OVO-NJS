@@ -1,0 +1,89 @@
+{
+    "success": true,
+    "location_id": 1089,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Chattanooga",
+            "state": "TN",
+            "price": null,
+            "address": {
+                "line1": "3712 Ringgold Road",
+                "suite": null,
+                "city": "Chattanooga",
+                "state": "TN",
+                "zip": "37412",
+                "phone": "(423) 790-3185"
+            },
+            "images": {
+                "hero": [
+                    "/assets/mail-center.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1089",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 0,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Chatanooga Virtual Office",
+            "body": "Unlock the benefits of securing a prestigious business address in Chattanooga, Tennessee, without the need for a physical office space. At Opus VO, we offer you the opportunity to position your business in the heart of Chattanooga’s thriving business community while optimizing operational efficiency. Our state-of-the-art conference rooms are readily available for important meetings and collaborative endeavors.  When you choose Opus VO’s virtual office in Chattanooga, you also gain access to a skilled live receptionist who seamlessly integrates with your team. We ensure that every client interaction embodies your unique brand identity. Delegate routine administrative tasks to us, allowing you to concentrate on your core business objectives. ",
+            "map": {
+                "lat": 35.0004381,
+                "lng": -85.2581557,
+                "zoom": 14,
+                "city": "Chattanooga"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Chattanooga, Tennessee even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Chattanooga. You can also adapt to better meet your clients’ unique needs within Tennessee. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Chattanooga virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Chattanooga? Why Opus VO?",
+                "body": "Chattanooga is more than just a picturesque city; it’s a thriving business hub with opportunities spanning various sectors, including technology, manufacturing, and healthcare. Having a Chattanooga address not only enhances your business reputation but also provides access to valuable networking events and industry connections.  Opting for Opus VO for your virtual office in Chattanooga is more than a practical choice; it’s a strategic advantage. Are you ready to enhance your business presence? Explore our exceptional virtual office solutions today.  Opus VO, Chattanooga @ 3712 Ringgold Road, Chattanooga, TN 37412 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Chattanooga - 3712 Ringgold Road | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Tennessee, Chattanooga virtual office located at 3712 Ringgold Road. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/tennessee/chattanooga/location-1089/",
+            "og": {
+                "title": "Virtual Office in Chattanooga - 3712 Ringgold Road | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Tennessee, Chattanooga virtual office located at 3712 Ringgold Road. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/tennessee/chattanooga/location-1089/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+            }
+        }
+    }
+}

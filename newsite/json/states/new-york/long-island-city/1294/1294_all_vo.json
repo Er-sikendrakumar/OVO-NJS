@@ -1,0 +1,89 @@
+{
+    "success": true,
+    "location_id": 1294,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Long Island City",
+            "state": "NY",
+            "price": null,
+            "address": {
+                "line1": "44-70 21st Street",
+                "suite": null,
+                "city": "Long Island City",
+                "state": "NY",
+                "zip": "11101",
+                "phone": "(718) 412-4687"
+            },
+            "images": {
+                "hero": [
+                    "/assets/mail-center.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1294",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 0,
+            "nearbyPremium": 1,
+            "nearbyPremiumUrl": "/virtual-office/new-york/brooklyn/location-1477/",
+            "nearbyPremiumText": "to view nearby PREMIUM Locations that offer Meeting Rooms for the same $99/mo",
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Long Island City Virtual Office",
+            "body": "Ever thought about securing an esteemed Long Island City address, but aren’t looking to splurge on a full-time office? Opus VO is your solution. Establish your brand in the heart of Long Island City’s dynamic business ecosystem while keeping your budget in check. Our sleek conference rooms are at your service for those must-have meetings or collaborative sessions.  By opting for our virtual workspace in Long Island City, you’re getting more than just an enviable address. You’re also gaining the support of a proficient live receptionist who will become a seamless extension of your team. They’ll make sure every client interaction reflects your brand’s unique ethos, allowing us to deal with the day-to-day admin so you can focus squarely on your business objectives. ",
+            "map": {
+                "lat": 40.7477861,
+                "lng": -73.94771539,
+                "zoom": 14,
+                "city": "Long Island City"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Long Island City, New York even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Long Island City. You can also adapt to better meet your clients’ unique needs within New York. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Long Island City virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Long Island City?",
+                "body": "Long Island City isn’t merely an urban backdrop; it’s a hub of commercial activity, featuring opportunities in sectors like technology, media, and manufacturing. An address here not only boosts your brand’s prestige but also opens doors to valuable industry contacts and events.  Choosing Opus VO for your virtual workspace in Long Island City isn’t just smart budgeting; it’s a strategic advantage. Are you ready to level up your business? Discover our diverse virtual workspace offerings today.  Opus VO, Long Island City @ 44-70 21st Street, Long Island City, NY 11101 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Long Island City - 44-70 21st Street | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our New York, Long Island City virtual office located at 44-70 21st Street. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/new-york/long-island-city/location-1294/",
+            "og": {
+                "title": "Virtual Office in Long Island City - 44-70 21st Street | $99/Month",
+                "description": "Get the ultimate office solution for your business with our New York, Long Island City virtual office located at 44-70 21st Street. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/new-york/long-island-city/location-1294/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+            }
+        }
+    }
+}

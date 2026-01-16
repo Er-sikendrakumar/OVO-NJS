@@ -1,0 +1,102 @@
+{
+    "success": true,
+    "count": 19,
+    "state": "new jersey",
+    "data": [
+        {
+            "id": "818",
+            "name": "Asbury Park",
+            "popular": "0"
+        },
+        {
+            "id": "874",
+            "name": "Bridgewater",
+            "popular": "0"
+        },
+        {
+            "id": "219",
+            "name": "Clifton",
+            "popular": "0"
+        },
+        {
+            "id": "902",
+            "name": "Egg Harbor Township",
+            "popular": "0"
+        },
+        {
+            "id": "872",
+            "name": "Elizabeth",
+            "popular": "0"
+        },
+        {
+            "id": "251",
+            "name": "Fort Lee",
+            "popular": "1"
+        },
+        {
+            "id": "613",
+            "name": "Hoboken",
+            "popular": "0"
+        },
+        {
+            "id": "256",
+            "name": "Madison",
+            "popular": "0"
+        },
+        {
+            "id": "589",
+            "name": "Marlton",
+            "popular": "1"
+        },
+        {
+            "id": "638",
+            "name": "Middletown",
+            "popular": "0"
+        },
+        {
+            "id": "216",
+            "name": "Newark",
+            "popular": "1"
+        },
+        {
+            "id": "789",
+            "name": "Parsippany",
+            "popular": "1"
+        },
+        {
+            "id": "809",
+            "name": "Princeton",
+            "popular": "0"
+        },
+        {
+            "id": "819",
+            "name": "Red Bank",
+            "popular": "0"
+        },
+        {
+            "id": "536",
+            "name": "Scotch Plains",
+            "popular": "1"
+        },
+        {
+            "id": "210",
+            "name": "Seaville",
+            "popular": "0"
+        },
+        {
+            "id": "559",
+            "name": "Somerset",
+            "popular": "0"
+        },
+        {
+            "id": "799",
+            "name": "Trenton",
+            "popular": "1"
+        },
+        {
+            "id": "671",
+            "name": "Union City",
+            "popular": "0"
+        }
+    ]
+}

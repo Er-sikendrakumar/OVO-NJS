@@ -1,0 +1,23 @@
+{
+    "success": true,
+    "page": "virtual-office/minnesota/apple-valley",
+    "page_type": "location_city",
+    "view": "city",
+    "seo": {
+        "title": "Virtual Office in Apple Valley, MN | Multiple Locations Available",
+        "meta_description": "Find the ultimate office solution with Opus Virtual Offices in Apple Valley, Minnesota. Our all-inclusive virtual offices cater to your business needs. Sign up today!",
+        "canonical": "https://www.opusvirtualoffices.com/virtual-office/minnesota/apple-valley/",
+        "og": {
+            "title": "Virtual Office in Apple Valley, MN | Multiple Locations Available",
+            "description": "Find the ultimate office solution with Opus Virtual Offices in Apple Valley, Minnesota. Our all-inclusive virtual offices cater to your business needs. Sign up today!",
+            "url": "https://www.opusvirtualoffices.com/virtual-office/minnesota/apple-valley/",
+            "type": "website",
+            "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+        }
+    },
+    "data": {
+        "state": "Minnesota",
+        "city": "Apple Valley",
+        "mode": "virtual-office"
+    }
+}

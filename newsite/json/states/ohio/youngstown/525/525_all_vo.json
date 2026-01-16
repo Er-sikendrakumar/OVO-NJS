@@ -1,0 +1,89 @@
+{
+    "success": true,
+    "location_id": 525,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Youngstown",
+            "state": "OH",
+            "price": null,
+            "address": {
+                "line1": "4496 Mahoning Avenue",
+                "suite": null,
+                "city": "Youngstown",
+                "state": "OH",
+                "zip": "44515",
+                "phone": "(330) 983-5445"
+            },
+            "images": {
+                "hero": [
+                    "/assets/mail-center.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=525",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 0,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Youngstown Virtual Office",
+            "body": "Unlock the benefits of securing a prestigious business address in Youngstown, Ohio, without the need for a physical office space. At Opus VO, we provide you with the opportunity to position your business in the heart of Youngstown’s dynamic business community while maximizing operational efficiency. Our modern conference rooms are readily available for important meetings and collaborative endeavors.  By selecting Opus VO’s virtual office in Youngstown, you not only secure a prestigious address but also gain access to a professional live receptionist who seamlessly integrates with your team. They ensure that every client interaction embodies your unique brand identity, allowing us to manage routine administrative tasks while you focus on your core business objectives. ",
+            "map": {
+                "lat": 41.101768,
+                "lng": -80.73533,
+                "zoom": 14,
+                "city": "Youngstown"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Youngstown, Ohio even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Youngstown. You can also adapt to better meet your clients’ unique needs within Ohio. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Youngstown virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Youngstown? Why a Virtual Office?",
+                "body": "Youngstown is more than just a vibrant city; it’s a thriving business hub with opportunities spanning various sectors, including manufacturing, technology, and healthcare. Having a Youngstown address not only enhances your business reputation but also grants access to essential networking events and industry connections.  Opting for Opus VO for your virtual office in Youngstown is not just a practical choice; it’s a strategic advantage. Are you prepared to elevate your business presence? Explore our exceptional virtual office solutions today.  Opus VO, Youngstown @ 4496 Mahoning Avenue, Youngstown, OH 44515 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Youngstown - 4496 Mahoning Avenue | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Ohio, Youngstown virtual office located at 4496 Mahoning Avenue. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/ohio/youngstown/location-525/",
+            "og": {
+                "title": "Virtual Office in Youngstown - 4496 Mahoning Avenue | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Ohio, Youngstown virtual office located at 4496 Mahoning Avenue. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/ohio/youngstown/location-525/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+            }
+        }
+    }
+}

@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "location_id": 1065,
+    "mode": "business-address",
+    "data": {
+        "header": {
+            "city": "Hoboken",
+            "state": "NJ",
+            "price": null,
+            "address": {
+                "line1": "50 Harrison Street",
+                "suite": null,
+                "city": "Hoboken",
+                "state": "NJ",
+                "zip": "07030",
+                "phone": "(201) 345-8637"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/1065-001-Building.png",
+                    "/wp-content-mgr/wp-content/uploads/2Board-Room1-800x533.jpg",
+                    "/wp-content-mgr/wp-content/uploads/Conference-Room5-800x532.jpg"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 1,
+            "addressOnlyUrl": "/business-address/new-jersey/hoboken/location-1065/",
+            "signupUrl": "/signup/?locid=1065",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 1,
+            "premium": 1,
+            "nearbyPremium": 1,
+            "nearbyPremiumUrl": "/virtual-office/new-york/new-york/location-1450/",
+            "nearbyPremiumText": "to view the most POPULAR locations nearby for the same $99/mo",
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Hoboken Virtual Office",
+            "body": "Unlock the perks of a high-profile business address in Hoboken without the challenges and costs tied to a traditional office space. Opus VO offers you the privilege of a distinguished Hoboken location at just a fraction of the cost of maintaining a physical office. Handle your business correspondence, welcome your clients, and organize gatherings in our cutting-edge, fully-outfitted conference rooms. Boost your business reputation with a standout address in one of Hoboken’s prominent business areas.  Choosing a virtual office in Hoboken via Opus VO provides you with the unique advantage of a live receptionist, ensuring a customized, top-tier client service experience. Each client interaction is carefully aligned with your specific business objectives and is supported by our wide array of administrative services. This encompasses digital mail sorting, state-of-the-art call forwarding options, and more. Our skilled administrative team will oversee your routine operations, allowing you to focus on strategic business growth and innovation. ",
+            "map": {
+                "lat": 40.737444,
+                "lng": -74.04313189,
+                "zoom": 14,
+                "city": "Hoboken"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Hoboken, New Jersey even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Hoboken. You can also adapt to better meet your clients’ unique needs within New Jersey. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Hoboken virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why opt for a Hoboken Virtual Office?",
+                "body": "Hoboken is more than just a commuter city near Manhattan; it’s a dynamic economic area in its own right, with a variety of sectors from finance and technology to healthcare. Establish your business in this growing market to leverage local opportunities that can make a significant impact on your bottom line. Conveniently situated near key commercial hubs and social events, our Hoboken location grants you effortless access to important networking activities and industry meet-ups.  By selecting an Opus Virtual Office in Hoboken, you’re doing more than cutting expenses related to traditional office environments; you’re also giving your business a competitive edge. Take your company to the next level by utilizing our state-of-the-art virtual office services today.  Opus VO, Hoboken @ 50 Harrison Street Hoboken, NJ 07030",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Prestigious Business Address 50 Harrison Street Hoboken | $59/month",
+            "meta_description": "Impress clients with a virtual office at 50 Harrison Street Hoboken enjoy a prime location mail handling digital alerts and privacy for only $59/month",
+            "canonical": "https://www.opusvirtualoffices.com/business-address/new-jersey/hoboken/location-1065/",
+            "og": {
+                "title": "Prestigious Business Address 50 Harrison Street Hoboken | $59/month",
+                "description": "Impress clients with a virtual office at 50 Harrison Street Hoboken enjoy a prime location mail handling digital alerts and privacy for only $59/month",
+                "url": "https://www.opusvirtualoffices.com/business-address/new-jersey/hoboken/location-1065/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/1065-001-Building.png"
+            }
+        }
+    }
+}

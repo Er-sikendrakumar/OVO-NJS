@@ -1,0 +1,92 @@
+{
+    "success": true,
+    "location_id": 852,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Cincinnati",
+            "state": "OH",
+            "price": null,
+            "address": {
+                "line1": "11427 Reed Hartman Hwy",
+                "suite": null,
+                "city": "Cincinnati",
+                "state": "OH",
+                "zip": "45241",
+                "phone": "(513) 766-8478"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/852-01-Building.webp",
+                    "/wp-content-mgr/wp-content/uploads/852-02-Meeting.webp",
+                    "/wp-content-mgr/wp-content/uploads/852-03-Front.webp",
+                    "/wp-content-mgr/wp-content/uploads/852-04-Hall.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 1,
+            "addressOnlyUrl": "/business-address/ohio/cincinnati/location-852/",
+            "signupUrl": "/signup/?locid=852",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 1,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Cincinnati Virtual Office",
+            "body": "Unlock the advantages of a prestigious business address in Cincinnati without the complications and expense of conventional office space. Opus VO provides the benefit of a prime Cincinnati business location at a significantly lower cost compared to a physical office. Handle your business correspondence, greet your clients, and convene in our meeting rooms. Elevate your business standing with a distinguished address in one of Cincinnati’s prominent business sectors.  Choosing a virtual office in Cincinnati through Opus VO equips you with the special feature of a live receptionist who offers individualized, first-rate service to your clients. Each interaction is meticulously tailored to meet your particular business requirements, all while backed by our wide range of administrative services. This includes digital mail sorting, superior call forwarding capabilities, and more. Let our experienced admin staff manage your routine operations, freeing you to concentrate on strategic expansion and business development. ",
+            "map": {
+                "lat": 39.275868,
+                "lng": -84.374267,
+                "zoom": 14,
+                "city": "Cincinnati"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Cincinnati, Ohio even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Cincinnati. You can also adapt to better meet your clients’ unique needs within Ohio. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Cincinnati virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why opt for a Cincinnati Virtual Office?",
+                "body": "Cincinnati is more than just a historical city; it’s a thriving business hub with diverse industries from finance to technology. Position your enterprise in this flourishing market to tap into a wealth of local opportunities that can make a substantial impact on your bottom line. Our Cincinnati location is strategically situated near key business points and social venues, offering you easy access to important networking events and industry gatherings.  By selecting an Opus Virtual Office in Cincinnati, you not only reduce expenses related to traditional office spaces but also secure a competitive edge for your business. Propel your business to greater heights by leveraging our cutting-edge virtual office services today.  Opus VO, Cincinnati @ 11427 Reed Hartman Hwy, Cincinnati, OH 45241",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Cincinnati - 11427 Reed Hartman Hwy | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Ohio, Cincinnati virtual office located at 11427 Reed Hartman Hwy. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/ohio/cincinnati/location-852/",
+            "og": {
+                "title": "Virtual Office in Cincinnati - 11427 Reed Hartman Hwy | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Ohio, Cincinnati virtual office located at 11427 Reed Hartman Hwy. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/ohio/cincinnati/location-852/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/852-01-Building.webp"
+            }
+        }
+    }
+}

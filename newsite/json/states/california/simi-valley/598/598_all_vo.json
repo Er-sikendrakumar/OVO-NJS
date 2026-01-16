@@ -1,0 +1,89 @@
+{
+    "success": true,
+    "location_id": 598,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Simi Valley",
+            "state": "CA",
+            "price": null,
+            "address": {
+                "line1": "4212 East Los Angeles Avenue",
+                "suite": null,
+                "city": "Simi Valley",
+                "state": "CA",
+                "zip": "93063",
+                "phone": "(805) 624-3161"
+            },
+            "images": {
+                "hero": [
+                    "/assets/mail-center.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=598",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 0,
+            "nearbyPremium": 1,
+            "nearbyPremiumUrl": "/virtual-office/california/beverly-hills/location-936/",
+            "nearbyPremiumText": "to view nearby PREMIUM Locations that offer Meeting Rooms for the same $99/mo",
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Simi Valley Virtual Office",
+            "body": "Get the best of both worlds with a prestigious business address in Simi Valley, minus the cost and hassle of a physical office. With Opus VO, you can put your business on the map in a prime Simi Valley location without breaking the bank. Need a spot for crucial meetings or client chats? Our top-notch conference rooms have got you covered. Plus, that Simi Valley address is a great look for your brand.  When you choose a virtual office in Simi Valley through Opus VO, you’ll also score a live receptionist. Our team is all about delivering high-quality, personalized customer service. They make sure every interaction with your clients lines up with what you’re all about. So, you can let us handle the routine stuff like sorting digital mail and managing calls, while you focus on scaling your venture. ",
+            "map": {
+                "lat": 34.271517,
+                "lng": -118.712872,
+                "zoom": 14,
+                "city": "Simi Valley"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Simi Valley, California even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Simi Valley. You can also adapt to better meet your clients’ unique needs within California. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Simi Valley virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Get a Simi Valley Virtual Office?",
+                "body": "Simi Valley is more than a scenic SoCal spot; it’s a growing business hub with lots of opportunities, especially in tech, healthcare, and retail. Our office here is well-placed, giving you easy access to important business contacts and great networking events.  By picking an Opus Virtual Office in Simi Valley, you’re not just saving on operational costs; you’re grabbing a real competitive advantage. So why wait? Boost your business by opting for our exceptional virtual office services today.  Opus VO Simi Valley @ 4212 East Los Angeles Avenue, Simi Valley, CA 93063 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Simi Valley - 4212 East Los Angeles Avenue | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our California, Simi Valley virtual office located at 4212 East Los Angeles Avenue. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/california/simi-valley/location-598/",
+            "og": {
+                "title": "Virtual Office in Simi Valley - 4212 East Los Angeles Avenue | $99/Month",
+                "description": "Get the ultimate office solution for your business with our California, Simi Valley virtual office located at 4212 East Los Angeles Avenue. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/california/simi-valley/location-598/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+            }
+        }
+    }
+}

@@ -1,0 +1,93 @@
+{
+    "success": true,
+    "location_id": 1361,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Chula Vista",
+            "state": "CA",
+            "price": null,
+            "address": {
+                "line1": "863 Bowsprit Road",
+                "suite": null,
+                "city": "Chula Vista",
+                "state": "CA",
+                "zip": "91914",
+                "phone": "(619) 376-4173"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/1361-01.building-800x531.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1361-02.reception-800x531.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1361-03.waitingarea-800x531.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1361-04.meetingroom-733x550.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1361-05.meetinroom-800x531.jpg"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1361",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Chula Vista Virtual Office",
+            "body": "Get a top-notch business address in Chula Vista without the expense and hassle of a traditional office space. Opus VO provides you the chance to set up your business in our prime location, all without breaking the bank. Use our modern conference rooms for your must-have meetings and customer interactions. Boost your brand with a solid Chula Vista address.  Opting for a virtual office through Opus VO gives you access to a live receptionist who’s on point. Our team is all about providing personalized, quality customer service to make sure every interaction with your clients hits the mark. Leave the routine stuff like complete mail handling and managing all your calls so you can put your energy into growing your business.",
+            "map": {
+                "lat": 32.654952,
+                "lng": -116.959145,
+                "zoom": 14,
+                "city": "Chula Vista"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Chula Vista, California even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Chula Vista. You can also adapt to better meet your clients’ unique needs within California. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Chula Vista virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Go with a Chula Vista Virtual Office?",
+                "body": "Chula Vista is more than just a scenic city in Southern California; it’s also a growing center of commerce with plenty of opportunities in sectors like retail, healthcare, and tech. Our offices are strategically placed so you’ll have no problem connecting with key players in the industry and you’ll have the chance to attend some great networking events.  Choosing an Opus Virtual Office in Chula Vista means you’re not only saving on overhead; you’re also getting a leg up on the competition. Take your business to the next level by making the most of our top-notch virtual office services.  Opus VO, Chula Vista @ 863 Bowsprit Road, Chula Vista, CA 91914 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Chula Vista - 863 Bowsprit Road | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our California, Chula Vista virtual office located at 863 Bowsprit Road. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/california/chula-vista/location-1361/",
+            "og": {
+                "title": "Virtual Office in Chula Vista - 863 Bowsprit Road | $99/Month",
+                "description": "Get the ultimate office solution for your business with our California, Chula Vista virtual office located at 863 Bowsprit Road. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/california/chula-vista/location-1361/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/1361-01.building.jpg"
+            }
+        }
+    }
+}

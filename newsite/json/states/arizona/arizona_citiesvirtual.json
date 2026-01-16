@@ -1,0 +1,47 @@
+{
+    "success": true,
+    "count": 8,
+    "state": "arizona",
+    "data": [
+        {
+            "id": "491",
+            "name": "Chandler",
+            "popular": "1"
+        },
+        {
+            "id": "921",
+            "name": "Flagstaff",
+            "popular": "0"
+        },
+        {
+            "id": "255",
+            "name": "Gilbert",
+            "popular": "0"
+        },
+        {
+            "id": "538",
+            "name": "Mesa",
+            "popular": "0"
+        },
+        {
+            "id": "214",
+            "name": "Phoenix",
+            "popular": "1"
+        },
+        {
+            "id": "185",
+            "name": "Scottsdale",
+            "popular": "1"
+        },
+        {
+            "id": "217",
+            "name": "Tempe",
+            "popular": "1"
+        },
+        {
+            "id": "649",
+            "name": "Tucson",
+            "popular": "1"
+        }
+    ]
+}

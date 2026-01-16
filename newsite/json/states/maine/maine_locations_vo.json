@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "count": 5,
+    "state": "maine",
+    "mode": "virtual-office",
+    "data": [
+        {
+            "id": 1489,
+            "location_name": "40 Main Street, Biddeford, ME 04005",
+            "city": "Biddeford",
+            "state": "Maine",
+            "state_abbr": "ME",
+            "address": "40 Main Street, Biddeford, ME 04005",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 43.4933126,
+            "point_y": -70.4532858,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/maine/biddeford/location-1489/",
+            "phone": "0"
+        },
+        {
+            "id": 1653,
+            "location_name": "75 Park Street, Lewiston, ME 04240",
+            "city": "Lewiston",
+            "state": "Maine",
+            "state_abbr": "ME",
+            "address": "75 Park Street, Lewiston, ME 04240",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 44.0970458,
+            "point_y": -70.2167144,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1653-01.Building.webp",
+                "alttext": null
+            },
+            "url": "/virtual-office/maine/lewiston/location-1653/",
+            "phone": "2073878847"
+        },
+        {
+            "id": 1112,
+            "location_name": "6 City Center, Portland, ME 04101",
+            "city": "Portland",
+            "state": "Maine",
+            "state_abbr": "ME",
+            "address": "6 City Center, Portland, ME 04101",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 43.6570753,
+            "point_y": -70.2567033,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/01_Building3.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/maine/portland/location-1112/",
+            "phone": "2075093225"
+        },
+        {
+            "id": 705,
+            "location_name": "325 Main Street, Waterville, ME 04901",
+            "city": "Waterville",
+            "state": "Maine",
+            "state_abbr": "ME",
+            "address": "325 Main Street, Waterville, ME 04901",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 44.5669475,
+            "point_y": -69.63702639,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/maine/waterville/location-705/",
+            "phone": "2075093074"
+        },
+        {
+            "id": 1488,
+            "location_name": "40 Lafayette Street, Yarmouth, ME 04096",
+            "city": "Yarmouth",
+            "state": "Maine",
+            "state_abbr": "ME",
+            "address": "40 Lafayette Street, Yarmouth, ME 04096",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 43.797235699,
+            "point_y": -70.1786685,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/maine/yarmouth/location-1488/",
+            "phone": "0"
+        }
+    ]
+}

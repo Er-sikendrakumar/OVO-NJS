@@ -1,0 +1,89 @@
+{
+    "success": true,
+    "location_id": 288,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "West Bloomfield",
+            "state": "MI",
+            "price": null,
+            "address": {
+                "line1": "4301 Orchard Lake Road",
+                "suite": null,
+                "city": "West Bloomfield",
+                "state": "MI",
+                "zip": "48323",
+                "phone": "(248) 430-0887"
+            },
+            "images": {
+                "hero": [
+                    "/assets/mail-center.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=288",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 0,
+            "nearbyPremium": 1,
+            "nearbyPremiumUrl": "/virtual-office/michigan/troy/location-1308/",
+            "nearbyPremiumText": "to view the nearby PREMIUM Locations for the same $99/mo",
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "West Bloomfield Virtual Office",
+            "body": "Acquire a prestigious business address in West Bloomfield without the burden of maintaining a physical office. With Opus VO, you have the opportunity to root your business in the energetic community of West Bloomfield, all while conserving your financial resources. Have a high-stakes meeting or a client to win over? Our cutting-edge conference rooms are designed to make a lasting impression.  When you choose to go virtual in West Bloomfield through Opus VO, a specialized live receptionist is part of your package. We go the extra mile to make sure every client interaction resonates with your brand’s essence. Offload your everyday administrative duties to us, allowing you to focus on achieving your business goals. ",
+            "map": {
+                "lat": 42.575418,
+                "lng": -83.362042,
+                "zoom": 14,
+                "city": "West Bloomfield"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in West Bloomfield, Michigan even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of West Bloomfield. You can also adapt to better meet your clients’ unique needs within Michigan. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our West Bloomfield virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why West Bloomfield?",
+                "body": "Don’t underestimate West Bloomfield; it’s not just a charming suburb. It’s a thriving hub for various sectors, from healthcare to retail. Establishing a presence here grants you access to an invaluable network of professionals and potential clients.  Choosing Opus VO in West Bloomfield is more than a financially savvy decision—it’s a significant competitive edge. Are you prepared to take your business to the next level? Our exceptional virtual office services are ready for whatever your business needs.   Opus VO West Bloomfield @ 4301 Orchard Lake Road, West Bloomfield, MI 48323   ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in West Bloomfield - 4301 Orchard Lake Road | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Michigan, West Bloomfield virtual office located at 4301 Orchard Lake Road. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/michigan/west-bloomfield/location-288/",
+            "og": {
+                "title": "Virtual Office in West Bloomfield - 4301 Orchard Lake Road | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Michigan, West Bloomfield virtual office located at 4301 Orchard Lake Road. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/michigan/west-bloomfield/location-288/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+            }
+        }
+    }
+}

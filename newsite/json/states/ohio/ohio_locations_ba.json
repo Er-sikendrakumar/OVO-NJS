@@ -1,0 +1,27 @@
+{
+    "success": true,
+    "count": 1,
+    "state": "ohio",
+    "mode": "business-address",
+    "data": [
+        {
+            "id": 852,
+            "location_name": "11427 Reed Hartman Hwy, Cincinnati, OH 45241",
+            "city": "Cincinnati",
+            "state": "Ohio",
+            "state_abbr": "OH",
+            "address": "11427 Reed Hartman Hwy, Cincinnati, OH 45241",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 39.275868,
+            "point_y": -84.374267,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/852-01-Building.webp",
+                "alttext": null
+            },
+            "url": "/business-address/ohio/cincinnati/location-852/",
+            "phone": "5137668478"
+        }
+    ]
+}

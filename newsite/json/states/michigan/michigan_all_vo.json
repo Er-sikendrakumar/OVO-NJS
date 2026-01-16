@@ -1,0 +1,482 @@
+{
+    "success": true,
+    "state": "michigan",
+    "cities_virtual": [
+        {
+            "id": "898",
+            "name": "Ada",
+            "popular": "0"
+        },
+        {
+            "id": "137",
+            "name": "Ann Arbor",
+            "popular": "1"
+        },
+        {
+            "id": "760",
+            "name": "Brighton",
+            "popular": "0"
+        },
+        {
+            "id": "564",
+            "name": "Clinton Township",
+            "popular": "0"
+        },
+        {
+            "id": "191",
+            "name": "Detroit",
+            "popular": "1"
+        },
+        {
+            "id": "466",
+            "name": "Fenton",
+            "popular": "0"
+        },
+        {
+            "id": "277",
+            "name": "Grand Rapids",
+            "popular": "1"
+        },
+        {
+            "id": "369",
+            "name": "Grandville",
+            "popular": "0"
+        },
+        {
+            "id": "673",
+            "name": "Hazel Park",
+            "popular": "0"
+        },
+        {
+            "id": "610",
+            "name": "Lansing",
+            "popular": "1"
+        },
+        {
+            "id": "561",
+            "name": "Livonia",
+            "popular": "1"
+        },
+        {
+            "id": "391",
+            "name": "Marine City",
+            "popular": "0"
+        },
+        {
+            "id": "275",
+            "name": "Rochester Hills",
+            "popular": "0"
+        },
+        {
+            "id": "692",
+            "name": "Sterling Heights",
+            "popular": "0"
+        },
+        {
+            "id": "625",
+            "name": "Troy",
+            "popular": "0"
+        },
+        {
+            "id": "131",
+            "name": "West Bloomfield",
+            "popular": "0"
+        },
+        {
+            "id": "756",
+            "name": "Ypsilanti",
+            "popular": "0"
+        }
+    ],
+    "cities_business": [
+        {
+            "id": "191",
+            "name": "Detroit",
+            "popular": "1"
+        }
+    ],
+    "cities_popular": [
+        {
+            "id": "137",
+            "name": "Ann Arbor"
+        },
+        {
+            "id": "191",
+            "name": "Detroit"
+        },
+        {
+            "id": "277",
+            "name": "Grand Rapids"
+        },
+        {
+            "id": "610",
+            "name": "Lansing"
+        },
+        {
+            "id": "561",
+            "name": "Livonia"
+        }
+    ],
+    "locations_virtual_office": [
+        {
+            "id": 1717,
+            "location_name": "496 Ada Drive SE, Ada, MI 49301",
+            "city": "Ada",
+            "state": "Michigan",
+            "state_abbr": "MI",
+            "address": "496 Ada Drive SE, Ada, MI 49301",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 42.9547391,
+            "point_y": -85.4860607,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1717-exterior.jpg",
+                "alttext": "Exterior of building that houses Opus Virtual Offices located in located in Ada, Michigan"
+            },
+            "url": "/virtual-office/michigan/ada/location-1717/",
+            "phone": "6164833392"
+        },
+        {
+            "id": 294,
+            "location_name": "4860 Washtenaw Ave, Ann Arbor, MI 48108",
+            "city": "Ann Arbor",
+            "state": "Michigan",
+            "state_abbr": "MI",
+            "address": "4860 Washtenaw Ave, Ann Arbor, MI 48108",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 42.250613,
+            "point_y": -83.664347,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/michigan/ann-arbor/location-294/",
+            "phone": "7345857503"
+        },
+        {
+            "id": 1633,
+            "location_name": "324 W Main Street, Brighton, MI 48116",
+            "city": "Brighton",
+            "state": "Michigan",
+            "state_abbr": "MI",
+            "address": "324 W Main Street, Brighton, MI 48116",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 42.5297406,
+            "point_y": -83.7835988,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1633-01.bldg_.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/michigan/brighton/location-1633/",
+            "phone": "7349870151"
+        },
+        {
+            "id": 955,
+            "location_name": "41800 Hayes Road, Clinton Township, MI 48038",
+            "city": "Clinton Township",
+            "state": "Michigan",
+            "state_abbr": "MI",
+            "address": "41800 Hayes Road, Clinton Township, MI 48038",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 42.602905,
+            "point_y": -82.971359,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/michigan/clinton-township/location-955/",
+            "phone": "2489736119"
+        },
+        {
+            "id": 1358,
+            "location_name": "607 Shelby Street, Detroit, MI 48226",
+            "city": "Detroit",
+            "state": "Michigan",
+            "state_abbr": "MI",
+            "address": "607 Shelby Street, Detroit, MI 48226",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 42.329286499,
+            "point_y": -83.04842959,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1358-001-Building.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/michigan/detroit/location-1358/",
+            "phone": "3133050594"
+        },
+        {
+            "id": 1339,
+            "location_name": "2785 E Grand Blvd, Detroit, MI 48211",
+            "city": "Detroit",
+            "state": "Michigan",
+            "state_abbr": "MI",
+            "address": "2785 E Grand Blvd, Detroit, MI 48211",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 42.3737786,
+            "point_y": -83.0626904,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1339_Opus_Virtual_Office_Detroit_MI_Building_1.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/michigan/detroit/location-1339/",
+            "phone": "2489736124"
+        },
+        {
+            "id": 732,
+            "location_name": "1114 N Leroy Street, Fenton, MI 48430",
+            "city": "Fenton",
+            "state": "Michigan",
+            "state_abbr": "MI",
+            "address": "1114 N Leroy Street, Fenton, MI 48430",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 42.810172,
+            "point_y": -83.707411,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/michigan/fenton/location-732/",
+            "phone": "8107402036"
+        },
+        {
+            "id": 1363,
+            "location_name": "99 Monroe Avenue NW, Grand Rapids, MI 49503",
+            "city": "Grand Rapids",
+            "state": "Michigan",
+            "state_abbr": "MI",
+            "address": "99 Monroe Avenue NW, Grand Rapids, MI 49503",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 42.9651309,
+            "point_y": -85.67272349,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1363-001-Building.png",
+                "alttext": null
+            },
+            "url": "/virtual-office/michigan/grand-rapids/location-1363/",
+            "phone": "6165590079"
+        },
+        {
+            "id": 619,
+            "location_name": "4370 Chicago Dr. SW, Grandville, MI 49418",
+            "city": "Grandville",
+            "state": "Michigan",
+            "state_abbr": "MI",
+            "address": "4370 Chicago Dr. SW, Grandville, MI 49418",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 42.906723,
+            "point_y": -85.771326,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/michigan/grandville/location-619/",
+            "phone": "6165590083"
+        },
+        {
+            "id": 1203,
+            "location_name": "24330 John R Road, Hazel Park, MI 48030",
+            "city": "Hazel Park",
+            "state": "Michigan",
+            "state_abbr": "MI",
+            "address": "24330 John R Road, Hazel Park, MI 48030",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 42.4711081,
+            "point_y": -83.10402829,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/michigan/hazel-park/location-1203/",
+            "phone": "2484807325"
+        },
+        {
+            "id": 1060,
+            "location_name": "3105 S Martin Luther King Blvd., Lansing, MI 48910",
+            "city": "Lansing",
+            "state": "Michigan",
+            "state_abbr": "MI",
+            "address": "3105 S Martin Luther King Blvd., Lansing, MI 48910",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 42.701378,
+            "point_y": -84.566959,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/michigan/lansing/location-1060/",
+            "phone": "5173181409"
+        },
+        {
+            "id": 950,
+            "location_name": "15530 Middlebelt Road, Livonia, MI 48154",
+            "city": "Livonia",
+            "state": "Michigan",
+            "state_abbr": "MI",
+            "address": "15530 Middlebelt Road, Livonia, MI 48154",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 42.4000734,
+            "point_y": -83.3340058,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/950-001-Building.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/michigan/livonia/location-950/",
+            "phone": "7348215703"
+        },
+        {
+            "id": 636,
+            "location_name": "420 South Water St., Marine City, MI 48039",
+            "city": "Marine City",
+            "state": "Michigan",
+            "state_abbr": "MI",
+            "address": "420 South Water St., Marine City, MI 48039",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 42.715317,
+            "point_y": -82.492841,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/michigan/marine-city/location-636/",
+            "phone": "8107402021"
+        },
+        {
+            "id": 490,
+            "location_name": "3128 Walton Blvd, Rochester Hills, MI 48309",
+            "city": "Rochester Hills",
+            "state": "Michigan",
+            "state_abbr": "MI",
+            "address": "3128 Walton Blvd, Rochester Hills, MI 48309",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 42.680769,
+            "point_y": -83.195673,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/michigan/rochester-hills/location-490/",
+            "phone": "2484300885"
+        },
+        {
+            "id": 1254,
+            "location_name": "13854 Lakeside Circle, Sterling Heights, MI 48313",
+            "city": "Sterling Heights",
+            "state": "Michigan",
+            "state_abbr": "MI",
+            "address": "13854 Lakeside Circle, Sterling Heights, MI 48313",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 42.6203858,
+            "point_y": -82.99009579,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1254-exterior.jpg",
+                "alttext": "Exterior of building that houses Opus Virtual Office located in Sterling Heights, Michigan"
+            },
+            "url": "/virtual-office/michigan/sterling-heights/location-1254/",
+            "phone": "5862258143"
+        },
+        {
+            "id": 1308,
+            "location_name": "755 W. Big Beaver Rd, Troy, MI 48084",
+            "city": "Troy",
+            "state": "Michigan",
+            "state_abbr": "MI",
+            "address": "755 W. Big Beaver Rd, Troy, MI 48084",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 42.5602863,
+            "point_y": -83.16155619,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/Opus-Virtual-Office-Troy-Building-Exterior.webp",
+                "alttext": "Exterior of Opus Virtual Office in Troy, MI at 755 W. Big Beaver Rd"
+            },
+            "url": "/virtual-office/michigan/troy/location-1308/",
+            "phone": "2485601699"
+        },
+        {
+            "id": 288,
+            "location_name": "4301 Orchard Lake Road, West Bloomfield, MI 48323",
+            "city": "West Bloomfield",
+            "state": "Michigan",
+            "state_abbr": "MI",
+            "address": "4301 Orchard Lake Road, West Bloomfield, MI 48323",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 42.575418,
+            "point_y": -83.362042,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/michigan/west-bloomfield/location-288/",
+            "phone": "2484300887"
+        },
+        {
+            "id": 1398,
+            "location_name": "13 N Washington Street, Ypsilanti, MI 48197",
+            "city": "Ypsilanti",
+            "state": "Michigan",
+            "state_abbr": "MI",
+            "address": "13 N Washington Street, Ypsilanti, MI 48197",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 42.2415523,
+            "point_y": -83.614871,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1398-01.bldg_.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/michigan/ypsilanti/location-1398/",
+            "phone": "7348215714"
+        }
+    ],
+    "meta": {
+        "cities_virtual_count": 17,
+        "cities_business_count": 1,
+        "cities_popular_count": 5,
+        "locations_virtual_office_count": 18
+    },
+    "seo": {
+        "title": "Virtual Office in Michigan | Locations Statewide | Opus VO",
+        "meta_description": "Get a prestigious Michigan business address and professional phone answering services with Opus Virtual Offices, the perfect office solution for your business needs.",
+        "canonical": "https://www.opusvirtualoffices.com/virtual-office/michigan/",
+        "og": {
+            "title": "Virtual Office in Michigan | Locations Statewide | Opus VO",
+            "description": "Get a prestigious Michigan business address and professional phone answering services with Opus Virtual Offices, the perfect office solution for your business needs.",
+            "url": "https://www.opusvirtualoffices.com/virtual-office/michigan/",
+            "type": "website",
+            "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+        }
+    }
+}

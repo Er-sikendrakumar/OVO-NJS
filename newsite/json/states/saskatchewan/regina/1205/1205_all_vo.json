@@ -1,0 +1,89 @@
+{
+    "success": true,
+    "location_id": 1205,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Regina",
+            "state": "SK",
+            "price": null,
+            "address": {
+                "line1": "918 Albert Street",
+                "suite": null,
+                "city": "Regina",
+                "state": "SK",
+                "zip": "S4R2P7",
+                "phone": "(306) 205-1973"
+            },
+            "images": {
+                "hero": [
+                    "/assets/mail-center.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1205",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 0,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Regina Virtual Office",
+            "body": "Pondering a Regina address to either initiate your startup journey or elevate your established business, yet concerned about the economic commitment of a fixed office? Discover Opus VO. Claim a spot for your enterprise at one of our prime Regina sites, allowing you the prestige of a notable address without straining your budget. For those crucial face-to-face meetings or persuasive client discussions, our state-of-the-art conference rooms are at your service.  The perks extend beyond an impressive address. A virtual office at Opus VO in Regina includes the invaluable assistance of a live receptionist. Our proficient team is there to handle your customer communications seamlessly, managing the nitty-gritty of daily tasks like email coordination and efficient call routing, thus freeing you to chase your larger business aspirations. ",
+            "map": {
+                "lat": 50.4640728,
+                "lng": -104.618604,
+                "zoom": 14,
+                "city": "Regina"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Regina, Saskatchewan even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Regina. You can also adapt to better meet your clients’ unique needs within Saskatchewan. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Regina virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Regina? Why Opus VO?",
+                "body": "Regina isn’t merely the capital city of Saskatchewan; it’s an evolving commercial hub teeming with possibilities across multiple industries. By locating your virtual office at Opus VO in Regina, you’re not just shaving off expenses; you’re making a connection to a vibrant business community abundant with potential for professional development and collaborations.  Choosing Opus VO in Regina isn’t just about economizing; it’s a focused strategy that primes your business for long-term victories. Your next pivotal accomplishment may be just one well-placed virtual office decision away.  Opus VO Location in Regina @ 918 Albert Street, Regina, SK S4R2P7   ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Regina - 918 Albert Street | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Saskatchewan, Regina virtual office located at 918 Albert Street. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/saskatchewan/regina/location-1205/",
+            "og": {
+                "title": "Virtual Office in Regina - 918 Albert Street | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Saskatchewan, Regina virtual office located at 918 Albert Street. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/saskatchewan/regina/location-1205/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+            }
+        }
+    }
+}

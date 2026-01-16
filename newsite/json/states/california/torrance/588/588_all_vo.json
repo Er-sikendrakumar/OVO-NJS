@@ -1,0 +1,89 @@
+{
+    "success": true,
+    "location_id": 588,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Torrance",
+            "state": "CA",
+            "price": null,
+            "address": {
+                "line1": "4733 Torrance Blvd.",
+                "suite": null,
+                "city": "Torrance",
+                "state": "CA",
+                "zip": "90503",
+                "phone": "(310) 564-1317"
+            },
+            "images": {
+                "hero": [
+                    "/assets/mail-center.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=588",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 0,
+            "nearbyPremium": 1,
+            "nearbyPremiumUrl": "/virtual-office/california/los-angeles/location-1362/",
+            "nearbyPremiumText": "to view nearby PREMIUM Locations that offer Meeting Rooms for the same $99/mo",
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Torrance Virtual Office",
+            "body": "Secure a sleek business address in Torrance without splurging on physical office space. Thanks to Opus VO, you can put your business on the Torrance map—minus the hefty traditional office lease. Need to huddle up for key meetings or client briefings? Our swanky conference rooms are at your service. Boost your brand’s cred with a Torrance address that speaks volumes.  By going with a virtual office in Torrance via Opus VO, you’re not just renting space, you’re leveling up. You get a live receptionist who’s all-in on delivering personalized, A-level customer service. We’ve got you covered, ensuring every client interaction is tailored to match your business objectives. Leave the daily admin grind, like filtering your business mail and managing complex call routing, to us. Your focus? Making your business soar. ",
+            "map": {
+                "lat": 33.837704,
+                "lng": -118.364273,
+                "zoom": 14,
+                "city": "Torrance"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Torrance, California even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Torrance. You can also adapt to better meet your clients’ unique needs within California. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Torrance virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Torrance?",
+                "body": "Don’t let Torrance’s laid-back vibes fool you. It’s a hotspot for business, from tech startups to retail giants. Our Torrance hub is ideally situated, making key industry connections and networking events just a short drive away.  Choosing an Opus Virtual Office in Torrance isn’t just smart budgeting; it’s a pro move. So why wait? Jump into our stellar virtual office services and take your business to the next level.  Opus VO Torrance @ 4733 Torrance Blvd., Torrance, CA 90503 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Torrance - 4733 Torrance Blvd. | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our California, Torrance virtual office located at 4733 Torrance Blvd.. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/california/torrance/location-588/",
+            "og": {
+                "title": "Virtual Office in Torrance - 4733 Torrance Blvd. | $99/Month",
+                "description": "Get the ultimate office solution for your business with our California, Torrance virtual office located at 4733 Torrance Blvd.. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/california/torrance/location-588/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+            }
+        }
+    }
+}

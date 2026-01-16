@@ -1,0 +1,93 @@
+{
+    "success": true,
+    "location_id": 1585,
+    "mode": "business-address",
+    "data": {
+        "header": {
+            "city": "Arlington",
+            "state": "VA",
+            "price": null,
+            "address": {
+                "line1": "1550 Wilson Blvd",
+                "suite": null,
+                "city": "Arlington",
+                "state": "VA",
+                "zip": "22209",
+                "phone": "(703) 214-9026"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/1585-01.building-591x550.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1585-02.meetingroom-731x550.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1585-03.meetingroom-615x550.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1585-04.reception-616x550.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1585-05.shared-570x550.jpg"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 1,
+            "addressOnlyUrl": "/business-address/virginia/arlington/location-1585/",
+            "signupUrl": "/signup/?locid=1585",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 1,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Arlington Virtual Office",
+            "body": "Indulge in the cachet of a high-status business setting in Arlington without the monetary commitment of a physical workspace. Via our Opus VO, your firm can lay its roots in one of our select Arlington locations, all while sidestepping the financial outlay tied to a traditional office lease. Capitalize on our ultra-modern meeting facilities for indispensable client dialogues and executive sessions, thereby elevating your brand via a noteworthy Arlington address.  Choosing a virtual commerce nexus in Arlington through Opus VO bestows upon you the unique benefit of a professional, in-house receptionist. With an unwavering dedication to offering tailored, exceptional client experiences, our adept team ensures that each customer interaction is seamlessly aligned with your individual business goals. Assign us backend roles like virtual correspondence oversight and nuanced call facilitation, freeing you to devote your resources to business expansion. ",
+            "map": {
+                "lat": 38.8942529,
+                "lng": -77.0759154,
+                "zoom": 14,
+                "city": "Arlington"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Arlington, Virginia even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Arlington. You can also adapt to better meet your clients’ unique needs within Virginia. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Arlington virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Go Virtual in Arlington?",
+                "body": "Arlington is far more than a suburb of Washington, D.C.; it’s a thriving business core with abundant opportunities across various sectors like technology, healthcare, and government contracting. Ideally located near important commercial hubs, our Arlington locations offer you expedient access to key industry influencers and invaluable networking gatherings.  By selecting Opus Virtual Offices in Arlington, you’re not merely economizing your operating expenses; you’re also acquiring a tangible edge in a competitive marketplace. Ignite your enterprise’s growth by leveraging our superior virtual commerce nexus services today.  Opus VOArlington location @ 1550 Wilson Blvd, Arlington, VA 22209 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Prestigious Business Address 1550 Wilson Blvd Arlington | $59/month",
+            "meta_description": "Impress clients with a virtual office at 1550 Wilson Blvd Arlington enjoy a prime location mail handling digital alerts and privacy for only $59/month",
+            "canonical": "https://www.opusvirtualoffices.com/business-address/virginia/arlington/location-1585/",
+            "og": {
+                "title": "Prestigious Business Address 1550 Wilson Blvd Arlington | $59/month",
+                "description": "Impress clients with a virtual office at 1550 Wilson Blvd Arlington enjoy a prime location mail handling digital alerts and privacy for only $59/month",
+                "url": "https://www.opusvirtualoffices.com/business-address/virginia/arlington/location-1585/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/1585-01.building.jpg"
+            }
+        }
+    }
+}

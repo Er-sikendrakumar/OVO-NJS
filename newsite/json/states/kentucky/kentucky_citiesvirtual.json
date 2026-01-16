@@ -1,0 +1,22 @@
+{
+    "success": true,
+    "count": 3,
+    "state": "kentucky",
+    "data": [
+        {
+            "id": "430",
+            "name": "Brandenburg",
+            "popular": "1"
+        },
+        {
+            "id": "501",
+            "name": "Lexington",
+            "popular": "1"
+        },
+        {
+            "id": "446",
+            "name": "Louisville",
+            "popular": "1"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "success": true,
+    "count": 2,
+    "state": "utah",
+    "data": [
+        {
+            "id": "315",
+            "name": "Salt Lake City"
+        },
+        {
+            "id": "224",
+            "name": "West Valley City"
+        }
+    ]
+}

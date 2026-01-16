@@ -1,0 +1,119 @@
+{
+    "success": true,
+    "state": "hawaii",
+    "cities_virtual": [
+        {
+            "id": "813",
+            "name": "Honolulu",
+            "popular": "1"
+        },
+        {
+            "id": "754",
+            "name": "Kailua",
+            "popular": "1"
+        },
+        {
+            "id": "854",
+            "name": "Kailua Kona",
+            "popular": "1"
+        }
+    ],
+    "cities_business": [
+        {
+            "id": "754",
+            "name": "Kailua",
+            "popular": "1"
+        }
+    ],
+    "cities_popular": [
+        {
+            "id": "813",
+            "name": "Honolulu"
+        },
+        {
+            "id": "754",
+            "name": "Kailua"
+        },
+        {
+            "id": "854",
+            "name": "Kailua Kona"
+        }
+    ],
+    "locations_virtual_office": [
+        {
+            "id": 1521,
+            "location_name": "4819 Kilauea Avenue, Honolulu, HI 96816",
+            "city": "Honolulu",
+            "state": "Hawaii",
+            "state_abbr": "HI",
+            "address": "4819 Kilauea Avenue, Honolulu, HI 96816",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 21.2790165,
+            "point_y": -157.7838828,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1521-01.bldg_.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/hawaii/honolulu/location-1521/",
+            "phone": "8083783257"
+        },
+        {
+            "id": 1397,
+            "location_name": "74 Kihapai Street, Kailua, HI 96734",
+            "city": "Kailua",
+            "state": "Hawaii",
+            "state_abbr": "HI",
+            "address": "74 Kihapai Street, Kailua, HI 96734",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 21.3948345,
+            "point_y": -157.7466723,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1397-01.bldg_.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/hawaii/kailua/location-1397/",
+            "phone": "8083783266"
+        },
+        {
+            "id": 1624,
+            "location_name": "75-5915 Walua Road, Kailua Kona, HI 96740",
+            "city": "Kailua Kona",
+            "state": "Hawaii",
+            "state_abbr": "HI",
+            "address": "75-5915 Walua Road, Kailua Kona, HI 96740",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 19.6286391,
+            "point_y": -155.9853234,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1624-01.Building.webp",
+                "alttext": null
+            },
+            "url": "/virtual-office/hawaii/kailua-kona/location-1624/",
+            "phone": "0"
+        }
+    ],
+    "meta": {
+        "cities_virtual_count": 3,
+        "cities_business_count": 1,
+        "cities_popular_count": 3,
+        "locations_virtual_office_count": 3
+    },
+    "seo": {
+        "title": "Virtual Office in Hawaii | Locations Statewide | Opus VO",
+        "meta_description": "Get a prestigious Hawaii business address and professional phone answering services with Opus Virtual Offices, the perfect office solution for your business needs.",
+        "canonical": "https://www.opusvirtualoffices.com/virtual-office/hawaii/",
+        "og": {
+            "title": "Virtual Office in Hawaii | Locations Statewide | Opus VO",
+            "description": "Get a prestigious Hawaii business address and professional phone answering services with Opus Virtual Offices, the perfect office solution for your business needs.",
+            "url": "https://www.opusvirtualoffices.com/virtual-office/hawaii/",
+            "type": "website",
+            "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+        }
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "success": true,
+    "location_id": 1639,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Danbury",
+            "state": "CT",
+            "price": null,
+            "address": {
+                "line1": "36 Mill Plain Road",
+                "suite": null,
+                "city": "Danbury",
+                "state": "CT",
+                "zip": "06811",
+                "phone": "(203) 405-4097"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/1639-01.Building.webp",
+                    "/newsite/wp-content/themes/ThemeDec23/dist/assets/img/mailcenter.jpg",
+                    "/assets/mail-center.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1639",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "DANBURY VIRTUAL OFFICE",
+            "body": "You can start a business just about anywhere in Connecticut, but some cities offer more benefits for your company’s goals. At Opus, we have compiled a list of the most popular cities to start a business, for any type of business. Growth is important for a business, not only when you are in the early stages of starting your business but also when you are looking to expand. Check out each one to see which one could benefit your business long-term prospects. Considering the increase in leasing fees, having a virtual office and business presence in these locations could save you a fortune and help you profit immensely. Take advantage of a virtual office in Connecticut today.”",
+            "map": {
+                "lat": 41.3885519,
+                "lng": -73.49776059,
+                "zoom": 14,
+                "city": "Danbury"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [],
+        "sections": [
+            {
+                "title": "DANBURY VIRTUAL OFFICE",
+                "body": "",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Danbury - 36 Mill Plain Road | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Connecticut, Danbury virtual office located at 36 Mill Plain Road. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/connecticut/danbury/location-1639/",
+            "og": {
+                "title": "Virtual Office in Danbury - 36 Mill Plain Road | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Connecticut, Danbury virtual office located at 36 Mill Plain Road. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/connecticut/danbury/location-1639/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/1639-01.Building.webp"
+            }
+        }
+    }
+}

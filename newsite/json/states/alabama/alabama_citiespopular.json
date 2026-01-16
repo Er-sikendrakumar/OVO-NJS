@@ -1,0 +1,27 @@
+{
+    "success": true,
+    "count": 5,
+    "state": "alabama",
+    "data": [
+        {
+            "id": "59",
+            "name": "Birmingham"
+        },
+        {
+            "id": "293",
+            "name": "Huntsville"
+        },
+        {
+            "id": "647",
+            "name": "Mobile"
+        },
+        {
+            "id": "791",
+            "name": "Montgomery"
+        },
+        {
+            "id": "61",
+            "name": "Tuscaloosa"
+        }
+    ]
+}

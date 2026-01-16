@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "count": 6,
+    "state": "illinois",
+    "data": [
+        {
+            "id": "499",
+            "name": "Belleville"
+        },
+        {
+            "id": "132",
+            "name": "Chicago"
+        },
+        {
+            "id": "637",
+            "name": "Northbrook"
+        },
+        {
+            "id": "133",
+            "name": "Rockford"
+        },
+        {
+            "id": "400",
+            "name": "Springfield"
+        },
+        {
+            "id": "720",
+            "name": "St. Charles"
+        }
+    ]
+}

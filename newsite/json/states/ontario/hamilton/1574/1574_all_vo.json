@@ -1,0 +1,89 @@
+{
+    "success": true,
+    "location_id": 1574,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Hamilton",
+            "state": "ON",
+            "price": null,
+            "address": {
+                "line1": "2-558 Upper Gage Avenue",
+                "suite": null,
+                "city": "Hamilton",
+                "state": "ON",
+                "zip": "N6A 1A8",
+                "phone": "(905) 472-0198"
+            },
+            "images": {
+                "hero": [
+                    "/assets/mail-center.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1574",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 0,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Hamilton Virtual Office",
+            "body": "Ever thought of a Hamilton location to jump-start your new enterprise or uplift your existing business, but concerned about the financial weight of a full-scale office? Your solution is Opus VO. Establish your business at one of our choice Hamilton venues, granting you the allure of a premium address without the fiscal headaches. When important client meetings or compelling business discussions are on the horizon, our first-class conference rooms are at your service.  But the advantages don’t end with a prestigious address. Securing a virtual office at Opus VO in Hamilton also affords you the benefit of a live receptionist. Rely on our capable team to fine-tune your client interactions and oversee the daily grind such as managing digital mail and routing calls, leaving you free to set your sights on business expansion. ",
+            "map": {
+                "lat": 43.2284714,
+                "lng": -79.8393285,
+                "zoom": 14,
+                "city": "Hamilton"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Hamilton, Ontario even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Hamilton. You can also adapt to better meet your clients’ unique needs within Ontario. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Hamilton virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Hamilton? Why Opus VO?",
+                "body": "Hamilton is more than just a city rich in culture and history; it’s a flourishing business nexus teeming with opportunities across diverse industries. By situating your virtual office at Opus VO in Hamilton, you’re not merely reducing expenses; you’re tapping into a dynamic network of professionals that’s ripe for synergy and mutual growth.  Electing for Opus VO in Hamilton isn’t just a cost-effective decision; it’s a strategic initiative that primes your business for further success. Your next significant stride could be a mere virtual office choice away.  Opus VO Location in Hamilton @ 2-558 Upper Gage Avenue, Hamilton, ON N6A 1A8     ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Hamilton - 2-558 Upper Gage Avenue | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Ontario, Hamilton virtual office located at 2-558 Upper Gage Avenue. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/ontario/hamilton/location-1574/",
+            "og": {
+                "title": "Virtual Office in Hamilton - 2-558 Upper Gage Avenue | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Ontario, Hamilton virtual office located at 2-558 Upper Gage Avenue. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/ontario/hamilton/location-1574/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+            }
+        }
+    }
+}

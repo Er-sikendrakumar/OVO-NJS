@@ -1,0 +1,122 @@
+{
+    "success": true,
+    "count": 6,
+    "state": "new hampshire",
+    "mode": "virtual-office",
+    "data": [
+        {
+            "id": 1748,
+            "location_name": "383 Central Ave, Dover, NH 03820",
+            "city": "Dover",
+            "state": "New Hampshire",
+            "state_abbr": "NH",
+            "address": "383 Central Ave, Dover, NH 03820",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 43.1960165,
+            "point_y": -70.8730509,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1748-Exterior.jpg",
+                "alttext": "Exterior of building that houses Opus Virtual Offices located in Dover, New Hampshire"
+            },
+            "url": "/virtual-office/new-hampshire/dover/location-1748/",
+            "phone": "6032630351"
+        },
+        {
+            "id": 591,
+            "location_name": "62 Calef Highway, Lee, NH 03824",
+            "city": "Lee",
+            "state": "New Hampshire",
+            "state_abbr": "NH",
+            "address": "62 Calef Highway, Lee, NH 03824",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 43.152253,
+            "point_y": -71.005881,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/new-hampshire/lee/location-591/",
+            "phone": "6032631497"
+        },
+        {
+            "id": 1436,
+            "location_name": "500 North Commercial Street, Manchester, NH 03101",
+            "city": "Manchester",
+            "state": "New Hampshire",
+            "state_abbr": "NH",
+            "address": "500 North Commercial Street, Manchester, NH 03101",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 42.9946496,
+            "point_y": -71.4679316,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1436-building-1743095652121.jpg",
+                "alttext": "Exterior of brick building that houses Opus Virtual Offices located in Manchester, New Hampshire"
+            },
+            "url": "/virtual-office/new-hampshire/manchester/location-1436/",
+            "phone": "6035709476"
+        },
+        {
+            "id": 250,
+            "location_name": "855 Hanover Street East Side Plaza, Manchester, NH 03104",
+            "city": "Manchester",
+            "state": "New Hampshire",
+            "state_abbr": "NH",
+            "address": "855 Hanover Street East Side Plaza, Manchester, NH 03104",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 42.9876314,
+            "point_y": -71.42847239,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/new-hampshire/manchester/location-250/",
+            "phone": "6032630352"
+        },
+        {
+            "id": 578,
+            "location_name": "614 Nashua Street, Milford, NH 03055",
+            "city": "Milford",
+            "state": "New Hampshire",
+            "state_abbr": "NH",
+            "address": "614 Nashua Street, Milford, NH 03055",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 42.8251516,
+            "point_y": -71.6206602,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/new-hampshire/milford/location-578/",
+            "phone": "6032630342"
+        },
+        {
+            "id": 1612,
+            "location_name": "20 Portsmouth Avenue, Stratham, NH 03885",
+            "city": "Stratham",
+            "state": "New Hampshire",
+            "state_abbr": "NH",
+            "address": "20 Portsmouth Avenue, Stratham, NH 03885",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 42.996176299,
+            "point_y": -70.92388729,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/new-hampshire/stratham/location-1612/",
+            "phone": "0"
+        }
+    ]
+}

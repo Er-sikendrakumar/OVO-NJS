@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "location_id": 1398,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Ypsilanti",
+            "state": "MI",
+            "price": null,
+            "address": {
+                "line1": "13 N Washington Street",
+                "suite": null,
+                "city": "Ypsilanti",
+                "state": "MI",
+                "zip": "48197",
+                "phone": "(734) 821-5714"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/1398-01.bldg_.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1398-02.meeting.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1398-03.meeting-800x534.jpg"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1398",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Ypsilanti Virtual Office",
+            "body": "Secure a coveted business address in Ypsilanti without the commitment to a physical office space. Opus VO offers you the means to establish your business amidst Ypsilanti’s vibrant atmosphere, all while safeguarding your budget. Need to wow a client or conduct a significant meeting? Our state-of-the-art conference rooms are available to exceed expectations.  When you opt for a virtual presence in Ypsilanti via Opus VO, a dedicated live receptionist comes with the package. We ensure that every interaction with your clients is seamlessly aligned with your brand values. Delegate the daily admin work to us, empowering you to chase after your business ambitions. ",
+            "map": {
+                "lat": 42.2415523,
+                "lng": -83.614871,
+                "zoom": 14,
+                "city": "Ypsilanti"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Ypsilanti, Michigan even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Ypsilanti. You can also adapt to better meet your clients’ unique needs within Michigan. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Ypsilanti virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Ypsilanti?",
+                "body": "Ypsilanti is more than just a picturesque college town; it’s a dynamic ground for businesses in areas from tech to hospitality. Setting up in Ypsilanti provides you with access to a wealth of networking opportunities and industry events that can uplift your business.  Utilizing Opus VO in Ypsilanti isn’t merely a financial optimization—it’s a strategic move. Are you ready to upgrade your business standing? Our unparalleled virtual office solutions await your command.  Opus VO, Ypsilanti @13 N Washington Street, Ypsilanti, MI 48197 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Ypsilanti - 13 N Washington Street | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Michigan, Ypsilanti virtual office located at 13 N Washington Street. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/michigan/ypsilanti/location-1398/",
+            "og": {
+                "title": "Virtual Office in Ypsilanti - 13 N Washington Street | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Michigan, Ypsilanti virtual office located at 13 N Washington Street. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/michigan/ypsilanti/location-1398/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/1398-01.bldg_.jpg"
+            }
+        }
+    }
+}

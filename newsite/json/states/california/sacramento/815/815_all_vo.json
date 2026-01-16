@@ -1,0 +1,93 @@
+{
+    "success": true,
+    "location_id": 815,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Sacramento",
+            "state": "CA",
+            "price": null,
+            "address": {
+                "line1": "836 57th Street",
+                "suite": null,
+                "city": "Sacramento",
+                "state": "CA",
+                "zip": "95819",
+                "phone": "(916) 282-2136"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/Opus-Virtual-Office-Sacramento-Building-Exterior.webp",
+                    "/wp-content-mgr/wp-content/uploads/Opus-Virtual-Office-Sacramento-Private-Office.webp",
+                    "/wp-content-mgr/wp-content/uploads/Opus-Virtual-Office-Sacramento-Meeting-Room-U-Shape.webp",
+                    "/wp-content-mgr/wp-content/uploads/Opus-Virtual-Office-Sacramento-Classroom-Meeting-Room.webp",
+                    "/wp-content-mgr/wp-content/uploads/Opus-Virtual-Office-Sacramento-Reception.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=815",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Sacramento Virtual Office",
+            "body": "Reap the rewards of an illustrious Sacramento business address without the financial encumbrance of a physical workspace. Opus VO grants you the unique opportunity to locate your enterprise in a premium Sacramento setting, all without the expenses usually involved in a conventional office lease. Access our top-tier conference rooms for vital business talks and client meetings, while simultaneously elevating your brand with a distinguished Sacramento address.  Selecting a virtual office in Sacramento via Opus VO affords you the invaluable service of a live receptionist committed to offering tailored, first-rate customer service. Our dedicated team makes sure that each interaction with your clientele is perfectly aligned with your unique business aspirations. Pass on the mundane chores of complete mail management and complete call-handling to us, allowing you to focus solely on the advancement of your enterprise. ",
+            "map": {
+                "lat": 38.566393,
+                "lng": -121.4333978,
+                "zoom": 14,
+                "city": "Sacramento"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Sacramento, California even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Sacramento. You can also adapt to better meet your clients’ unique needs within California. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Sacramento virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Sacramento?",
+                "body": "Sacramento is not just California’s political capital; it’s a burgeoning commercial hub with a myriad of opportunities in sectors like government, healthcare, and technology. Conveniently situated near essential business centers, our Sacramento office gives you straightforward access to vital industry relationships and inspiring networking occasions.  By choosing an Opus Virtual Office in Sacramento, you’re doing more than merely cutting down your operational costs; you’re securing a critical competitive advantage. Elevate your business to remarkable levels of success by engaging our unparalleled virtual office services today.  Opus VO Sacramento @ 836 57th Street, Sacramento, CA 95819 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Sacramento - 836 57th Street | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our California, Sacramento virtual office located at 836 57th Street. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/california/sacramento/location-815/",
+            "og": {
+                "title": "Virtual Office in Sacramento - 836 57th Street | $99/Month",
+                "description": "Get the ultimate office solution for your business with our California, Sacramento virtual office located at 836 57th Street. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/california/sacramento/location-815/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/Opus-Virtual-Office-Sacramento-Building-Exterior.webp"
+            }
+        }
+    }
+}

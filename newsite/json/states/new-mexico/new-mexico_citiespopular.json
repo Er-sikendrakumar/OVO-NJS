@@ -1,0 +1,19 @@
+{
+    "success": true,
+    "count": 3,
+    "state": "new mexico",
+    "data": [
+        {
+            "id": "294",
+            "name": "Albuquerque"
+        },
+        {
+            "id": "268",
+            "name": "Rio Rancho"
+        },
+        {
+            "id": "654",
+            "name": "Santa Fe"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "success": true,
+    "count": 1,
+    "state": "nova scotia",
+    "mode": "virtual-office",
+    "data": [
+        {
+            "id": 1656,
+            "location_name": "3045 Robie Street, Halifax, NS B3K 4P6",
+            "city": "Halifax",
+            "state": "Nova Scotia",
+            "state_abbr": "NS",
+            "address": "3045 Robie Street, Halifax, NS B3K 4P6",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 44.6593102,
+            "point_y": -63.60072359,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/nova-scotia/halifax/location-1656/",
+            "phone": "0"
+        }
+    ]
+}

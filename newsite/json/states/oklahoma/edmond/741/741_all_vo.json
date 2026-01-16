@@ -1,0 +1,89 @@
+{
+    "success": true,
+    "location_id": 741,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Edmond",
+            "state": "OK",
+            "price": null,
+            "address": {
+                "line1": "820 W. Danforth Rd.",
+                "suite": null,
+                "city": "Edmond",
+                "state": "OK",
+                "zip": "73003",
+                "phone": "(405) 996-1497"
+            },
+            "images": {
+                "hero": [
+                    "/assets/mail-center.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=741",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 0,
+            "nearbyPremium": 1,
+            "nearbyPremiumUrl": "/virtual-office/oklahoma/oklahoma-city/location-1555/",
+            "nearbyPremiumText": "to view the nearby PREMIUM Locations for the same $99/mo",
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Edmond Virtual Office",
+            "body": "Unlock the advantages of securing a prestigious business address in Edmond, Oklahoma, without the need for a physical office space. At Opus VO, we provide you with the opportunity to position your business in the heart of Edmond’s dynamic business community while optimizing operational efficiency. Our modern conference rooms are readily available for important meetings and collaborative endeavors.  By selecting Opus VO’s virtual office in Edmond, you not only secure a prestigious address but also gain access to a professional live receptionist who seamlessly integrates with your team. They ensure that every client interaction embodies your unique brand identity, allowing us to manage routine administrative tasks while you focus on your core business objectives. ",
+            "map": {
+                "lat": 35.667462,
+                "lng": -97.494823,
+                "zoom": 14,
+                "city": "Edmond"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Edmond, Oklahoma even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Edmond. You can also adapt to better meet your clients’ unique needs within Oklahoma. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Edmond virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Edmond?",
+                "body": "Edmond is more than just a charming city; it’s a thriving business hub with opportunities spanning various sectors, including technology, healthcare, and education. Having an Edmond address not only enhances your business reputation but also grants access to essential networking events and industry connections.  Opting for Opus VO for your virtual office in Edmond is not just a practical choice; it’s a strategic advantage. Are you prepared to elevate your business presence? Explore our exceptional virtual office solutions today.  Opus VO, Edmond @ 820 W. Danforth Rd., Edmond, OK 73003 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Edmond - 820 W. Danforth Rd. | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Oklahoma, Edmond virtual office located at 820 W. Danforth Rd.. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/oklahoma/edmond/location-741/",
+            "og": {
+                "title": "Virtual Office in Edmond - 820 W. Danforth Rd. | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Oklahoma, Edmond virtual office located at 820 W. Danforth Rd.. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/oklahoma/edmond/location-741/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+            }
+        }
+    }
+}

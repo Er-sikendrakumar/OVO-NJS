@@ -1,0 +1,483 @@
+{
+    "success": true,
+    "count": 25,
+    "state": "georgia",
+    "mode": "virtual-office",
+    "data": [
+        {
+            "id": 684,
+            "location_name": "3379 Peachtree Road NE (Buckhead), Suite 655, Atlanta, GA 30326",
+            "city": "Atlanta",
+            "state": "Georgia",
+            "state_abbr": "GA",
+            "address": "3379 Peachtree Road NE (Buckhead), Suite 655, Atlanta, GA 30326",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 1,
+            "point_x": 33.8481789,
+            "point_y": -84.36589809,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/Atlanta-Virtual-Office-Space-3379-Peachtree-Road-NE.webp",
+                "alttext": "Exterior view of the Atlanta virtual office building at 3379 Peachtree Road NE, showcasing modern glass architecture and nearby high-rise buildings."
+            },
+            "url": "/virtual-office/georgia/atlanta/location-684/",
+            "phone": "4049749900"
+        },
+        {
+            "id": 1746,
+            "location_name": "1016 Laney Walker Blvd, Augusta, GA 30901",
+            "city": "Augusta",
+            "state": "Georgia",
+            "state_abbr": "GA",
+            "address": "1016 Laney Walker Blvd, Augusta, GA 30901",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 33.4641821,
+            "point_y": -81.9770889,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/georgia/augusta/location-1746/",
+            "phone": "7069053139"
+        },
+        {
+            "id": 1305,
+            "location_name": "115 E Main St, Buford, GA 30518",
+            "city": "Buford",
+            "state": "Georgia",
+            "state_abbr": "GA",
+            "address": "115 E Main St, Buford, GA 30518",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 34.1214313,
+            "point_y": -84.003593,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1305-001-Building.png",
+                "alttext": null
+            },
+            "url": "/virtual-office/georgia/buford/location-1305/",
+            "phone": "7703084097"
+        },
+        {
+            "id": 160,
+            "location_name": "136 West Belmont Drive, Calhoun, GA 30701",
+            "city": "Calhoun",
+            "state": "Georgia",
+            "state_abbr": "GA",
+            "address": "136 West Belmont Drive, Calhoun, GA 30701",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 34.479262,
+            "point_y": -84.937533,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/georgia/calhoun/location-160/",
+            "phone": "7067283206"
+        },
+        {
+            "id": 1713,
+            "location_name": "5436 Riverdale Road, College Park, GA 30349",
+            "city": "College Park",
+            "state": "Georgia",
+            "state_abbr": "GA",
+            "address": "5436 Riverdale Road, College Park, GA 30349",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 33.6067368,
+            "point_y": -84.43534939,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/georgia/college-park/location-1713/",
+            "phone": "4047369938"
+        },
+        {
+            "id": 1191,
+            "location_name": "6361 Talokas Lane, Columbus, GA 31909",
+            "city": "Columbus",
+            "state": "Georgia",
+            "state_abbr": "GA",
+            "address": "6361 Talokas Lane, Columbus, GA 31909",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 32.5364546,
+            "point_y": -84.87867,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/georgia/columbus/location-1191/",
+            "phone": "7066192234"
+        },
+        {
+            "id": 1705,
+            "location_name": "431 Vision Drive, Cumming, GA 30040",
+            "city": "Cumming",
+            "state": "Georgia",
+            "state_abbr": "GA",
+            "address": "431 Vision Drive, Cumming, GA 30040",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 34.2169483,
+            "point_y": -84.145691,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1705-01.bldg_.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/georgia/cumming/location-1705/",
+            "phone": "6789653076"
+        },
+        {
+            "id": 1427,
+            "location_name": "1862 Auburn Road, Dacula, GA 30019",
+            "city": "Dacula",
+            "state": "Georgia",
+            "state_abbr": "GA",
+            "address": "1862 Auburn Road, Dacula, GA 30019",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 34.0499854,
+            "point_y": -83.9254098,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1427-exterior.jpg",
+                "alttext": "Exterior of building that houses Opus Virtual Offices located in Dacula, Georgia"
+            },
+            "url": "/virtual-office/georgia/dacula/location-1427/",
+            "phone": "6789193415"
+        },
+        {
+            "id": 420,
+            "location_name": "512 South Peterson Avenue, Douglas, GA 31533",
+            "city": "Douglas",
+            "state": "Georgia",
+            "state_abbr": "GA",
+            "address": "512 South Peterson Avenue, Douglas, GA 31533",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 31.503114,
+            "point_y": -82.850402,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/georgia/douglas/location-420/",
+            "phone": "9125903145"
+        },
+        {
+            "id": 1679,
+            "location_name": "3509 Duluth Hwy, Duluth, GA 30096",
+            "city": "Duluth",
+            "state": "Georgia",
+            "state_abbr": "GA",
+            "address": "3509 Duluth Hwy, Duluth, GA 30096",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 34.0021285,
+            "point_y": -84.1441826,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/Duluth-GA-Virtual-Office-Exterior-at-3509-Duluth-Hwy.webp",
+                "alttext": "Exterior and main entrance of Opus Virtual Offices located at 3509 Duluth Hwy, Duluth, GA 30096."
+            },
+            "url": "/virtual-office/georgia/duluth/location-1679/",
+            "phone": "6789684591"
+        },
+        {
+            "id": 1594,
+            "location_name": "5579 Chamblee Dunwoody Road, Dunwoody, GA 30338",
+            "city": "Dunwoody",
+            "state": "Georgia",
+            "state_abbr": "GA",
+            "address": "5579 Chamblee Dunwoody Road, Dunwoody, GA 30338",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 33.9507321,
+            "point_y": -84.3360275,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/georgia/dunwoody/location-1594/",
+            "phone": "0"
+        },
+        {
+            "id": 654,
+            "location_name": "1697 N. Express Way, Griffin, GA 30223",
+            "city": "Griffin",
+            "state": "Georgia",
+            "state_abbr": "GA",
+            "address": "1697 N. Express Way, Griffin, GA 30223",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 33.28026,
+            "point_y": -84.29199,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/georgia/griffin/location-654/",
+            "phone": "7703084127"
+        },
+        {
+            "id": 606,
+            "location_name": "4215 Jimmy Lee Smith Pkwy, Hiram, GA 30141",
+            "city": "Hiram",
+            "state": "Georgia",
+            "state_abbr": "GA",
+            "address": "4215 Jimmy Lee Smith Pkwy, Hiram, GA 30141",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 33.893436,
+            "point_y": -84.75554869,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/georgia/hiram/location-606/",
+            "phone": "7702297121"
+        },
+        {
+            "id": 1758,
+            "location_name": "127 Jonesboro Rd, Jonesboro, GA 30236",
+            "city": "Jonesboro",
+            "state": "Georgia",
+            "state_abbr": "GA",
+            "address": "127 Jonesboro Rd, Jonesboro, GA 30236",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 33.532314,
+            "point_y": -84.35397449,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1758-Exterior.png",
+                "alttext": "Exterior of building that houses Opus Virtual Offices located in Jonesboro, Georgia"
+            },
+            "url": "/virtual-office/georgia/jonesboro/location-1758/",
+            "phone": "0"
+        },
+        {
+            "id": 1011,
+            "location_name": "1300 Ridenour Boulevard, Kennesaw, GA 30152",
+            "city": "Kennesaw",
+            "state": "Georgia",
+            "state_abbr": "GA",
+            "address": "1300 Ridenour Boulevard, Kennesaw, GA 30152",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 33.995750699,
+            "point_y": -84.589473,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1011-exterior.png",
+                "alttext": "Exterior of building that houses Opus Virtual Offices located in Kennesaw, Georgia"
+            },
+            "url": "/virtual-office/georgia/kennesaw/location-1011/",
+            "phone": "6787349804"
+        },
+        {
+            "id": 1542,
+            "location_name": "15 Perry Street, Newnan, GA 30263",
+            "city": "Newnan",
+            "state": "Georgia",
+            "state_abbr": "GA",
+            "address": "15 Perry Street, Newnan, GA 30263",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 33.3732614,
+            "point_y": -84.7985983,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1542-01.bldg_.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/georgia/newnan/location-1542/",
+            "phone": "7706590601"
+        },
+        {
+            "id": 171,
+            "location_name": "1741 Newnan Crossing Blvd East, Newnan, GA 30265",
+            "city": "Newnan",
+            "state": "Georgia",
+            "state_abbr": "GA",
+            "address": "1741 Newnan Crossing Blvd East, Newnan, GA 30265",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 33.3780546,
+            "point_y": -84.75176049,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/georgia/newnan/location-171/",
+            "phone": "6788373142"
+        },
+        {
+            "id": 1100,
+            "location_name": "401 Westpark Court, Peachtree City, GA 30269",
+            "city": "Peachtree City",
+            "state": "Georgia",
+            "state_abbr": "GA",
+            "address": "401 Westpark Court, Peachtree City, GA 30269",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 33.4013162,
+            "point_y": -84.5896003,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1100-01-Building.png",
+                "alttext": null
+            },
+            "url": "/virtual-office/georgia/peachtree-city/location-1100/",
+            "phone": "6787835684"
+        },
+        {
+            "id": 1070,
+            "location_name": "760 Old Roswell Road, Roswell, GA 30076",
+            "city": "Roswell",
+            "state": "Georgia",
+            "state_abbr": "GA",
+            "address": "760 Old Roswell Road, Roswell, GA 30076",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 34.0352407,
+            "point_y": -84.3391686,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/a1Building-1.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/georgia/roswell/location-1070/",
+            "phone": "6787127984"
+        },
+        {
+            "id": 519,
+            "location_name": "944 A Kings Bay Rd., Saint Marys, GA 31558",
+            "city": "Saint Marys",
+            "state": "Georgia",
+            "state_abbr": "GA",
+            "address": "944 A Kings Bay Rd., Saint Marys, GA 31558",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 30.790713,
+            "point_y": -81.587124,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/georgia/saint-marys/location-519/",
+            "phone": "9125903144"
+        },
+        {
+            "id": 1199,
+            "location_name": "1305 Barnard Street, Savannah, GA 31401",
+            "city": "Savannah",
+            "state": "Georgia",
+            "state_abbr": "GA",
+            "address": "1305 Barnard Street, Savannah, GA 31401",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 32.0636676,
+            "point_y": -81.10028699,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/georgia/savannah/location-1199/",
+            "phone": "9122577327"
+        },
+        {
+            "id": 1074,
+            "location_name": "2330 Scenic Highway South, Snellville, GA 30078",
+            "city": "Snellville",
+            "state": "Georgia",
+            "state_abbr": "GA",
+            "address": "2330 Scenic Highway South, Snellville, GA 30078",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 33.8547669,
+            "point_y": -84.0214232,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1074-Exterior.jpg",
+                "alttext": "Exterior of building that houses Opus Virtual Offices located in Snellville, Georgia"
+            },
+            "url": "/virtual-office/georgia/snellville/location-1074/",
+            "phone": "6783317213"
+        },
+        {
+            "id": 181,
+            "location_name": "1700 Frederica Road, St. Simons Island, GA 31522",
+            "city": "St. Simons Island",
+            "state": "Georgia",
+            "state_abbr": "GA",
+            "address": "1700 Frederica Road, St. Simons Island, GA 31522",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 31.1631568,
+            "point_y": -81.386656,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/georgia/st.-simons-island/location-181/",
+            "phone": "9124360862"
+        },
+        {
+            "id": 1208,
+            "location_name": "925 Main Street, Stone Mountain, GA 30083",
+            "city": "Stone Mountain",
+            "state": "Georgia",
+            "state_abbr": "GA",
+            "address": "925 Main Street, Stone Mountain, GA 30083",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 33.8066551,
+            "point_y": -84.1701155,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1208-01.building.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/georgia/stone-mountain/location-1208/",
+            "phone": "6783249627"
+        },
+        {
+            "id": 199,
+            "location_name": "3245 Peachtree Pkwy., Suwanee, GA 30024",
+            "city": "Suwanee",
+            "state": "Georgia",
+            "state_abbr": "GA",
+            "address": "3245 Peachtree Pkwy., Suwanee, GA 30024",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 34.083254,
+            "point_y": -84.161174,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/georgia/suwanee/location-199/",
+            "phone": "6788373141"
+        }
+    ]
+}

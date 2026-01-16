@@ -1,0 +1,23 @@
+{
+    "success": true,
+    "page": "virtual-office/hawaii/kailua-kona",
+    "page_type": "location_city",
+    "view": "city",
+    "seo": {
+        "title": "Virtual Office in Kailua Kona, HI | Multiple Locations Available",
+        "meta_description": "Find the ultimate office solution with Opus Virtual Offices in Kailua Kona, Hawaii. Our all-inclusive virtual offices cater to your business needs. Sign up today!",
+        "canonical": "https://www.opusvirtualoffices.com/virtual-office/hawaii/kailua-kona/",
+        "og": {
+            "title": "Virtual Office in Kailua Kona, HI | Multiple Locations Available",
+            "description": "Find the ultimate office solution with Opus Virtual Offices in Kailua Kona, Hawaii. Our all-inclusive virtual offices cater to your business needs. Sign up today!",
+            "url": "https://www.opusvirtualoffices.com/virtual-office/hawaii/kailua-kona/",
+            "type": "website",
+            "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+        }
+    },
+    "data": {
+        "state": "Hawaii",
+        "city": "Kailua Kona",
+        "mode": "virtual-office"
+    }
+}

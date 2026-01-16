@@ -1,0 +1,89 @@
+{
+    "success": true,
+    "location_id": 428,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Chelsea",
+            "state": "AL",
+            "price": null,
+            "address": {
+                "line1": "60 Chelsea Corners",
+                "suite": null,
+                "city": "Chelsea",
+                "state": "AL",
+                "zip": "35043",
+                "phone": "(205) 986-7007"
+            },
+            "images": {
+                "hero": [
+                    "/assets/mail-center.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=428",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 0,
+            "nearbyPremium": 1,
+            "nearbyPremiumUrl": "/virtual-office/alabama/birmingham/location-1407/",
+            "nearbyPremiumText": "to view the nearby PREMIUM Locations for the same $99/mo",
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Chelsea Virtual Office",
+            "body": "Experience the benefits of a premier business address in Chelsea without the costs or complications of a physical workspace. With Opus VO, you can place your business in a sought-after Chelsea location at a fraction of the cost of a traditional office lease. Access our state-of-the-art conference rooms for meetings and client interactions, all while elevating your brand with a prestigious Chelsea address.  Choosing a virtual office in Chelsea through Opus VO affords you the special perk of a live receptionist. Committed to delivering personalized, exceptional client service, our team tailors each interaction to align with your business objectives. Let us handle administrative tasks like digital mail handling and advanced call-forwarding so you can focus on growing your business. ",
+            "map": {
+                "lat": 33.346338,
+                "lng": -86.631678,
+                "zoom": 14,
+                "city": "Chelsea"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Chelsea, Alabama even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Chelsea. You can also adapt to better meet your clients’ unique needs within Alabama. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Chelsea virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Choose a Chelsea Virtual Office?",
+                "body": "Chelsea is more than a charming community; it’s a budding hub with opportunities in various sectors like retail and services. Situated near key local business centers, our Chelsea location offers you convenient access to crucial industry contacts and networking events.  By opting for an Opus Virtual Office in Chelsea, you’re not just cutting costs; you’re securing a competitive advantage. Elevate your business by leveraging our top-notch virtual office solutions.  Opus VO, Chelsea @ 60 Chelsea Corners Chelsea, AL 35043 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Chelsea - 60 Chelsea Corners | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Alabama, Chelsea virtual office located at 60 Chelsea Corners. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/alabama/chelsea/location-428/",
+            "og": {
+                "title": "Virtual Office in Chelsea - 60 Chelsea Corners | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Alabama, Chelsea virtual office located at 60 Chelsea Corners. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/alabama/chelsea/location-428/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+            }
+        }
+    }
+}

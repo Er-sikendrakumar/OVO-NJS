@@ -1,0 +1,81 @@
+{
+    "success": true,
+    "slug": "small-business",
+    "page_id": "13020",
+    "page_title": "Small Business",
+    "hero": {
+        "heading": "Establish your\u2028corporate business\u2028presence with Opus VO",
+        "description": "<p>As a small business owner, you deserve the look and support of a big company. Opus VO gives your business a real office address, live phone answering, and client confidence for <strong>only $99/mo</strong>.</p>\n",
+        "image": "https://www.opusvirtualoffices.com/newsite/wp-content/uploads/2025/11/small_businesses_1x.webp"
+    },
+    "services": {
+        "heading": "Run Your Business Like a Pro",
+        "description": "<p>Whether you’re running your business from home or just getting started, Opus Virtual Offices gives you the tools to operate with confidence and credibility. Enjoy a professional business address, dedicated phone number, and live receptionists who answer calls on your behalf, so you can focus on growth, not interruptions.</p>\n",
+        "image": "https://www.opusvirtualoffices.com/newsite/wp-content/uploads/2025/11/small_businesses_illustration_1x.webp"
+    },
+    "features": [
+        {
+            "title": "Prestigious Business Address",
+            "description": "Select one of our Virtual Offices locations as your primary business address and use it to receive all your mail and packages."
+        },
+        {
+            "title": "Live Call Answering",
+            "description": "Monday through Friday from 8:30am to 5:30pm (in PST timezone 8am to 5pm) a live receptionist will be answering all incoming calls on behalf of your company."
+        },
+        {
+            "title": "Premium Call Transferring",
+            "description": "All calls that are being transferred to your personal extension by our Live Receptionist will ring up to 4 phone numbers provided by you. If the call is not answered, your personal extension voice mail box will activate"
+        },
+        {
+            "title": "Company Phone and Fax Number",
+            "description": "Select one of our local phone and fax numbers as your primary company line."
+        },
+        {
+            "title": "Voicemail & Fax converted to Email",
+            "description": "All voice mail messages and faxes are being forwarded to Tenant's provided e-mail address as a WAV / PDF File."
+        }
+    ],
+    "industry_content": [
+        {
+            "main_heading": "<h2>A Virtual Office for Small Businesses & Startups</h2>",
+            "industry_paragraph": "<p>Every great business starts small, but that doesn’t mean it has to look that way. Whether you run an e-commerce store, tutoring business, or creative startup, an Opus Virtual Office for small businesses gives you the professional edge you need to grow confidently from day one.</p>\n"
+        },
+        {
+            "main_heading": "<h3>Look Established from Anywhere</h3>",
+            "industry_paragraph": "<p>Give your business instant credibility with a real business address in a recognized commercial location, not your home or a P.O. Box. It’s the simplest way to build trust with customers, banks, and vendors/partners while keeping your home address private.</p>\n"
+        },
+        {
+            "main_heading": "<h3>Simplify Your Day-to-Day</h3>",
+            "industry_paragraph": "<p>Focus on your passion, not the paperwork. With mail receiving and forwarding, you’ll never miss an important document or delivery. Everything is managed securely with the option to transfer and send it wherever you need it.</p>\n"
+        },
+        {
+            "main_heading": "<h3>Stay Connected with Clients</h3>",
+            "industry_paragraph": "<p>Our all-inclusive plan contains a business phone number. You’ll also obtain our live professional receptionists who answer every business call with your company name, so even if you’re teaching a session, fulfilling orders, or working remotely, your business always sounds polished and professional.</p>\n"
+        },
+        {
+            "main_heading": "<h3>Keep Costs Low While You Grow</h3>",
+            "industry_paragraph": "<p>With Opus, you get everything you need to run your business — a business address, mail service, phone number, live receptionist, and mail receiving, for a fraction of the cost of renting traditional office space. A virtual office for small businesses and startups helps you invest your money where it matters most: growing your business.</p>\n"
+        },
+        {
+            "main_heading": "<h3>Scalable for Every Stage</h3>",
+            "industry_paragraph": "<p>As your small business expands, your virtual office can scale with you. Add meeting room access, extra upgrades, or mail forwarding options anytime. With Opus, your business can look and operate like a big company, without the big expenses. Opus Virtual Offices are built for today’s flexible professionals: e-commerce owners, consultants, tutors, freelancers, and anyone running their business online or on the go. As your business grows, you can easily upgrade additional services to fit your next stage.</p>\n"
+        },
+        {
+            "main_heading": "<h2>Get Started Today!</h2>",
+            "industry_paragraph": "<p>Join thousands of small business owners and entrepreneurs who use Opus Virtual Offices to look professional, stay organized, and grow without limits. Choose your city, set up your virtual office in minutes, and take the next step toward building your brand with confidence.</p>\n"
+        }
+    ],
+    "seo": {
+        "title": "Small Business - Opus Virtual Offices",
+        "meta_description": "",
+        "canonical": "https://www.opusvirtualoffices.com/is-a-virtual-office-for-me/small-business/",
+        "og": {
+            "title": "Small Business - Opus Virtual Offices",
+            "description": "",
+            "url": "https://www.opusvirtualoffices.com/is-a-virtual-office-for-me/small-business/",
+            "type": "website",
+            "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+        }
+    },
+    "generated_at": "2025-12-08 14:38:30"
+}

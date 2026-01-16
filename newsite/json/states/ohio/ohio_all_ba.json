@@ -1,0 +1,138 @@
+{
+    "success": true,
+    "state": "ohio",
+    "cities_virtual": [
+        {
+            "id": "688",
+            "name": "Akron",
+            "popular": "1"
+        },
+        {
+            "id": "223",
+            "name": "Beachwood",
+            "popular": "0"
+        },
+        {
+            "id": "180",
+            "name": "Cincinnati",
+            "popular": "1"
+        },
+        {
+            "id": "544",
+            "name": "Cleveland",
+            "popular": "1"
+        },
+        {
+            "id": "177",
+            "name": "Columbus",
+            "popular": "1"
+        },
+        {
+            "id": "690",
+            "name": "Dublin",
+            "popular": "0"
+        },
+        {
+            "id": "694",
+            "name": "Highland Heights",
+            "popular": "1"
+        },
+        {
+            "id": "892",
+            "name": "Springfield",
+            "popular": "0"
+        },
+        {
+            "id": "264",
+            "name": "Tallmadge",
+            "popular": "0"
+        },
+        {
+            "id": "657",
+            "name": "Toledo",
+            "popular": "1"
+        },
+        {
+            "id": "218",
+            "name": "Westerville",
+            "popular": "0"
+        },
+        {
+            "id": "301",
+            "name": "Youngstown",
+            "popular": "0"
+        }
+    ],
+    "cities_business": [
+        {
+            "id": "180",
+            "name": "Cincinnati",
+            "popular": "1"
+        }
+    ],
+    "cities_popular": [
+        {
+            "id": "688",
+            "name": "Akron"
+        },
+        {
+            "id": "180",
+            "name": "Cincinnati"
+        },
+        {
+            "id": "544",
+            "name": "Cleveland"
+        },
+        {
+            "id": "177",
+            "name": "Columbus"
+        },
+        {
+            "id": "694",
+            "name": "Highland Heights"
+        },
+        {
+            "id": "657",
+            "name": "Toledo"
+        }
+    ],
+    "locations_business_address": [
+        {
+            "id": 852,
+            "location_name": "11427 Reed Hartman Hwy, Cincinnati, OH 45241",
+            "city": "Cincinnati",
+            "state": "Ohio",
+            "state_abbr": "OH",
+            "address": "11427 Reed Hartman Hwy, Cincinnati, OH 45241",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 39.275868,
+            "point_y": -84.374267,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/852-01-Building.webp",
+                "alttext": null
+            },
+            "url": "/business-address/ohio/cincinnati/location-852/",
+            "phone": "5137668478"
+        }
+    ],
+    "meta": {
+        "cities_virtual_count": 12,
+        "cities_business_count": 1,
+        "cities_popular_count": 6,
+        "locations_business_address_count": 1
+    },
+    "seo": {
+        "title": "Virtual Business Address in Ohio | Opus Virtual Offices",
+        "meta_description": "Get a prestigious business address in Ohio with Opus. Multiple premium locations statewide mail handling privacy protection all for just $59/month.",
+        "canonical": "https://www.opusvirtualoffices.com/business-address/ohio/",
+        "og": {
+            "title": "Virtual Business Address in Ohio | Opus Virtual Offices",
+            "description": "Get a prestigious business address in Ohio with Opus. Multiple premium locations statewide mail handling privacy protection all for just $59/month.",
+            "url": "https://www.opusvirtualoffices.com/business-address/ohio/",
+            "type": "website",
+            "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+        }
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "success": true,
+    "count": 17,
+    "state": "michigan",
+    "data": [
+        {
+            "id": "898",
+            "name": "Ada",
+            "popular": "0"
+        },
+        {
+            "id": "137",
+            "name": "Ann Arbor",
+            "popular": "1"
+        },
+        {
+            "id": "760",
+            "name": "Brighton",
+            "popular": "0"
+        },
+        {
+            "id": "564",
+            "name": "Clinton Township",
+            "popular": "0"
+        },
+        {
+            "id": "191",
+            "name": "Detroit",
+            "popular": "1"
+        },
+        {
+            "id": "466",
+            "name": "Fenton",
+            "popular": "0"
+        },
+        {
+            "id": "277",
+            "name": "Grand Rapids",
+            "popular": "1"
+        },
+        {
+            "id": "369",
+            "name": "Grandville",
+            "popular": "0"
+        },
+        {
+            "id": "673",
+            "name": "Hazel Park",
+            "popular": "0"
+        },
+        {
+            "id": "610",
+            "name": "Lansing",
+            "popular": "1"
+        },
+        {
+            "id": "561",
+            "name": "Livonia",
+            "popular": "1"
+        },
+        {
+            "id": "391",
+            "name": "Marine City",
+            "popular": "0"
+        },
+        {
+            "id": "275",
+            "name": "Rochester Hills",
+            "popular": "0"
+        },
+        {
+            "id": "692",
+            "name": "Sterling Heights",
+            "popular": "0"
+        },
+        {
+            "id": "625",
+            "name": "Troy",
+            "popular": "0"
+        },
+        {
+            "id": "131",
+            "name": "West Bloomfield",
+            "popular": "0"
+        },
+        {
+            "id": "756",
+            "name": "Ypsilanti",
+            "popular": "0"
+        }
+    ]
+}

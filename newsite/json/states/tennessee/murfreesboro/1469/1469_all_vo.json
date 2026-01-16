@@ -1,0 +1,90 @@
+{
+    "success": true,
+    "location_id": 1469,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Murfreesboro",
+            "state": "TN",
+            "price": null,
+            "address": {
+                "line1": "925 S Church Street",
+                "suite": null,
+                "city": "Murfreesboro",
+                "state": "TN",
+                "zip": "37130",
+                "phone": "(615) 472-2105"
+            },
+            "images": {
+                "hero": [
+                    "/newsite/wp-content/themes/ThemeDec23/dist/assets/img/mailcenter.jpg",
+                    "/assets/mail-center.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1469",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Murfreesboro Virtual Office",
+            "body": "Discover the advantages of securing a prestigious business address in Murfreesboro, Tennessee, without the need for a physical office space. At Opus VO, we offer you the opportunity to position your business in the heart of Murfreesboro’s dynamic business community while optimizing operational efficiency. Our state-of-the-art conference rooms are readily available for essential meetings and collaborative endeavors.  When you choose Opus VO’s virtual office in Murfreesboro, you also gain access to a skilled live receptionist who seamlessly integrates with your team. We ensure that every client interaction aligns with your unique brand identity. Delegate routine administrative tasks to us, allowing you to concentrate on your core business objectives. ",
+            "map": {
+                "lat": 35.8338842,
+                "lng": -86.3926625,
+                "zoom": 14,
+                "city": "Murfreesboro"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Murfreesboro, Tennessee even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Murfreesboro. You can also adapt to better meet your clients’ unique needs within Tennessee. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Murfreesboro virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Murfreesboro? Why Opus VO?",
+                "body": "Murfreesboro is more than just a charming city; it’s a thriving business hub with opportunities spanning various sectors, including technology, healthcare, and education. Possessing a Murfreesboro address not only enhances your business reputation but also provides access to valuable networking events and industry connections.  Opting for Opus VO for your virtual office in Murfreesboro is more than a practical choice; it’s a strategic advantage. Are you ready to elevate your business presence? Explore our exceptional virtual office solutions today.  Choose from two Opus VO locations in Murfreesboro @ 925 S Church 1784 W. Northfield Blvd., Murfreesboro, TN 37129, or 1784 W. Northfield Blvd., Murfreesboro, TN 37129 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Murfreesboro - 925 S Church Street | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Tennessee, Murfreesboro virtual office located at 925 S Church Street. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/tennessee/murfreesboro/location-1469/",
+            "og": {
+                "title": "Virtual Office in Murfreesboro - 925 S Church Street | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Tennessee, Murfreesboro virtual office located at 925 S Church Street. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/tennessee/murfreesboro/location-1469/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+            }
+        }
+    }
+}

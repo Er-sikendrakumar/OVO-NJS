@@ -1,0 +1,37 @@
+{
+    "success": true,
+    "count": 6,
+    "state": "oregon",
+    "data": [
+        {
+            "id": "879",
+            "name": "Beaverton",
+            "popular": "0"
+        },
+        {
+            "id": "843",
+            "name": "Bend",
+            "popular": "1"
+        },
+        {
+            "id": "923",
+            "name": "Gladstone",
+            "popular": "0"
+        },
+        {
+            "id": "231",
+            "name": "Hillsboro",
+            "popular": "1"
+        },
+        {
+            "id": "193",
+            "name": "Portland",
+            "popular": "1"
+        },
+        {
+            "id": "167",
+            "name": "Salem",
+            "popular": "1"
+        }
+    ]
+}

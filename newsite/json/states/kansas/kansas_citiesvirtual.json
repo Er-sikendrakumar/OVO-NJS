@@ -1,0 +1,17 @@
+{
+    "success": true,
+    "count": 2,
+    "state": "kansas",
+    "data": [
+        {
+            "id": "574",
+            "name": "Topeka",
+            "popular": "1"
+        },
+        {
+            "id": "362",
+            "name": "Wichita",
+            "popular": "1"
+        }
+    ]
+}

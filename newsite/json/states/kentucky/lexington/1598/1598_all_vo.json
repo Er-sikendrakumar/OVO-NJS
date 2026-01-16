@@ -1,0 +1,92 @@
+{
+    "success": true,
+    "location_id": 1598,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Lexington",
+            "state": "KY",
+            "price": null,
+            "address": {
+                "line1": "710 E Main Street",
+                "suite": null,
+                "city": "Lexington",
+                "state": "KY",
+                "zip": "40502",
+                "phone": "(888) 898-9868"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/1598-001-Building-scaled.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1598-02.board_-406x550.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1598-03.meetingroom.jpg",
+                    "/wp-content-mgr/wp-content/uploads/shared-2.jpg"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1598",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Lexington Virtual Office",
+            "body": "Acquire a prestigious business address in Lexington without the fiscal strain of a physical workspace. With Opus VO, you have the chance to root your business in the dynamic environment of Lexington while thoughtfully managing your finances. Preparing for a crucial meeting or an influential client pitch? Our deluxe meeting rooms are set to make an indelible impression.  When you opt for a virtual establishment in Lexington via Opus VO, a devoted live receptionist comes as part and parcel of our service. We ensure every client interaction embodies the essence of your brand’s philosophy. Leave the customary administrative duties to us, thereby liberating you to focus on your loftier business objectives.   ",
+            "map": {
+                "lat": 38.0357095,
+                "lng": -84.4854052,
+                "zoom": 14,
+                "city": "Lexington"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Lexington, Kentucky even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Lexington. You can also adapt to better meet your clients’ unique needs within Kentucky. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Lexington virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Lexington? Why a Virtual Office?",
+                "body": "Lexington is more than just horse races and bourbon; it’s a thriving nexus for a myriad of industries, from healthcare to tech innovation. Operating your business from Lexington affords you entry to a dynamic network and a variety of professional gatherings that can expedite your business growth.  Selecting Opus VO in Lexington transcends mere budgetary wisdom—it signifies strategic acumen. Are you prepared to ascend your business to new heights? Our exemplary virtual office services await your royal endorsement.  Opus VO, Lexington @ 710 E Main Street, Lexington, KY 40502 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Lexington - 710 E Main Street | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Kentucky, Lexington virtual office located at 710 E Main Street. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/kentucky/lexington/location-1598/",
+            "og": {
+                "title": "Virtual Office in Lexington - 710 E Main Street | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Kentucky, Lexington virtual office located at 710 E Main Street. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/kentucky/lexington/location-1598/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/1598-001-Building-scaled.jpg"
+            }
+        }
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "success": true,
+    "location_id": 996,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "McLean",
+            "state": "VA",
+            "price": null,
+            "address": {
+                "line1": "8200 Greensboro Drive",
+                "suite": null,
+                "city": "McLean",
+                "state": "VA",
+                "zip": "22102",
+                "phone": "(703) 682-4525"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/996-building-723x550.jpg",
+                    "/wp-content-mgr/wp-content/uploads/996-lounge-800x349.jpg",
+                    "/wp-content-mgr/wp-content/uploads/996-meeting-2-733x550.jpg",
+                    "/wp-content-mgr/wp-content/uploads/996-meeting-room-800x549.jpg",
+                    "/wp-content-mgr/wp-content/uploads/996-reception-2-733x550.jpg",
+                    "/wp-content-mgr/wp-content/uploads/996-reception-733x550.jpg"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=996",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "McLean Virtual Office",
+            "body": "Unlock the advantages of a premier business address in McLean, Virginia, without the logistical challenges or financial burdens of a traditional office environment. Opus VO allows you to position your enterprise in a prestigious McLean locale at just a fraction of the cost of leasing a physical office. Coordinate business activities, meet with clients, and hold events in our contemporary, fully-equipped conference rooms. Elevate your brand’s stature with a distinguished address in one of McLean’s leading business districts.  Selecting a virtual office in McLean through Opus VO gives you the exclusive benefit of a live receptionist devoted to delivering tailored, top-quality client service. Each client interaction is intricately adapted to align with your unique business objectives, bolstered by our expansive array of administrative solutions. We offer complete digital mail management, advanced call-forwarding options, and more. Our experienced admin team will handle your everyday business so that you can concentrate on the strategic aspects of your company. ",
+            "map": {
+                "lat": 38.9232246,
+                "lng": -77.22834189,
+                "zoom": 14,
+                "city": "McLean"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in McLean, Virginia even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of McLean. You can also adapt to better meet your clients’ unique needs within Virginia. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our McLean virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why opt for a McLean Virtual Office?",
+                "body": "McLean is more than just a suburb of Virginia; it’s a thriving economic focal point with sectors like government contracting, finance, and technology, only 14 miles from Washington, D.C. By establishing your business in this active market, you’re well-positioned to tap into local opportunities that could significantly boost your bottom line. Conveniently situated near critical business hubs and specialized events, our McLean location offers easy access to key industry meet-ups and valuable networking opportunities.  By choosing an Opus Virtual Office in McLean, you’re doing more than simply cutting overhead; you’re also investing in a crucial competitive edge for your organization. Take your business to new heights by leveraging our premium virtual office services today.  Opus VO, McLean @ 8200 Greensboro Drive McLean, VA 22102 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Mclean - 8200 Greensboro Drive | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Virginia, Mclean virtual office located at 8200 Greensboro Drive. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/virginia/mclean/location-996/",
+            "og": {
+                "title": "Virtual Office in Mclean - 8200 Greensboro Drive | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Virginia, Mclean virtual office located at 8200 Greensboro Drive. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/virginia/mclean/location-996/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/996-building.jpg"
+            }
+        }
+    }
+}

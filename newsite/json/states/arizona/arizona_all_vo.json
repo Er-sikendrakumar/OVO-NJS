@@ -1,0 +1,309 @@
+{
+    "success": true,
+    "state": "arizona",
+    "cities_virtual": [
+        {
+            "id": "491",
+            "name": "Chandler",
+            "popular": "1"
+        },
+        {
+            "id": "921",
+            "name": "Flagstaff",
+            "popular": "0"
+        },
+        {
+            "id": "255",
+            "name": "Gilbert",
+            "popular": "0"
+        },
+        {
+            "id": "538",
+            "name": "Mesa",
+            "popular": "0"
+        },
+        {
+            "id": "214",
+            "name": "Phoenix",
+            "popular": "1"
+        },
+        {
+            "id": "185",
+            "name": "Scottsdale",
+            "popular": "1"
+        },
+        {
+            "id": "217",
+            "name": "Tempe",
+            "popular": "1"
+        },
+        {
+            "id": "649",
+            "name": "Tucson",
+            "popular": "1"
+        }
+    ],
+    "cities_business": [
+        {
+            "id": "214",
+            "name": "Phoenix",
+            "popular": "1"
+        },
+        {
+            "id": "649",
+            "name": "Tucson",
+            "popular": "1"
+        }
+    ],
+    "cities_popular": [
+        {
+            "id": "491",
+            "name": "Chandler"
+        },
+        {
+            "id": "214",
+            "name": "Phoenix"
+        },
+        {
+            "id": "185",
+            "name": "Scottsdale"
+        },
+        {
+            "id": "217",
+            "name": "Tempe"
+        },
+        {
+            "id": "649",
+            "name": "Tucson"
+        }
+    ],
+    "locations_virtual_office": [
+        {
+            "id": 975,
+            "location_name": "2705 S. Alma School Road, Chandler, AZ 85286",
+            "city": "Chandler",
+            "state": "Arizona",
+            "state_abbr": "AZ",
+            "address": "2705 S. Alma School Road, Chandler, AZ 85286",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 33.2665811,
+            "point_y": -111.8580721,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/975-Building-800x533-1.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/arizona/chandler/location-975/",
+            "phone": "4807298852"
+        },
+        {
+            "id": 771,
+            "location_name": "2925 East Riggs Road, Chandler, AZ 85249",
+            "city": "Chandler",
+            "state": "Arizona",
+            "state_abbr": "AZ",
+            "address": "2925 East Riggs Road, Chandler, AZ 85249",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 33.219148,
+            "point_y": -111.794434,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/arizona/chandler/location-771/",
+            "phone": "4802967560"
+        },
+        {
+            "id": 1766,
+            "location_name": "2217 E Cedar Ave, Flagstaff, AZ 86004",
+            "city": "Flagstaff",
+            "state": "Arizona",
+            "state_abbr": "AZ",
+            "address": "2217 E Cedar Ave, Flagstaff, AZ 86004",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 35.2178092,
+            "point_y": -111.616818,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/arizona/flagstaff/location-1766/",
+            "phone": "9283656171"
+        },
+        {
+            "id": 1765,
+            "location_name": "809 W Riordan Rd, Flagstaff, AZ 86001",
+            "city": "Flagstaff",
+            "state": "Arizona",
+            "state_abbr": "AZ",
+            "address": "809 W Riordan Rd, Flagstaff, AZ 86001",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 35.1909289,
+            "point_y": -111.6624859,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/arizona/flagstaff/location-1765/",
+            "phone": "9283656171"
+        },
+        {
+            "id": 1066,
+            "location_name": "1530 E Williams Field Road, Gilbert, AZ 85295",
+            "city": "Gilbert",
+            "state": "Arizona",
+            "state_abbr": "AZ",
+            "address": "1530 E Williams Field Road, Gilbert, AZ 85295",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 33.3082602,
+            "point_y": -111.7572274,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1066-building.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/arizona/gilbert/location-1066/",
+            "phone": "4805884716"
+        },
+        {
+            "id": 864,
+            "location_name": "625 W Southern Avenue, Mesa, AZ 85210",
+            "city": "Mesa",
+            "state": "Arizona",
+            "state_abbr": "AZ",
+            "address": "625 W Southern Avenue, Mesa, AZ 85210",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 33.3928411,
+            "point_y": -111.8452306,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/864-exterior.png",
+                "alttext": "Exterior of building that houses Opus Virtual Offices located in Mesa, Arizona"
+            },
+            "url": "/virtual-office/arizona/mesa/location-864/",
+            "phone": "4805884729"
+        },
+        {
+            "id": 862,
+            "location_name": "18444 N 25th Ave, Phoenix, AZ 85023",
+            "city": "Phoenix",
+            "state": "Arizona",
+            "state_abbr": "AZ",
+            "address": "18444 N 25th Ave, Phoenix, AZ 85023",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 33.653881,
+            "point_y": -112.111879,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/862-Exterior.png",
+                "alttext": "Exterior of building that houses Opus Virtual Offices located in Pheonix, Arizona"
+            },
+            "url": "/virtual-office/arizona/phoenix/location-862/",
+            "phone": "6026442508"
+        },
+        {
+            "id": 825,
+            "location_name": "2942 N 24th Street, Phoenix, AZ 85016",
+            "city": "Phoenix",
+            "state": "Arizona",
+            "state_abbr": "AZ",
+            "address": "2942 N 24th Street, Phoenix, AZ 85016",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 33.481891399,
+            "point_y": -112.0309761,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/Opus-Virtual-Office-Phoenix-Building-Exterior-Sign-scaled.webp",
+                "alttext": "Exterior of Biltmore Office Plaza in Phoenix, AZ with a sign at 2942 N 24th Street"
+            },
+            "url": "/virtual-office/arizona/phoenix/location-825/",
+            "phone": "6023842372"
+        },
+        {
+            "id": 967,
+            "location_name": "6424 E Greenway Pkwy, Scottsdale, AZ 85254",
+            "city": "Scottsdale",
+            "state": "Arizona",
+            "state_abbr": "AZ",
+            "address": "6424 E Greenway Pkwy, Scottsdale, AZ 85254",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 33.6262506,
+            "point_y": -111.9422351,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/967-exterior.png",
+                "alttext": "Exterior of building that houses Opus Virtual Office located in Scottsdale, Arizona"
+            },
+            "url": "/virtual-office/arizona/scottsdale/location-967/",
+            "phone": "4804770962"
+        },
+        {
+            "id": 1750,
+            "location_name": "1628 E Southern Ave, Tempe, AZ 85282",
+            "city": "Tempe",
+            "state": "Arizona",
+            "state_abbr": "AZ",
+            "address": "1628 E Southern Ave, Tempe, AZ 85282",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 33.3942599,
+            "point_y": -111.9120635,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/arizona/tempe/location-1750/",
+            "phone": "4802962007"
+        },
+        {
+            "id": 1722,
+            "location_name": "5151 E Broadway Blvd, Tucson, AZ 85711",
+            "city": "Tucson",
+            "state": "Arizona",
+            "state_abbr": "AZ",
+            "address": "5151 E Broadway Blvd, Tucson, AZ 85711",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 32.2228334,
+            "point_y": -110.8826734,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1722-exterior.png",
+                "alttext": "Exterior of building that houses Opus Virtual Offices locates in Tucson, Arizona"
+            },
+            "url": "/virtual-office/arizona/tucson/location-1722/",
+            "phone": "5202888528"
+        }
+    ],
+    "meta": {
+        "cities_virtual_count": 8,
+        "cities_business_count": 2,
+        "cities_popular_count": 5,
+        "locations_virtual_office_count": 11
+    },
+    "seo": {
+        "title": "Virtual Office in Arizona | Locations Statewide | Opus VO",
+        "meta_description": "Get a prestigious Arizona business address and professional phone answering services with Opus Virtual Offices, the perfect office solution for your business needs.",
+        "canonical": "https://www.opusvirtualoffices.com/virtual-office/arizona/",
+        "og": {
+            "title": "Virtual Office in Arizona | Locations Statewide | Opus VO",
+            "description": "Get a prestigious Arizona business address and professional phone answering services with Opus Virtual Offices, the perfect office solution for your business needs.",
+            "url": "https://www.opusvirtualoffices.com/virtual-office/arizona/",
+            "type": "website",
+            "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+        }
+    }
+}

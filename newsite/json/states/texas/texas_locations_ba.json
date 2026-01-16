@@ -1,0 +1,65 @@
+{
+    "success": true,
+    "count": 3,
+    "state": "texas",
+    "mode": "business-address",
+    "data": [
+        {
+            "id": 1255,
+            "location_name": "3626 North Hall Street (Two Oak Lawn), Suite 610, Dallas, TX 75219",
+            "city": "Dallas",
+            "state": "Texas",
+            "state_abbr": "TX",
+            "address": "3626 North Hall Street (Two Oak Lawn), Suite 610, Dallas, TX 75219",
+            "premium": 1,
+            "showpopular": 1,
+            "opusowned": 1,
+            "point_x": 32.8092951,
+            "point_y": -96.8060222,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/Opus-Virtual-Office-Dallas-3626-North-Hall-Street-Modern-Office-Building.webp",
+                "alttext": "Exterior view of the Austin Opus Virtual Office location on 1005 Congress Avenue, which provides a prime business location."
+            },
+            "url": "/business-address/texas/dallas/location-1255/",
+            "phone": "2149329906"
+        },
+        {
+            "id": 1475,
+            "location_name": "1005 Congress Avenue, Suite 925, Austin, TX 78701",
+            "city": "Austin",
+            "state": "Texas",
+            "state_abbr": "TX",
+            "address": "1005 Congress Avenue, Suite 925, Austin, TX 78701",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 1,
+            "point_x": 30.2720098,
+            "point_y": -97.7408639,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/Opus-Virtual-Office-Austin-1005-Congress-Avenue-Exterior.webp",
+                "alttext": "Exterior view of Opus Virtual Office building at 1005 Congress Avenue, Austin, TX."
+            },
+            "url": "/business-address/texas/austin/location-1475/",
+            "phone": "5128127060"
+        },
+        {
+            "id": 1323,
+            "location_name": "3050 Post Oak Blvd, Suite 510, Houston, TX 77056",
+            "city": "Houston",
+            "state": "Texas",
+            "state_abbr": "TX",
+            "address": "3050 Post Oak Blvd, Suite 510, Houston, TX 77056",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 1,
+            "point_x": 29.7338521,
+            "point_y": -95.4628312,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/Opus-Virtual-Office-Houston-3050-Post-Oak-Blvd-Glass-Tower-Exterior.webp",
+                "alttext": "Glass tower office building with mirrored windows at 3050 Post Oak Blvd, Houston, TX, home to Opus Virtual Office."
+            },
+            "url": "/business-address/texas/houston/location-1323/",
+            "phone": "2819542788"
+        }
+    ]
+}

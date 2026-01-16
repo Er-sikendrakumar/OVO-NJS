@@ -1,0 +1,89 @@
+{
+    "success": true,
+    "location_id": 1183,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Wetumpka",
+            "state": "AL",
+            "price": null,
+            "address": {
+                "line1": "4049 US Highway 231",
+                "suite": null,
+                "city": "Wetumpka",
+                "state": "AL",
+                "zip": "36093",
+                "phone": "(334) 758-9567"
+            },
+            "images": {
+                "hero": [
+                    "/assets/mail-center.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1183",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 0,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Wetumpka Virtual Office",
+            "body": "Enjoy the benefits of an esteemed business address in Wetumpka without the financial strain of a physical workspace. Opus VO offers you the chance to situate your business in a prime Wetumpka location at a fraction of the cost of a traditional office lease. Make use of our contemporary conference rooms for crucial meetings and client interactions, all while bolstering your brand’s image with an esteemed Wetumpka address.  Opting for a virtual office in Wetumpka through Opus VO provides you with the specialized benefit of a live receptionist. Committed to delivering tailored, high-quality client service, our team ensures each interaction is precisely aligned with your specific business objectives. Hand over routine administrative chores such as digital mail organization and sophisticated call-forwarding to us, allowing you to concentrate on strategic business growth. ",
+            "map": {
+                "lat": 32.5002155,
+                "lng": -86.2170439,
+                "zoom": 14,
+                "city": "Wetumpka"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Wetumpka, Alabama even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Wetumpka. You can also adapt to better meet your clients’ unique needs within Alabama. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Wetumpka virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Choose a Wetumpka Virtual Office?",
+                "body": "Wetumpka isn’t merely a charming town; it’s a developing business hub with opportunities in sectors like retail, services, and local tourism. Centrally located near vital business locales, our Wetumpka office gives you easy access to important industry contacts and networking opportunities.  By selecting an Opus Virtual Office in Wetumpka, you’re doing more than just cutting costs; you’re gaining a significant competitive edge. Advance your business to new heights by leveraging our exceptional virtual office services today.  Opus VO, Wetumpka @ 4049 US Highway 231, Wetumpka, Al. 36093 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Wetumpka - 4049 US Highway 231 | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Alabama, Wetumpka virtual office located at 4049 US Highway 231. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/alabama/wetumpka/location-1183/",
+            "og": {
+                "title": "Virtual Office in Wetumpka - 4049 US Highway 231 | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Alabama, Wetumpka virtual office located at 4049 US Highway 231. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/alabama/wetumpka/location-1183/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+            }
+        }
+    }
+}

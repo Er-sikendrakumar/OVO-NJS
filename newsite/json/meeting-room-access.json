@@ -1,0 +1,188 @@
+{
+    "success": true,
+    "data": {
+        "locations": [
+            {
+                "city": "New York, NY",
+                "cityid": 25,
+                "image": "/newsite/wp-content/uploads/2024/03/newyork.webp",
+                "alt": "Exterior view of the historic office building at 26 Broadway, New York, NY, home to Opus Virtual Office.",
+                "booking_url": "https://www.opusmeetingrooms.com/free-5-hours/?c=gt3b&cityid=25"
+            },
+            {
+                "city": "Brooklyn, NY",
+                "cityid": 28,
+                "image": "/assets/brooklyn.webp",
+                "alt": "Street view of Opus Virtual Office's Brooklyn, NY building located at 32 Court Street.",
+                "booking_url": "https://www.opusmeetingrooms.com/free-5-hours/?c=gt3b&cityid=28"
+            },
+            {
+                "city": "Beverly Hills, CA",
+                "cityid": 5,
+                "image": "/assets/beverly-hills.webp",
+                "alt": "Classic office building exterior of Opus Virtual Office in Beverly Hills, showcasing a prestigious location for businesses.",
+                "booking_url": "https://www.opusmeetingrooms.com/free-5-hours/?c=gt3b&cityid=5"
+            },
+            {
+                "city": "Los Angeles, CA",
+                "cityid": 22,
+                "image": "/newsite/wp-content/uploads/2024/03/losangles.webp",
+                "alt": "Exterior street view of Opus' modern Los Angeles location at 626 Wilshire Blvd, Los Angeles.",
+                "booking_url": "https://www.opusmeetingrooms.com/free-5-hours/?c=gt3b&cityid=22"
+            },
+            {
+                "city": "Chicago, IL",
+                "cityid": 23,
+                "image": "/newsite/wp-content/uploads/2024/03/chicago.webp",
+                "alt": "Aerial view of the Chicago skyline near Opus' Chicago virtual office location at 122 South Michigan Avenue.",
+                "booking_url": "https://www.opusmeetingrooms.com/free-5-hours/?c=gt3b&cityid=23"
+            },
+            {
+                "city": "Houston, TX",
+                "cityid": 21,
+                "image": "/newsite/wp-content/uploads/2024/03/houstan.webp",
+                "alt": "Glass tower office building with mirrored windows at 3050 Post Oak Blvd, Houston, TX, home to Opus Virtual Office.",
+                "booking_url": "https://www.opusmeetingrooms.com/free-5-hours/?c=gt3b&cityid=21"
+            },
+            {
+                "city": "Austin, TX",
+                "cityid": 26,
+                "image": "/assets/austin.webp",
+                "alt": "Exterior view of Opus Virtual Office building at 1005 Congress Avenue, Austin, TX.",
+                "booking_url": "https://www.opusmeetingrooms.com/free-5-hours/?c=gt3b&cityid=26"
+            },
+            {
+                "city": "Dallas, TX",
+                "cityid": 18,
+                "image": "/newsite/wp-content/uploads/2024/03/dallas.webp",
+                "alt": "Exterior view of the Austin Opus Virtual Office location on 1005 Congress Avenue, which provides a prime business location.",
+                "booking_url": "https://www.opusmeetingrooms.com/free-5-hours/?c=gt3b&cityid=18"
+            },
+            {
+                "city": "Atlanta, GA",
+                "cityid": 4,
+                "image": "/newsite/wp-content/uploads/2024/03/atlanta.webp",
+                "alt": "Exterior view of the Atlanta virtual office building at 3379 Peachtree Road NE, showcasing modern glass architecture and nearby high-rise buildings.",
+                "booking_url": "https://www.opusmeetingrooms.com/free-5-hours/?c=gt3b&cityid=4"
+            },
+            {
+                "city": "Miami, FL",
+                "cityid": 19,
+                "image": "/newsite/wp-content/uploads/2024/03/miami.webp",
+                "alt": "FirstBank building at 848 Brickell Avenue in Miami, where Opus Virtual Office is located.",
+                "booking_url": "https://www.opusmeetingrooms.com/free-5-hours/?c=gt3b&cityid=19"
+            },
+            {
+                "city": "Boca Raton, FL",
+                "cityid": 1,
+                "image": "/assets/boca-raton.webp",
+                "alt": "Modern Boca Raton FL Virtual Office Building at 1825 NW Corporate Blvd.",
+                "booking_url": "https://www.opusmeetingrooms.com/free-5-hours/?c=gt3b&cityid=1"
+            },
+            {
+                "city": "Fort Lauderdale, FL",
+                "cityid": 3,
+                "image": "/assets/fort-lauderdale.webp",
+                "alt": "SunTrust building in Fort Lauderdale, home to Opus Virtual Office.",
+                "booking_url": "https://www.opusmeetingrooms.com/free-5-hours/?c=gt3b&cityid=3"
+            },
+            {
+                "city": "Tampa, FL",
+                "cityid": 2,
+                "image": "/newsite/wp-content/uploads/2024/03/tampa.webp",
+                "alt": "Exterior view of the virtual office building at 401 E Jackson St, Tampa, FL.",
+                "booking_url": "https://www.opusmeetingrooms.com/free-5-hours/?c=gt3b&cityid=2"
+            },
+            {
+                "city": "Orlando, FL",
+                "cityid": 29,
+                "image": "/assets/orlando.webp",
+                "alt": "Tall office building at 200 E Robinson Street, Orlando, FL, home to Opus Virtual Office, under a cloudy sky.",
+                "booking_url": "https://www.opusmeetingrooms.com/free-5-hours/?c=gt3b&cityid=29"
+            },
+            {
+                "city": "Nashville, TN",
+                "cityid": 27,
+                "image": "/assets/nashville.webp",
+                "alt": "View of the downtown Nashville skyline from Opus Virtual Office at 611 Commerce Street, Nashville, TN.",
+                "booking_url": "https://www.opusmeetingrooms.com/free-5-hours/?c=gt3b&cityid=27"
+            },
+            {
+                "city": "Wilmington, DE",
+                "cityid": 6,
+                "image": "/assets/wilmington.webp",
+                "alt": "Exterior view of the modern office building at 1201 North Market Street, Wilmington, Delaware, home to Opus Virtual Office.",
+                "booking_url": "https://www.opusmeetingrooms.com/free-5-hours/?c=gt3b&cityid=6"
+            }
+        ],
+        "total_locations": 16,
+        "content": {
+            "hero_section": {
+                "badge": "Did you know?",
+                "main_heading_desktop": "All Opus VO clients have access to meeting rooms in additional top markets!",
+                "main_heading_mobile": "Access meeting rooms in the top US locations.",
+                "description_desktop": "As an Opus Virtual Offices client, when you travel, you have access to fully equipped, professional meeting rooms in the most in-demand markets throughout the USA.",
+                "description_mobile": "As an Opus Virtual Offices client, you gain access to fully equipped, professional meeting rooms in the most in-demand markets throughout the USA.",
+                "free_hours_text": "Register and get 5 free hours that can be used at any of the 16 locations listed below.",
+                "features": [
+                    "5 free hours included for Opus clients (one-time offer)",
+                    "Free Wi-Fi",
+                    "Hosted in top-tier business locations",
+                    "On-site receptionist support included",
+                    "Book online in seconds"
+                ],
+                "cta_button_text": "Register to get your 5 free hours",
+                "cta_button_url": "https://www.opusmeetingrooms.com/free-5-hours/",
+                "disclaimer": "No small print - 5 free hours do not expire"
+            },
+            "locations_section": {
+                "heading": "The Meeting Room locations you have access",
+                "subheading": "Your 5 free hours for the meeting rooms are only available in the following markets:",
+                "select_button_text": "Select This City"
+            },
+            "right_cities_section": {
+                "heading": "Your Office Away from Home — In the Right Cities",
+                "description": "When it's time to meet in person, location matters. As an Opus client, you receive 5 complimentary hours to use in any of our 16 select meeting room locations nationwide. After that, book additional hours for only $25/hour — no contracts, no surprises.",
+                "features": [
+                    "Professional, fully equipped spaces for meetings and presentations",
+                    "On-site receptionist support to welcome your guests",
+                    "High-speed internet & conference-ready setup"
+                ],
+                "cta_button_text": "Register to get your 5 free hours",
+                "cta_button_url": "https://www.opusmeetingrooms.com/free-5-hours/"
+            },
+            "book_section": {
+                "heading": "Book your free 5-hours now!",
+                "description": "Opus VO Clients get 5 hours with their membership",
+                "button_text": "Book Now",
+                "button_url": "https://www.opusmeetingrooms.com/free-5-hours/"
+            },
+            "pricing_card": {
+                "hours": "5 Hours",
+                "price": "FREE",
+                "description": "Opus clients receive 5 hours of meeting room access.",
+                "thereafter": "Thereafter, just $25/hour"
+            },
+            "highlight_text": "Access Opus VO Meeting Rooms while you travel to New York, LA, Chicago, Miami and more.",
+            "images": {
+                "banner1": "/newsite/wp-content/themes/ThemeDec23/assets/images/meeting-room-access/banner1.webp",
+                "banner2": "/newsite/wp-content/themes/ThemeDec23/assets/images/meeting-room-access/banner2.webp",
+                "banner3": "/newsite/wp-content/themes/ThemeDec23/assets/images/meeting-room-access/banner3.webp",
+                "banner4": "/newsite/wp-content/themes/ThemeDec23/assets/images/meeting-room-access/banner4.webp",
+                "right_city_1": "/newsite/wp-content/themes/ThemeDec23/assets/images/meeting-room-access/right-city-1.webp"
+            }
+        },
+        "seo": {
+            "title": "Meeting Room Access - Opus Virtual Offices",
+            "meta_description": "Access professional meeting rooms in top US locations. Opus VO clients get 5 free hours in 16 premium markets including NYC, LA, Chicago, Miami and more.",
+            "canonical": "https://www.opusvirtualoffices.com/meeting-room-access/",
+            "og": {
+                "title": "Meeting Room Access - Opus Virtual Offices",
+                "description": "Access professional meeting rooms in top US locations. Opus VO clients get 5 free hours in 16 premium markets.",
+                "url": "https://www.opusvirtualoffices.com/meeting-room-access/",
+                "type": "website",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/meeting-room-access/banner2.webp"
+            }
+        }
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "success": true,
+    "location_id": 1253,
+    "mode": "business-address",
+    "data": {
+        "header": {
+            "city": "Opelika",
+            "state": "AL",
+            "price": null,
+            "address": {
+                "line1": "216 South 8th Street",
+                "suite": null,
+                "city": "Opelika",
+                "state": "AL",
+                "zip": "36801",
+                "phone": "(334) 209-7481"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/Opus-Virtual-Office-Opelika-Building-Exterior-.webp",
+                    "/wp-content-mgr/wp-content/uploads/Opus-Virtual-Office-Opelika-Reception-Area--scaled.webp",
+                    "/wp-content-mgr/wp-content/uploads/Opus-Virtual-Office-Opelika-Conference-Room-.webp",
+                    "/wp-content-mgr/wp-content/uploads/Opus-Virtual-Office-Opelika-Mailbox-Area--scaled.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 1,
+            "addressOnlyUrl": "/business-address/alabama/opelika/location-1253/",
+            "signupUrl": "/signup/?locid=1253",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 1,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Opelika Virtual Office",
+            "body": "Unlock the benefits of a high-quality business address in Opelika without the need for a brick-and-mortar office. Opus VO enables you to position your company in a prime Opelika location at a fraction of the cost of a traditional office. Take advantage of our cutting-edge conference rooms for essential meetings and client interactions, while elevating your brand through a prestigious Opelika address.  Opting for a virtual office in Opelika via Opus VO provides you with the unique perk of a live receptionist. Committed to delivering top-notch, individualized customer service, our team ensures each client engagement is tailored to your specific business objectives. Entrust us with day-to-day administrative tasks like digital mail management and advanced call-forwarding, allowing you to concentrate on your company’s strategic growth. ",
+            "map": {
+                "lat": 32.6470902,
+                "lng": -85.37744029,
+                "zoom": 14,
+                "city": "Opelika"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Opelika, Alabama even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Opelika. You can also adapt to better meet your clients’ unique needs within Alabama. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Opelika virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Choose an Opelika Virtual Office?",
+                "body": "Opelika is more than just a scenic town; it’s an emerging business community with a variety of opportunities in sectors like manufacturing, healthcare, and retail. Conveniently situated near key business centers, our Opelika office grants you easy access to invaluable industry contacts and networking events.  By selecting an Opus Virtual Office in Opelika, you’re not only reducing your operational costs; you’re also giving your business an essential competitive edge. Take your venture to new heights by capitalizing on our exceptional virtual office services today.  Opus VO, Opelika @ 216 South 8th Street Opelika, AL 36801  ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Prestigious Business Address 216 South 8th Street Opelika | $59/month",
+            "meta_description": "Impress clients with a virtual office at 216 South 8th Street Opelika enjoy a prime location mail handling digital alerts and privacy for only $59/month",
+            "canonical": "https://www.opusvirtualoffices.com/business-address/alabama/opelika/location-1253/",
+            "og": {
+                "title": "Prestigious Business Address 216 South 8th Street Opelika | $59/month",
+                "description": "Impress clients with a virtual office at 216 South 8th Street Opelika enjoy a prime location mail handling digital alerts and privacy for only $59/month",
+                "url": "https://www.opusvirtualoffices.com/business-address/alabama/opelika/location-1253/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/Opus-Virtual-Office-Opelika-Building-Exterior-.webp"
+            }
+        }
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "success": true,
+    "count": 1,
+    "state": "south dakota",
+    "mode": "business-address",
+    "data": [
+        {
+            "id": 1373,
+            "location_name": "401 E 8th Street, Sioux Falls, SD 57103",
+            "city": "Sioux Falls",
+            "state": "South Dakota",
+            "state_abbr": "SD",
+            "address": "401 E 8th Street, Sioux Falls, SD 57103",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 43.5476721,
+            "point_y": -96.7223066,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1373-exterior.jpg",
+                "alttext": "Exterior of building that houses Opus Virtual Offices located in Sioux Falls, South Dakota"
+            },
+            "url": "/business-address/south-dakota/sioux-falls/location-1373/",
+            "phone": "6055192208"
+        }
+    ]
+}

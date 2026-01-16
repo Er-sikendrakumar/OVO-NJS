@@ -1,0 +1,89 @@
+{
+    "success": true,
+    "location_id": 1049,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Burbank",
+            "state": "CA",
+            "price": null,
+            "address": {
+                "line1": "1812 W. Burbank Boulevard",
+                "suite": null,
+                "city": "Burbank",
+                "state": "CA",
+                "zip": "91506",
+                "phone": "(818) 572-9404"
+            },
+            "images": {
+                "hero": [
+                    "/assets/mail-center.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1049",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 0,
+            "nearbyPremium": 1,
+            "nearbyPremiumUrl": "/virtual-office/california/beverly-hills/location-936/",
+            "nearbyPremiumText": "to view nearby PREMIUM Locations that offer Meeting Rooms for the same $99/mo",
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "BURBANK VIRTUAL OFFICE",
+            "body": "You can start a business just about anywhere in California, but some cities offer more benefits for your company’s goals. At Opus, we have compiled a list of the most popular cities to start a business, for any type of business. Growth is important for a business, not only when you are in the early stages of starting your business but also when you are looking to expand. Check out each one to see which one could benefit your business long-term prospects. Considering the increase in leasing fees, having a virtual office and business presence in these locations could save you a fortune and help you profit immensely. Take advantage of a virtual office in California today.”",
+            "map": {
+                "lat": 34.1809325,
+                "lng": -118.3308189,
+                "zoom": 14,
+                "city": "Burbank"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Burbank, California even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Burbank. You can also adapt to better meet your clients’ unique needs within California. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Burbank virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "BURBANK VIRTUAL OFFICE",
+                "body": "",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Burbank - 1812 W. Burbank Boulevard | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our California, Burbank virtual office located at 1812 W. Burbank Boulevard. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/california/burbank/location-1049/",
+            "og": {
+                "title": "Virtual Office in Burbank - 1812 W. Burbank Boulevard | $99/Month",
+                "description": "Get the ultimate office solution for your business with our California, Burbank virtual office located at 1812 W. Burbank Boulevard. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/california/burbank/location-1049/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+            }
+        }
+    }
+}

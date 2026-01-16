@@ -1,0 +1,89 @@
+{
+    "success": true,
+    "location_id": 613,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Citrus Heights",
+            "state": "CA",
+            "price": null,
+            "address": {
+                "line1": "7889 Lichen Dr.",
+                "suite": null,
+                "city": "Citrus Heights",
+                "state": "CA",
+                "zip": "95621",
+                "phone": "(916) 282-2134"
+            },
+            "images": {
+                "hero": [
+                    "/assets/mail-center.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=613",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 0,
+            "nearbyPremium": 1,
+            "nearbyPremiumUrl": "/virtual-office/california/sacramento/location-815/",
+            "nearbyPremiumText": "to view the nearby PREMIUM Locations for the same $99/mo",
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Citrus Heights Virtual Office",
+            "body": "Secure a reputable business address in Citrus Heights without the financial stress of a physical office. Opus VO offers you the option to place your business in our strategically located Citrus Heights office—all at a cost that’s much less than a traditional office lease. Utilize our well-equipped conference rooms for important meetings and customer interactions, while giving your brand a boost with a credible Citrus Heights address.  When you choose a virtual office via Opus VO, you get the perk of a live receptionist, who is dedicated to delivering personalized, high-quality customer service, ensuring that each client engagement aligns with your business goals. Leave the mundane tasks like mail management and call handling to us, allowing you to concentrate on what’s really important—growing your business. ",
+            "map": {
+                "lat": 38.7090862,
+                "lng": -121.3118499,
+                "zoom": 14,
+                "city": "Citrus Heights"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Citrus Heights, California even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Citrus Heights. You can also adapt to better meet your clients’ unique needs within California. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Citrus Heights virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why opt for a Citrus Heights Virtual Office?",
+                "body": "Citrus Heights isn’t just a suburban enclave; it’s a growing commercial hub with opportunities across various sectors such as retail, healthcare, and services. Our Citrus Heights location is conveniently situated, providing you with straightforward access to vital industry contacts and upcoming networking events.  By choosing an Opus Virtual Office in Citrus Heights, you’re doing more than just cutting overhead; you’re gaining a valuable edge over your competitors. Take advantage of our first-rate virtual office services today to elevate your business to new heights.  Opus VO, Citrus Heights @ 7889 Lichen Dr., Citrus Heights, CA 95621 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Citrus Heights - 7889 Lichen Dr. | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our California, Citrus Heights virtual office located at 7889 Lichen Dr.. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/california/citrus-heights/location-613/",
+            "og": {
+                "title": "Virtual Office in Citrus Heights - 7889 Lichen Dr. | $99/Month",
+                "description": "Get the ultimate office solution for your business with our California, Citrus Heights virtual office located at 7889 Lichen Dr.. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/california/citrus-heights/location-613/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+            }
+        }
+    }
+}

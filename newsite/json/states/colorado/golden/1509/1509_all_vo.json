@@ -1,0 +1,94 @@
+{
+    "success": true,
+    "location_id": 1509,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Golden",
+            "state": "CO",
+            "price": null,
+            "address": {
+                "line1": "14143 Denver West Parkway",
+                "suite": null,
+                "city": "Golden",
+                "state": "CO",
+                "zip": "80401",
+                "phone": "(303) 968-1724"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/1509-exterior.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1509-conference.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1509-conference2.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1509-conference3.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1509-lobby.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1509-kitchen.jpg"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1509",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Golden Virtual Office",
+            "body": "Snag a prestigious business address in Golden without the hefty price tag of a physical workspace. With Opus VO, you can root your business right in the heart of Golden’s dynamic scene, all without denting your budget. When the stakes are high for crucial meetings or client sessions, our contemporary conference rooms are ready to impress. A business address in Golden? It’s an instant lift for your brand image.  By choosing a virtual setup in Golden through Opus VO, you also get the added bonus of a live receptionist. Our aim is to make each customer interaction a natural extension of your business ethos. Hand off routine admin chores to us and free yourself to focus on driving your business forward. ",
+            "map": {
+                "lat": 39.7426653,
+                "lng": -105.1595202,
+                "zoom": 14,
+                "city": "Golden"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Golden, Colorado even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Golden. You can also adapt to better meet your clients’ unique needs within Colorado. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Golden virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Golden?",
+                "body": "Golden isn’t just a scenic gateway to the Rockies; it’s also an up-and-coming business locale with opportunities in renewable energy, technology, and outdoor recreation. Our Golden location offers prime access to crucial industry players and valuable networking events.  Opting for Opus VO in Golden means you’re not just minimizing your expenses—you’re also snagging a competitive advantage. So, are you all set to elevate your business? Our high-quality virtual office services are standing by to assist you.  Opus VO Golden @ 14143 Denver West Parkway, Golden, CO 80401 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Golden - 14143 Denver West Parkway | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Colorado, Golden virtual office located at 14143 Denver West Parkway. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/colorado/golden/location-1509/",
+            "og": {
+                "title": "Virtual Office in Golden - 14143 Denver West Parkway | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Colorado, Golden virtual office located at 14143 Denver West Parkway. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/colorado/golden/location-1509/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/1509-exterior.jpg"
+            }
+        }
+    }
+}

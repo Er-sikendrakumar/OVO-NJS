@@ -1,0 +1,96 @@
+{
+    "success": true,
+    "location_id": 1308,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Troy",
+            "state": "MI",
+            "price": null,
+            "address": {
+                "line1": "755 W. Big Beaver Rd",
+                "suite": null,
+                "city": "Troy",
+                "state": "MI",
+                "zip": "48084",
+                "phone": "(248) 560-1699"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/Opus-Virtual-Office-Troy-Building-Exterior.webp",
+                    "/wp-content-mgr/wp-content/uploads/Opus-Virtual-Office-Troy-Reception.webp",
+                    "/wp-content-mgr/wp-content/uploads/Opus-Virtual-Office-Troy-Boardroom.webp",
+                    "/wp-content-mgr/wp-content/uploads/Opus-Virtual-Office-Troy-Conference-Room.webp",
+                    "/wp-content-mgr/wp-content/uploads/Opus-Virtual-Office-Troy-Small-Meeting-Room.webp",
+                    "/wp-content-mgr/wp-content/uploads/Opus-Virtual-Office-Troy-Private-Office.webp",
+                    "/wp-content-mgr/wp-content/uploads/Opus-Virtual-Office-Troy-Open-Workspace.webp",
+                    "/wp-content-mgr/wp-content/uploads/Opus-Virtual-Office-Troy-Waiting-Area.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1308",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Troy Virtual Office",
+            "body": "Land a distinguished business address in Troy without the encumbrance of a physical office. With Opus VO, you can situate your business amidst the thriving professional landscape of Troy, all while safeguarding your fiscal assets. Need to conduct an impactful meeting or woo a critical client? Our state-of-the-art conference rooms are primed to impress.  Utilizing our virtual office solutions in Troy via Opus VO also includes the service of an individualized live receptionist. Our adept team ensures that each interaction with your clientele is an authentic reflection of your brand’s values. Assign your routine administrative chores to us, liberating you to pursue greater business objectives. ",
+            "map": {
+                "lat": 42.5602863,
+                "lng": -83.16155619,
+                "zoom": 14,
+                "city": "Troy"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Troy, Michigan even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Troy. You can also adapt to better meet your clients’ unique needs within Michigan. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Troy virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Troy?",
+                "body": "Troy is more than a suburban gem; it’s a dynamic arena for an assortment of industries, from automotive to IT. Securing an address here offers you the chance to mingle with movers and shakers, amplifying both your network and business opportunities.  Opting for Opus VO in Troy isn’t just a prudent financial move—it’s a strategic game-changer. Are you set to elevate your enterprise? Our unparalleled virtual office services await your command.  Opus VO, Troy @ 755 W. Big Beaver Rd, Troy, MI 48084       ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Troy - 755 W. Big Beaver Rd | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Michigan, Troy virtual office located at 755 W. Big Beaver Rd. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/michigan/troy/location-1308/",
+            "og": {
+                "title": "Virtual Office in Troy - 755 W. Big Beaver Rd | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Michigan, Troy virtual office located at 755 W. Big Beaver Rd. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/michigan/troy/location-1308/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/Opus-Virtual-Office-Troy-Building-Exterior.webp"
+            }
+        }
+    }
+}

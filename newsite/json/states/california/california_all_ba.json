@@ -1,0 +1,534 @@
+{
+    "success": true,
+    "state": "california",
+    "cities_virtual": [
+        {
+            "id": "922",
+            "name": "Adelanto",
+            "popular": "0"
+        },
+        {
+            "id": "371",
+            "name": "Antelope",
+            "popular": "0"
+        },
+        {
+            "id": "361",
+            "name": "Atascadero",
+            "popular": "0"
+        },
+        {
+            "id": "187",
+            "name": "Bakersfield",
+            "popular": "1"
+        },
+        {
+            "id": "787",
+            "name": "Bellflower",
+            "popular": "0"
+        },
+        {
+            "id": "404",
+            "name": "Beverly Hills",
+            "popular": "1"
+        },
+        {
+            "id": "468",
+            "name": "Buena Park",
+            "popular": "0"
+        },
+        {
+            "id": "265",
+            "name": "Burbank",
+            "popular": "0"
+        },
+        {
+            "id": "279",
+            "name": "Carmichael",
+            "popular": "0"
+        },
+        {
+            "id": "868",
+            "name": "Cathedral City",
+            "popular": "0"
+        },
+        {
+            "id": "266",
+            "name": "Cerritos",
+            "popular": "0"
+        },
+        {
+            "id": "341",
+            "name": "Chula Vista",
+            "popular": "1"
+        },
+        {
+            "id": "372",
+            "name": "Citrus Heights",
+            "popular": "0"
+        },
+        {
+            "id": "370",
+            "name": "Claremont",
+            "popular": "0"
+        },
+        {
+            "id": "906",
+            "name": "Cypress",
+            "popular": "0"
+        },
+        {
+            "id": "363",
+            "name": "Diamond Bar",
+            "popular": "0"
+        },
+        {
+            "id": "542",
+            "name": "Dublin",
+            "popular": "0"
+        },
+        {
+            "id": "727",
+            "name": "El Dorado Hills",
+            "popular": "0"
+        },
+        {
+            "id": "297",
+            "name": "Fairfield",
+            "popular": "0"
+        },
+        {
+            "id": "336",
+            "name": "Folsom",
+            "popular": "0"
+        },
+        {
+            "id": "483",
+            "name": "Fresno",
+            "popular": "0"
+        },
+        {
+            "id": "428",
+            "name": "Fullerton",
+            "popular": "0"
+        },
+        {
+            "id": "309",
+            "name": "Glendora",
+            "popular": "0"
+        },
+        {
+            "id": "592",
+            "name": "Goleta",
+            "popular": "0"
+        },
+        {
+            "id": "198",
+            "name": "Huntington Beach",
+            "popular": "0"
+        },
+        {
+            "id": "196",
+            "name": "Irvine",
+            "popular": "0"
+        },
+        {
+            "id": "355",
+            "name": "Jackson",
+            "popular": "0"
+        },
+        {
+            "id": "394",
+            "name": "Lomita",
+            "popular": "0"
+        },
+        {
+            "id": "205",
+            "name": "Los Angeles",
+            "popular": "1"
+        },
+        {
+            "id": "317",
+            "name": "Menifee",
+            "popular": "0"
+        },
+        {
+            "id": "488",
+            "name": "Modesto",
+            "popular": "0"
+        },
+        {
+            "id": "314",
+            "name": "Newport Beach",
+            "popular": "1"
+        },
+        {
+            "id": "290",
+            "name": "North Hollywood",
+            "popular": "0"
+        },
+        {
+            "id": "766",
+            "name": "Oak Hills",
+            "popular": "0"
+        },
+        {
+            "id": "456",
+            "name": "Oakland",
+            "popular": "1"
+        },
+        {
+            "id": "578",
+            "name": "Ontario",
+            "popular": "0"
+        },
+        {
+            "id": "319",
+            "name": "Orange",
+            "popular": "0"
+        },
+        {
+            "id": "242",
+            "name": "Palm Desert",
+            "popular": "0"
+        },
+        {
+            "id": "611",
+            "name": "Palm Springs",
+            "popular": "0"
+        },
+        {
+            "id": "496",
+            "name": "Palo Alto",
+            "popular": "0"
+        },
+        {
+            "id": "576",
+            "name": "Rancho Cucamonga",
+            "popular": "1"
+        },
+        {
+            "id": "514",
+            "name": "Redding",
+            "popular": "0"
+        },
+        {
+            "id": "200",
+            "name": "Redondo Beach",
+            "popular": "0"
+        },
+        {
+            "id": "354",
+            "name": "Riverbank",
+            "popular": "0"
+        },
+        {
+            "id": "482",
+            "name": "Riverside",
+            "popular": "1"
+        },
+        {
+            "id": "259",
+            "name": "Sacramento",
+            "popular": "1"
+        },
+        {
+            "id": "642",
+            "name": "San Bernardino",
+            "popular": "0"
+        },
+        {
+            "id": "169",
+            "name": "San Diego",
+            "popular": "0"
+        },
+        {
+            "id": "271",
+            "name": "San Dimas",
+            "popular": "0"
+        },
+        {
+            "id": "357",
+            "name": "San Francisco",
+            "popular": "1"
+        },
+        {
+            "id": "241",
+            "name": "San Jose",
+            "popular": "1"
+        },
+        {
+            "id": "340",
+            "name": "San Juan Capistrano",
+            "popular": "0"
+        },
+        {
+            "id": "758",
+            "name": "San Marcos",
+            "popular": "0"
+        },
+        {
+            "id": "518",
+            "name": "Santa Barbara",
+            "popular": "0"
+        },
+        {
+            "id": "451",
+            "name": "Santa Clarita",
+            "popular": "0"
+        },
+        {
+            "id": "515",
+            "name": "Santa Rosa",
+            "popular": "0"
+        },
+        {
+            "id": "313",
+            "name": "Seal Beach",
+            "popular": "0"
+        },
+        {
+            "id": "359",
+            "name": "Simi Valley",
+            "popular": "0"
+        },
+        {
+            "id": "678",
+            "name": "Stockton",
+            "popular": "0"
+        },
+        {
+            "id": "234",
+            "name": "Sunnyvale",
+            "popular": "0"
+        },
+        {
+            "id": "763",
+            "name": "Thousand Oaks",
+            "popular": "0"
+        },
+        {
+            "id": "349",
+            "name": "Torrance",
+            "popular": "0"
+        },
+        {
+            "id": "165",
+            "name": "Vallejo",
+            "popular": "0"
+        },
+        {
+            "id": "351",
+            "name": "Victorville",
+            "popular": "0"
+        },
+        {
+            "id": "623",
+            "name": "Walnut",
+            "popular": "0"
+        },
+        {
+            "id": "181",
+            "name": "Wildomar",
+            "popular": "0"
+        },
+        {
+            "id": "397",
+            "name": "Woodland Hills",
+            "popular": "0"
+        },
+        {
+            "id": "358",
+            "name": "Yuba City",
+            "popular": "0"
+        }
+    ],
+    "cities_business": [
+        {
+            "id": "404",
+            "name": "Beverly Hills",
+            "popular": "1"
+        },
+        {
+            "id": "428",
+            "name": "Fullerton",
+            "popular": "0"
+        },
+        {
+            "id": "205",
+            "name": "Los Angeles",
+            "popular": "1"
+        },
+        {
+            "id": "259",
+            "name": "Sacramento",
+            "popular": "1"
+        },
+        {
+            "id": "357",
+            "name": "San Francisco",
+            "popular": "1"
+        }
+    ],
+    "cities_popular": [
+        {
+            "id": "187",
+            "name": "Bakersfield"
+        },
+        {
+            "id": "404",
+            "name": "Beverly Hills"
+        },
+        {
+            "id": "341",
+            "name": "Chula Vista"
+        },
+        {
+            "id": "205",
+            "name": "Los Angeles"
+        },
+        {
+            "id": "314",
+            "name": "Newport Beach"
+        },
+        {
+            "id": "456",
+            "name": "Oakland"
+        },
+        {
+            "id": "576",
+            "name": "Rancho Cucamonga"
+        },
+        {
+            "id": "482",
+            "name": "Riverside"
+        },
+        {
+            "id": "259",
+            "name": "Sacramento"
+        },
+        {
+            "id": "357",
+            "name": "San Francisco"
+        },
+        {
+            "id": "241",
+            "name": "San Jose"
+        }
+    ],
+    "locations_business_address": [
+        {
+            "id": 1362,
+            "location_name": "626 Wilshire Blvd, Suite 410, Los Angeles, CA 90017",
+            "city": "Los Angeles",
+            "state": "California",
+            "state_abbr": "CA",
+            "address": "626 Wilshire Blvd, Suite 410, Los Angeles, CA 90017",
+            "premium": 1,
+            "showpopular": 1,
+            "opusowned": 1,
+            "point_x": 34.0482582,
+            "point_y": -118.2570021,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/Opus-Virtual-Office-Los-Angeles-626-Wilshire-Blvd-Modern-Office-Building.webp",
+                "alttext": "Exterior street view of Opus' modern Los Angeles location at 626 Wilshire Blvd, Los Angeles."
+            },
+            "url": "/business-address/california/los-angeles/location-1362/",
+            "phone": "2139731030"
+        },
+        {
+            "id": 936,
+            "location_name": "9350 Wilshire Blvd, Suite 203, Beverly Hills, CA 90212",
+            "city": "Beverly Hills",
+            "state": "California",
+            "state_abbr": "CA",
+            "address": "9350 Wilshire Blvd, Suite 203, Beverly Hills, CA 90212",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 1,
+            "point_x": 34.06679,
+            "point_y": -118.395504,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/Opus-Virtual-Office-Beverly-Hills-9350-Wilshire-Blvd-Classic-Office-Building.webp",
+                "alttext": "Classic office building exterior of Opus Virtual Office in Beverly Hills, showcasing a prestigious location for businesses."
+            },
+            "url": "/business-address/california/beverly-hills/location-936/",
+            "phone": "3107342666"
+        },
+        {
+            "id": 1567,
+            "location_name": "1440 N Harbor Blvd, Fullerton, CA 92835",
+            "city": "Fullerton",
+            "state": "California",
+            "state_abbr": "CA",
+            "address": "1440 N Harbor Blvd, Fullerton, CA 92835",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 33.8854227,
+            "point_y": -117.9252703,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1567-001-Building.jpg",
+                "alttext": null
+            },
+            "url": "/business-address/california/fullerton/location-1567/",
+            "phone": "7144098472"
+        },
+        {
+            "id": 1616,
+            "location_name": "2014 Capitol Ave, Sacramento, CA 95811",
+            "city": "Sacramento",
+            "state": "California",
+            "state_abbr": "CA",
+            "address": "2014 Capitol Ave, Sacramento, CA 95811",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 38.5729581,
+            "point_y": -121.4808319,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1616-001-Building.jpg",
+                "alttext": null
+            },
+            "url": "/business-address/california/sacramento/location-1616/",
+            "phone": "0"
+        },
+        {
+            "id": 1725,
+            "location_name": "28 Geary Street, San Francisco, CA 94108",
+            "city": "San Francisco",
+            "state": "California",
+            "state_abbr": "CA",
+            "address": "28 Geary Street, San Francisco, CA 94108",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 37.7880139,
+            "point_y": -122.4040665,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1725exterior2.jpg",
+                "alttext": "Exterior of building that houses Opus Virtual Offices located in San Francisco, California"
+            },
+            "url": "/business-address/california/san-francisco/location-1725/",
+            "phone": "4156331254"
+        }
+    ],
+    "meta": {
+        "cities_virtual_count": 68,
+        "cities_business_count": 5,
+        "cities_popular_count": 11,
+        "locations_business_address_count": 5
+    },
+    "seo": {
+        "title": "Virtual Business Address in California | Opus Virtual Offices",
+        "meta_description": "Get a prestigious business address in California with Opus. Multiple premium locations statewide mail handling privacy protection all for just $59/month.",
+        "canonical": "https://www.opusvirtualoffices.com/business-address/california/",
+        "og": {
+            "title": "Virtual Business Address in California | Opus Virtual Offices",
+            "description": "Get a prestigious business address in California with Opus. Multiple premium locations statewide mail handling privacy protection all for just $59/month.",
+            "url": "https://www.opusvirtualoffices.com/business-address/california/",
+            "type": "website",
+            "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+        }
+    }
+}

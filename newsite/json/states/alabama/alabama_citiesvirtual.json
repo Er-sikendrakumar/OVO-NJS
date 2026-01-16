@@ -1,0 +1,57 @@
+{
+    "success": true,
+    "count": 10,
+    "state": "alabama",
+    "data": [
+        {
+            "id": "57",
+            "name": "Athens",
+            "popular": "0"
+        },
+        {
+            "id": "59",
+            "name": "Birmingham",
+            "popular": "1"
+        },
+        {
+            "id": "229",
+            "name": "Chelsea",
+            "popular": "0"
+        },
+        {
+            "id": "848",
+            "name": "Florence",
+            "popular": "0"
+        },
+        {
+            "id": "293",
+            "name": "Huntsville",
+            "popular": "1"
+        },
+        {
+            "id": "647",
+            "name": "Mobile",
+            "popular": "1"
+        },
+        {
+            "id": "791",
+            "name": "Montgomery",
+            "popular": "1"
+        },
+        {
+            "id": "691",
+            "name": "Opelika",
+            "popular": "0"
+        },
+        {
+            "id": "61",
+            "name": "Tuscaloosa",
+            "popular": "1"
+        },
+        {
+            "id": "663",
+            "name": "Wetumpka",
+            "popular": "0"
+        }
+    ]
+}

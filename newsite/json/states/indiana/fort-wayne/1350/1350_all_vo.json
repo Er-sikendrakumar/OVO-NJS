@@ -1,0 +1,93 @@
+{
+    "success": true,
+    "location_id": 1350,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Fort Wayne",
+            "state": "IN",
+            "price": null,
+            "address": {
+                "line1": "3201 Stellhorn Road",
+                "suite": null,
+                "city": "Fort Wayne",
+                "state": "IN",
+                "zip": "46815",
+                "phone": "(260) 240-2913"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/1350-01.Building-521x550.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1350-02.SharedSpace.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1350-03.BoardRoom-800x478.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1350-04.Building1-800x225.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1350-05.SmallConf.jpg"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1350",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Fort Wayne Virtual Office",
+            "body": "Secure an illustrious business address in Fort Wayne without the expense of an actual physical location. At Opus VO, you have the opportunity to position your enterprise in the heart of Fort Wayne’s dynamic business landscape, all while conserving your financial assets. For those key client meetings or high-stakes strategy sessions, our cutting-edge conference rooms are at your disposal.  When you venture into the virtual realm in Fort Wayne via Opus VO, a specialized live receptionist comes as part of the package. We are committed to ensuring that each interaction with your clientele resonates with your unique brand essence. Hand over your routine administrative tasks to us, liberating you to pursue grander business ventures. ",
+            "map": {
+                "lat": 41.1198103,
+                "lng": -85.09888189,
+                "zoom": 14,
+                "city": "Fort Wayne"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Fort Wayne, Indiana even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Fort Wayne. You can also adapt to better meet your clients’ unique needs within Indiana. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Fort Wayne virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Fort Wayne? Why a Virtual Office?",
+                "body": "Fort Wayne is not merely a bustling city; it’s an evolving hub for a myriad of industries, including manufacturing, healthcare, and more. Establishing your business here connects you to a network of professionals and specialized events that can amplify your business reach and potential.  By choosing Opus VO in Fort Wayne, you’re not just economizing—you’re acquiring a competitive advantage. Are you set to elevate your enterprise? Our unparalleled virtual office services are here for you.  Opus VO, Fort Wayne @ 3201 Stellhorn Road, Fort Wayne, IN 46815",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Fort Wayne - 3201 Stellhorn Road | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Indiana, Fort Wayne virtual office located at 3201 Stellhorn Road. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/indiana/fort-wayne/location-1350/",
+            "og": {
+                "title": "Virtual Office in Fort Wayne - 3201 Stellhorn Road | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Indiana, Fort Wayne virtual office located at 3201 Stellhorn Road. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/indiana/fort-wayne/location-1350/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/1350-01.Building.jpg"
+            }
+        }
+    }
+}

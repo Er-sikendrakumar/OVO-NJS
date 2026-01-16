@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "location_id": 1603,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Fairfield",
+            "state": "CA",
+            "price": null,
+            "address": {
+                "line1": "1545 N Texas Street",
+                "suite": null,
+                "city": "Fairfield",
+                "state": "CA",
+                "zip": "94533",
+                "phone": "(707) 324-3417"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/1603-01.Building.webp",
+                    "/newsite/wp-content/themes/ThemeDec23/dist/assets/img/mailcenter.jpg",
+                    "/assets/mail-center.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1603",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Fairfield Virtual Office ",
+            "body": "Take advantage of the prestige of a reputable business address in Fairfield, free from the financial burden of physical office space. Opus VO gives you the opportunity to anchor your company in a prime Fairfield locale without the hefty costs associated with a traditional office lease. Take advantage of our top-tier conference rooms for essential business meetings and meaningful client interactions while increasing your brand’s presence with a respected address.  Choosing a virtual office in Fairfield via Opus VO offers you services like a live receptionist devoted to providing bespoke, first-rate customer service. Our team ensures that each client liaison harmonizes exquisitely with your individual business aspirations. Delegate the mundane administrative tasks, such as mail intake and phone answering, to us—thereby granting you the latitude to concentrate solely on the advancement of your business. ",
+            "map": {
+                "lat": 38.2579914,
+                "lng": -122.0346002,
+                "zoom": 14,
+                "city": "Fairfield"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Fairfield, California even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Fairfield. You can also adapt to better meet your clients’ unique needs within California. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Fairfield virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Choose an Fairfield Virtual Office?",
+                "body": "Fairfield is not merely a luxurious residential community; it’s a flourishing commercial epicenter, abundant in opportunities across sectors like tech, healthcare, and professional services. Favorably positioned near important business arteries, our Fairfield office offers you effortless access to invaluable industry connections and invigorating networking events.  By selecting an Opus Virtual Office, you’re doing more than trimming down your operational costs; you’re acquiring a substantial competitive edge. Propel your business to unprecedented heights by availing yourself of our premier virtual office services today.  Opus VO, Fairfield @ 1545 N Texas Street, Fairfield, CA 94533",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Fairfield - 1545 N Texas Street | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our California, Fairfield virtual office located at 1545 N Texas Street. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/california/fairfield/location-1603/",
+            "og": {
+                "title": "Virtual Office in Fairfield - 1545 N Texas Street | $99/Month",
+                "description": "Get the ultimate office solution for your business with our California, Fairfield virtual office located at 1545 N Texas Street. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/california/fairfield/location-1603/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/1603-01.Building.webp"
+            }
+        }
+    }
+}

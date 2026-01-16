@@ -1,0 +1,110 @@
+{
+    "success": true,
+    "state": "minnesota",
+    "cities_virtual": [
+        {
+            "id": "389",
+            "name": "Apple Valley",
+            "popular": "0"
+        },
+        {
+            "id": "752",
+            "name": "Bloomington",
+            "popular": "0"
+        },
+        {
+            "id": "596",
+            "name": "Edina",
+            "popular": "1"
+        },
+        {
+            "id": "554",
+            "name": "Minneapolis",
+            "popular": "1"
+        },
+        {
+            "id": "753",
+            "name": "Minnetonka",
+            "popular": "0"
+        },
+        {
+            "id": "226",
+            "name": "Saint Paul",
+            "popular": "1"
+        },
+        {
+            "id": "595",
+            "name": "St. Louis Park",
+            "popular": "1"
+        },
+        {
+            "id": "227",
+            "name": "Woodbury",
+            "popular": "0"
+        }
+    ],
+    "cities_business": [
+        {
+            "id": "752",
+            "name": "Bloomington",
+            "popular": "0"
+        }
+    ],
+    "cities_popular": [
+        {
+            "id": "596",
+            "name": "Edina"
+        },
+        {
+            "id": "554",
+            "name": "Minneapolis"
+        },
+        {
+            "id": "226",
+            "name": "Saint Paul"
+        },
+        {
+            "id": "595",
+            "name": "St. Louis Park"
+        }
+    ],
+    "locations_business_address": [
+        {
+            "id": 1392,
+            "location_name": "7900 International Drive, Bloomington, MN 55425",
+            "city": "Bloomington",
+            "state": "Minnesota",
+            "state_abbr": "MN",
+            "address": "7900 International Drive, Bloomington, MN 55425",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 44.8595598,
+            "point_y": -93.2263347,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1392-building-1743106952987.jpg",
+                "alttext": "Exterior of building housing Opus Virtual Offices located in Bloomington, Minnesota"
+            },
+            "url": "/business-address/minnesota/bloomington/location-1392/",
+            "phone": "9522064974"
+        }
+    ],
+    "meta": {
+        "cities_virtual_count": 8,
+        "cities_business_count": 1,
+        "cities_popular_count": 4,
+        "locations_business_address_count": 1
+    },
+    "seo": {
+        "title": "Virtual Business Address in Minnesota | Opus Virtual Offices",
+        "meta_description": "Get a prestigious business address in Minnesota with Opus. Multiple premium locations statewide mail handling privacy protection all for just $59/month.",
+        "canonical": "https://www.opusvirtualoffices.com/business-address/minnesota/",
+        "og": {
+            "title": "Virtual Business Address in Minnesota | Opus Virtual Offices",
+            "description": "Get a prestigious business address in Minnesota with Opus. Multiple premium locations statewide mail handling privacy protection all for just $59/month.",
+            "url": "https://www.opusvirtualoffices.com/business-address/minnesota/",
+            "type": "website",
+            "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+        }
+    }
+}

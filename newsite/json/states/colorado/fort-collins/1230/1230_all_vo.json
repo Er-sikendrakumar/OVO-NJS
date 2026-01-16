@@ -1,0 +1,89 @@
+{
+    "success": true,
+    "location_id": 1230,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Fort Collins",
+            "state": "CO",
+            "price": null,
+            "address": {
+                "line1": "2601 S Lemay",
+                "suite": null,
+                "city": "Fort Collins",
+                "state": "CO",
+                "zip": "80525",
+                "phone": "(970) 367-1315"
+            },
+            "images": {
+                "hero": [
+                    "/assets/mail-center.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1230",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 0,
+            "nearbyPremium": 1,
+            "nearbyPremiumUrl": "/virtual-office/colorado/longmont/location-1510/",
+            "nearbyPremiumText": "to view the nearby PREMIUM Locations for the same $99/mo",
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Fort Collins Virtual Office",
+            "body": "Get your hands on a top-tier business address in Fort Collins without the financial burden of a full-fledged office. With Opus VO, your enterprise can be headquartered in the heart of Fort Collins, all without straining your finances. When you’ve got crucial meetings or client get-togethers, our state-of-the-art conference rooms are at your disposal. Plus, a Fort Collins address is a clear win for your brand’s clout.  Opt for a virtual environment in Fort Collins via Opus VO, and you’ll also score a live receptionist and support staff. We’re committed to ensuring every client encounter aligns effortlessly with your unique business agenda. Leave the routine admin tasks to us and liberate yourself to zero in on growing your venture. ",
+            "map": {
+                "lat": 40.5510404,
+                "lng": -105.0583068,
+                "zoom": 14,
+                "city": "Fort Collins"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Fort Collins, Colorado even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Fort Collins. You can also adapt to better meet your clients’ unique needs within Colorado. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Fort Collins virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Fort Collins?",
+                "body": "Don’t underestimate Fort Collins; it’s not just a college town but a burgeoning market with diverse opportunities in tech, renewable energy, and healthcare. Our Fort Collins office is centrally located, providing you with direct routes to key industry contacts and must-attend networking events.  By going with Opus VO in Fort Collins, you’re doing more than just slashing your operational expenses—you’re getting a serious competitive edge. Ready to take your business up a notch? Our elite virtual office solutions are here to expedite your climb.  Opus VO Fort Collins @ 2601 S Lemay, Fort Collins, CO 80525 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Fort Collins - 2601 S Lemay | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Colorado, Fort Collins virtual office located at 2601 S Lemay. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/colorado/fort-collins/location-1230/",
+            "og": {
+                "title": "Virtual Office in Fort Collins - 2601 S Lemay | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Colorado, Fort Collins virtual office located at 2601 S Lemay. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/colorado/fort-collins/location-1230/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+            }
+        }
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "success": true,
+    "page": "virtual-office/texas/plano",
+    "page_type": "location_city",
+    "view": "city",
+    "seo": {
+        "title": "Virtual Office in Plano, TX | Multiple Locations Available",
+        "meta_description": "Find the ultimate office solution with Opus Virtual Offices in Plano, Texas. Our all-inclusive virtual offices cater to your business needs. Sign up today!",
+        "canonical": "https://www.opusvirtualoffices.com/virtual-office/texas/plano/",
+        "og": {
+            "title": "Virtual Office in Plano, TX | Multiple Locations Available",
+            "description": "Find the ultimate office solution with Opus Virtual Offices in Plano, Texas. Our all-inclusive virtual offices cater to your business needs. Sign up today!",
+            "url": "https://www.opusvirtualoffices.com/virtual-office/texas/plano/",
+            "type": "website",
+            "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+        }
+    },
+    "data": {
+        "state": "Texas",
+        "city": "Plano",
+        "mode": "virtual-office"
+    }
+}

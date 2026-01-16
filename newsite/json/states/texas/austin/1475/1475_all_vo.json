@@ -1,0 +1,109 @@
+{
+    "success": true,
+    "location_id": 1475,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Austin",
+            "state": "TX",
+            "price": null,
+            "address": {
+                "line1": "1005 Congress Avenue",
+                "suite": "Suite 925",
+                "city": "Austin",
+                "state": "TX",
+                "zip": "78701",
+                "phone": "(512) 812-7060"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/Opus-Virtual-Office-Austin-1005-Congress-Avenue-Exterior.webp",
+                    "/wp-content-mgr/wp-content/uploads/Opus-Virtual-Office-Austin-1005-Congress-Avenue-Reception-Area.webp",
+                    "/wp-content-mgr/wp-content/uploads/Opus-Virtual-Office-Austin-1005-Congress-Avenue-main-Conference-Room.webp",
+                    "/wp-content-mgr/wp-content/uploads/Opus-Virtual-Office-Austin-1005-Congress-Avenue-Conference-Room.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 1
+            },
+            "addressOnlyOptionAvailable": 1,
+            "addressOnlyUrl": "/business-address/texas/austin/location-1475/",
+            "signupUrl": "/signup/?locid=1475",
+            "openingHours": {
+                "opens": "09:00:00",
+                "closes": "18:00:00",
+                "daysOfWeek": [
+                    "Monday",
+                    "Tuesday",
+                    "Wednesday",
+                    "Thursday",
+                    "Friday"
+                ]
+            },
+            "opusowned": 1,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "AUSTIN VIRTUAL OFFICE",
+            "body": "Saddle up and head on down to the Lone Star state where everything is big and bright, including your next virtual office from Opus VO. Situated right across the street from the majestic Texas State Capitol, Opus Virtual Offices premium location at 1005 Congress offers stunning panoramic views of downtown Austin. The 1005 Congress Building features a reserved parking garage, individual AC control for those hot Texas days, and onsite management in the event of an issue. Only a fifteen-minute drive to Austin-Bergstrom International Airport means you and your clients can travel the world with relative ease.",
+            "map": {
+                "lat": 30.2720098,
+                "lng": -97.7408639,
+                "zoom": 14,
+                "city": "Austin"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Austin, Texas even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Austin. You can also adapt to better meet your clients’ unique needs within Texas. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Austin virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "WHY OPUS?",
+                "body": "Opting for a virtual office in Austin through Opus VO gives you the exclusive advantage of a live receptionist committed to offering personalized, top-tier client service. Every point of client contact is carefully designed to resonate with your unique business objectives, supported by our wide range of administrative services. These amenities include a corporate mailing address, digital mail sorting, company phone and fax number, state-of-the-art call-forwarding options, and beyond. Our efficient administrative staff will manage your day-to-day tasks, freeing you to concentrate on your company’s strategic growth and success. Opus VO, Austin @ 1005 Congress Avenue, Suite 925 Austin, TX 78701 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            },
+            {
+                "title": "CHOOSE AUSTIN",
+                "body": "Deep in the heart of Texas, the capital city of Austin continues to generate enthusiasm from the worldwide business community. Austin’s undeniable energy and growth provide the perfect environment for businesses. Home to the University of Texas and the SXSW Festival, Austin stakes its claim as a major business player on the world stage. Featuring numerous hiking trails, famous BBQ restaurants, and evolving music scene, there is always something to dive into in the Austin area. Whether it’s enjoying a craft cocktail at a rooftop bar, catching a live show at one of the many music venues, or simply strolling down South Congress Avenue, there’s an undeniable energy that surges through the city.",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/botaraton-covered.png",
+                "layout": "image_text",
+                "imageAlignment": "left"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Austin | Offices Space for Rent | Virtual Office | Opus Virtual Offices",
+            "meta_description": "A virtual office in Austin will give you access to a live receptionist, mail handling, call forwarding, and a prestigious business address. Learn more today.",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/texas/austin/location-1475/",
+            "og": {
+                "title": "Virtual Office in Austin | Offices Space for Rent | Virtual Office | Opus Virtual Offices",
+                "description": "A virtual office in Austin will give you access to a live receptionist, mail handling, call forwarding, and a prestigious business address. Learn more today.",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/texas/austin/location-1475/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/Opus-Virtual-Office-Austin-1005-Congress-Avenue-Exterior.webp"
+            }
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "success": true,
+    "count": 2,
+    "state": "north carolina",
+    "mode": "business-address",
+    "data": [
+        {
+            "id": 1737,
+            "location_name": "1515 Mockingbird Lane, Charlotte, NC 28209",
+            "city": "Charlotte",
+            "state": "North Carolina",
+            "state_abbr": "NC",
+            "address": "1515 Mockingbird Lane, Charlotte, NC 28209",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 35.1674642,
+            "point_y": -80.8491078,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1737-building-1748873523575.webp",
+                "alttext": "Exterior of building that houses Opus Virtual Offices located in Charlotte, North Carolina"
+            },
+            "url": "/business-address/north-carolina/charlotte/location-1737/",
+            "phone": "7047784406"
+        },
+        {
+            "id": 1682,
+            "location_name": "4801 Glenwood Avenue, Raleigh, NC 27612",
+            "city": "Raleigh",
+            "state": "North Carolina",
+            "state_abbr": "NC",
+            "address": "4801 Glenwood Avenue, Raleigh, NC 27612",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 35.843023,
+            "point_y": -78.6822368,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1682-01.bldg_.jpg",
+                "alttext": null
+            },
+            "url": "/business-address/north-carolina/raleigh/location-1682/",
+            "phone": "9195616436"
+        }
+    ]
+}

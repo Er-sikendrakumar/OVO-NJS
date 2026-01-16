@@ -1,0 +1,95 @@
+{
+    "success": true,
+    "location_id": 1137,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Poughkeepsie",
+            "state": "NY",
+            "price": null,
+            "address": {
+                "line1": "42 Catharine Street",
+                "suite": null,
+                "city": "Poughkeepsie",
+                "state": "NY",
+                "zip": "12601",
+                "phone": "(845) 818-3134"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/1Building110.jpg",
+                    "/wp-content-mgr/wp-content/uploads/2Lobby7.jpg",
+                    "/wp-content-mgr/wp-content/uploads/3Reception3-800x314.jpg",
+                    "/wp-content-mgr/wp-content/uploads/4MeetingRoom2.jpg",
+                    "/wp-content-mgr/wp-content/uploads/5MeetingRoom23.jpg",
+                    "/wp-content-mgr/wp-content/uploads/6Building2.jpg",
+                    "/wp-content-mgr/wp-content/uploads/7MeetingRoom3.jpg"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1137",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Poughkeepsie Virtual Office",
+            "body": "Interested in a prime Poughkeepsie address without the encumbrance of a traditional office? Opus VO is your ideal solution. Plant your business firmly in Poughkeepsie’s lively commercial sector while managing your finances wisely. Our top-of-the-line conference rooms are at your disposal for important meetings and vital team get-togethers.  By opting for our virtual workspace in Poughkeepsie, you’re not just getting a notable address; you’re also securing the services of a first-rate live receptionist. Seamlessly blending with your team, they’ll ensure that every client interaction harmonizes with your brand’s distinct ethos. This allows us to tackle the admin details while you hone in on your grand business goals. ",
+            "map": {
+                "lat": 41.7049837,
+                "lng": -73.92440619,
+                "zoom": 14,
+                "city": "Poughkeepsie"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Poughkeepsie, New York even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Poughkeepsie. You can also adapt to better meet your clients’ unique needs within New York. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Poughkeepsie virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Poughkeepsie?",
+                "body": "Poughkeepsie is more than just a scenic Hudson River city; it’s a thriving commercial nexus with opportunities across multiple sectors like healthcare, education, and tech. A Poughkeepsie address not only boosts your brand’s image but also opens doors to a myriad of local networking events and valuable industry contacts.  Choosing Opus VO as your virtual workspace in Poughkeepsie is not simply a budget-conscious move; it’s a calculated strategy. Ready to ascend your business to greater heights? Browse our versatile suite of virtual workspace services today.  Choose from two Opus VO locations in Poughkeepsie @ 42 Catharine Street, Poughkeepsie, NY 12601, or 2600 South Road, Poughkeepsie, NY 12601 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Poughkeepsie - 42 Catharine Street | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our New York, Poughkeepsie virtual office located at 42 Catharine Street. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/new-york/poughkeepsie/location-1137/",
+            "og": {
+                "title": "Virtual Office in Poughkeepsie - 42 Catharine Street | $99/Month",
+                "description": "Get the ultimate office solution for your business with our New York, Poughkeepsie virtual office located at 42 Catharine Street. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/new-york/poughkeepsie/location-1137/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/1Building110.jpg"
+            }
+        }
+    }
+}

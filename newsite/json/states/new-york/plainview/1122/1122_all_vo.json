@@ -1,0 +1,89 @@
+{
+    "success": true,
+    "location_id": 1122,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Plainview",
+            "state": "NY",
+            "price": null,
+            "address": {
+                "line1": "329 South Oyster Bay Road",
+                "suite": null,
+                "city": "Plainview",
+                "state": "NY",
+                "zip": "11803",
+                "phone": "(317) 653-2719"
+            },
+            "images": {
+                "hero": [
+                    "/assets/mail-center.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1122",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 0,
+            "nearbyPremium": 1,
+            "nearbyPremiumUrl": "/virtual-office/new-york/melville/location-1041/",
+            "nearbyPremiumText": "to view the nearby PREMIUM Locations for the same $99/mo",
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Plainview Virtual Office",
+            "body": "Ever considered the benefits of a premium Plainview address but without the expense and hassle of an actual office? Opus VO has got your back. Establish your enterprise within Plainview’s thriving commercial atmosphere while still being mindful of your budget. Our cutting-edge conference rooms are available for your essential meetings or impactful team huddles.  By choosing our virtual workspace in Plainview, you’re gaining more than just a prestigious address. You also enlist a top-of-the-line live receptionist who will mesh seamlessly with your business dynamics. They’ll make sure every client touchpoint mirrors your unique brand persona, allowing us to handle the day-to-day admin work while you focus on your core business goals. ",
+            "map": {
+                "lat": 40.7866798,
+                "lng": -73.5028923,
+                "zoom": 14,
+                "city": "Plainview"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Plainview, New York even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Plainview. You can also adapt to better meet your clients’ unique needs within New York. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Plainview virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Plainview?",
+                "body": "Plainview isn’t just a charming riverside town; it’s an emerging business hotspot with opportunities in areas like retail, manufacturing, and logistics. A Plainview address lends credence to your brand and offers you an entryway into a vast network of local business events and industry professionals.  Opting for Opus VO as your virtual workspace in Plainview is more than a money-saving tactic; it’s a strategic maneuver. Ready to take your business to the next level? Dive into our array of virtual workspace solutions today.  Opus VO, Plainview @ 329 South Oyster Bay Road Plainview, NY 11803",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Plainview - 329 South Oyster Bay Road | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our New York, Plainview virtual office located at 329 South Oyster Bay Road. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/new-york/plainview/location-1122/",
+            "og": {
+                "title": "Virtual Office in Plainview - 329 South Oyster Bay Road | $99/Month",
+                "description": "Get the ultimate office solution for your business with our New York, Plainview virtual office located at 329 South Oyster Bay Road. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/new-york/plainview/location-1122/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+            }
+        }
+    }
+}

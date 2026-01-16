@@ -1,0 +1,89 @@
+{
+    "success": true,
+    "location_id": 1199,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Savannah",
+            "state": "GA",
+            "price": null,
+            "address": {
+                "line1": "1305 Barnard Street",
+                "suite": null,
+                "city": "Savannah",
+                "state": "GA",
+                "zip": "31401",
+                "phone": "(912) 257-7327"
+            },
+            "images": {
+                "hero": [
+                    "/assets/mail-center.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1199",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 0,
+            "nearbyPremium": 1,
+            "nearbyPremiumUrl": "/virtual-office/south-carolina/hilton-head/location-928/",
+            "nearbyPremiumText": "to view the nearby PREMIUM Locations for the same $99/mo",
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Savannah Virtual Office",
+            "body": "Aquire a coveted business address in Savannah without the expense of a physical office. With Opus VO, you can anchor your brand in the cultural richness of Savannah, all without putting a dent in your finances. Need to host an impactful meeting or woo a prospective client? Our state-of-the-art conference rooms are here to elevate your brand’s image.  When you make the leap to a virtual setup in Savannah through Opus VO, a dedicated live receptionist is included to perfect your client interactions. We’re committed to making each customer touchpoint feel like a natural part of your distinct brand. Offload your routine administrative tasks to us and liberate yourself to focus on those high-value business goals. ",
+            "map": {
+                "lat": 32.0636676,
+                "lng": -81.10028699,
+                "zoom": 14,
+                "city": "Savannah"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Savannah, Georgia even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Savannah. You can also adapt to better meet your clients’ unique needs within Georgia. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Savannah virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Savannah? Why a Virtual Office?",
+                "body": "Don’t be deceived by Savannah’s historical allure; it’s a dynamic business landscape teeming with opportunities in sectors like tech, healthcare, and logistics. Establishing your virtual office here connects you to influential networking events and a thriving business community.  Going with Opus VO in Savannah is about more than saving some dollars—it’s about sharpening your competitive edge. Are you prepared to escalate your business reach? Our unrivaled virtual office services are here, ready and waiting.  Opus VO, Savannah @ 1305 Barnard Street, Savannah, GA 31401 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Savannah - 1305 Barnard Street | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Georgia, Savannah virtual office located at 1305 Barnard Street. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/georgia/savannah/location-1199/",
+            "og": {
+                "title": "Virtual Office in Savannah - 1305 Barnard Street | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Georgia, Savannah virtual office located at 1305 Barnard Street. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/georgia/savannah/location-1199/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+            }
+        }
+    }
+}

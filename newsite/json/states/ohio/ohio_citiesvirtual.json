@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "count": 12,
+    "state": "ohio",
+    "data": [
+        {
+            "id": "688",
+            "name": "Akron",
+            "popular": "1"
+        },
+        {
+            "id": "223",
+            "name": "Beachwood",
+            "popular": "0"
+        },
+        {
+            "id": "180",
+            "name": "Cincinnati",
+            "popular": "1"
+        },
+        {
+            "id": "544",
+            "name": "Cleveland",
+            "popular": "1"
+        },
+        {
+            "id": "177",
+            "name": "Columbus",
+            "popular": "1"
+        },
+        {
+            "id": "690",
+            "name": "Dublin",
+            "popular": "0"
+        },
+        {
+            "id": "694",
+            "name": "Highland Heights",
+            "popular": "1"
+        },
+        {
+            "id": "892",
+            "name": "Springfield",
+            "popular": "0"
+        },
+        {
+            "id": "264",
+            "name": "Tallmadge",
+            "popular": "0"
+        },
+        {
+            "id": "657",
+            "name": "Toledo",
+            "popular": "1"
+        },
+        {
+            "id": "218",
+            "name": "Westerville",
+            "popular": "0"
+        },
+        {
+            "id": "301",
+            "name": "Youngstown",
+            "popular": "0"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "success": true,
+    "count": 2,
+    "state": "alberta",
+    "data": [
+        {
+            "id": "603",
+            "name": "Calgary",
+            "popular": "0"
+        },
+        {
+            "id": "824",
+            "name": "Edmonton",
+            "popular": "0"
+        }
+    ]
+}

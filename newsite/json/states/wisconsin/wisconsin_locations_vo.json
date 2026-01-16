@@ -1,0 +1,198 @@
+{
+    "success": true,
+    "count": 10,
+    "state": "wisconsin",
+    "mode": "virtual-office",
+    "data": [
+        {
+            "id": 569,
+            "location_name": "2809 East Hamilton Avenue, Eau Claire, WI 54701",
+            "city": "Eau Claire",
+            "state": "Wisconsin",
+            "state_abbr": "WI",
+            "address": "2809 East Hamilton Avenue, Eau Claire, WI 54701",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 44.785513,
+            "point_y": -91.462765,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/wisconsin/eau-claire/location-569/",
+            "phone": "7153019733"
+        },
+        {
+            "id": 1493,
+            "location_name": "5215 N Ironwood Road, Glendale, WI 53217",
+            "city": "Glendale",
+            "state": "Wisconsin",
+            "state_abbr": "WI",
+            "address": "5215 N Ironwood Road, Glendale, WI 53217",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 43.1112575,
+            "point_y": -87.9186945,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1493-01.bldg_.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/wisconsin/glendale/location-1493/",
+            "phone": "4149662765"
+        },
+        {
+            "id": 1033,
+            "location_name": "2300 Riverside Drive, Green Bay, WI 54301",
+            "city": "Green Bay",
+            "state": "Wisconsin",
+            "state_abbr": "WI",
+            "address": "2300 Riverside Drive, Green Bay, WI 54301",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 44.4824261,
+            "point_y": -88.0316467,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/Opus-Virtual-Office-Green-Bay-Exterior.webp",
+                "alttext": "Exterior of 2300 Riverside Drive in Green Bay, WI"
+            },
+            "url": "/virtual-office/wisconsin/green-bay/location-1033/",
+            "phone": "9207572198"
+        },
+        {
+            "id": 509,
+            "location_name": "1366 E Sumner St, Hartford, WI 53027",
+            "city": "Hartford",
+            "state": "Wisconsin",
+            "state_abbr": "WI",
+            "address": "1366 E Sumner St, Hartford, WI 53027",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 43.317785,
+            "point_y": -88.35614,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/wisconsin/hartford/location-509/",
+            "phone": "2626189033"
+        },
+        {
+            "id": 503,
+            "location_name": "7619 Sheridan Rd, Kenosha, WI 53143",
+            "city": "Kenosha",
+            "state": "Wisconsin",
+            "state_abbr": "WI",
+            "address": "7619 Sheridan Rd, Kenosha, WI 53143",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 42.5636912,
+            "point_y": -87.8247525,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/wisconsin/kenosha/location-503/",
+            "phone": "2626189034"
+        },
+        {
+            "id": 1615,
+            "location_name": "2921 Landmark Place, Madison, WI 53713",
+            "city": "Madison",
+            "state": "Wisconsin",
+            "state_abbr": "WI",
+            "address": "2921 Landmark Place, Madison, WI 53713",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 43.0325978,
+            "point_y": -89.42760799,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1615-01.bldg_-1.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/wisconsin/madison/location-1615/",
+            "phone": "0"
+        },
+        {
+            "id": 1241,
+            "location_name": "6709 Raymond Road, Madison, WI 53719",
+            "city": "Madison",
+            "state": "Wisconsin",
+            "state_abbr": "WI",
+            "address": "6709 Raymond Road, Madison, WI 53719",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 43.0314109,
+            "point_y": -89.49794279,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1241-01.bldg_.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/wisconsin/madison/location-1241/",
+            "phone": "6085355413"
+        },
+        {
+            "id": 1420,
+            "location_name": "313 N Plankinton Avenue, Milwaukee, WI 53203",
+            "city": "Milwaukee",
+            "state": "Wisconsin",
+            "state_abbr": "WI",
+            "address": "313 N Plankinton Avenue, Milwaukee, WI 53203",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 43.0339657,
+            "point_y": -87.91183439,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1420-01.bldg_.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/wisconsin/milwaukee/location-1420/",
+            "phone": "4142030212"
+        },
+        {
+            "id": 925,
+            "location_name": "1345 N. Jefferson, Milwaukee, WI 53202",
+            "city": "Milwaukee",
+            "state": "Wisconsin",
+            "state_abbr": "WI",
+            "address": "1345 N. Jefferson, Milwaukee, WI 53202",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 43.0482155,
+            "point_y": -87.9054113,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/wisconsin/milwaukee/location-925/",
+            "phone": "4142030198"
+        },
+        {
+            "id": 322,
+            "location_name": "816 Tower Ave., Superior, WI 54880",
+            "city": "Superior",
+            "state": "Wisconsin",
+            "state_abbr": "WI",
+            "address": "816 Tower Ave., Superior, WI 54880",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 46.728310099,
+            "point_y": -92.1034701,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/wisconsin/superior/location-322/",
+            "phone": "7153019736"
+        }
+    ]
+}

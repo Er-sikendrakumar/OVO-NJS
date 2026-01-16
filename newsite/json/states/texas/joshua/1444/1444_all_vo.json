@@ -1,0 +1,89 @@
+{
+    "success": true,
+    "location_id": 1444,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Joshua",
+            "state": "TX",
+            "price": null,
+            "address": {
+                "line1": "305 E 12th Street",
+                "suite": null,
+                "city": "Joshua",
+                "state": "TX",
+                "zip": "76058",
+                "phone": "(817) 583-7886"
+            },
+            "images": {
+                "hero": [
+                    "/assets/mail-center.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1444",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 0,
+            "nearbyPremium": 1,
+            "nearbyPremiumUrl": "/virtual-office/texas/fort-worth/location-1242/",
+            "nearbyPremiumText": "to view the nearby PREMIUM Locations for the same $99/mo",
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Joshua Virtual Office",
+            "body": "Considering a premium Joshua address to boost your startup or level up your existing business? Look no further than Opus VO. Secure a distinguished Joshua location as your official business address, and save on costly overheads that come with a brick-and-mortar office.  Beyond just a coveted address, we provide an ideal backdrop for your professional encounters. Our state-of-the-art conference rooms are at your service, setting the stage for impactful meetings or team collaborations. This isn’t just about a mailing address; it’s about providing you with a versatile, agile platform to conduct your business activities.  But that’s not all. With an Opus VO virtual office in Joshua, you gain the added advantage of a live receptionist. Our team is committed to elevating your brand through top-notch client interactions. Plus, we handle routine admin tasks such as mail sorting and advanced call routing, freeing you to focus on what truly matters—growing your business. ",
+            "map": {
+                "lat": 32.4620261,
+                "lng": -97.38521279,
+                "zoom": 14,
+                "city": "Joshua"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Joshua, Texas even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Joshua. You can also adapt to better meet your clients’ unique needs within Texas. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Joshua virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Choose Joshua and Opus VO?",
+                "body": "Joshua isn’t simply a tranquil locale; it’s an emerging market ripe with business opportunities. By selecting a virtual office via Opus VO in Joshua, you’re integrating your enterprise within a vibrant network of business professionals, maximizing opportunities for collaborations and partnerships.  Don’t miss out on the chance to elevate your business to the next level.  Opus VO, Joshua @ 305 E 12th Street, Joshua, TX 76058 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Joshua - 305 E 12th Street | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Texas, Joshua virtual office located at 305 E 12th Street. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/texas/joshua/location-1444/",
+            "og": {
+                "title": "Virtual Office in Joshua - 305 E 12th Street | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Texas, Joshua virtual office located at 305 E 12th Street. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/texas/joshua/location-1444/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+            }
+        }
+    }
+}

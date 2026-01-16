@@ -1,0 +1,32 @@
+{
+    "success": true,
+    "count": 5,
+    "state": "california",
+    "data": [
+        {
+            "id": "404",
+            "name": "Beverly Hills",
+            "popular": "1"
+        },
+        {
+            "id": "428",
+            "name": "Fullerton",
+            "popular": "0"
+        },
+        {
+            "id": "205",
+            "name": "Los Angeles",
+            "popular": "1"
+        },
+        {
+            "id": "259",
+            "name": "Sacramento",
+            "popular": "1"
+        },
+        {
+            "id": "357",
+            "name": "San Francisco",
+            "popular": "1"
+        }
+    ]
+}

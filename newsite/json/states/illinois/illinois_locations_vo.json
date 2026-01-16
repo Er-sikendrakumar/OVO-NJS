@@ -1,0 +1,312 @@
+{
+    "success": true,
+    "count": 16,
+    "state": "illinois",
+    "mode": "virtual-office",
+    "data": [
+        {
+            "id": 1430,
+            "location_name": "122 South Michigan Avenue, Suite 1390, Chicago, IL 60603",
+            "city": "Chicago",
+            "state": "Illinois",
+            "state_abbr": "IL",
+            "address": "122 South Michigan Avenue, Suite 1390, Chicago, IL 60603",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 1,
+            "point_x": 41.879742,
+            "point_y": -87.624623,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1430-01.bldg_-2.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/illinois/chicago/location-1430/",
+            "phone": "3128478160"
+        },
+        {
+            "id": 792,
+            "location_name": "5343 Belleville Crossing Street, Belleville, IL 62226",
+            "city": "Belleville",
+            "state": "Illinois",
+            "state_abbr": "IL",
+            "address": "5343 Belleville Crossing Street, Belleville, IL 62226",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 38.51965,
+            "point_y": -90.024389,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/illinois/belleville/location-792/",
+            "phone": "6186069191"
+        },
+        {
+            "id": 672,
+            "location_name": "333 West Bethalto Drive, Bethalto, IL 62010",
+            "city": "Bethalto",
+            "state": "Illinois",
+            "state_abbr": "IL",
+            "address": "333 West Bethalto Drive, Bethalto, IL 62010",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 38.9004827,
+            "point_y": -90.0458535,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/illinois/bethalto/location-672/",
+            "phone": "6186069096"
+        },
+        {
+            "id": 740,
+            "location_name": "1701 E. Empire Street, Bloomington, IL 61704",
+            "city": "Bloomington",
+            "state": "Illinois",
+            "state_abbr": "IL",
+            "address": "1701 E. Empire Street, Bloomington, IL 61704",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 40.486029,
+            "point_y": -88.951603,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/illinois/bloomington/location-740/",
+            "phone": "3093199567"
+        },
+        {
+            "id": 1686,
+            "location_name": "570 Lake Cook Road, Deerfield, IL 60015",
+            "city": "Deerfield",
+            "state": "Illinois",
+            "state_abbr": "IL",
+            "address": "570 Lake Cook Road, Deerfield, IL 60015",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 42.1536593,
+            "point_y": -87.843234,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1686-01.bldg_.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/illinois/deerfield/location-1686/",
+            "phone": "2243042418"
+        },
+        {
+            "id": 858,
+            "location_name": "12603 Illinois State Route 143, Highland, IL 62249",
+            "city": "Highland",
+            "state": "Illinois",
+            "state_abbr": "IL",
+            "address": "12603 Illinois State Route 143, Highland, IL 62249",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 38.7575626,
+            "point_y": -89.6827059,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/illinois/highland/location-858/",
+            "phone": "6186069118"
+        },
+        {
+            "id": 1351,
+            "location_name": "736 N Western Avenue, Lake Forest, IL 60045",
+            "city": "Lake Forest",
+            "state": "Illinois",
+            "state_abbr": "IL",
+            "address": "736 N Western Avenue, Lake Forest, IL 60045",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 42.2529808,
+            "point_y": -87.84049,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/illinois/lake-forest/location-1351/",
+            "phone": "8477399167"
+        },
+        {
+            "id": 1399,
+            "location_name": "914 N Lake Street, Mundelein, IL 60060",
+            "city": "Mundelein",
+            "state": "Illinois",
+            "state_abbr": "IL",
+            "address": "914 N Lake Street, Mundelein, IL 60060",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 42.2769366,
+            "point_y": -88.0046093,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1399-01.bldg_.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/illinois/mundelein/location-1399/",
+            "phone": "2243042389"
+        },
+        {
+            "id": 1114,
+            "location_name": "1363 Shermer Road, Northbrook, IL 60062",
+            "city": "Northbrook",
+            "state": "Illinois",
+            "state_abbr": "IL",
+            "address": "1363 Shermer Road, Northbrook, IL 60062",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 42.127450499,
+            "point_y": -87.8283416,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1114-exterior.png",
+                "alttext": "Exterior of building that houses Opus Virtual Offices located in Northbrook, Illinois"
+            },
+            "url": "/virtual-office/illinois/northbrook/location-1114/",
+            "phone": "8474574950"
+        },
+        {
+            "id": 1632,
+            "location_name": "1 Trans Am Plaza Drive, Oak Brook Terrace, IL 60181",
+            "city": "Oak Brook Terrace",
+            "state": "Illinois",
+            "state_abbr": "IL",
+            "address": "1 Trans Am Plaza Drive, Oak Brook Terrace, IL 60181",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 41.8482353,
+            "point_y": -87.9858215,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1632-01.bldg_.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/illinois/oak-brook-terrace/location-1632/",
+            "phone": "6308954717"
+        },
+        {
+            "id": 1359,
+            "location_name": "820 SW Adams Street, Peoria, IL 61602",
+            "city": "Peoria",
+            "state": "Illinois",
+            "state_abbr": "IL",
+            "address": "820 SW Adams Street, Peoria, IL 61602",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 40.6855487,
+            "point_y": -89.59876469,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1359-01.Lounge.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/illinois/peoria/location-1359/",
+            "phone": "3095853341"
+        },
+        {
+            "id": 1439,
+            "location_name": "7210 E State Street, Rockford, IL 61108",
+            "city": "Rockford",
+            "state": "Illinois",
+            "state_abbr": "IL",
+            "address": "7210 E State Street, Rockford, IL 61108",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 42.2701303,
+            "point_y": -88.9760146,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1439-01.bldg_.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/illinois/rockford/location-1439/",
+            "phone": "8159779688"
+        },
+        {
+            "id": 607,
+            "location_name": "1643 N. Alpine Road, Rockford, IL 61107",
+            "city": "Rockford",
+            "state": "Illinois",
+            "state_abbr": "IL",
+            "address": "1643 N. Alpine Road, Rockford, IL 61107",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 42.2660827,
+            "point_y": -89.02870689,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/illinois/rockford/location-607/",
+            "phone": "8159779686"
+        },
+        {
+            "id": 1234,
+            "location_name": "1900 E Golf Road, Schaumburg, IL 60173",
+            "city": "Schaumburg",
+            "state": "Illinois",
+            "state_abbr": "IL",
+            "address": "1900 E Golf Road, Schaumburg, IL 60173",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 42.0516872,
+            "point_y": -88.0319591,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1234-001-Building.png",
+                "alttext": null
+            },
+            "url": "/virtual-office/illinois/schaumburg/location-1234/",
+            "phone": "8472644897"
+        },
+        {
+            "id": 649,
+            "location_name": "3309 Robbins Road, Springfield, IL 62704",
+            "city": "Springfield",
+            "state": "Illinois",
+            "state_abbr": "IL",
+            "address": "3309 Robbins Road, Springfield, IL 62704",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 39.755824,
+            "point_y": -89.712844,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/illinois/springfield/location-649/",
+            "phone": "2178019382"
+        },
+        {
+            "id": 1312,
+            "location_name": "11 E Main Street, St. Charles, IL 60174",
+            "city": "St. Charles",
+            "state": "Illinois",
+            "state_abbr": "IL",
+            "address": "11 E Main Street, St. Charles, IL 60174",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 41.9136772,
+            "point_y": -88.31271079,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/illinois/st.-charles/location-1312/",
+            "phone": "6303152455"
+        }
+    ]
+}

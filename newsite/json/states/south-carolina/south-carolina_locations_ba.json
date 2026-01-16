@@ -1,0 +1,27 @@
+{
+    "success": true,
+    "count": 1,
+    "state": "south carolina",
+    "mode": "business-address",
+    "data": [
+        {
+            "id": 1724,
+            "location_name": "1901 Main Street, Columbia, SC 29201",
+            "city": "Columbia",
+            "state": "South Carolina",
+            "state_abbr": "SC",
+            "address": "1901 Main Street, Columbia, SC 29201",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 34.010961,
+            "point_y": -81.03827629,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1724-Exterior.jpg",
+                "alttext": "Exterior image of high-rise building with Virtual Offices in Columbia, South Carolina"
+            },
+            "url": "/business-address/south-carolina/columbia/location-1724/",
+            "phone": "8035202295"
+        }
+    ]
+}

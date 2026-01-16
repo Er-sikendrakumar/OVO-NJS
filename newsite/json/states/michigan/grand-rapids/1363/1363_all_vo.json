@@ -1,0 +1,95 @@
+{
+    "success": true,
+    "location_id": 1363,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Grand Rapids",
+            "state": "MI",
+            "price": null,
+            "address": {
+                "line1": "99 Monroe Avenue NW",
+                "suite": null,
+                "city": "Grand Rapids",
+                "state": "MI",
+                "zip": "49503",
+                "phone": "(616) 559-0079"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/1363-001-Building.png",
+                    "/wp-content-mgr/wp-content/uploads/1363-04.Building.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1363-conference.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1363-conference2.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1363-conference3.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1363-reception.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1363-cowork2.jpg"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1363",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Grand Rapids Virtual Office",
+            "body": "Experience the perks of a distinguished business address in Grand Rapids, without the complexities and financial burden of maintaining a conventional office. Opus VO gives you the chance to establish your business in a prime Grand Rapids location for a fraction of the cost of leasing a physical workspace. Conduct your business communications, meet with clients, and hold meetings in our modern, fully-outfitted conference rooms. Enhance your business image with an esteemed address in one of Grand Rapids major commercial districts.  Selecting a virtual office in Grand Rapids through Opus VO grants you the exclusive benefit of a live receptionist, devoted to delivering customized, exceptional service to your clients. Each interaction with your clients is finely tuned to align with your individual business goals. Your business will be supported by our wide range of administrative services. These services span from complete digital mail management to advanced call forwarding functionalities, and beyond. Our expert administrative staff will oversee your daily tasks, freeing you to focus on your business’s strategic growth and success. ",
+            "map": {
+                "lat": 42.9651309,
+                "lng": -85.67272349,
+                "zoom": 14,
+                "city": "Grand Rapids"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Grand Rapids, Michigan even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Grand Rapids. You can also adapt to better meet your clients’ unique needs within Michigan. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Grand Rapids virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Choose a Grand Rapids Virtual Office?",
+                "body": "Grand Rapids is more than just a Midwestern city; it’s an evolving economic hub with industries ranging from healthcare and manufacturing to technology. Locate your business in this expanding market to leverage local opportunities that can meaningfully contribute to your revenue streams. Situated near key business hubs and social events, our Grand Rapids location ensures you have seamless access to significant industry contacts and networking venues.  By opting for an Opus Virtual Office in Grand Rapids, you’re doing more than lowering overhead costs associated with traditional office setups; you’re also providing your business with a significant competitive advantage. Ascend to new business heights by taking advantage of our cutting-edge virtual office solutions today.  Opus VO, Grand Rapids @ 99 Monroe Avenue NW Grand Rapids, MI 49503   ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Grand Rapids - 99 Monroe Avenue NW | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Michigan, Grand Rapids virtual office located at 99 Monroe Avenue NW. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/michigan/grand-rapids/location-1363/",
+            "og": {
+                "title": "Virtual Office in Grand Rapids - 99 Monroe Avenue NW | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Michigan, Grand Rapids virtual office located at 99 Monroe Avenue NW. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/michigan/grand-rapids/location-1363/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/1363-001-Building.png"
+            }
+        }
+    }
+}

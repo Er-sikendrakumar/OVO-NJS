@@ -1,0 +1,160 @@
+{
+    "success": true,
+    "state": "maryland",
+    "cities_virtual": [
+        {
+            "id": "111",
+            "name": "Annapolis",
+            "popular": "1"
+        },
+        {
+            "id": "114",
+            "name": "Baltimore",
+            "popular": "1"
+        },
+        {
+            "id": "586",
+            "name": "Bethesda",
+            "popular": "0"
+        },
+        {
+            "id": "284",
+            "name": "Clinton",
+            "popular": "0"
+        },
+        {
+            "id": "395",
+            "name": "Columbia",
+            "popular": "0"
+        },
+        {
+            "id": "607",
+            "name": "Ellicott City",
+            "popular": "1"
+        },
+        {
+            "id": "853",
+            "name": "Fort Washington",
+            "popular": "0"
+        },
+        {
+            "id": "914",
+            "name": "Frederick",
+            "popular": "0"
+        },
+        {
+            "id": "348",
+            "name": "Gaithersburg",
+            "popular": "1"
+        },
+        {
+            "id": "547",
+            "name": "Hagerstown",
+            "popular": "0"
+        },
+        {
+            "id": "917",
+            "name": "Lanham",
+            "popular": "0"
+        },
+        {
+            "id": "852",
+            "name": "Laurel",
+            "popular": "0"
+        },
+        {
+            "id": "912",
+            "name": "Linthicum Heights",
+            "popular": "0"
+        },
+        {
+            "id": "429",
+            "name": "Odenton",
+            "popular": "0"
+        },
+        {
+            "id": "276",
+            "name": "Rockville",
+            "popular": "0"
+        },
+        {
+            "id": "303",
+            "name": "Silver Spring",
+            "popular": "0"
+        },
+        {
+            "id": "904",
+            "name": "Timonium",
+            "popular": "0"
+        },
+        {
+            "id": "918",
+            "name": "Towson",
+            "popular": "0"
+        }
+    ],
+    "cities_business": [
+        {
+            "id": "114",
+            "name": "Baltimore",
+            "popular": "1"
+        }
+    ],
+    "cities_popular": [
+        {
+            "id": "111",
+            "name": "Annapolis"
+        },
+        {
+            "id": "114",
+            "name": "Baltimore"
+        },
+        {
+            "id": "607",
+            "name": "Ellicott City"
+        },
+        {
+            "id": "348",
+            "name": "Gaithersburg"
+        }
+    ],
+    "locations_business_address": [
+        {
+            "id": 1304,
+            "location_name": "1 East Chase Street, Baltimore, MD 21202",
+            "city": "Baltimore",
+            "state": "Maryland",
+            "state_abbr": "MD",
+            "address": "1 East Chase Street, Baltimore, MD 21202",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 39.3021734,
+            "point_y": -76.6157222,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1304-exterior.jpg",
+                "alttext": "Exterior of historic building that houses Opus Virtual Offices located in Baltimore, Maryland"
+            },
+            "url": "/business-address/maryland/baltimore/location-1304/",
+            "phone": "4108092684"
+        }
+    ],
+    "meta": {
+        "cities_virtual_count": 18,
+        "cities_business_count": 1,
+        "cities_popular_count": 4,
+        "locations_business_address_count": 1
+    },
+    "seo": {
+        "title": "Virtual Business Address in Maryland | Opus Virtual Offices",
+        "meta_description": "Get a prestigious business address in Maryland with Opus. Multiple premium locations statewide mail handling privacy protection all for just $59/month.",
+        "canonical": "https://www.opusvirtualoffices.com/business-address/maryland/",
+        "og": {
+            "title": "Virtual Business Address in Maryland | Opus Virtual Offices",
+            "description": "Get a prestigious business address in Maryland with Opus. Multiple premium locations statewide mail handling privacy protection all for just $59/month.",
+            "url": "https://www.opusvirtualoffices.com/business-address/maryland/",
+            "type": "website",
+            "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+        }
+    }
+}

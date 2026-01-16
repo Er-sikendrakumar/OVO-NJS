@@ -1,0 +1,23 @@
+{
+    "success": true,
+    "count": 4,
+    "state": "maryland",
+    "data": [
+        {
+            "id": "111",
+            "name": "Annapolis"
+        },
+        {
+            "id": "114",
+            "name": "Baltimore"
+        },
+        {
+            "id": "607",
+            "name": "Ellicott City"
+        },
+        {
+            "id": "348",
+            "name": "Gaithersburg"
+        }
+    ]
+}

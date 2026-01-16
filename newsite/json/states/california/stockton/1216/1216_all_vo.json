@@ -1,0 +1,89 @@
+{
+    "success": true,
+    "location_id": 1216,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Stockton",
+            "state": "CA",
+            "price": null,
+            "address": {
+                "line1": "4719 Quail Lakes Drive",
+                "suite": null,
+                "city": "Stockton",
+                "state": "CA",
+                "zip": "95207",
+                "phone": "(209) 554-5532"
+            },
+            "images": {
+                "hero": [
+                    "/assets/mail-center.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1216",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 0,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Stockton Virtual Office",
+            "body": "Step up your business game with a top-tier address in Stockton, all without the fuss or cost of a traditional office. Opus VO hooks you up with a hot Stockton location that doesn’t drain your wallet. Got big meetings or must-win client conversations on the horizon? Our cutting-edge conference rooms are your go-to. Oh, and that Stockton address? It’s pure gold for your brand’s rep.  When you roll with a virtual office in Stockton via Opus VO, you’re not just getting an address. You’re also getting a live receptionist who’s totally committed to elevating your customer service. We’re talking about custom, high-quality interactions with your clients that align perfectly with your biz goals. That means you can offload the everyday admin tasks like mail sorting and call handling to us, so you can focus on taking your business to the next level. ",
+            "map": {
+                "lat": 37.9864964,
+                "lng": -121.3417825,
+                "zoom": 14,
+                "city": "Stockton"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Stockton, California even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Stockton. You can also adapt to better meet your clients’ unique needs within California. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Stockton virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Stockton? Why Not!",
+                "body": "Don’t sleep on Stockton—it’s not just a Central Valley city; it’s a rising star in the business world with diverse opportunities in areas like logistics, healthcare, and agriculture. Our Stockton digs are strategically placed, making it super easy for you to connect with essential business contacts and jump into buzzing networking events.  Choosing an Opus Virtual Office in Stockton isn’t just a savvy budget move; it’s your ticket to gaining a killer competitive edge. Ready to crush it in the business world? Level up with our top-notch virtual office services today.  Opus VO Stockton @ 4719 Quail Lakes Drive, Stockton, CA 95207 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Stockton - 4719 Quail Lakes Drive | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our California, Stockton virtual office located at 4719 Quail Lakes Drive. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/california/stockton/location-1216/",
+            "og": {
+                "title": "Virtual Office in Stockton - 4719 Quail Lakes Drive | $99/Month",
+                "description": "Get the ultimate office solution for your business with our California, Stockton virtual office located at 4719 Quail Lakes Drive. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/california/stockton/location-1216/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+            }
+        }
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "success": true,
+    "location_id": 1039,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Ottawa",
+            "state": "ON",
+            "price": null,
+            "address": {
+                "line1": "78 George Street",
+                "suite": null,
+                "city": "Ottawa",
+                "state": "ON",
+                "zip": "K1N 5W1",
+                "phone": "(613) 702-9267"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/1039-01.Building-2-800x511.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1039-02.Entry_-638x550.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1039-03.Meeting-Room2-367x550.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1039-04.Shared-Space-770x550.jpg"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1039",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Ottawa Virtual Office",
+            "body": "Are you hesitant about the financial implications of physical office space for your new business? Look no further than Opus VO. Stake your claim in one of our select Ottawa locations, relishing the prestige of a highly-regarded address without financial stress. When the occasion arises for key meetings or impactful conversations with clients, our state-of-the-art conference rooms are available to you.  But the advantages don’t stop at a distinguished address. By choosing a virtual office through Opus VO in Ottawa, you’ll also have a live receptionist at your service. Rely on our adept team to oversee your client relations effortlessly, managing the logistics of tasks like electronic mail coordination and expert call diversion, allowing you to concentrate on expanding your enterprise. ",
+            "map": {
+                "lat": 45.4272311,
+                "lng": -75.69136979,
+                "zoom": 14,
+                "city": "Ottawa"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Ottawa, Ontario even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Ottawa. You can also adapt to better meet your clients’ unique needs within Ontario. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Ottawa virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Ottawa? Why Opus VO?",
+                "body": "Ottawa is not just Canada’s capital; it’s a bustling business nexus teeming with opportunities in various industries. By situating your virtual office at Opus VO in Ottawa, you’re not merely saving on expenses; you’re tapping into a robust network of professionals and endless prospects for collaboration and business advancement.  Opting for Opus VO in Ottawa is more than just a cost-cutting measure; it’s an intelligent strategic move that positions your business for ongoing success. Your next monumental milestone might be just one virtual office choice away.  Opus VO Location in Ottawa @ 78 George Street, Ottawa, ON K1N 5W1 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Ottawa - 78 George Street | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Ontario, Ottawa virtual office located at 78 George Street. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/ontario/ottawa/location-1039/",
+            "og": {
+                "title": "Virtual Office in Ottawa - 78 George Street | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Ontario, Ottawa virtual office located at 78 George Street. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/ontario/ottawa/location-1039/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/1039-01.Building-2.jpg"
+            }
+        }
+    }
+}

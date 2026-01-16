@@ -1,0 +1,191 @@
+{
+    "success": true,
+    "location_id": 1499,
+    "mode": "business-address",
+    "data": {
+        "header": {
+            "city": "Orlando",
+            "state": "FL",
+            "price": null,
+            "address": {
+                "line1": "200 E Robinson Street",
+                "suite": "Suite 1120",
+                "city": "Orlando",
+                "state": "FL",
+                "zip": "32801",
+                "phone": "(407) 559-2000"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/Opus-Virtual-Office-Orlando-200-E-Robinson-Street-Towering-Office-Building.webp",
+                    "/wp-content-mgr/wp-content/uploads/Opus-Virtual-Office-Orlando-200-E-Robinson-Street-Contemporary-Reception.webp",
+                    "/wp-content-mgr/wp-content/uploads/Opus-Virtual-Office-Orlando-200-E-Robinson-Street-Glass-Conference-Room.webp",
+                    "/wp-content-mgr/wp-content/uploads/Opus-Virtual-Office-Orlando-200-E-Robinson-Street-Lakeside-View.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 1
+            },
+            "addressOnlyOptionAvailable": 1,
+            "addressOnlyUrl": "/business-address/florida/orlando/location-1499/",
+            "signupUrl": "/signup/?locid=1499",
+            "openingHours": {
+                "opens": "08:30:00",
+                "closes": "17:30:00",
+                "daysOfWeek": [
+                    "Monday",
+                    "Tuesday",
+                    "Wednesday",
+                    "Thursday",
+                    "Friday"
+                ]
+            },
+            "opusowned": 1,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "ORLANDO VIRTUAL OFFICE",
+            "body": "Dive into the magic of the City Beautiful with an Orlando virtual office from Opus Virtual Offices. While Orlando is known as the vacation capital of the world, it’s much more than that. Home to many manufacturing, bio tech, aerospace, and healthcare firms, Orlando has been recognized as one of the best large cities in the US to start a business. Located right on the northwest edge of the Lake Eola waterfront, 200 East Robinson Street is the ideal, picturesque place to set up your next virtual office. Nestled in the heart of downtown Orlando, 200 East Robinson Street features a Fifth Third Bank branch, fitness center, a neighborhood café, and shower facilities for those days when the Orlando heat becomes overwhelming.",
+            "map": {
+                "lat": 28.5453809,
+                "lng": -81.375407,
+                "zoom": 14,
+                "city": "Orlando"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Orlando, Florida even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Orlando. You can also adapt to better meet your clients’ unique needs within Florida. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Orlando virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Your Virtual Office in Downtown Orlando",
+                "body": "Discover how a Virtual Office in Orlando equips your business with a prestigious address, mail handling, live receptionist services, and essential business support, all without the expense of a physical office lease. Opus Virtual Office delivers flexible office solutions perfect for growing companies, remote startups, and established professionals seeking a credible presence. Stay competitive in today’s evolving work landscape while saving on overhead, accessing top-tier amenities, and projecting professionalism to your clients. Benefit from a seamless setup and scalable packages designed to support your business goals with confidence, convenience, and efficiency.",
+                "image": "/newsite/wp-content/uploads/2023/11/orlando-2.webp",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            },
+            {
+                "title": "Professional Virtual Office at 200 E Robinson St Suite 1120",
+                "body": "Opus Virtual Offices provides a professional business address at 200 E Robinson St Suite 1120 in the center of Downtown. This address gives your company a trusted presence near Lake Eola, major law firms, and corporate offices that define the city’s business district. Our virtual office plans are designed for entrepreneurs, startups, and remote professionals who want a credible address without paying for full-time offices. Each package includes mail handling, live receptionist services, and support that help you stay organized and connected. It’s a simple way to build your brand and operate efficiently from anywhere while maintaining a strong local image.",
+                "image": "/newsite/wp-content/uploads/2023/11/download-3.webp",
+                "layout": "image_text",
+                "imageAlignment": "left"
+            },
+            {
+                "title": "How Our Virtual Offices Help Entrepreneurs",
+                "body": "Our virtual offices make it easier for entrepreneurs to set up and grow their businesses. With Opus Virtual Offices, you get a prestigious business address without the cost or commitment of a physical office. Meeting with customers, managing communications, and presenting a professional image becomes simple with a trusted Florida virtual address. We provide flexible services that allow you to customize your setup as your company grows. From secure mail handling and live call answering to access to on-demand meeting rooms, our offices give you the tools you need to operate smoothly while keeping expenses low. Whether you’re starting your first venture, expanding into the Orlando market, or running a remote business, our plans offer the right balance of affordability, convenience, and professional support. Use your virtual address to register your company, receive mail securely, and meet with your customers at a professional place while working from anywhere. Opus Virtual Offices gives you the presence and flexibility to compete and succeed.",
+                "image": "/newsite/wp-content/uploads/2023/11/download-8.webp",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            },
+            {
+                "title": "Why a Professional Address Builds Trust",
+                "body": "Choosing a professional company address in Orlando can have a major impact on how your company is perceived. Customers often check where a company is located, and a recognized downtown address instantly sets you apart from competitors using P.O. boxes or residential locations. A trusted company address builds credibility and shows that your company is established and serious. Opus Virtual Offices provides more than just a mailing location. We offer a complete office solution that helps your company project strength and stability both locally and nationwide. A central office address also creates new opportunities. It positions your brand alongside top companies and signals professionalism to potential partners, customers, and vendors. Having a credible place to operate out of makes it easier to connect with new partners, secure contracts, and build lasting relationships. For companies expanding into Florida, a virtual address also simplifies registration and compliance, making setup faster and more efficient.",
+                "layout": "text_only"
+            },
+            {
+                "layout": "cta_block"
+            },
+            {
+                "title": "Mail Handling & Virtual Mailbox Services",
+                "body": "For companies that value efficiency and flexibility, reliable mail handling and virtual mailbox services in Orlando are essential. Opus Virtual Offices provides secure, streamlined solutions so you never miss mail or important correspondence. With your professional Florida business mailing address, all mail and documents are managed in a central place. You’ll receive prompt notifications, seamless mail forwarding, and real-time access to your correspondence, even when you’re working remotely. Our system keeps your operations running smoothly, protects sensitive documents, and helps your company maintain a polished, professional image at all times.",
+                "image": "/newsite/wp-content/uploads/2023/11/5ba78be5-a355-45e3-aa88-53b15abcd5b4-1.webp",
+                "layout": "image_text",
+                "imageAlignment": "left"
+            },
+            {
+                "title": "Secure Mail Forwarding and Management",
+                "body": "Security and professionalism are essential when managing company mail. Opus Virtual Offices provides reliable virtual mailbox services that keep your documents safe and organized. All mail is received at your office virtual address, logged securely and handled with care. Whether you are waiting on legal documents or important client shipments, our mail forwarding service ensures they reach you quickly and safely wherever you are. This keeps your operations running smoothly and builds trust with partners and customers who expect timely communication from a central office. Our advanced tracking and notification system gives you real-time updates when mail arrives or is forwarded. You can choose flexible delivery options based on your needs, including daily, weekly or on-demand forwarding. With a real downtown street address, your company benefits from both secure mail handling and a credible location for client trust, business registration and official correspondence. For remote teams, growing startups and expanding companies, our mailbox solutions make it easy to stay organized, protect sensitive information and maintain a professional image while keeping overhead costs low.",
+                "image": "/newsite/wp-content/uploads/2023/11/f747d5ba-3bdf-4097-99ca-608b419c8c8c.png",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            },
+            {
+                "layout": "cta_block"
+            },
+            {
+                "title": "Benefits of a Virtual Office Space",
+                "body": "Choosing a virtual office in downtown offers valuable advantages for companies that want flexibility and a strong local presence. With a professional downtown Orlando address, your company can operate remotely while maintaining the credibility and reliability customers expect from a Florida-based company. Opus Virtual Offices gives entrepreneurs, small company owners and remote teams access to a quality address, professional office services and the tools needed to stay efficient. This setup strengthens your brand image, supports company growth and allows you to expand without the costs or limitations of a traditional office lease.",
+                "image": "/newsite/wp-content/uploads/2023/11/81beed1e-f1c7-4f8f-b164-d699f12a238f.webp",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            },
+            {
+                "title": "Operate Remotely While Staying Local",
+                "body": "With a virtual office in downtown, your company can operate remotely while maintaining the benefits of a local presence in one of Florida’s fastest-growing markets. Opus Virtual Offices provides a respected downtown address that helps you present your company as professional and established within the central Florida community. You can manage daily operations from anywhere, whether you are at home, using a co-working space or traveling, while still using an official Orlando Florida company address on your website, stationery and professional profiles. This local presence offers more than credibility. It connects you to Orlando’s growing network and helps you attract customers while meeting local registration requirements. The flexibility to be remote removes the limitations of traditional office space and allows your company to expand without boundaries. Whether your team is spread across Florida or you are entering the Orlando market from out of state, a virtual office gives you the tools to stay competitive. With Opus Virtual Offices, you maintain a professional image, manage mail efficiently and keep a strong foundation for your company as you grow in Orlando’s thriving economy.",
+                "image": "/newsite/wp-content/uploads/2023/11/download.png",
+                "layout": "image_text",
+                "imageAlignment": "left"
+            },
+            {
+                "title": "Meeting Rooms & Workspace Options",
+                "body": "Orlando is a growing center for virtual companies, and having entry to premium meeting rooms and flexible workspace options helps your company build credibility and expand. Opus Virtual Offices offers fully equipped workspace solutions in downtown Orlando that allow you to meet customers, collaborate with your team and present your company in a professional setting. Whether you need a private meeting room for important presentations or a polished Orlando office for day-to-day operations, our services provide the flexibility and support you need. With modern amenities and a convenient space, Opus gives your company the tools to productively get things done and make a lasting impression.",
+                "image": "/newsite/wp-content/uploads/2023/11/c8e1bc12-050b-48f2-84ef-3956f6b83d29.webp",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            },
+            {
+                "title": "Flexible Workspace with Premium Services For Clients",
+                "body": "Opus Virtual Offices understands the need for a flexible workspace that supports the way modern entrepreneurs and professionals a place in Orlando. Our meeting rooms and office solutions are designed to help you stay productive while giving you access to premium services. Our downtown spot provides a professional setting where you can host meetings, focus on important projects with confidence. We offer high-speed internet, advanced presentation tools and staffed reception areas to ensure your company runs smoothly. Whether you need a conference room for a day or ongoing meeting space, our flexible solutions make it simple to find the right setup without added overhead. Located in the heart of Orlando, our spaces give you a strategic advantage and convenient access to the city’s network. With Opus Virtual Offices, you gain more than just a virtual office. You get a premium office experience that supports growth, strengthens your image and turns every meeting into an opportunity for success.",
+                "image": "/newsite/wp-content/uploads/2023/11/download-1.png",
+                "layout": "image_text",
+                "imageAlignment": "left"
+            },
+            {
+                "title": "Virtual Office Support Services",
+                "body": "Opus Virtual Offices provides comprehensive business support services that help entrepreneurs, remote teams and established companies succeed in Orlando. As more companies move toward flexible virtual models, having reliable ongoing support is essential for maintaining professionalism and growth. Our services include live reception, call answering and dedicated mail management, all designed to give your brand a polished image and a competitive advantage. From seamless communication to better client relations, our Orlando-based team ensures every interaction reflects the professionalism your company deserves. With a trusted virtual office space and dependable support, you can focus on growing your company while we handle the details behind the scenes.",
+                "image": "/newsite/wp-content/uploads/2023/11/3fce5381-c962-48ef-a1fb-2ffed6e949a7.webp",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            },
+            {
+                "title": "Live Reception & Call Answering Services",
+                "body": "Opus Virtual Offices provides Orlando companies with professional live reception and call answering services that create a polished, reliable image. Every client call is answered by a courteous receptionist using your company name, giving each interaction a professional first impression. Our local Orlando support team manages appointment scheduling, filters unwanted calls and relays important messages, allowing you to stay focused on running your company. For companies looking to maintain credibility in a competitive market, these services deliver the consistency and responsiveness customers expect. Whether your company operates remotely or follows a hybrid model, reliable phone management is essential. With Opus Virtual Offices, you get more than a voicemail system. Your calls are handled by real professionals who understand business etiquette and represent your company with care. All incoming calls to your virtual office are answered promptly, helping you build trust and strengthen relationships with partners, prospects and customers. Our team can also assist with multilingual needs and after-hours messaging to ensure you never miss an opportunity.",
+                "image": "/newsite/wp-content/uploads/2023/11/download-2.png",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            },
+            {
+                "layout": "cta_block"
+            },
+            {
+                "title": "Get Started with Your Virtual Office Today",
+                "body": "Launching your companies journey with a virtual office in Orlando is simple and effective with Opus Virtual Offices. We understand how important the right area is for building a professional presence and staying competitive in Florida’s fast-growing market. Our streamlined onboarding process makes it easy to select a plan that fits your company needs. From a recognized Orlando address to flexible workspace options, we provide everything you need to establish credibility and make a strong first impression with partners.\n\nChoosing your virtual office plan is straightforward and customizable. Whether you are an independent entrepreneur, a growing company or relocating your company to Orlando, Opus Virtual Offices offers the flexibility and support to match your goals. Every plan includes full access to our Florida-based company address, secure mail handling and virtual mailbox services. Our dedicated team guides you through each step, ensuring your setup is seamless and aligned with local requirements. Opus Virtual Offices gives you the professional image, flexibility, and support you need to succeed. Choose your plan today and secure a trusted Orlando virtual business address that helps you stand out and stay competitive.",
+                "layout": "text_only"
+            }
+        ],
+        "seo": {
+            "title": "Prestigious Business Address 200 E Robinson Street Orlando | $59/month",
+            "meta_description": "Impress clients with a virtual office at 200 E Robinson Street Orlando enjoy a prime location mail handling digital alerts and privacy for only $59/month",
+            "canonical": "https://www.opusvirtualoffices.com/business-address/florida/orlando/location-1499/",
+            "og": {
+                "title": "Prestigious Business Address 200 E Robinson Street Orlando | $59/month",
+                "description": "Impress clients with a virtual office at 200 E Robinson Street Orlando enjoy a prime location mail handling digital alerts and privacy for only $59/month",
+                "url": "https://www.opusvirtualoffices.com/business-address/florida/orlando/location-1499/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/Opus-Virtual-Office-Orlando-200-E-Robinson-Street-Towering-Office-Building.webp"
+            }
+        }
+    }
+}

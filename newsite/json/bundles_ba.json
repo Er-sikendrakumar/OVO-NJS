@@ -1,0 +1,75 @@
+{
+    "success": true,
+    "type": "business-address",
+    "sutype": 2,
+    "data": {
+        "bundles": [
+            {
+                "id": "6",
+                "bundlename": "The Essentials",
+                "bundleshort": "Solution",
+                "bundlephantom": "79.00",
+                "bundleprice": "79.00",
+                "services": []
+            },
+            {
+                "id": "7",
+                "bundlename": "The Essentials +",
+                "bundleshort": "PLUS",
+                "bundlephantom": "109.00",
+                "bundleprice": "99.00",
+                "services": {
+                    "14": "Callout",
+                    "20": "Tollfree",
+                    "28": "Call Logs"
+                }
+            },
+            {
+                "id": "8",
+                "bundlename": "The Professional",
+                "bundleshort": "PRO",
+                "bundlephantom": "159.00",
+                "bundleprice": "129.00",
+                "services": {
+                    "14": "Callout",
+                    "20": "Tollfree",
+                    "28": "Call Logs",
+                    "29": "Supervised Transfer"
+                }
+            },
+            {
+                "id": "9",
+                "bundlename": "The Best Value",
+                "bundleshort": "PREMIUM",
+                "bundlephantom": "209.00",
+                "bundleprice": "159.00",
+                "services": {
+                    "14": "Callout",
+                    "20": "Tollfree",
+                    "25": "Message Taking",
+                    "28": "Call Logs",
+                    "29": "Supervised Transfer"
+                }
+            }
+        ],
+        "all_services": {
+            "14": "Callout",
+            "20": "Tollfree",
+            "28": "Call Logs",
+            "29": "Supervised Transfer",
+            "25": "Message Taking"
+        },
+        "description": "All plans include the following: Live Call Answering, Call Transferring, 2 Voicemail Boxes, Business Phone/Fax Number, and Voicemail/Fax Converted to Email.",
+        "optional_features": [
+            "Toll-Free Number",
+            "Callout",
+            "Texting",
+            "Audio Conference Bridge",
+            "Additional Extension(s)/Voice Box(es)",
+            "Call Recording",
+            "Incoming Call Log Feature",
+            "Supervised Call Transfer",
+            "Message Taking"
+        ]
+    }
+}

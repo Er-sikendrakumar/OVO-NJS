@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "count": 15,
+    "state": "florida",
+    "data": [
+        {
+            "id": "7",
+            "name": "Boca Raton"
+        },
+        {
+            "id": "74",
+            "name": "Fort Lauderdale"
+        },
+        {
+            "id": "11",
+            "name": "Fort Myers"
+        },
+        {
+            "id": "14",
+            "name": "Jacksonville"
+        },
+        {
+            "id": "147",
+            "name": "Lakeland"
+        },
+        {
+            "id": "1",
+            "name": "Miami"
+        },
+        {
+            "id": "17",
+            "name": "Naples"
+        },
+        {
+            "id": "19",
+            "name": "Ocala"
+        },
+        {
+            "id": "63",
+            "name": "Orlando"
+        },
+        {
+            "id": "546",
+            "name": "Pensacola"
+        },
+        {
+            "id": "69",
+            "name": "Sarasota"
+        },
+        {
+            "id": "679",
+            "name": "St. Petersburg"
+        },
+        {
+            "id": "25",
+            "name": "Tallahassee"
+        },
+        {
+            "id": "80",
+            "name": "Tampa"
+        },
+        {
+            "id": "540",
+            "name": "West Palm Beach"
+        }
+    ]
+}

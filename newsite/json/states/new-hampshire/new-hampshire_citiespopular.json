@@ -1,0 +1,23 @@
+{
+    "success": true,
+    "count": 4,
+    "state": "new hampshire",
+    "data": [
+        {
+            "id": "352",
+            "name": "Lee"
+        },
+        {
+            "id": "107",
+            "name": "Manchester"
+        },
+        {
+            "id": "339",
+            "name": "Milford"
+        },
+        {
+            "id": "850",
+            "name": "Stratham"
+        }
+    ]
+}

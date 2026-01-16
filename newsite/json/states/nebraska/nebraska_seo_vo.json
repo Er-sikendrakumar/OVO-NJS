@@ -1,0 +1,22 @@
+{
+    "success": true,
+    "page": "virtual-office/nebraska",
+    "page_type": "location_state",
+    "view": "state",
+    "seo": {
+        "title": "Virtual Office in Nebraska | Locations Statewide | Opus VO",
+        "meta_description": "Get a prestigious Nebraska business address and professional phone answering services with Opus Virtual Offices, the perfect office solution for your business needs.",
+        "canonical": "https://www.opusvirtualoffices.com/virtual-office/nebraska/",
+        "og": {
+            "title": "Virtual Office in Nebraska | Locations Statewide | Opus VO",
+            "description": "Get a prestigious Nebraska business address and professional phone answering services with Opus Virtual Offices, the perfect office solution for your business needs.",
+            "url": "https://www.opusvirtualoffices.com/virtual-office/nebraska/",
+            "type": "website",
+            "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+        }
+    },
+    "data": {
+        "state": "Nebraska",
+        "mode": "virtual-office"
+    }
+}

@@ -1,0 +1,89 @@
+{
+    "success": true,
+    "location_id": 711,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "West Hartford",
+            "state": "CT",
+            "price": null,
+            "address": {
+                "line1": "1022 Blvd",
+                "suite": null,
+                "city": "West Hartford",
+                "state": "CT",
+                "zip": "06119",
+                "phone": "(860) 327-0483"
+            },
+            "images": {
+                "hero": [
+                    "/assets/mail-center.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=711",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 0,
+            "nearbyPremium": 1,
+            "nearbyPremiumUrl": "/virtual-office/connecticut/avon/location-1735/",
+            "nearbyPremiumText": "to view the nearby PREMIUM Locations for the same $99/mo",
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "West Hartford Virtual Office",
+            "body": "Get the prestige of a West Hartford business address without breaking the bank on a physical space. With Opus VO, you can elevate your company’s profile by situating it in the heart of West Hartford’s dynamic business landscape, all at a budget-friendly rate. When face-to-face meetings are a must, our top-notch conference rooms are there to support you, enhancing your brand with a West Hartford address.  As part of your Opus VO package in West Hartford, you’ll also benefit from a dedicated live receptionist who excels at providing customer interactions that are fully aligned with your brand’s ethos. Leave the routine admin tasks to us and liberate yourself to focus on what truly matters—taking your business to the next level. ",
+            "map": {
+                "lat": 41.7607341,
+                "lng": -72.7152007,
+                "zoom": 14,
+                "city": "West Hartford"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in West Hartford, Connecticut even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of West Hartford. You can also adapt to better meet your clients’ unique needs within Connecticut. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our West Hartford virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why West Hartford?",
+                "body": "West Hartford is not just any suburb; it’s a robust business center with diverse opportunities in sectors such as finance, retail, and healthcare. Our location in West Hartford offers you convenient connections to significant industry players and valuable networking events.  By choosing an Opus Virtual Office in West Hartford, you’re not merely cutting overhead; you’re acquiring a critical edge over the competition. Eager to amplify your business prospects? Our first-class virtual office services are standing by to assist you.  Opus VO West Hartford @ 1022 Blvd, West Hartford, CT 06119 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in West Hartford - 1022 Blvd | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Connecticut, West Hartford virtual office located at 1022 Blvd. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/connecticut/west-hartford/location-711/",
+            "og": {
+                "title": "Virtual Office in West Hartford - 1022 Blvd | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Connecticut, West Hartford virtual office located at 1022 Blvd. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/connecticut/west-hartford/location-711/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+            }
+        }
+    }
+}

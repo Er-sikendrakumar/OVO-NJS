@@ -1,0 +1,96 @@
+{
+    "success": true,
+    "location_id": 1419,
+    "mode": "business-address",
+    "data": {
+        "header": {
+            "city": "Alexandria",
+            "state": "VA",
+            "price": null,
+            "address": {
+                "line1": "2800 Eisenhower Avenue",
+                "suite": null,
+                "city": "Alexandria",
+                "state": "VA",
+                "zip": "22314",
+                "phone": "(703) 340-1416"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/1419-01.bldg_.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1419-02.lobby_-591x550.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1419-03.meeting-653x550.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1419-04.mailbox-606x550.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1419-05.bldg_-571x550.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1419-06.meeting-657x550.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1419-07.shared-584x550.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1419-08.meeting-683x550.jpg"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 1,
+            "addressOnlyUrl": "/business-address/virginia/alexandria/location-1419/",
+            "signupUrl": "/signup/?locid=1419",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 1,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Alexandria Virtual Office",
+            "body": "Enhance your business profile with an esteemed address in Alexandria, Virginia, all while avoiding the logistical and financial complexities of a standard office setup. With Opus VO, your business can create a professional foothold in Alexandria with features such as premium mail services, a welcoming client reception area, and innovative meeting rooms. Secure your place in a landmark building located at the heart of Alexandria’s bustling commercial district.  Selecting a virtual office in Alexandria through Opus VO affords you the luxury of a live receptionist who delivers a customized client experience designed to fit your specific needs. Our extensive suite of admin services, which includes digital mail management, superior call forwarding options, and more, allows you to focus solely on business growth while we handle your routine tasks. ",
+            "map": {
+                "lat": 38.8016031,
+                "lng": -77.0817187,
+                "zoom": 14,
+                "city": "Alexandria"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Alexandria, Virginia even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Alexandria. You can also adapt to better meet your clients’ unique needs within Virginia. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Alexandria virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why opt for an Alexandria Virtual Office?",
+                "body": "Beyond its historical charm, Alexandria serves as a thriving hub for various industries, from government contracting to tech startups. Leverage the local economic landscape by aligning your business with Alexandria’s diverse opportunities, which can provide a significant boost to your revenue. Conveniently situated near key business and social venues, our Alexandria location grants you effortless access to essential networking events and trade exhibitions.  Choosing an Opus Virtual Office in Alexandria delivers a competitive edge to your business at a fraction of the expense usually incurred with traditional physical offices. Make the smart choice to propel your business forward by enlisting our top-tier virtual office solutions today.  Opus VO, Alexandria @ 2800 Eisenhower Avenue, Alexandria, VA 22314  ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Prestigious Business Address 2800 Eisenhower Avenue Alexandria | $59/month",
+            "meta_description": "Impress clients with a virtual office at 2800 Eisenhower Avenue Alexandria enjoy a prime location mail handling digital alerts and privacy for only $59/month",
+            "canonical": "https://www.opusvirtualoffices.com/business-address/virginia/alexandria/location-1419/",
+            "og": {
+                "title": "Prestigious Business Address 2800 Eisenhower Avenue Alexandria | $59/month",
+                "description": "Impress clients with a virtual office at 2800 Eisenhower Avenue Alexandria enjoy a prime location mail handling digital alerts and privacy for only $59/month",
+                "url": "https://www.opusvirtualoffices.com/business-address/virginia/alexandria/location-1419/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/1419-01.bldg_.jpg"
+            }
+        }
+    }
+}

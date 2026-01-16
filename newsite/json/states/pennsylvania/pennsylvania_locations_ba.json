@@ -1,0 +1,27 @@
+{
+    "success": true,
+    "count": 1,
+    "state": "pennsylvania",
+    "mode": "business-address",
+    "data": [
+        {
+            "id": 1010,
+            "location_name": "1700 Market Street, Philadelphia, PA 19103",
+            "city": "Philadelphia",
+            "state": "Pennsylvania",
+            "state_abbr": "PA",
+            "address": "1700 Market Street, Philadelphia, PA 19103",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 39.9526481,
+            "point_y": -75.1690533,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1010-001-Building.jpg",
+                "alttext": null
+            },
+            "url": "/business-address/pennsylvania/philadelphia/location-1010/",
+            "phone": "2156183565"
+        }
+    ]
+}

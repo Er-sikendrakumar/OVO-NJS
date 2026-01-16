@@ -1,0 +1,353 @@
+{
+    "success": true,
+    "state": "south carolina",
+    "cities_virtual": [
+        {
+            "id": "326",
+            "name": "Charleston",
+            "popular": "1"
+        },
+        {
+            "id": "44",
+            "name": "Columbia",
+            "popular": "1"
+        },
+        {
+            "id": "856",
+            "name": "Fort Mill",
+            "popular": "0"
+        },
+        {
+            "id": "45",
+            "name": "Greenville",
+            "popular": "0"
+        },
+        {
+            "id": "46",
+            "name": "Greer",
+            "popular": "0"
+        },
+        {
+            "id": "324",
+            "name": "Hilton Head",
+            "popular": "0"
+        },
+        {
+            "id": "47",
+            "name": "Lexington",
+            "popular": "1"
+        },
+        {
+            "id": "526",
+            "name": "Mount Pleasant",
+            "popular": "0"
+        },
+        {
+            "id": "560",
+            "name": "Myrtle Beach",
+            "popular": "1"
+        },
+        {
+            "id": "48",
+            "name": "Seneca",
+            "popular": "0"
+        },
+        {
+            "id": "903",
+            "name": "Summerville",
+            "popular": "0"
+        }
+    ],
+    "cities_business": [
+        {
+            "id": "44",
+            "name": "Columbia",
+            "popular": "1"
+        }
+    ],
+    "cities_popular": [
+        {
+            "id": "326",
+            "name": "Charleston"
+        },
+        {
+            "id": "44",
+            "name": "Columbia"
+        },
+        {
+            "id": "47",
+            "name": "Lexington"
+        },
+        {
+            "id": "560",
+            "name": "Myrtle Beach"
+        }
+    ],
+    "locations_virtual_office": [
+        {
+            "id": 1262,
+            "location_name": "6650 Rivers Avenue, Charleston, SC 29406",
+            "city": "Charleston",
+            "state": "South Carolina",
+            "state_abbr": "SC",
+            "address": "6650 Rivers Avenue, Charleston, SC 29406",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 32.9188583,
+            "point_y": -80.0279518,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1262-001-Building.png",
+                "alttext": null
+            },
+            "url": "/virtual-office/south-carolina/charleston/location-1262/",
+            "phone": "8434055003"
+        },
+        {
+            "id": 1724,
+            "location_name": "1901 Main Street, Columbia, SC 29201",
+            "city": "Columbia",
+            "state": "South Carolina",
+            "state_abbr": "SC",
+            "address": "1901 Main Street, Columbia, SC 29201",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 34.010961,
+            "point_y": -81.03827629,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1724-Exterior.jpg",
+                "alttext": "Exterior image of high-rise building with Virtual Offices in Columbia, South Carolina"
+            },
+            "url": "/virtual-office/south-carolina/columbia/location-1724/",
+            "phone": "8035202295"
+        },
+        {
+            "id": 1645,
+            "location_name": "9600 Two Notch Road, Columbia, SC 29223",
+            "city": "Columbia",
+            "state": "South Carolina",
+            "state_abbr": "SC",
+            "address": "9600 Two Notch Road, Columbia, SC 29223",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 34.1011022,
+            "point_y": -80.9098424,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1645-01-Entrance.webp",
+                "alttext": null
+            },
+            "url": "/virtual-office/south-carolina/columbia/location-1645/",
+            "phone": "8035202064"
+        },
+        {
+            "id": 1742,
+            "location_name": "3160 Highway 21, Fort Mill, SC 29715",
+            "city": "Fort Mill",
+            "state": "South Carolina",
+            "state_abbr": "SC",
+            "address": "3160 Highway 21, Fort Mill, SC 29715",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 35.0783337,
+            "point_y": -80.934209,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/south-carolina/fort-mill/location-1742/",
+            "phone": "8039903855"
+        },
+        {
+            "id": 1175,
+            "location_name": "31 Boland Court, Greenville, SC 29615",
+            "city": "Greenville",
+            "state": "South Carolina",
+            "state_abbr": "SC",
+            "address": "31 Boland Court, Greenville, SC 29615",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 34.859536299,
+            "point_y": -82.2560687,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1Building67.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/south-carolina/greenville/location-1175/",
+            "phone": "8644694676"
+        },
+        {
+            "id": 1184,
+            "location_name": "2123 Old Spartanburg Road, Greer, SC 29650",
+            "city": "Greer",
+            "state": "South Carolina",
+            "state_abbr": "SC",
+            "address": "2123 Old Spartanburg Road, Greer, SC 29650",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 34.8915131,
+            "point_y": -82.29129239,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/south-carolina/greer/location-1184/",
+            "phone": "8644167409"
+        },
+        {
+            "id": 1457,
+            "location_name": "310 Memorial Drive, Greer, SC 29650",
+            "city": "Greer",
+            "state": "South Carolina",
+            "state_abbr": "SC",
+            "address": "310 Memorial Drive, Greer, SC 29650",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 34.9470947,
+            "point_y": -82.2348571,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/south-carolina/greer/location-1457/",
+            "phone": "8644165268"
+        },
+        {
+            "id": 928,
+            "location_name": "2 Corpus Christi Place, Hilton Head, SC 29928",
+            "city": "Hilton Head",
+            "state": "South Carolina",
+            "state_abbr": "SC",
+            "address": "2 Corpus Christi Place, Hilton Head, SC 29928",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 32.1556013,
+            "point_y": -80.7613457,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/928-pro-bldg.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/south-carolina/hilton-head/location-928/",
+            "phone": "8434055004"
+        },
+        {
+            "id": 780,
+            "location_name": "1792 South Lake Drive, Lexington, SC 29073",
+            "city": "Lexington",
+            "state": "South Carolina",
+            "state_abbr": "SC",
+            "address": "1792 South Lake Drive, Lexington, SC 29073",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 33.912249,
+            "point_y": -81.225813,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/south-carolina/lexington/location-780/",
+            "phone": "8035202176"
+        },
+        {
+            "id": 1732,
+            "location_name": "1156 Bowman Road, Mount Pleasant, SC 29464",
+            "city": "Mount Pleasant",
+            "state": "South Carolina",
+            "state_abbr": "SC",
+            "address": "1156 Bowman Road, Mount Pleasant, SC 29464",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 32.809761,
+            "point_y": -79.8506586,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1732-building-1751054864876.jpg",
+                "alttext": "Exterior of building that houses Opus Virtual Offices located in Mount Pleasant, South Carolina"
+            },
+            "url": "/virtual-office/south-carolina/mount-pleasant/location-1732/",
+            "phone": "8434738981"
+        },
+        {
+            "id": 1147,
+            "location_name": "3100 Dick Pond Road, Myrtle Beach, SC 29588",
+            "city": "Myrtle Beach",
+            "state": "South Carolina",
+            "state_abbr": "SC",
+            "address": "3100 Dick Pond Road, Myrtle Beach, SC 29588",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 33.6554689,
+            "point_y": -78.9896231,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1147-001-Building.png",
+                "alttext": null
+            },
+            "url": "/virtual-office/south-carolina/myrtle-beach/location-1147/",
+            "phone": "8434143276"
+        },
+        {
+            "id": 148,
+            "location_name": "1085 Old Clemson Hwy, Seneca, SC 29672",
+            "city": "Seneca",
+            "state": "South Carolina",
+            "state_abbr": "SC",
+            "address": "1085 Old Clemson Hwy, Seneca, SC 29672",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 34.696088,
+            "point_y": -82.878667,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/south-carolina/seneca/location-148/",
+            "phone": "8645205379"
+        },
+        {
+            "id": 1733,
+            "location_name": "201 Sigma Drive, Summerville, SC 29486",
+            "city": "Summerville",
+            "state": "South Carolina",
+            "state_abbr": "SC",
+            "address": "201 Sigma Drive, Summerville, SC 29486",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 33.0406035,
+            "point_y": -80.1448525,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1733-Exterior.jpg",
+                "alttext": "Exterior of building that houses Opus Virtual Offices located in Summerville, South Carolina"
+            },
+            "url": "/virtual-office/south-carolina/summerville/location-1733/",
+            "phone": "8435930684"
+        }
+    ],
+    "meta": {
+        "cities_virtual_count": 11,
+        "cities_business_count": 1,
+        "cities_popular_count": 4,
+        "locations_virtual_office_count": 13
+    },
+    "seo": {
+        "title": "Virtual Office in South Carolina | Locations Statewide | Opus VO",
+        "meta_description": "Get a prestigious South Carolina business address and professional phone answering services with Opus Virtual Offices, the perfect office solution for your business needs.",
+        "canonical": "https://www.opusvirtualoffices.com/virtual-office/south-carolina/",
+        "og": {
+            "title": "Virtual Office in South Carolina | Locations Statewide | Opus VO",
+            "description": "Get a prestigious South Carolina business address and professional phone answering services with Opus Virtual Offices, the perfect office solution for your business needs.",
+            "url": "https://www.opusvirtualoffices.com/virtual-office/south-carolina/",
+            "type": "website",
+            "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+        }
+    }
+}

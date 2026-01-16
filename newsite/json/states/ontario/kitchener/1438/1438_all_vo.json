@@ -1,0 +1,93 @@
+{
+    "success": true,
+    "location_id": 1438,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Kitchener",
+            "state": "ON",
+            "price": null,
+            "address": {
+                "line1": "290 King Street East",
+                "suite": null,
+                "city": "Kitchener",
+                "state": "ON",
+                "zip": "N2G 2L3",
+                "phone": "(548) 490-8035"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/1438-02.lobby_-694x550.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1438-03.meeting-709x550.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1438-04.shared-638x550.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1438-05.meeting-732x550.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1438-01.bldg_-660x550.jpg"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1438",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": "This location does not offer mail forwarding"
+        },
+        "overview": {
+            "heading": "Kitchener Virtual Office",
+            "body": "Considering a Kitchener location to either kickstart a new venture or advance your existing enterprise, but hesitant due to the financial commitment of a physical office? Look no further than Opus VO. Anchor your company in one of our hand-picked Kitchener sites, enjoying the prestige of a top-tier address without the financial burden. When you need to conduct pivotal meetings or engage in important client conversations, our high-caliber conference rooms are readily available.  The perks extend beyond a prominent address. Opting for a virtual office through Opus VO in Kitchener also grants you the luxury of a live receptionist. Count on our proficient team to manage your client relations seamlessly, taking care of tasks like digital mail coordination and effective call routing, thus freeing you to focus on expanding your operation. ",
+            "map": {
+                "lat": 43.4478784,
+                "lng": -80.48414269,
+                "zoom": 14,
+                "city": "Kitchener"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Kitchener, Ontario even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Kitchener. You can also adapt to better meet your clients’ unique needs within Ontario. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Kitchener virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Kitchener? Why Opus VO?",
+                "body": "Kitchener is not merely a scenic locale; it’s a vibrant business community with ample opportunities across a range of sectors. By choosing a virtual office with Opus VO in Kitchener, you’re not just trimming expenses; you’re plugging into an exciting network of professionals, abundant with opportunities for collaboration and business growth.  Choosing Opus VO in Kitchener is about more than just saving money; it’s a strategic move that positions your business for greater achievements. Your next significant milestone might just be one virtual office decision away.  Opus VO Location in Kitchener @ 290 King Street East, Kitchener, ON N2G 2L3   ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Kitchener - 290 King Street East | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Ontario, Kitchener virtual office located at 290 King Street East. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/ontario/kitchener/location-1438/",
+            "og": {
+                "title": "Virtual Office in Kitchener - 290 King Street East | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Ontario, Kitchener virtual office located at 290 King Street East. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/ontario/kitchener/location-1438/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/1438-02.lobby_.jpg"
+            }
+        }
+    }
+}

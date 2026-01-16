@@ -1,0 +1,46 @@
+{
+    "success": true,
+    "count": 2,
+    "state": "new york",
+    "mode": "business-address",
+    "data": [
+        {
+            "id": 1477,
+            "location_name": "32 Court Street, Suite 904, Brooklyn, NY 11201",
+            "city": "Brooklyn",
+            "state": "New York",
+            "state_abbr": "NY",
+            "address": "32 Court Street, Suite 904, Brooklyn, NY 11201",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 1,
+            "point_x": 40.6929538,
+            "point_y": -73.9910393,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/32-Court-St-Brooklyn-NY-Building-Photo-1-HighDefinition.webp",
+                "alttext": "Street view of Opus Virtual Office’s Brooklyn, NY building located at 32 Court Street."
+            },
+            "url": "/business-address/new-york/brooklyn/location-1477/",
+            "phone": "7189571040"
+        },
+        {
+            "id": 1450,
+            "location_name": "26 Broadway, Suite 934, New York, NY 10004",
+            "city": "New York",
+            "state": "New York",
+            "state_abbr": "NY",
+            "address": "26 Broadway, Suite 934, New York, NY 10004",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 1,
+            "point_x": 40.7054596,
+            "point_y": -74.0132303,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1450-building-1746036916361.jpg",
+                "alttext": "Exterior of the Standard Oil Building that houses Opus Virtual Offices located in New York, New York"
+            },
+            "url": "/business-address/new-york/new-york/location-1450/",
+            "phone": "2123761810"
+        }
+    ]
+}

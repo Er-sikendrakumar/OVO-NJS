@@ -1,0 +1,89 @@
+{
+    "success": true,
+    "location_id": 1121,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Columbia",
+            "state": "MO",
+            "price": null,
+            "address": {
+                "line1": "1400 Forum Boulevard",
+                "suite": null,
+                "city": "Columbia",
+                "state": "MO",
+                "zip": "65203",
+                "phone": "(573) 514-8424"
+            },
+            "images": {
+                "hero": [
+                    "/assets/mail-center.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1121",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 0,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Columbia Virtual Office",
+            "body": "Secure a prestigious Columbia business address without the expense of a physical office space. At Opus VO, you can strategically position your business in the heart of Columbia’s dynamic business district while managing your budget efficiently. Whether you have important client meetings or crucial presentations, our modern conference rooms are ready to accommodate your needs.  When you choose Opus VO’s virtual office in Columbia, you also gain access to a professional live receptionist as part of the package. Our dedicated team ensures each client interaction aligns seamlessly with your unique brand identity. Delegate routine administrative tasks to us, allowing you the freedom to focus on your core business objectives. ",
+            "map": {
+                "lat": 38.9358392,
+                "lng": -92.3591917,
+                "zoom": 14,
+                "city": "Columbia"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Columbia, Missouri even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Columbia. You can also adapt to better meet your clients’ unique needs within Missouri. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Columbia virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Columbia?",
+                "body": "Columbia is not just a picturesque city; it’s a thriving center for various industries, including technology, healthcare, and finance. A Columbia address provides you with valuable networking opportunities and access to industry events that can significantly enhance your business connections.  Selecting Opus VO for your virtual office needs in Columbia isn’t just a cost-effective choice; it’s a strategic advantage. Are you ready to take your business to new heights? Our exceptional virtual office solutions are designed to meet your needs.  Opus VO, Columbia @ 1400 Forum Boulevard, Columbia, MO 65203 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Columbia - 1400 Forum Boulevard | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Missouri, Columbia virtual office located at 1400 Forum Boulevard. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/missouri/columbia/location-1121/",
+            "og": {
+                "title": "Virtual Office in Columbia - 1400 Forum Boulevard | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Missouri, Columbia virtual office located at 1400 Forum Boulevard. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/missouri/columbia/location-1121/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+            }
+        }
+    }
+}

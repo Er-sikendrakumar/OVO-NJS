@@ -1,0 +1,93 @@
+{
+    "success": true,
+    "location_id": 1070,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Roswell",
+            "state": "GA",
+            "price": null,
+            "address": {
+                "line1": "760 Old Roswell Road",
+                "suite": null,
+                "city": "Roswell",
+                "state": "GA",
+                "zip": "30076",
+                "phone": "(678) 712-7984"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/a1Building-1.jpg",
+                    "/wp-content-mgr/wp-content/uploads/Board-Room10-366x550.jpg",
+                    "/wp-content-mgr/wp-content/uploads/Entry-1-800x532.jpg",
+                    "/wp-content-mgr/wp-content/uploads/Lobby7-366x550.jpg",
+                    "/wp-content-mgr/wp-content/uploads/Shared-366x550.jpg"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1070",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 1,
+            "nearbyPremiumUrl": "/virtual-office/georgia/atlanta/location-684/",
+            "nearbyPremiumText": "to view the most POPULAR locations nearby for the same $99/mo",
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Roswell Virtual Office",
+            "body": "Enjoy the advantages of a prestigious business address in Roswell without the complications and expenses of a traditional office setting. Opus VO affords you the luxury of an elite Roswell location at a fraction of the cost of a physical office. Manage your professional communications, greet your clientele, and hold events in our state-of-the-art, fully-equipped conference rooms. Strengthen your company image with a distinguished address in one of Roswell’s prime business districts.  Choosing a virtual office in Roswell through Opus VO gives you the unique benefit of a live receptionist, ensuring personalized, high-caliber client service. Every client interaction is carefully tailored to align with your distinct business goals, supported by our comprehensive array of administrative offerings. This includes complete digital mail management, cutting-edge call answering service, and more. Our expert administrative staff will manage your day-to-day operations, allowing you to focus on strategic business development and growth. ",
+            "map": {
+                "lat": 34.0352407,
+                "lng": -84.3391686,
+                "zoom": 14,
+                "city": "Roswell"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Roswell, Georgia even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Roswell. You can also adapt to better meet your clients’ unique needs within Georgia. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Roswell virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Choose a Roswell Virtual Office?",
+                "body": "Roswell is more than just a picturesque Southern town; it’s a burgeoning economic center with diverse sectors such as healthcare, technology, and finance. Establish your company in this vibrant market to tap into local opportunities that can substantially boost your revenue streams. Strategically positioned near essential commercial centers and social gatherings, our Roswell location provides you with convenient access to key industry events and networking opportunities.  By opting for an Opus Virtual Office in Roswell, you do more than just reduce overhead costs; you also equip your business with a competitive advantage. Elevate your company by taking advantage of our advanced virtual office services today.  Opus VO, Roswell @ 760 Old Roswell Road Roswell, GA 30076 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Roswell - 760 Old Roswell Road | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Georgia, Roswell virtual office located at 760 Old Roswell Road. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/georgia/roswell/location-1070/",
+            "og": {
+                "title": "Virtual Office in Roswell - 760 Old Roswell Road | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Georgia, Roswell virtual office located at 760 Old Roswell Road. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/georgia/roswell/location-1070/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/a1Building-1.jpg"
+            }
+        }
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "success": true,
+    "page": "business-address/south-carolina/columbia",
+    "page_type": "location_city",
+    "view": "city",
+    "seo": {
+        "title": "Virtual Office in Columbia, SC | Multiple Locations Available",
+        "meta_description": "Find the ultimate office solution with Opus Virtual Offices in Columbia, South Carolina. Our all-inclusive virtual offices cater to your business needs. Sign up today!",
+        "canonical": "https://www.opusvirtualoffices.com/business-address/south-carolina/columbia/",
+        "og": {
+            "title": "Virtual Office in Columbia, SC | Multiple Locations Available",
+            "description": "Find the ultimate office solution with Opus Virtual Offices in Columbia, South Carolina. Our all-inclusive virtual offices cater to your business needs. Sign up today!",
+            "url": "https://www.opusvirtualoffices.com/business-address/south-carolina/columbia/",
+            "type": "website",
+            "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+        }
+    },
+    "data": {
+        "state": "South Carolina",
+        "city": "Columbia",
+        "mode": "business-address"
+    }
+}

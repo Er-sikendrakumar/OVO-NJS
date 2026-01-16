@@ -1,0 +1,92 @@
+{
+    "success": true,
+    "location_id": 1607,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Portsmouth",
+            "state": "VA",
+            "price": null,
+            "address": {
+                "line1": "100 7th Street",
+                "suite": null,
+                "city": "Portsmouth",
+                "state": "VA",
+                "zip": "23704",
+                "phone": "(888) 898-9868"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/1607-01.bldg_.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1607-02.confroom.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1607-03.confroom.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1607-04.share_.jpg"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1607",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Portsmouth Virtual Office",
+            "body": "Revel in the allure of a first-class business location in Portsmouth without the financial commitment of a brick-and-mortar office. With Opus VO, you can situate your enterprise in one of our select Porstmouth venues, all at a fraction of the expenditure required for a traditional office rental. Access our state-of-the-art conference rooms for critical business negotiations and client discussions, all while fortifying your brand with a respected Portsmouth address.  Selecting a virtual executive suite in Portsmouth through Opus VO grants you the added luxury of a live, professional receptionist. Wholeheartedly committed to delivering bespoke, superior customer service, our adept team ensures each client communication is in sync with your distinct business ambitions. Entrust us with backend tasks such as managing digital correspondence and sophisticated call direction, allowing you to zero in on driving your business forward. ",
+            "map": {
+                "lat": 36.8293865,
+                "lng": -76.304165,
+                "zoom": 14,
+                "city": "Portsmouth"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Portsmouth, Virginia even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Portsmouth. You can also adapt to better meet your clients’ unique needs within Virginia. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Portsmouth virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Choose a Virtual Office in Portsmouth?",
+                "body": "Portsmouth is not simply a picturesque Virginian town; it’s also a vibrant economic hub, abundant in opportunities across sectors like legal services, tech startups, and retail. Strategically positioned near significant business centers, our Portsmouth sites grant you seamless access to essential industry players and networking events.  By opting for an Opus Virtual Office in Portsmouth, you’re doing more than just curbing your operating expenses; you’re obtaining a meaningful competitive edge. Catapult your enterprise to new echelons by employing our premium virtual executive services today.  Opus VO Portsmouth location @ 100 7th Street, Portsmouth, VA 23704",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Portsmouth - 100 7th Street | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Virginia, Portsmouth virtual office located at 100 7th Street. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/virginia/portsmouth/location-1607/",
+            "og": {
+                "title": "Virtual Office in Portsmouth - 100 7th Street | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Virginia, Portsmouth virtual office located at 100 7th Street. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/virginia/portsmouth/location-1607/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/1607-01.bldg_.jpg"
+            }
+        }
+    }
+}

@@ -1,0 +1,96 @@
+{
+    "success": true,
+    "location_id": 1440,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Ontario",
+            "state": "CA",
+            "price": null,
+            "address": {
+                "line1": "3400 Inland Empire Boulevard",
+                "suite": null,
+                "city": "Ontario",
+                "state": "CA",
+                "zip": "91764",
+                "phone": "(909) 217-7049"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/1440-06.lobby_-689x550.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1440-07.meeting-535x550.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1440-08.shared-618x550.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1440-01.bldg_-672x550.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1440-02.lobby_-468x550.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1440-03.meeting-548x550.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1440-04.shared-650x550.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1440-05.meeting-626x550.jpg"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1440",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": "This location does not offer mail forwarding"
+        },
+        "overview": {
+            "heading": "Ontario Virtual Office",
+            "body": "Enjoy the benefits of a prestigious business address in Ontario, California, without the hassle and financial commitments that come with a traditional office setting. Opus VO offers you the opportunity to place your business in a prime Ontario location at a fraction of the cost of renting a physical office. Manage your business communications, welcome your clients, and host meetings in our contemporary, fully equipped conference rooms. Boost your brand’s credibility with a high-profile address in one of Ontario’s key commercial areas.  Choosing a virtual office in Ontario through Opus VO affords you the unique advantage of a live receptionist, dedicated to providing personalized, first-rate service to your clients. Each client interaction is meticulously tailored to meet your specific business goals, supported by our all-encompassing range of administrative services. This includes complete digital mail handling, cutting-edge call forwarding features, and more. Let our seasoned administrative team manage your daily operations, allowing you to focus solely on strategic business development and growth. ",
+            "map": {
+                "lat": 34.0716054,
+                "lng": -117.5783991,
+                "zoom": 14,
+                "city": "Ontario"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Ontario, California even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Ontario. You can also adapt to better meet your clients’ unique needs within California. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Ontario virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why opt for an Ontario Virtual Office?",
+                "body": "Ontario is more than just a Southern California city; it’s a rapidly growing economic center with sectors spanning from logistics and healthcare to technology. Position your business in this dynamic market to tap into local opportunities that can significantly contribute to your revenue. Conveniently located near vital business hubs and social gatherings, our Ontario location provides you with easy access to important industry events and valuable networking opportunities.  By selecting an Opus Virtual Office in Ontario, you’re doing more than just reducing overhead costs tied to traditional office spaces; you’re also arming your business with a competitive edge. Propel your enterprise to new levels of success by leveraging our top-of-the-line virtual office solutions today.  Opus VO, Ontario @ 3400 Inland Empire Boulevard Ontario, CA 91764   ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Ontario - 3400 Inland Empire Boulevard | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our California, Ontario virtual office located at 3400 Inland Empire Boulevard. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/california/ontario/location-1440/",
+            "og": {
+                "title": "Virtual Office in Ontario - 3400 Inland Empire Boulevard | $99/Month",
+                "description": "Get the ultimate office solution for your business with our California, Ontario virtual office located at 3400 Inland Empire Boulevard. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/california/ontario/location-1440/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/1440-06.lobby_.jpg"
+            }
+        }
+    }
+}

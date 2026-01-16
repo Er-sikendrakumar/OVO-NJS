@@ -1,0 +1,27 @@
+{
+    "success": true,
+    "count": 1,
+    "state": "west virginia",
+    "mode": "business-address",
+    "data": [
+        {
+            "id": 1182,
+            "location_name": "126 E Burke Street, Martinsburg, WV 25401",
+            "city": "Martinsburg",
+            "state": "West Virginia",
+            "state_abbr": "WV",
+            "address": "126 E Burke Street, Martinsburg, WV 25401",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 39.4571111,
+            "point_y": -77.9625105,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1Entrance.jpg",
+                "alttext": null
+            },
+            "url": "/business-address/west-virginia/martinsburg/location-1182/",
+            "phone": "3043809008"
+        }
+    ]
+}

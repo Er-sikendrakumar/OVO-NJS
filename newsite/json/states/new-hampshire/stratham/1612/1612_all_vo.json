@@ -1,0 +1,89 @@
+{
+    "success": true,
+    "location_id": 1612,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Stratham",
+            "state": "NH",
+            "price": null,
+            "address": {
+                "line1": "20 Portsmouth Avenue",
+                "suite": null,
+                "city": "Stratham",
+                "state": "NH",
+                "zip": "03885",
+                "phone": "(888) 898-9868"
+            },
+            "images": {
+                "hero": [
+                    "/assets/mail-center.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1612",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 0,
+            "nearbyPremium": 1,
+            "nearbyPremiumUrl": "/virtual-office/new-hampshire/dover/location-1748/",
+            "nearbyPremiumText": "to view the nearby PREMIUM Locations for the same $99/mo",
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "STRATHAM VIRTUAL OFFICE",
+            "body": "You can start a business just about anywhere in New Hampshire, but some cities offer more benefits for your company’s goals. At Opus, we have compiled a list of the most popular cities to start a business, for any type of business. Growth is important for a business, not only when you are in the early stages of starting your business but also when you are looking to expand. Check out each one to see which one could benefit your business long-term prospects. Considering the increase in leasing fees, having a virtual office and business presence in these locations could save you a fortune and help you profit immensely. Take advantage of a virtual office in New Hampshire today.”",
+            "map": {
+                "lat": 42.996176299,
+                "lng": -70.92388729,
+                "zoom": 14,
+                "city": "Stratham"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Stratham, New Hampshire even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Stratham. You can also adapt to better meet your clients’ unique needs within New Hampshire. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Stratham virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "STRATHAM VIRTUAL OFFICE",
+                "body": "",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Stratham - 20 Portsmouth Avenue | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our New Hampshire, Stratham virtual office located at 20 Portsmouth Avenue. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/new-hampshire/stratham/location-1612/",
+            "og": {
+                "title": "Virtual Office in Stratham - 20 Portsmouth Avenue | $99/Month",
+                "description": "Get the ultimate office solution for your business with our New Hampshire, Stratham virtual office located at 20 Portsmouth Avenue. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/new-hampshire/stratham/location-1612/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+            }
+        }
+    }
+}

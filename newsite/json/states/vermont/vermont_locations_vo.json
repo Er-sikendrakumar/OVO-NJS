@@ -1,0 +1,27 @@
+{
+    "success": true,
+    "count": 1,
+    "state": "vermont",
+    "mode": "virtual-office",
+    "data": [
+        {
+            "id": 861,
+            "location_name": "145 Pine Haven Shores, Shelburne, VT 05482",
+            "city": "Shelburne",
+            "state": "Vermont",
+            "state_abbr": "VT",
+            "address": "145 Pine Haven Shores, Shelburne, VT 05482",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 44.4189163,
+            "point_y": -73.2153202,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/861-001-Building.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/vermont/shelburne/location-861/",
+            "phone": "8029229887"
+        }
+    ]
+}

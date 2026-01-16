@@ -1,0 +1,332 @@
+{
+    "success": true,
+    "count": 65,
+    "state": "florida",
+    "data": [
+        {
+            "id": "7",
+            "name": "Boca Raton",
+            "popular": "1"
+        },
+        {
+            "id": "3",
+            "name": "Boynton Beach",
+            "popular": "0"
+        },
+        {
+            "id": "67",
+            "name": "Bradenton",
+            "popular": "0"
+        },
+        {
+            "id": "368",
+            "name": "Cape Coral",
+            "popular": "0"
+        },
+        {
+            "id": "160",
+            "name": "Clearwater",
+            "popular": "0"
+        },
+        {
+            "id": "479",
+            "name": "Coral Gables",
+            "popular": "0"
+        },
+        {
+            "id": "75",
+            "name": "Coral Springs",
+            "popular": "0"
+        },
+        {
+            "id": "465",
+            "name": "Davie",
+            "popular": "0"
+        },
+        {
+            "id": "737",
+            "name": "Daytona Beach",
+            "popular": "0"
+        },
+        {
+            "id": "113",
+            "name": "Doral",
+            "popular": "0"
+        },
+        {
+            "id": "141",
+            "name": "Dunnellon",
+            "popular": "0"
+        },
+        {
+            "id": "74",
+            "name": "Fort Lauderdale",
+            "popular": "1"
+        },
+        {
+            "id": "11",
+            "name": "Fort Myers",
+            "popular": "1"
+        },
+        {
+            "id": "12",
+            "name": "Fort Walton Beach",
+            "popular": "0"
+        },
+        {
+            "id": "583",
+            "name": "Gainesville",
+            "popular": "0"
+        },
+        {
+            "id": "798",
+            "name": "Haines City",
+            "popular": "0"
+        },
+        {
+            "id": "376",
+            "name": "Hollywood",
+            "popular": "0"
+        },
+        {
+            "id": "14",
+            "name": "Jacksonville",
+            "popular": "1"
+        },
+        {
+            "id": "312",
+            "name": "Key Biscayne",
+            "popular": "0"
+        },
+        {
+            "id": "15",
+            "name": "Key West",
+            "popular": "0"
+        },
+        {
+            "id": "62",
+            "name": "Kissimmee",
+            "popular": "0"
+        },
+        {
+            "id": "582",
+            "name": "Lake Mary",
+            "popular": "0"
+        },
+        {
+            "id": "769",
+            "name": "Lake Wales",
+            "popular": "0"
+        },
+        {
+            "id": "72",
+            "name": "Lake Worth",
+            "popular": "0"
+        },
+        {
+            "id": "147",
+            "name": "Lakeland",
+            "popular": "1"
+        },
+        {
+            "id": "233",
+            "name": "Lakewood Ranch",
+            "popular": "0"
+        },
+        {
+            "id": "825",
+            "name": "Lehigh Acres",
+            "popular": "0"
+        },
+        {
+            "id": "260",
+            "name": "Melbourne",
+            "popular": "0"
+        },
+        {
+            "id": "1",
+            "name": "Miami",
+            "popular": "1"
+        },
+        {
+            "id": "478",
+            "name": "Miami Beach",
+            "popular": "0"
+        },
+        {
+            "id": "17",
+            "name": "Naples",
+            "popular": "1"
+        },
+        {
+            "id": "158",
+            "name": "New Port Richey",
+            "popular": "0"
+        },
+        {
+            "id": "477",
+            "name": "North Miami Beach",
+            "popular": "0"
+        },
+        {
+            "id": "382",
+            "name": "North Palm Beach",
+            "popular": "0"
+        },
+        {
+            "id": "122",
+            "name": "North Port",
+            "popular": "0"
+        },
+        {
+            "id": "19",
+            "name": "Ocala",
+            "popular": "1"
+        },
+        {
+            "id": "63",
+            "name": "Orlando",
+            "popular": "1"
+        },
+        {
+            "id": "2",
+            "name": "Palm Beach Gardens",
+            "popular": "0"
+        },
+        {
+            "id": "736",
+            "name": "Palm Coast",
+            "popular": "0"
+        },
+        {
+            "id": "366",
+            "name": "Palm Harbor",
+            "popular": "0"
+        },
+        {
+            "id": "22",
+            "name": "Panama City",
+            "popular": "0"
+        },
+        {
+            "id": "21",
+            "name": "Panama City Beach",
+            "popular": "0"
+        },
+        {
+            "id": "4",
+            "name": "Pembroke Pines",
+            "popular": "0"
+        },
+        {
+            "id": "546",
+            "name": "Pensacola",
+            "popular": "1"
+        },
+        {
+            "id": "23",
+            "name": "Plant City",
+            "popular": "0"
+        },
+        {
+            "id": "680",
+            "name": "Port St. Lucie",
+            "popular": "0"
+        },
+        {
+            "id": "814",
+            "name": "Punta Gorda",
+            "popular": "0"
+        },
+        {
+            "id": "771",
+            "name": "Rockledge",
+            "popular": "0"
+        },
+        {
+            "id": "69",
+            "name": "Sarasota",
+            "popular": "1"
+        },
+        {
+            "id": "24",
+            "name": "Spring Hill",
+            "popular": "0"
+        },
+        {
+            "id": "901",
+            "name": "St Augustine",
+            "popular": "0"
+        },
+        {
+            "id": "679",
+            "name": "St. Petersburg",
+            "popular": "1"
+        },
+        {
+            "id": "730",
+            "name": "Stuart",
+            "popular": "0"
+        },
+        {
+            "id": "25",
+            "name": "Tallahassee",
+            "popular": "1"
+        },
+        {
+            "id": "80",
+            "name": "Tampa",
+            "popular": "1"
+        },
+        {
+            "id": "880",
+            "name": "Tarpon Springs",
+            "popular": "0"
+        },
+        {
+            "id": "827",
+            "name": "Tavares",
+            "popular": "0"
+        },
+        {
+            "id": "816",
+            "name": "Titusville",
+            "popular": "0"
+        },
+        {
+            "id": "26",
+            "name": "Weeki Wachee",
+            "popular": "0"
+        },
+        {
+            "id": "71",
+            "name": "Wellington",
+            "popular": "0"
+        },
+        {
+            "id": "767",
+            "name": "Wesley Chapel",
+            "popular": "0"
+        },
+        {
+            "id": "540",
+            "name": "West Palm Beach",
+            "popular": "1"
+        },
+        {
+            "id": "73",
+            "name": "Weston",
+            "popular": "0"
+        },
+        {
+            "id": "480",
+            "name": "Wilton Manors",
+            "popular": "0"
+        },
+        {
+            "id": "254",
+            "name": "Winter Springs",
+            "popular": "0"
+        }
+    ]
+}

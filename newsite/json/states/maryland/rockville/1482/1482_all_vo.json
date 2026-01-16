@@ -1,0 +1,95 @@
+{
+    "success": true,
+    "location_id": 1482,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Rockville",
+            "state": "MD",
+            "price": null,
+            "address": {
+                "line1": "1 Research Court",
+                "suite": null,
+                "city": "Rockville",
+                "state": "MD",
+                "zip": "20850",
+                "phone": "(301) 824-9816"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/1482-001-Building.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1482-conference.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1482-conference2.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1482-conference-3.png",
+                    "/wp-content-mgr/wp-content/uploads/1482-reception.png",
+                    "/wp-content-mgr/wp-content/uploads/1482-kitchen.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1482-lounge.jpg"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1482",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Rockville Virtual Office",
+            "body": "Enjoy the perks of a distinguished business address in Rockville without the challenges or financial commitments associated with traditional office spaces. Opus VO affords you the ability to situate your business in an upscale Rockville area at a mere fraction of the cost of leasing a physical office. Coordinate your business interactions, host clients, and organize events in our state-of-the-art, fully-equipped meeting rooms. Boost your brand’s image with a reputable address in one of Rockville’s prime business districts.  Choosing a virtual office in Rockville through Opus VO provides you with the unique benefit of a live receptionist committed to offering customized, top-tier client service. Every customer engagement is precisely tailored to align with your distinct business goals, reinforced by our administrative amenities. These include complete mail handling, cutting-edge call-forwarding solutions, and more. Our expert administrative team will manage your day-to-day responsibilities, allowing you the freedom to focus on your business’s strategic development and growth.",
+            "map": {
+                "lat": 39.106578,
+                "lng": -77.18509089,
+                "zoom": 14,
+                "city": "Rockville"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Rockville, Maryland even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Rockville. You can also adapt to better meet your clients’ unique needs within Maryland. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Rockville virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why a Rockville Virtual Office?",
+                "body": "Rockville is more than just a suburb of Washington, D.C.; it’s a flourishing economic center with diverse sectors such as biotechnology, healthcare, and government services. By establishing your business in this vibrant market, you have the opportunity to capitalize on local conditions that could significantly enrich your revenue streams. Our Rockville location is strategically situated near key business hubs and social venues, affording you effortless access to important industry gatherings and valuable networking opportunities.  By selecting an Opus Virtual Office in Rockville, you’re doing more than just reducing operational expenses; you’re also equipping your business with a vital competitive advantage. Take your company to the next level by leveraging our first-class virtual office services today.  Opus VO, Rockville @ 1 Research Court Rockville, MD 20850   ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Rockville - 1 Research Court | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Maryland, Rockville virtual office located at 1 Research Court. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/maryland/rockville/location-1482/",
+            "og": {
+                "title": "Virtual Office in Rockville - 1 Research Court | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Maryland, Rockville virtual office located at 1 Research Court. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/maryland/rockville/location-1482/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/1482-001-Building.jpg"
+            }
+        }
+    }
+}

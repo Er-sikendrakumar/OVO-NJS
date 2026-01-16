@@ -1,0 +1,94 @@
+{
+    "success": true,
+    "location_id": 1771,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "San Diego",
+            "state": "CA",
+            "price": null,
+            "address": {
+                "line1": "10089 Willow Creek Rd",
+                "suite": null,
+                "city": "San Diego",
+                "state": "CA",
+                "zip": "92131",
+                "phone": "(619) 923-1383"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/1771-Exterior.png",
+                    "/wp-content-mgr/wp-content/uploads/1771-Conference2.jpeg",
+                    "/wp-content-mgr/wp-content/uploads/1771-Conference1.jpeg",
+                    "/wp-content-mgr/wp-content/uploads/1771-Conference3.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1771-Reception.jpeg",
+                    "/wp-content-mgr/wp-content/uploads/1771-Lounge.jpeg"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1771",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "SAN DIEGO VIRTUAL OFFICE",
+            "body": "You can start a business just about anywhere in California, but some cities offer more benefits for your company’s goals. At Opus, we have compiled a list of the most popular cities to start a business, for any type of business. Growth is important for a business, not only when you are in the early stages of starting your business but also when you are looking to expand. Check out each one to see which one could benefit your business long-term prospects. Considering the increase in leasing fees, having a virtual office and business presence in these locations could save you a fortune and help you profit immensely. Take advantage of a virtual office in California today.”",
+            "map": {
+                "lat": 32.9010317,
+                "lng": -117.1098335,
+                "zoom": 14,
+                "city": "San Diego"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in San Diego, California even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of San Diego. You can also adapt to better meet your clients’ unique needs within California. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our San Diego virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "SAN DIEGO VIRTUAL OFFICE",
+                "body": "",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in San Diego - 10089 Willow Creek Rd | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our California, San Diego virtual office located at 10089 Willow Creek Rd. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/california/san-diego/location-1771/",
+            "og": {
+                "title": "Virtual Office in San Diego - 10089 Willow Creek Rd | $99/Month",
+                "description": "Get the ultimate office solution for your business with our California, San Diego virtual office located at 10089 Willow Creek Rd. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/california/san-diego/location-1771/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/1771-Exterior.png"
+            }
+        }
+    }
+}

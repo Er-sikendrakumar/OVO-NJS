@@ -1,0 +1,94 @@
+{
+    "success": true,
+    "location_id": 1375,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Plant City",
+            "state": "FL",
+            "price": null,
+            "address": {
+                "line1": "1805 James L. Redman Parkway",
+                "suite": null,
+                "city": "Plant City",
+                "state": "FL",
+                "zip": "33563",
+                "phone": "(813) 693-5184"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/1375-04.Meeting3-413x550.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1375-05.Meeting4-413x550.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1375-06.Meeting5-800x545.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1375-01.Building-800x352.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1375-02.Entry_.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1375-03.Meeting.jpg"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1375",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 1,
+            "nearbyPremiumUrl": "/virtual-office/florida/tampa/location-885/",
+            "nearbyPremiumText": "to view the most POPULAR locations nearby for the same $99/mo",
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Plant City Virtual Office",
+            "body": "Lock in a prestigious business address in Plant City without breaking the bank on a physical location. With Opus VO, you can situate your enterprise in the heart of Plant City’s growing business community, all while safeguarding your financial assets. Got a game-changing meeting or client pitch on the horizon? Our state-of-the-art conference rooms are geared up to wow.  Choose the virtual way in Plant City through Opus VO, and a dedicated live receptionist committed to making each client interaction a flawless continuation of your unique brand character. Hand over those tedious admin duties to us and liberate yourself to chase after your entrepreneurial visions. ",
+            "map": {
+                "lat": 27.9956049,
+                "lng": -82.1221805,
+                "zoom": 14,
+                "city": "Plant City"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Plant City, Florida even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Plant City. You can also adapt to better meet your clients’ unique needs within Florida. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Plant City virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Plant City?",
+                "body": "Don’t underestimate Plant City—it’s not just about strawberries. This locale is emerging as a business nexus with varied industries from agriculture to tech. Having a business address in Plant City connects you with the movers and shakers and relevant events that could elevate your venture.  Going with Opus VO in Plant City isn’t merely a budget-friendly choice—it’s a calculated business move. Ready to take your business to the next level? Our elite virtual office services are at your beck and call.  Opus VO, Plant City @ 1805 James L. Redman Parkway, Plant City, FL 33563 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Plant City - 1805 James L. Redman Parkway | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Florida, Plant City virtual office located at 1805 James L. Redman Parkway. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/florida/plant-city/location-1375/",
+            "og": {
+                "title": "Virtual Office in Plant City - 1805 James L. Redman Parkway | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Florida, Plant City virtual office located at 1805 James L. Redman Parkway. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/florida/plant-city/location-1375/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/1375-04.Meeting3.jpg"
+            }
+        }
+    }
+}

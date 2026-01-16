@@ -1,0 +1,94 @@
+{
+    "success": true,
+    "location_id": 1427,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Dacula",
+            "state": "GA",
+            "price": null,
+            "address": {
+                "line1": "1862 Auburn Road",
+                "suite": null,
+                "city": "Dacula",
+                "state": "GA",
+                "zip": "30019",
+                "phone": "(678) 919-3415"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/1427-exterior.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1427-conference.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1427-conference2.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1427-reception.png",
+                    "/wp-content-mgr/wp-content/uploads/1427-cowork.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1427-kitchen.jpg"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1427",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "DACULA VIRTUAL OFFICE",
+            "body": "Our virtual office in Dacula, Georgia, has everything you need to grow your business, without the pressures of having a physical office. With our premium package, you get a prestigious business address, live reception, meeting rooms, and more. We’re not offering you a post office box; we’re creating a business presence in a new location for your growing company.   Establish or grow your business into new markets, when you open a virtual office in Dacula, Georgia.  ",
+            "map": {
+                "lat": 34.0499854,
+                "lng": -83.9254098,
+                "zoom": 14,
+                "city": "Dacula"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Dacula, Georgia even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Dacula. You can also adapt to better meet your clients’ unique needs within Georgia. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Dacula virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "GET A DACULA VIRTUAL OFFICE",
+                "body": "If you’re looking to establish a business presence in Dacula, Georgia, consider an Opus virtual office. Located approximately 40 miles from NE Atlanta, a business presence in Dacula can open a world of possibilities for your growing business.  Serve clients in every region of Ga. with a virtual office. Opus VO has over 21 locations throughout Georgia, giving you the opportunity to dominate the market.    Opus VO, Dacula @ 1862 Auburn Road Dacula, GA 30019",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Dacula - 1862 Auburn Road | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Georgia, Dacula virtual office located at 1862 Auburn Road. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/georgia/dacula/location-1427/",
+            "og": {
+                "title": "Virtual Office in Dacula - 1862 Auburn Road | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Georgia, Dacula virtual office located at 1862 Auburn Road. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/georgia/dacula/location-1427/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/1427-exterior.jpg"
+            }
+        }
+    }
+}

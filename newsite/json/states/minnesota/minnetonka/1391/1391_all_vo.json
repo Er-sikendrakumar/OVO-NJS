@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "location_id": 1391,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Minnetonka",
+            "state": "MN",
+            "price": null,
+            "address": {
+                "line1": "12800 Whitewater Drive",
+                "suite": null,
+                "city": "Minnetonka",
+                "state": "MN",
+                "zip": "55343",
+                "phone": "(952) 206-4979"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/1391-01.bldg_.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1391-02-meeting.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1391-03.meeting2-589x550.jpg"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1391",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Minnetonka Virtual Office",
+            "body": "Secure a distinguished Minnetonka business address without the financial drain of an actual office. With Opus VO, you have the opportunity to plant your business in the thriving heart of Minnetonka while optimizing your budget. Need to host a game-changing meeting or client discussion? Our state-of-the-art conference rooms are designed to exceed expectations.  When you select a virtual office in Minnetonka through Opus VO, you’ll also receive the services of a dedicated live receptionist. We are committed to ensuring that every client interaction perfectly embodies your brand’s values. Outsource your day-to-day admin tasks to us, leaving you free to pursue your business objectives. ",
+            "map": {
+                "lat": 44.896561,
+                "lng": -93.4431255,
+                "zoom": 14,
+                "city": "Minnetonka"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Minnetonka, Minnesota even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Minnetonka. You can also adapt to better meet your clients’ unique needs within Minnesota. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Minnetonka virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Minnetonka?",
+                "body": "Minnetonka is not merely a hub of natural beauty; it’s a burgeoning focal point for industries ranging from healthcare to tech startups. A Minnetonka address gives you the key to extensive networking possibilities and powerful business opportunities.  Opting for Opus VO in Minnetonka isn’t just wise from a financial standpoint; it’s a strategic boon for your business. Are you ready to ascend to new heights? Our elite virtual office services await your command.  Opus VO, Minnetonka @ 12800 Whitewater Drive, Minnetonka, MN 55343     ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Minnetonka - 12800 Whitewater Drive | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Minnesota, Minnetonka virtual office located at 12800 Whitewater Drive. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/minnesota/minnetonka/location-1391/",
+            "og": {
+                "title": "Virtual Office in Minnetonka - 12800 Whitewater Drive | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Minnesota, Minnetonka virtual office located at 12800 Whitewater Drive. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/minnesota/minnetonka/location-1391/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/1391-01.bldg_.jpg"
+            }
+        }
+    }
+}

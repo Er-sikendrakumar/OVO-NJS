@@ -1,0 +1,89 @@
+{
+    "success": true,
+    "location_id": 590,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Victorville",
+            "state": "CA",
+            "price": null,
+            "address": {
+                "line1": "13782 Bear Valley Road",
+                "suite": null,
+                "city": "Victorville",
+                "state": "CA",
+                "zip": "92392",
+                "phone": "(760) 406-8916"
+            },
+            "images": {
+                "hero": [
+                    "/assets/mail-center.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=590",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 0,
+            "nearbyPremium": 1,
+            "nearbyPremiumUrl": "/virtual-office/california/san-bernardino/location-1200/",
+            "nearbyPremiumText": "to view the nearby PREMIUM Locations for the same $99/mo",
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Victorville Virtual Office",
+            "body": "Get the cred of a swanky Victorville address without the big-ticket costs of a brick-and-mortar office. With Opus VO, you can plant your business in a prime spot in Victorville, minus the traditional office lease drama. Use our high-tech conference rooms to nail those key meetings and level up your client relations, all while flexing a Victorville address that screams, “We mean business.”  Opt for our virtual office in Victorville and score the added bonus of a live receptionist. Our team’s all about delivering tailor-made, top-notch customer service that aligns perfectly with your business game plan. Say peace out to boring admin stuff like mail sorting and call handling. We got you covered so you can zero in on taking your business to the next level. ",
+            "map": {
+                "lat": 34.4716745,
+                "lng": -117.3625198,
+                "zoom": 14,
+                "city": "Victorville"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Victorville, California even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Victorville. You can also adapt to better meet your clients’ unique needs within California. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Victorville virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Victorville, Though?",
+                "body": "Victorville is more than just a SoCal pit stop; it’s a buzzing business hub packed with opportunities in fields like logistics, renewable energy, and aviation. Our Victorville digs are ideally placed, giving you smooth access to industry big-shots and rad networking events.  By rolling with an Opus Virtual Office in Victorville, you’re not just cutting costs—you’re snagging a killer competitive edge. Skyrocket your business success by leveraging our bomb virtual office services, starting today.  Opus VO Victorville @ 13782 Bear Valley Road, Victorville, CA 92392 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Victorville - 13782 Bear Valley Road | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our California, Victorville virtual office located at 13782 Bear Valley Road. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/california/victorville/location-590/",
+            "og": {
+                "title": "Virtual Office in Victorville - 13782 Bear Valley Road | $99/Month",
+                "description": "Get the ultimate office solution for your business with our California, Victorville virtual office located at 13782 Bear Valley Road. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/california/victorville/location-590/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+            }
+        }
+    }
+}

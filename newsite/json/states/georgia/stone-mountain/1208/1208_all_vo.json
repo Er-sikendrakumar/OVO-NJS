@@ -1,0 +1,89 @@
+{
+    "success": true,
+    "location_id": 1208,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Stone Mountain",
+            "state": "GA",
+            "price": null,
+            "address": {
+                "line1": "925 Main Street",
+                "suite": null,
+                "city": "Stone Mountain",
+                "state": "GA",
+                "zip": "30083",
+                "phone": "(678) 324-9627"
+            },
+            "images": {
+                "hero": [
+                    "/assets/mail-center.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1208",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 0,
+            "nearbyPremium": 1,
+            "nearbyPremiumUrl": "/virtual-office/georgia/atlanta/location-684/",
+            "nearbyPremiumText": "to view nearby PREMIUM Locations that offer Meeting Rooms for the same $99/mo",
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Stone Mountain Virtual Office",
+            "body": "Get your hands on an iconic business address in Stone Mountain without emptying your coffers for a full-time office space. With Opus VO, you can situate your business amid the scenic grandeur and cultural richness of Stone Mountain, all the while being budget-smart. Need to wow a client or host a pivotal team meeting? Our state-of-the-art conference rooms are primed to deliver.  Choosing a virtual office in Stone Mountain via Opus VO comes with the added benefit of a dedicated live receptionist. We aim to make every client interaction an organic extension of your brand’s identity. Offload your day-to-day admin tasks onto us and zero in on elevating your business. ",
+            "map": {
+                "lat": 33.8066551,
+                "lng": -84.1701155,
+                "zoom": 14,
+                "city": "Stone Mountain"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Stone Mountain, Georgia even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Stone Mountain. You can also adapt to better meet your clients’ unique needs within Georgia. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Stone Mountain virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Stone Mountain? Why a Virtual Office?",
+                "body": "Don’t underestimate Stone Mountain; it’s not just about the monumental granite carving. This is a hotspot for a mix of businesses, including the arts, tech, and local commerce. A virtual office in this locale puts you in proximity to valuable networking opportunities and industry events that can supercharge your business growth.  By going with Opus VO in Stone Mountain, you’re making more than just a budget-friendly move—you’re carving out a competitive edge for your business. So, are you set to take the next big step? Our premium virtual office services are here to facilitate your climb.  Opus VO, Stone Mountain @ 925 Main Street, Stone Mountain, GA 30083 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Stone Mountain - 925 Main Street | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Georgia, Stone Mountain virtual office located at 925 Main Street. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/georgia/stone-mountain/location-1208/",
+            "og": {
+                "title": "Virtual Office in Stone Mountain - 925 Main Street | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Georgia, Stone Mountain virtual office located at 925 Main Street. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/georgia/stone-mountain/location-1208/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/1208-01.building.jpg"
+            }
+        }
+    }
+}

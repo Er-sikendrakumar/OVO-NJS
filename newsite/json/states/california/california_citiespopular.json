@@ -1,0 +1,51 @@
+{
+    "success": true,
+    "count": 11,
+    "state": "california",
+    "data": [
+        {
+            "id": "187",
+            "name": "Bakersfield"
+        },
+        {
+            "id": "404",
+            "name": "Beverly Hills"
+        },
+        {
+            "id": "341",
+            "name": "Chula Vista"
+        },
+        {
+            "id": "205",
+            "name": "Los Angeles"
+        },
+        {
+            "id": "314",
+            "name": "Newport Beach"
+        },
+        {
+            "id": "456",
+            "name": "Oakland"
+        },
+        {
+            "id": "576",
+            "name": "Rancho Cucamonga"
+        },
+        {
+            "id": "482",
+            "name": "Riverside"
+        },
+        {
+            "id": "259",
+            "name": "Sacramento"
+        },
+        {
+            "id": "357",
+            "name": "San Francisco"
+        },
+        {
+            "id": "241",
+            "name": "San Jose"
+        }
+    ]
+}

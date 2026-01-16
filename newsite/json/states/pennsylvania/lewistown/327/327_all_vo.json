@@ -1,0 +1,89 @@
+{
+    "success": true,
+    "location_id": 327,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Lewistown",
+            "state": "PA",
+            "price": null,
+            "address": {
+                "line1": "129 S. Main Street",
+                "suite": null,
+                "city": "Lewistown",
+                "state": "PA",
+                "zip": "17044",
+                "phone": "(717) 549-4004"
+            },
+            "images": {
+                "hero": [
+                    "/assets/mail-center.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=327",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 0,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Lewiston Virtual Office",
+            "body": "Unlock the benefits of securing a prestigious business address in Lewiston, Maine, without the need for a physical office space. At Opus VO, we provide you with the opportunity to position your business in the heart of Lewiston’s dynamic business community while optimizing operational efficiency. Our modern conference rooms are readily available for important meetings and collaborative endeavors.  By selecting Opus VO’s virtual office in Lewiston, you not only secure a prestigious address but also gain access to a professional live receptionist who seamlessly integrates with your team. They ensure that every client interaction embodies your unique brand identity, allowing us to manage routine administrative tasks while you focus on your core business objectives. ",
+            "map": {
+                "lat": 40.595574,
+                "lng": -77.572074,
+                "zoom": 14,
+                "city": "Lewistown"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Lewistown, Pennsylvania even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Lewistown. You can also adapt to better meet your clients’ unique needs within Pennsylvania. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Lewistown virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Lewiston?",
+                "body": "Lewiston is more than just a charming city; it’s a thriving business hub with opportunities spanning various sectors, including healthcare, education, and manufacturing. Having a Lewiston address not only enhances your business reputation but also grants access to essential networking events and industry connections.  Opting for Opus VO for your virtual office in Lewiston is not just a practical choice; it’s a strategic advantage. Are you prepared to elevate your business presence? Explore our exceptional virtual office solutions today.  Opus VO, Lewiston @ 129 S. Main Street, Lewistown, PA 17044 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Lewistown - 129 S. Main Street | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Pennsylvania, Lewistown virtual office located at 129 S. Main Street. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/pennsylvania/lewistown/location-327/",
+            "og": {
+                "title": "Virtual Office in Lewistown - 129 S. Main Street | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Pennsylvania, Lewistown virtual office located at 129 S. Main Street. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/pennsylvania/lewistown/location-327/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+            }
+        }
+    }
+}

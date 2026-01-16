@@ -1,0 +1,27 @@
+{
+    "success": true,
+    "count": 1,
+    "state": "idaho",
+    "mode": "business-address",
+    "data": [
+        {
+            "id": 1739,
+            "location_name": "311 E Coeur D Alene Ave, Coeur D Alene, ID 83815",
+            "city": "Coeur D Alene",
+            "state": "Idaho",
+            "state_abbr": "ID",
+            "address": "311 E Coeur D Alene Ave, Coeur D Alene, ID 83815",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 47.675363399,
+            "point_y": -116.782081,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1739-Exterior.jpg",
+                "alttext": "Exterior of building that houses Opus Virtual Offices located in Coeur D Alene, Idaho"
+            },
+            "url": "/business-address/idaho/coeur-d-alene/location-1739/",
+            "phone": "2085153859"
+        }
+    ]
+}

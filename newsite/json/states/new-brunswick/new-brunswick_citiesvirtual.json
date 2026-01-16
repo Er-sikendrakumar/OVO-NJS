@@ -1,0 +1,17 @@
+{
+    "success": true,
+    "count": 2,
+    "state": "new brunswick",
+    "data": [
+        {
+            "id": "626",
+            "name": "Moncton",
+            "popular": "0"
+        },
+        {
+            "id": "804",
+            "name": "Saint John",
+            "popular": "0"
+        }
+    ]
+}

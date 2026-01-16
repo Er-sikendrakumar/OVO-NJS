@@ -1,0 +1,110 @@
+{
+    "success": true,
+    "location_id": 776,
+    "mode": "business-address",
+    "data": {
+        "header": {
+            "city": "Boca Raton",
+            "state": "FL",
+            "price": null,
+            "address": {
+                "line1": "1825 NW Corporate Blvd",
+                "suite": "Suite 110",
+                "city": "Boca Raton",
+                "state": "FL",
+                "zip": "33431",
+                "phone": "(561) 988-6900"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/Boca-Raton-Virtual-Office-Space-1825-NW-Corporate-Blvd-.webp",
+                    "/wp-content-mgr/wp-content/uploads/Elegant-Waiting-Area-at-Boca-Raton-Virtual-Office-1825-NW-Corporate-Blvd.webp",
+                    "/wp-content-mgr/wp-content/uploads/Boca-Raton-Virtual-Office-Meeting-Room-1825-NW-Corporate-Blvd-.webp",
+                    "/wp-content-mgr/wp-content/uploads/Boca-Raton-FL-Virtual-Office-Conference-Room-1825-NW-Corporate-Blvd-.webp",
+                    "/wp-content-mgr/wp-content/uploads/Boca-Raton-Financial-Center-Virtual-Office-1825-NW-Corporate-Blvd-.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 1
+            },
+            "addressOnlyOptionAvailable": 1,
+            "addressOnlyUrl": "/business-address/florida/boca-raton/location-776/",
+            "signupUrl": "/signup/?locid=776",
+            "openingHours": {
+                "opens": "08:30:00",
+                "closes": "17:30:00",
+                "daysOfWeek": [
+                    "Monday",
+                    "Tuesday",
+                    "Wednesday",
+                    "Thursday",
+                    "Friday"
+                ]
+            },
+            "opusowned": 1,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "BOCA RATON VIRTUAL OFFICES",
+            "body": "Boca Raton offers a unique combination of elegant relaxation and nature, and with a virtual office from Opus VO, peace of mind when it comes to your business needs. Conveniently located between West Palm Beach and Fort Lauderdale, Boca is the ideal location to set up your business roots. Home to many corporate headquarters in the finance, tech, and health industries, the networking opportunities are plentiful. Your virtual office, located at 1825 NW Corporate Blvd, is only a few miles from Boca Raton Executive Airport and the brand new Brightline train station, so you and your clients have easy access to all of South Florida. Located in a Class A secure building that exudes professionalism, you’ll be able to receive mail, have a live receptionist that takes your calls, and a prestigious corporate mailing address.",
+            "map": {
+                "lat": 26.3715128,
+                "lng": -80.12234099,
+                "zoom": 14,
+                "city": "Boca Raton"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Boca Raton, Florida even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Boca Raton. You can also adapt to better meet your clients’ unique needs within Florida. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Boca Raton virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "WHY OPUS?",
+                "body": "Opting for a virtual office in Boca Raton through Opus VO gives you the exclusive advantage of a live receptionist committed to offering personalized, top-tier client service. Every point of client contact is carefully designed to resonate with your unique business objectives, supported by our wide range of administrative services. These amenities include a corporate mailing address, digital mail sorting, company phone and fax number, state-of-the-art call-forwarding options, and beyond. Our efficient administrative staff will manage your day-to-day tasks, freeing you to concentrate on your company’s strategic growth and success. Opus VO, Boca Raton @ 1825 NW Corporate Blvd, Suite 110 Boca Raton, FL 33431   ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            },
+            {
+                "title": "CHOOSE BOCA RATON",
+                "body": "Located near dozens of premier restaurants and hotels, Opus VO’s meeting room in Boca is perfect to hold your important meetings. Boca Raton is one of South Florida’s gems that’s constantly evolving into an international destination. Experience the natural beauty and pristine skies of one of South Florida’s most charming destinations that’ll have you dreaming for more.  Year-round sunshine and a backdrop of towering palm trees make Boca Raton the ideal city for residents and businesses alike.",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/botaraton-covered.png",
+                "layout": "image_text",
+                "imageAlignment": "left"
+            }
+        ],
+        "seo": {
+            "title": "Prestigious Business Address 1825 NW Corporate Blvd Boca Raton | $59/month",
+            "meta_description": "Impress clients with a virtual office at 1825 NW Corporate Blvd Boca Raton enjoy a prime location mail handling digital alerts and privacy for only $59/month",
+            "canonical": "https://www.opusvirtualoffices.com/business-address/florida/boca-raton/location-776/",
+            "og": {
+                "title": "Prestigious Business Address 1825 NW Corporate Blvd Boca Raton | $59/month",
+                "description": "Impress clients with a virtual office at 1825 NW Corporate Blvd Boca Raton enjoy a prime location mail handling digital alerts and privacy for only $59/month",
+                "url": "https://www.opusvirtualoffices.com/business-address/florida/boca-raton/location-776/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/Boca-Raton-Virtual-Office-Space-1825-NW-Corporate-Blvd-.webp"
+            }
+        }
+    }
+}

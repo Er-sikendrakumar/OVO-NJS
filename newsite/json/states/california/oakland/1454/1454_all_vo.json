@@ -1,0 +1,92 @@
+{
+    "success": true,
+    "location_id": 1454,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Oakland",
+            "state": "CA",
+            "price": null,
+            "address": {
+                "line1": "1440 Broadway",
+                "suite": null,
+                "city": "Oakland",
+                "state": "CA",
+                "zip": "94612",
+                "phone": "(510) 398-7289"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/1454-001-Building.png",
+                    "/wp-content-mgr/wp-content/uploads/1454-02.entry_.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1454-03.front-.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1454-04.meeting.jpg"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1454",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Oakland Virtual Office",
+            "body": "Enjoy the cachet of an illustrious business address in Oakland without the financial burden of a brick-and-mortar office. Opus Vo gives you the unique opportunity to establish your company in a prominent Oakland location, all while bypassing the substantial costs usually associated with a traditional office lease. Take advantage of our top-notch conference rooms for essential client meetings and important meetings while boosting your reputation with a prestigious Oakland address.  When you opt for a virtual office in Oakland via Opus VO, you get a live receptionist dedicated to delivering customized, high-quality client service to your customers. Our team ensures that every client interaction compliments your individual business goals. Delegate day-to-day administrative tasks like mail management and complete call handling to us, freeing you to focus exclusively on the growth and prosperity of your enterprise. ",
+            "map": {
+                "lat": 37.8048109,
+                "lng": -122.2706684,
+                "zoom": 14,
+                "city": "Oakland"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Oakland, California even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Oakland. You can also adapt to better meet your clients’ unique needs within California. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Oakland virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Choose an Oakland Virtual Office?",
+                "body": "Oakland is more than just a bustling Bay Area city; it’s a dynamic commercial hub teeming with opportunities in diverse sectors like technology, healthcare, and logistics. Conveniently located in proximity to key business centers, our Oakland facility provides you easy and direct access to important industry players and vibrant networking events.  By committing to an Opus Virtual Office in Oakland, you’re not merely cutting operating expenses; you’re gaining an invaluable competitive advantage. Elevate your business to unprecedented levels of success by making the most of our unparalleled virtual office amenities today.  Opus VO Oakland @ 1423 Broadway, Oakland, CA 94612 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Oakland - 1440 Broadway | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our California, Oakland virtual office located at 1440 Broadway. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/california/oakland/location-1454/",
+            "og": {
+                "title": "Virtual Office in Oakland - 1440 Broadway | $99/Month",
+                "description": "Get the ultimate office solution for your business with our California, Oakland virtual office located at 1440 Broadway. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/california/oakland/location-1454/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/1454-001-Building.png"
+            }
+        }
+    }
+}

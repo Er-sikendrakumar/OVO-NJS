@@ -1,0 +1,89 @@
+{
+    "success": true,
+    "location_id": 491,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Cerritos",
+            "state": "CA",
+            "price": null,
+            "address": {
+                "line1": "11331 183rd Street",
+                "suite": null,
+                "city": "Cerritos",
+                "state": "CA",
+                "zip": "90703",
+                "phone": "(562) 263-5207"
+            },
+            "images": {
+                "hero": [
+                    "/assets/mail-center.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=491",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 0,
+            "nearbyPremium": 1,
+            "nearbyPremiumUrl": "/virtual-office/california/los-angeles/location-1362/",
+            "nearbyPremiumText": "to view nearby PREMIUM Locations that offer Meeting Rooms for the same $99/mo",
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Cerritos Virtual Office",
+            "body": "Experience the perks of a business address in Cerritos without the financial weight of a brick-and-mortar lease. Opus VO provides you with the exclusive option to situate your company in our premier Cerritos location, all at a fraction of the cost of a traditional office lease. Utilize our contemporary conference rooms for pivotal business and meaningful client relations, while elevating your brand’s status with a professional Cerritos address.  Opting for a virtual office in Cerritos through Opus VO affords you the unparalleled advantage of a live receptionist. Unwavering in our commitment to deliver bespoke, top-notch customer service, our team ensures each client engagement seamlessly aligns with your individual business objectives. Relinquish routine administrative duties like complete mail handling and sophisticated call-forwarding to us, so you concentrate on the expansion of your business. ",
+            "map": {
+                "lat": 33.865754,
+                "lng": -118.092525,
+                "zoom": 14,
+                "city": "Cerritos"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Cerritos, California even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Cerritos. You can also adapt to better meet your clients’ unique needs within California. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Cerritos virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Choose a Cerritos Virtual Office?",
+                "body": "Cerritos is not just a residential community in Los Angeles County; it’s an emerging hotspot for commerce, rich in opportunities, particularly in sectors like technology, healthcare, and retail. Conveniently located near business hubs, our Cerritos office provides you with unhindered access to essential industry partnerships and invigorating networking gatherings.  By choosing an Opus Virtual Office in Cerritos, you’re accomplishing more than merely minimizing your operational expenditures; you’re acquiring an invaluable competitive edge. Propel your company to unprecedented heights by availing yourself of our virtual office services today.  Opus VO Cerritos @ 11331 183rd Street, Cerritos, CA 90703 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Cerritos - 11331 183rd Street | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our California, Cerritos virtual office located at 11331 183rd Street. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/california/cerritos/location-491/",
+            "og": {
+                "title": "Virtual Office in Cerritos - 11331 183rd Street | $99/Month",
+                "description": "Get the ultimate office solution for your business with our California, Cerritos virtual office located at 11331 183rd Street. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/california/cerritos/location-491/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+            }
+        }
+    }
+}

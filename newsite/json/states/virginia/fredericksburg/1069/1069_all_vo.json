@@ -1,0 +1,89 @@
+{
+    "success": true,
+    "location_id": 1069,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Fredericksburg",
+            "state": "VA",
+            "price": null,
+            "address": {
+                "line1": "2215 Plank Road",
+                "suite": null,
+                "city": "Fredericksburg",
+                "state": "VA",
+                "zip": "22401",
+                "phone": "(540) 369-8832"
+            },
+            "images": {
+                "hero": [
+                    "/assets/mail-center.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1069",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 0,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Fredericksburg Virtual office",
+            "body": "Relish the privilege of a distinguished business presence in Fredericksburg, absent the financial constraints associated with a full-time physical office. With Opus VO, you can lay the foundation for your business in one of our choice Fredericksburg venues, all at a small portion of the expense of a regular office lease. Utilize our state-of-the-art conferencing areas for essential dealings and client interactions, all while amplifying your brand’s reputation through a prestigious Fredericksburg address.  Selecting a virtual workspace in Fredericksburg through Opus VO entitles you to the specialized service of a dedicated receptionist. Unwaveringly committed to delivering individualized, premium client service, our proficient team ensures every interaction reflects your unique business aspirations. Confide administrative tasks like electronic mail management and adept call rerouting to us, freeing you to concentrate solely on business development. ",
+            "map": {
+                "lat": 38.2968907,
+                "lng": -77.4973277,
+                "zoom": 14,
+                "city": "Fredericksburg"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Fredericksburg, Virginia even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Fredericksburg. You can also adapt to better meet your clients’ unique needs within Virginia. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Fredericksburg virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Consider a Virtual Workspace in Fredericksburg?",
+                "body": "Fredericksburg isn’t merely a historic locale; it is also a bustling center for commerce, offering rich possibilities in sectors such as tourism, healthcare, and small business enterprises. Advantageously situated near key commercial destinations, our Fredericksburg facilities offer you swift admittance to valuable industry partners and relevant professional gatherings.  By opting for an Opus Virtual Offices in Fredericksburg, you’re not just alleviating operational outlays; you’re acquiring a significant edge in the competitive landscape. Propel your venture to new peaks by tapping into our first-class virtual workspace services today.  Opus VO Fredericksburg @ 2215 Plank Road, Fredericksburg, VA 22401 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Fredericksburg - 2215 Plank Road | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Virginia, Fredericksburg virtual office located at 2215 Plank Road. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/virginia/fredericksburg/location-1069/",
+            "og": {
+                "title": "Virtual Office in Fredericksburg - 2215 Plank Road | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Virginia, Fredericksburg virtual office located at 2215 Plank Road. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/virginia/fredericksburg/location-1069/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+            }
+        }
+    }
+}

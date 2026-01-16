@@ -1,0 +1,27 @@
+{
+    "success": true,
+    "count": 1,
+    "state": "minnesota",
+    "mode": "business-address",
+    "data": [
+        {
+            "id": 1392,
+            "location_name": "7900 International Drive, Bloomington, MN 55425",
+            "city": "Bloomington",
+            "state": "Minnesota",
+            "state_abbr": "MN",
+            "address": "7900 International Drive, Bloomington, MN 55425",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 44.8595598,
+            "point_y": -93.2263347,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1392-building-1743106952987.jpg",
+                "alttext": "Exterior of building housing Opus Virtual Offices located in Bloomington, Minnesota"
+            },
+            "url": "/business-address/minnesota/bloomington/location-1392/",
+            "phone": "9522064974"
+        }
+    ]
+}

@@ -1,0 +1,93 @@
+{
+    "success": true,
+    "location_id": 1372,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Weston",
+            "state": "FL",
+            "price": null,
+            "address": {
+                "line1": "2645 Executive Park Drive",
+                "suite": null,
+                "city": "Weston",
+                "state": "FL",
+                "zip": "33331",
+                "phone": "(954) 628-3879"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/1372-01.Building-800x486.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1372-02.Entry_-800x525.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1372-03.MeetingRoom2-800x515.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1372-04.SharedSpace-800x534.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1372-05.MeetingRoom-800x522.jpg"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1372",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 1,
+            "nearbyPremiumUrl": "/virtual-office/florida/fort-lauderdale/location-803/",
+            "nearbyPremiumText": "to view the most POPULAR locations nearby for the same $99/mo",
+            "locationDescription": "This location requires City of Weston Business Tax Receipt"
+        },
+        "overview": {
+            "heading": "Weston Virtual Office",
+            "body": "Secure a high-profile business address in Weston without the overhead of a physical office. With Opus VO, you can establish your business in the bustling landscape of Weston, all while keeping your finances in check. Got a vital meeting or an essential client pitch on the horizon? Our cutting-edge conference rooms are prepared to make an impact.  Choose to go virtual in Weston through Opus VO, and a specialized live receptionist comes with the package, who will ensure that each client interaction aligns seamlessly with your unique brand personality. Delegate your day-to-day admin tasks to us, so you can dedicate more time to scaling your business vision. ",
+            "map": {
+                "lat": 26.0859542,
+                "lng": -80.3742598,
+                "zoom": 14,
+                "city": "Weston"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Weston, Florida even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Weston. You can also adapt to better meet your clients’ unique needs within Florida. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Weston virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Weston?",
+                "body": "Don’t underestimate Weston—this isn’t just a residential haven. It’s an emerging hotspot for varied sectors like healthcare, tech, and finance. Opting for a Weston address means plugging into a network of industry influencers and game-changing events.  By picking Opus VO in Weston, you’re not just saving money—you’re gaining a competitive edge. Ready to take your business to new heights? Our superior virtual office services await your command.  Opus VO, Weston @ 2645 Executive Park Drive, Weston, FL 33331 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Weston - 2645 Executive Park Drive | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Florida, Weston virtual office located at 2645 Executive Park Drive. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/florida/weston/location-1372/",
+            "og": {
+                "title": "Virtual Office in Weston - 2645 Executive Park Drive | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Florida, Weston virtual office located at 2645 Executive Park Drive. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/florida/weston/location-1372/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/1372-01.Building.jpg"
+            }
+        }
+    }
+}

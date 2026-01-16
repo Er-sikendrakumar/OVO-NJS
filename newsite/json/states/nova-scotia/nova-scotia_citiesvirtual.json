@@ -1,0 +1,12 @@
+{
+    "success": true,
+    "count": 1,
+    "state": "nova scotia",
+    "data": [
+        {
+            "id": "870",
+            "name": "Halifax",
+            "popular": "0"
+        }
+    ]
+}

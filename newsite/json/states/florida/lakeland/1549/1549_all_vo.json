@@ -1,0 +1,92 @@
+{
+    "success": true,
+    "location_id": 1549,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Lakeland",
+            "state": "FL",
+            "price": null,
+            "address": {
+                "line1": "211 E Main Street",
+                "suite": null,
+                "city": "Lakeland",
+                "state": "FL",
+                "zip": "33801",
+                "phone": "(863) 913-2462"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/1549-01.bldg_.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1549-02.conference.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1549-03.meeting.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1549-04.shared.jpg"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1549",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": "This location does not offer mail forwarding"
+        },
+        "overview": {
+            "heading": "Lakeland Virtual Office",
+            "body": "Establish a high-impact business address in Lakeland, all without the expense of a physical office space. Opus VO provides you the means to situate your enterprise in the heart of Lakeland, all on a budget you can manage. Our top-notch conference rooms are available for your critical meetings and key client interactions.  By choosing a virtual space in Lakeland through Opus VO, you also gain the added value of a dedicated live receptionist trained to offer exceptional, individualized customer service, ensuring your client communications align seamlessly with your brand. Delegate the routine administrative tasks to us, freeing you to zero in on strategic growth. ",
+            "map": {
+                "lat": 28.0438581,
+                "lng": -81.9556941,
+                "zoom": 14,
+                "city": "Lakeland"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Lakeland, Florida even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Lakeland. You can also adapt to better meet your clients’ unique needs within Florida. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Lakeland virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Lakeland?",
+                "body": "Don’t underestimate Lakeland—it’s not just a scenic spot; it’s also an emerging economic zone with growth potential across sectors such as logistics, healthcare, and manufacturing. Our Lakeland location is optimally situated, offering you ready access to crucial industry connections and enriching networking events.  When you go with an Opus Virtual Office in Lakeland, you’re not merely saving on overhead—you’re acquiring a key advantage in your field. Are you set to ascend to new business peaks? Our first-class virtual office services are standing by to support you.  Choose from one of our two Opus VO locations in Lakeland @ 211 E Main Street, Lakeland, FL 33801, or 304 E Pine Street, Lakeland, FL 33801 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Lakeland - 211 E Main Street | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Florida, Lakeland virtual office located at 211 E Main Street. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/florida/lakeland/location-1549/",
+            "og": {
+                "title": "Virtual Office in Lakeland - 211 E Main Street | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Florida, Lakeland virtual office located at 211 E Main Street. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/florida/lakeland/location-1549/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/1549-01.bldg_.jpg"
+            }
+        }
+    }
+}

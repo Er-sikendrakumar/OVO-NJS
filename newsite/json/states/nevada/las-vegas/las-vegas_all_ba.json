@@ -1,0 +1,141 @@
+{
+    "success": true,
+    "state": "nevada",
+    "city": "las vegas",
+    "wp_city_post_id": null,
+    "locations": [
+        {
+            "id": "834",
+            "name": "Las Vegas",
+            "locname": "3430 E. Russell Road, Las Vegas, NV 89120",
+            "address": "3430 E. Russell Road, Las Vegas, NV 89120",
+            "city": "las vegas",
+            "state": "nevada",
+            "state_english": "Nevada",
+            "abbr": "NV",
+            "phone": "7022733256",
+            "premium": "1",
+            "opusowned": "0",
+            "showpopular": "0",
+            "point_x": "36.087314",
+            "point_y": "-115.0995266",
+            "url": "/business-address/nevada/las-vegas/location-834/",
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/834-0001-Building.png",
+                "alttext": ""
+            }
+        },
+        {
+            "id": "839",
+            "name": "Las Vegas",
+            "locname": "6130 Elton Avenue, Las Vegas, NV 89107",
+            "address": "6130 Elton Avenue, Las Vegas, NV 89107",
+            "city": "las vegas",
+            "state": "nevada",
+            "state_english": "Nevada",
+            "abbr": "NV",
+            "phone": "7025606619",
+            "premium": "1",
+            "opusowned": "0",
+            "showpopular": "0",
+            "point_x": "36.1724916",
+            "point_y": "-115.2254507",
+            "url": "/business-address/nevada/las-vegas/location-839/",
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/839-building.jpg",
+                "alttext": ""
+            }
+        }
+    ],
+    "popular_locations": [],
+    "premium_locations": [
+        {
+            "id": "834",
+            "name": "Las Vegas",
+            "locname": "3430 E. Russell Road, Las Vegas, NV 89120",
+            "address": "3430 E. Russell Road, Las Vegas, NV 89120",
+            "city": "las vegas",
+            "state": "nevada",
+            "state_english": "Nevada",
+            "abbr": "NV",
+            "phone": "7022733256",
+            "premium": "1",
+            "opusowned": "0",
+            "showpopular": "0",
+            "point_x": "36.087314",
+            "point_y": "-115.0995266",
+            "url": "/business-address/nevada/las-vegas/location-834/",
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/834-0001-Building.png",
+                "alttext": ""
+            }
+        },
+        {
+            "id": "839",
+            "name": "Las Vegas",
+            "locname": "6130 Elton Avenue, Las Vegas, NV 89107",
+            "address": "6130 Elton Avenue, Las Vegas, NV 89107",
+            "city": "las vegas",
+            "state": "nevada",
+            "state_english": "Nevada",
+            "abbr": "NV",
+            "phone": "7025606619",
+            "premium": "1",
+            "opusowned": "0",
+            "showpopular": "0",
+            "point_x": "36.1724916",
+            "point_y": "-115.2254507",
+            "url": "/business-address/nevada/las-vegas/location-839/",
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/839-building.jpg",
+                "alttext": ""
+            }
+        }
+    ],
+    "regular_locations": [],
+    "sections": [
+        {
+            "title": "OUR LAS VEGAS\nVIRTUAL OFFICES",
+            "body": "<h2></h2>\n<p>Enjoy the benefits of having a business address in Las Vegas Nevada without the stress and expense surrounding a “traditional office environment”. OpusVO gives you the prestige of having an office with the budget of working from home. Receive all your business mail at a professional office building. No post office box number, just a great business address to use on your business cards and other marketing material.</p>\n<p>You don’t just get a business phone number with your Las Vegas virtual office, but also a live receptionist answering your calls the way you want them to be. Stop choosing between capturing new leads for your business and working on current clients. Do both. Get someone who looks out for you while you’re unable to break away.</p>\n",
+            "image": {
+                "url": "/newsite/wp-content/themes/ThemeDec23/assets/images/califonia-v-office.jpg",
+                "alt": "OUR LAS VEGAS\nVIRTUAL OFFICES",
+                "title": "OUR LAS VEGAS\nVIRTUAL OFFICES"
+            },
+            "layout": "image_text",
+            "imageAlignment": "right"
+        },
+        {
+            "title": "GET A VIRTUAL OFFICE\nIN LAS VEGAS",
+            "body": "<h2></h2>\n<p>Whether you choose to work out of your home or on the road, a Las Vegas virtual office will give you the freedom and flexibility to get the job done in the place and style of your choosing. With a local company phone number, live receptionist, premium call transferring, and a professional business address, Opus VO provides a cost-effective way for your company to grow or establish a presence in a new market without any long-term commitments.</p>\n",
+            "image": {
+                "url": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "alt": "GET A VIRTUAL OFFICE\nIN LAS VEGAS",
+                "title": "GET A VIRTUAL OFFICE\nIN LAS VEGAS"
+            },
+            "layout": "image_text",
+            "imageAlignment": "left"
+        }
+    ],
+    "faqs": [],
+    "meta": {
+        "locations_count": 2,
+        "popular_locations_count": 0,
+        "premium_locations_count": 2,
+        "regular_locations_count": 0,
+        "sections_count": 2,
+        "faqs_count": 0
+    },
+    "seo": {
+        "title": "Virtual Office in Las Vegas, NV | Multiple Locations Available",
+        "meta_description": "Find the ultimate office solution with Opus Virtual Offices in Las Vegas, Nevada. Our all-inclusive virtual offices cater to your business needs. Sign up today!",
+        "canonical": "https://www.opusvirtualoffices.com/business-address/nevada/las-vegas/",
+        "og": {
+            "title": "Virtual Office in Las Vegas, NV | Multiple Locations Available",
+            "description": "Find the ultimate office solution with Opus Virtual Offices in Las Vegas, Nevada. Our all-inclusive virtual offices cater to your business needs. Sign up today!",
+            "url": "https://www.opusvirtualoffices.com/business-address/nevada/las-vegas/",
+            "type": "website",
+            "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "success": true,
+    "count": 4,
+    "data": [
+        {
+            "id": 11900,
+            "client_name": " Susy",
+            "client_review": "The Miami location is fantastic. Alex is professional, pleasant and great to do business with",
+            "stars": 5,
+            "review_by": "Google Review",
+            "show_on_general": "Yes"
+        },
+        {
+            "id": 11899,
+            "client_name": "Franchesca Franklin",
+            "client_review": "Grateful for this amazing company to support my business needs. Britney is PHENOMENAL & always goes above & beyond to make sure my needs are met. Professional company that definitely makes you feel like you’re the top priority!",
+            "stars": 5,
+            "review_by": "Google Review",
+            "show_on_general": "Yes"
+        },
+        {
+            "id": 11898,
+            "client_name": " Willie Binyard",
+            "client_review": "I just wanted to take a moment to recognize the incredible work that Britney has been doing at Opus Virtual Office. Her dedication and passion truly set her apart, and she consistently goes above and beyond to support clients. Britney’s attention to detail and exceptional communication skills makes it easy at Opus Virtual Office. She approaches every challenge with a positive attitude and a creative mindset.",
+            "stars": 5,
+            "review_by": "Google Review",
+            "show_on_general": "Yes"
+        },
+        {
+            "id": 11897,
+            "client_name": "Mike S",
+            "client_review": "I’ve had the pleasure of working with Jasmine at Opus Virtual, and I couldn’t be more impressed. Her professionalism, attentiveness, and warm demeanor make each interaction a joy. Jasmine consistently goes above and beyond to ensure every request is handled promptly and efficiently. Her attention to detail and commitment to excellence truly set her apart. Thank you, Jasmine, for making every experience with Opus Virtual exceptional!",
+            "stars": 5,
+            "review_by": "Google Review",
+            "show_on_general": "Yes"
+        }
+    ]
+}

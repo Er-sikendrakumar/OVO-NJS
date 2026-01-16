@@ -1,0 +1,23 @@
+{
+    "success": true,
+    "page": "virtual-office/pennsylvania/plymouth-meeting",
+    "page_type": "location_city",
+    "view": "city",
+    "seo": {
+        "title": "Virtual Office in Plymouth Meeting, PA | Multiple Locations Available",
+        "meta_description": "Find the ultimate office solution with Opus Virtual Offices in Plymouth Meeting, Pennsylvania. Our all-inclusive virtual offices cater to your business needs. Sign up today!",
+        "canonical": "https://www.opusvirtualoffices.com/virtual-office/pennsylvania/plymouth-meeting/",
+        "og": {
+            "title": "Virtual Office in Plymouth Meeting, PA | Multiple Locations Available",
+            "description": "Find the ultimate office solution with Opus Virtual Offices in Plymouth Meeting, Pennsylvania. Our all-inclusive virtual offices cater to your business needs. Sign up today!",
+            "url": "https://www.opusvirtualoffices.com/virtual-office/pennsylvania/plymouth-meeting/",
+            "type": "website",
+            "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+        }
+    },
+    "data": {
+        "state": "Pennsylvania",
+        "city": "Plymouth Meeting",
+        "mode": "virtual-office"
+    }
+}

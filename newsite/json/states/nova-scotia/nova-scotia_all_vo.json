@@ -1,0 +1,52 @@
+{
+    "success": true,
+    "state": "nova scotia",
+    "cities_virtual": [
+        {
+            "id": "870",
+            "name": "Halifax",
+            "popular": "0"
+        }
+    ],
+    "cities_business": [],
+    "cities_popular": [],
+    "locations_virtual_office": [
+        {
+            "id": 1656,
+            "location_name": "3045 Robie Street, Halifax, NS B3K 4P6",
+            "city": "Halifax",
+            "state": "Nova Scotia",
+            "state_abbr": "NS",
+            "address": "3045 Robie Street, Halifax, NS B3K 4P6",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 44.6593102,
+            "point_y": -63.60072359,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/nova-scotia/halifax/location-1656/",
+            "phone": "0"
+        }
+    ],
+    "meta": {
+        "cities_virtual_count": 1,
+        "cities_business_count": 0,
+        "cities_popular_count": 0,
+        "locations_virtual_office_count": 1
+    },
+    "seo": {
+        "title": "Virtual Office in Nova Scotia | Locations Statewide | Opus VO",
+        "meta_description": "Get a prestigious Nova Scotia business address and professional phone answering services with Opus Virtual Offices, the perfect office solution for your business needs.",
+        "canonical": "https://www.opusvirtualoffices.com/virtual-office/nova-scotia/",
+        "og": {
+            "title": "Virtual Office in Nova Scotia | Locations Statewide | Opus VO",
+            "description": "Get a prestigious Nova Scotia business address and professional phone answering services with Opus Virtual Offices, the perfect office solution for your business needs.",
+            "url": "https://www.opusvirtualoffices.com/virtual-office/nova-scotia/",
+            "type": "website",
+            "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+        }
+    }
+}

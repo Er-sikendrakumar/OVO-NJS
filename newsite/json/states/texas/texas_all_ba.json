@@ -1,0 +1,295 @@
+{
+    "success": true,
+    "state": "texas",
+    "cities_virtual": [
+        {
+            "id": "711",
+            "name": "Amarillo",
+            "popular": "0"
+        },
+        {
+            "id": "115",
+            "name": "Arlington",
+            "popular": "1"
+        },
+        {
+            "id": "116",
+            "name": "Austin",
+            "popular": "1"
+        },
+        {
+            "id": "225",
+            "name": "Carrollton",
+            "popular": "0"
+        },
+        {
+            "id": "329",
+            "name": "Conroe",
+            "popular": "0"
+        },
+        {
+            "id": "608",
+            "name": "Corpus Christi",
+            "popular": "0"
+        },
+        {
+            "id": "253",
+            "name": "Cypress",
+            "popular": "0"
+        },
+        {
+            "id": "202",
+            "name": "Dallas",
+            "popular": "1"
+        },
+        {
+            "id": "726",
+            "name": "Edinburg",
+            "popular": "0"
+        },
+        {
+            "id": "342",
+            "name": "El Paso",
+            "popular": "1"
+        },
+        {
+            "id": "414",
+            "name": "Fort Worth",
+            "popular": "1"
+        },
+        {
+            "id": "405",
+            "name": "Frisco",
+            "popular": "0"
+        },
+        {
+            "id": "783",
+            "name": "Georgetown",
+            "popular": "0"
+        },
+        {
+            "id": "409",
+            "name": "Greenville",
+            "popular": "0"
+        },
+        {
+            "id": "117",
+            "name": "Houston",
+            "popular": "1"
+        },
+        {
+            "id": "776",
+            "name": "Joshua",
+            "popular": "0"
+        },
+        {
+            "id": "519",
+            "name": "Katy",
+            "popular": "0"
+        },
+        {
+            "id": "543",
+            "name": "Killeen",
+            "popular": "0"
+        },
+        {
+            "id": "250",
+            "name": "Magnolia",
+            "popular": "0"
+        },
+        {
+            "id": "617",
+            "name": "Mansfield",
+            "popular": "0"
+        },
+        {
+            "id": "473",
+            "name": "McAllen",
+            "popular": "0"
+        },
+        {
+            "id": "464",
+            "name": "Midland",
+            "popular": "0"
+        },
+        {
+            "id": "408",
+            "name": "Pearland",
+            "popular": "0"
+        },
+        {
+            "id": "845",
+            "name": "Pflugerville",
+            "popular": "0"
+        },
+        {
+            "id": "257",
+            "name": "Plano",
+            "popular": "0"
+        },
+        {
+            "id": "203",
+            "name": "Richmond",
+            "popular": "0"
+        },
+        {
+            "id": "220",
+            "name": "Round Rock",
+            "popular": "0"
+        },
+        {
+            "id": "119",
+            "name": "San Antonio",
+            "popular": "1"
+        },
+        {
+            "id": "244",
+            "name": "Sugar Land",
+            "popular": "0"
+        },
+        {
+            "id": "844",
+            "name": "Taylor",
+            "popular": "0"
+        },
+        {
+            "id": "832",
+            "name": "The Woodlands",
+            "popular": "0"
+        },
+        {
+            "id": "338",
+            "name": "Tomball",
+            "popular": "0"
+        },
+        {
+            "id": "655",
+            "name": "Waco",
+            "popular": "0"
+        }
+    ],
+    "cities_business": [
+        {
+            "id": "116",
+            "name": "Austin",
+            "popular": "1"
+        },
+        {
+            "id": "202",
+            "name": "Dallas",
+            "popular": "1"
+        },
+        {
+            "id": "117",
+            "name": "Houston",
+            "popular": "1"
+        }
+    ],
+    "cities_popular": [
+        {
+            "id": "115",
+            "name": "Arlington"
+        },
+        {
+            "id": "116",
+            "name": "Austin"
+        },
+        {
+            "id": "202",
+            "name": "Dallas"
+        },
+        {
+            "id": "342",
+            "name": "El Paso"
+        },
+        {
+            "id": "414",
+            "name": "Fort Worth"
+        },
+        {
+            "id": "117",
+            "name": "Houston"
+        },
+        {
+            "id": "119",
+            "name": "San Antonio"
+        }
+    ],
+    "locations_business_address": [
+        {
+            "id": 1255,
+            "location_name": "3626 North Hall Street (Two Oak Lawn), Suite 610, Dallas, TX 75219",
+            "city": "Dallas",
+            "state": "Texas",
+            "state_abbr": "TX",
+            "address": "3626 North Hall Street (Two Oak Lawn), Suite 610, Dallas, TX 75219",
+            "premium": 1,
+            "showpopular": 1,
+            "opusowned": 1,
+            "point_x": 32.8092951,
+            "point_y": -96.8060222,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/Opus-Virtual-Office-Dallas-3626-North-Hall-Street-Modern-Office-Building.webp",
+                "alttext": "Exterior view of the Austin Opus Virtual Office location on 1005 Congress Avenue, which provides a prime business location."
+            },
+            "url": "/business-address/texas/dallas/location-1255/",
+            "phone": "2149329906"
+        },
+        {
+            "id": 1475,
+            "location_name": "1005 Congress Avenue, Suite 925, Austin, TX 78701",
+            "city": "Austin",
+            "state": "Texas",
+            "state_abbr": "TX",
+            "address": "1005 Congress Avenue, Suite 925, Austin, TX 78701",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 1,
+            "point_x": 30.2720098,
+            "point_y": -97.7408639,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/Opus-Virtual-Office-Austin-1005-Congress-Avenue-Exterior.webp",
+                "alttext": "Exterior view of Opus Virtual Office building at 1005 Congress Avenue, Austin, TX."
+            },
+            "url": "/business-address/texas/austin/location-1475/",
+            "phone": "5128127060"
+        },
+        {
+            "id": 1323,
+            "location_name": "3050 Post Oak Blvd, Suite 510, Houston, TX 77056",
+            "city": "Houston",
+            "state": "Texas",
+            "state_abbr": "TX",
+            "address": "3050 Post Oak Blvd, Suite 510, Houston, TX 77056",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 1,
+            "point_x": 29.7338521,
+            "point_y": -95.4628312,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/Opus-Virtual-Office-Houston-3050-Post-Oak-Blvd-Glass-Tower-Exterior.webp",
+                "alttext": "Glass tower office building with mirrored windows at 3050 Post Oak Blvd, Houston, TX, home to Opus Virtual Office."
+            },
+            "url": "/business-address/texas/houston/location-1323/",
+            "phone": "2819542788"
+        }
+    ],
+    "meta": {
+        "cities_virtual_count": 33,
+        "cities_business_count": 3,
+        "cities_popular_count": 7,
+        "locations_business_address_count": 3
+    },
+    "seo": {
+        "title": "Virtual Business Address in Texas | Opus Virtual Offices",
+        "meta_description": "Get a prestigious business address in Texas with Opus. Multiple premium locations statewide mail handling privacy protection all for just $59/month.",
+        "canonical": "https://www.opusvirtualoffices.com/business-address/texas/",
+        "og": {
+            "title": "Virtual Business Address in Texas | Opus Virtual Offices",
+            "description": "Get a prestigious business address in Texas with Opus. Multiple premium locations statewide mail handling privacy protection all for just $59/month.",
+            "url": "https://www.opusvirtualoffices.com/business-address/texas/",
+            "type": "website",
+            "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+        }
+    }
+}

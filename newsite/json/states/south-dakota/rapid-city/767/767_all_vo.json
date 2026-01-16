@@ -1,0 +1,89 @@
+{
+    "success": true,
+    "location_id": 767,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Rapid City",
+            "state": "SD",
+            "price": null,
+            "address": {
+                "line1": "1601 Mt. Rushmore Road",
+                "suite": null,
+                "city": "Rapid City",
+                "state": "SD",
+                "zip": "57701",
+                "phone": "(605) 877-3349"
+            },
+            "images": {
+                "hero": [
+                    "/assets/mail-center.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=767",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 0,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Rapid City Virtual Office",
+            "body": "Unlock the advantages of securing a prestigious business address in Rapid City, South Dakota, without the need for a physical office space. At Opus VO, we provide you with the opportunity to position your business in the heart of Rapid City’s dynamic business scene while optimizing operational efficiency. Our state-of-the-art conference rooms are at your disposal for crucial meetings and collaborative ventures.  When you choose Opus VO’s virtual office in Rapid City, you also gain access to a professional live receptionist who seamlessly integrates with your team. We ensure that every client interaction aligns with your unique brand identity. Delegate routine administrative tasks to us, allowing you to concentrate on your core business objectives. ",
+            "map": {
+                "lat": 44.070477,
+                "lng": -103.232426,
+                "zoom": 14,
+                "city": "Rapid City"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Rapid City, South Dakota even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Rapid City. You can also adapt to better meet your clients’ unique needs within South Dakota. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Rapid City virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Rapid City?  Why Opus Virtual Offices?",
+                "body": "Rapid City is more than just a picturesque city; it’s a thriving hub with opportunities spanning various sectors, including tourism, technology, and healthcare. Having a Rapid City address provides you with access to valuable networking events and industry connections.  Opting for Opus VO for your virtual office in Rapid City is more than a practical choice; it’s a strategic advantage. Are you ready to elevate your business? Explore our exceptional virtual office solutions today.  Opus VO, Rapid City @ 1601 Mt. Rushmore Road, Rapid City, SD 57701 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Rapid City - 1601 Mt. Rushmore Road | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our South Dakota, Rapid City virtual office located at 1601 Mt. Rushmore Road. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/south-dakota/rapid-city/location-767/",
+            "og": {
+                "title": "Virtual Office in Rapid City - 1601 Mt. Rushmore Road | $99/Month",
+                "description": "Get the ultimate office solution for your business with our South Dakota, Rapid City virtual office located at 1601 Mt. Rushmore Road. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/south-dakota/rapid-city/location-767/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+            }
+        }
+    }
+}

@@ -1,0 +1,141 @@
+{
+    "success": true,
+    "count": 7,
+    "state": "oregon",
+    "mode": "virtual-office",
+    "data": [
+        {
+            "id": 1681,
+            "location_name": "12725 SW Millikan Way, Beaverton, OR 97005",
+            "city": "Beaverton",
+            "state": "Oregon",
+            "state_abbr": "OR",
+            "address": "12725 SW Millikan Way, Beaverton, OR 97005",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 45.4901358,
+            "point_y": -122.8076391,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1681-exterior.jpg",
+                "alttext": "Exterior of building that houses Opus Virtual Offices located in Beaverton, Oregon"
+            },
+            "url": "/virtual-office/oregon/beaverton/location-1681/",
+            "phone": "9713426484"
+        },
+        {
+            "id": 1593,
+            "location_name": "70 SW Century Drive, Bend, OR 97702",
+            "city": "Bend",
+            "state": "Oregon",
+            "state_abbr": "OR",
+            "address": "70 SW Century Drive, Bend, OR 97702",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 44.0510361,
+            "point_y": -121.3301301,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/oregon/bend/location-1593/",
+            "phone": "0"
+        },
+        {
+            "id": 1774,
+            "location_name": "45 82nd Dr, Gladstone, OR 97027",
+            "city": "Gladstone",
+            "state": "Oregon",
+            "state_abbr": "OR",
+            "address": "45 82nd Dr, Gladstone, OR 97027",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 45.380444999,
+            "point_y": -122.5826833,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1774-Exterior.jpg",
+                "alttext": "Exterior of building that houses Opus Virtual Offices located in Gladstone, Oregon"
+            },
+            "url": "/virtual-office/oregon/gladstone/location-1774/",
+            "phone": "5039125572"
+        },
+        {
+            "id": 1016,
+            "location_name": "4660 NE Belknap Court, Suite 101, Hillsboro, OR 97124",
+            "city": "Hillsboro",
+            "state": "Oregon",
+            "state_abbr": "OR",
+            "address": "4660 NE Belknap Court, Suite 101, Hillsboro, OR 97124",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 45.530183,
+            "point_y": -122.934805,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1016-building.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/oregon/hillsboro/location-1016/",
+            "phone": "5037135511"
+        },
+        {
+            "id": 742,
+            "location_name": "2373 NW 185th Avenue, Hillsboro, OR 97124",
+            "city": "Hillsboro",
+            "state": "Oregon",
+            "state_abbr": "OR",
+            "address": "2373 NW 185th Avenue, Hillsboro, OR 97124",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 45.537276,
+            "point_y": -122.867497,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/oregon/hillsboro/location-742/",
+            "phone": "5037135508"
+        },
+        {
+            "id": 1519,
+            "location_name": "5020 NE Martin Luther King Jr Blvd, Portland, OR 97211",
+            "city": "Portland",
+            "state": "Oregon",
+            "state_abbr": "OR",
+            "address": "5020 NE Martin Luther King Jr Blvd, Portland, OR 97211",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 45.55945,
+            "point_y": -122.6611564,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1519-01.Building.webp",
+                "alttext": null
+            },
+            "url": "/virtual-office/oregon/portland/location-1519/",
+            "phone": "5037135512"
+        },
+        {
+            "id": 1131,
+            "location_name": "1115 Madison Street NE, Salem, OR 97301",
+            "city": "Salem",
+            "state": "Oregon",
+            "state_abbr": "OR",
+            "address": "1115 Madison Street NE, Salem, OR 97301",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 44.9539929,
+            "point_y": -123.0191557,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/oregon/salem/location-1131/",
+            "phone": "5039372004"
+        }
+    ]
+}

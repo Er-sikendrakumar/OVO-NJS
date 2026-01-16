@@ -1,0 +1,27 @@
+{
+    "success": true,
+    "count": 4,
+    "state": "arkansas",
+    "data": [
+        {
+            "id": "644",
+            "name": "Bentonville",
+            "popular": "1"
+        },
+        {
+            "id": "866",
+            "name": "Conway",
+            "popular": "0"
+        },
+        {
+            "id": "282",
+            "name": "Jonesboro",
+            "popular": "1"
+        },
+        {
+            "id": "503",
+            "name": "Little Rock",
+            "popular": "1"
+        }
+    ]
+}

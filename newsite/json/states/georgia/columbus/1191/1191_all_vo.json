@@ -1,0 +1,89 @@
+{
+    "success": true,
+    "location_id": 1191,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Columbus",
+            "state": "GA",
+            "price": null,
+            "address": {
+                "line1": "6361 Talokas Lane",
+                "suite": null,
+                "city": "Columbus",
+                "state": "GA",
+                "zip": "31909",
+                "phone": "(706) 619-2234"
+            },
+            "images": {
+                "hero": [
+                    "/assets/mail-center.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1191",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 0,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Columbus Virtual Office",
+            "body": "Unlock a premium business address in Columbus without the heavy lift of leasing a physical office. With Opus VO, you can situate your business in the pulse of Columbus’ dynamic environment while keeping your budget in check. Got a high-stakes meeting or a client pitch you can’t afford to miss? Our state-of-the-art conference rooms have got you covered.  By choosing Opus VO in Columbus, you’re not just getting an address—you’re also getting a specialized live receptionist who will work diligently to make sure each client encounter mirrors your brand’s essence. Hand over your routine admin tasks to us, liberating you to focus on what really matters: scaling your business. ",
+            "map": {
+                "lat": 32.5364546,
+                "lng": -84.87867,
+                "zoom": 14,
+                "city": "Columbus"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Columbus, Georgia even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Columbus. You can also adapt to better meet your clients’ unique needs within Georgia. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Columbus virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Columbus? Why a Virtual Office?",
+                "body": "Think Columbus is merely a college town? Think again. It’s a growing nexus for a myriad of sectors, including healthcare, tech, and finance. A Columbus location not only enhances your network but also offers access to industry leaders and crucial networking events.  Going virtual in Columbus with Opus VO is not just a budget-friendly move—it’s a strategic advantage. Are you set to level up? Our exceptional virtual office services are standing by to boost your business.  Opus VO, Columbus @ 6361 Talokas Lane, Columbus, GA 31909 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Columbus - 6361 Talokas Lane | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Georgia, Columbus virtual office located at 6361 Talokas Lane. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/georgia/columbus/location-1191/",
+            "og": {
+                "title": "Virtual Office in Columbus - 6361 Talokas Lane | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Georgia, Columbus virtual office located at 6361 Talokas Lane. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/georgia/columbus/location-1191/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+            }
+        }
+    }
+}

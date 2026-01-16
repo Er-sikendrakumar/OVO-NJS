@@ -1,0 +1,89 @@
+{
+    "success": true,
+    "slug": "legal",
+    "page_id": "13033",
+    "page_title": "Legal",
+    "hero": {
+        "heading": "Give Your Law Firm a Professional Edge with Opus VO",
+        "description": "<p>Opus VO provides attorneys and law firms with a real office presence, dedicated business line, and live receptionist service &#8211; delivering client confidence for <strong>only $99/mo</strong>.</p>\n",
+        "image": "https://njs.opusvirtualoffices.com/newsite/wp-content/uploads/2025/11/legal_1x.webp"
+    },
+    "services": {
+        "heading": "Expand Your Legal Practice with a Virtual Office Built for Attorneys",
+        "description": "<p>From solo practitioners to growing firms, Opus VO provides the professional address, live receptionist, and administrative support your practice needs to operate seamlessly and impress clients.</p>\n",
+        "image": "https://njs.opusvirtualoffices.com/newsite/wp-content/uploads/2025/11/legal_illustration_1x.webp"
+    },
+    "features": [
+        {
+            "title": "Prestigious Business Address",
+            "description": "Select one of our Virtual Offices locations as your primary business address and use it to receive all your mail and packages."
+        },
+        {
+            "title": "Live Call Answering",
+            "description": "Monday through Friday from 8:30am to 5:30pm (in PST timezone 8am to 5pm) a live receptionist will be answering all incoming calls on behalf of your company."
+        },
+        {
+            "title": "Premium Call Transferring",
+            "description": "All calls that are being transferred to your personal extension by our Live Receptionist will ring up to 4 phone numbers provided by you. If the call is not answered, your personal extension voice mail box will activate"
+        },
+        {
+            "title": "Company Phone and Fax Number",
+            "description": "Select one of our local phone and fax numbers as your primary company line."
+        },
+        {
+            "title": "Voicemail & Fax converted to Email",
+            "description": "All voice mail messages and faxes are being forwarded to Tenant's provided e-mail address as a WAV / PDF File."
+        }
+    ],
+    "industry_content": [
+        {
+            "main_heading": "<h2>Your Clients, Our Professional Touch</h2>",
+            "industry_paragraph": "<p>Opus helps attorneys and law firms maintain a professional, credible presence. Enjoy a real business address, dedicated phone line, and professional live call answering to handle and route client inquiries and other calls. Need a private space for meetings or conference calls? Book one of our meeting rooms whenever you need to.</p>\n"
+        },
+        {
+            "main_heading": "<h3>Elevate Your Law Firm’s Image</h3>",
+            "industry_paragraph": "<p>Select a prestigious address from our 650+ U.S locations for your law firm and use it to receive mail and packages with confidence.</p>\n"
+        },
+        {
+            "main_heading": "<h3>All-in-One Solution for Your Firm</h3>",
+            "industry_paragraph": "<p>The Opus all-inclusive package includes a professional business number, fax line, and a prestigious office address, ideal for solo attorneys, law firm startups, lawyers transitioning to hybrid or remote legal services, or established firms expanding their practice.</p>\n"
+        },
+        {
+            "main_heading": "<h3>Never Miss a Client Call</h3>",
+            "industry_paragraph": "<p>Opus offers unlimited US-based Live Call Answering for law firms! From existing to potential clients, our live receptionists will route calls on behalf of your law firm at a flat monthly rate.</p>\n<p>All incoming calls are greeted professionally with a customized greeting, answered in your firm’s name, and routed properly. This enhances your client’s experience while freeing attorneys’ time to focus on billable work.</p>\n"
+        },
+        {
+            "main_heading": "<h3>Every Minute Counts. Make it Billable</h3>",
+            "industry_paragraph": "<p>Our receptionists will filter out telemarketing and spam calls, allowing you and your team to focus on genuine leads and current caseloads.</p>\n"
+        },
+        {
+            "main_heading": "<h3>Stay Connected from Anywhere</h3>",
+            "industry_paragraph": "<p>Your law firm’s calls are transferred to you, your law partners, and paralegals. If missed, voicemail messages are instantly emailed to you, so no inquiry by potential clients is lost. You will also have two customizable voicemail boxes, ensuring plenty of space for all incoming voicemails.</p>\n"
+        },
+        {
+            "main_heading": "<h3>Secure and Organized Mail Management</h3>",
+            "industry_paragraph": "<p>Opus provides comprehensive mail-handling services that help your law firm stay organized while maintaining professional communication. Our staff safely stores your letters and packages until you are ready to pick them up. You can either collect them in person or have the option to forward them to a different address.</p>\n"
+        },
+        {
+            "main_heading": "<h3>Get Started Today!</h3>",
+            "industry_paragraph": "<p>Attorneys and legal professionals across the country rely on Opus Virtual Offices to streamline operations, maintain a prestigious business address, and grow their practice without unnecessary overhead. Choose your city, set up your virtual office, and take control of your firm’s growth &amp; success!</p>\n"
+        },
+        {
+            "main_heading": "<h3>Professional communication. A trusted image. More hours for what matters most—your practice!</h3>",
+            "industry_paragraph": ""
+        }
+    ],
+    "seo": {
+        "title": "Legal - Opus Virtual Offices",
+        "meta_description": "",
+        "canonical": "https://njs.opusvirtualoffices.com/is-a-virtual-office-for-me/legal/",
+        "og": {
+            "title": "Legal - Opus Virtual Offices",
+            "description": "",
+            "url": "https://njs.opusvirtualoffices.com/is-a-virtual-office-for-me/legal/",
+            "type": "website",
+            "image": "https://njs.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+        }
+    },
+    "generated_at": "2025-12-08 14:38:26"
+}

@@ -1,0 +1,93 @@
+{
+    "success": true,
+    "location_id": 981,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Darien",
+            "state": "CT",
+            "price": null,
+            "address": {
+                "line1": "30 Old Kings Highway South",
+                "suite": null,
+                "city": "Darien",
+                "state": "CT",
+                "zip": "06820",
+                "phone": "(203) 405-4098"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/981-Exterior.jpg",
+                    "/wp-content-mgr/wp-content/uploads/981-Conference.png",
+                    "/wp-content-mgr/wp-content/uploads/981-Conference3.png",
+                    "/wp-content-mgr/wp-content/uploads/981-Lobby-1.jpg",
+                    "/wp-content-mgr/wp-content/uploads/981-Kitchen-1.jpg"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=981",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Darien Virtual Office",
+            "body": "Secure an elite business address in Darien without the hefty costs that usually come with a traditional office space. With Opus VO, you can establish your business in a prime Darien location, and all at a price that won’t drain your resources. Got important meetings or client consultations? Our well-equipped conference rooms are ready when you are. Plus, having a Darien address is a surefire way to enhance your brand’s prestige.  When you opt for a virtual office in Darien through Opus VO, you’ll also gain the services of a live receptionist. Our team is dedicated to providing personalized, superior customer service, making sure that each client encounter aligns seamlessly with your business ethos. Offload routine administrative tasks like mail handling and call forwarding to us, allowing you to focus on the big picture—expanding your enterprise. ",
+            "map": {
+                "lat": 41.0750929,
+                "lng": -73.47008559,
+                "zoom": 14,
+                "city": "Darien"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Darien, Connecticut even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Darien. You can also adapt to better meet your clients’ unique needs within Connecticut. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Darien virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Choose Darien?",
+                "body": "Darien isn’t just a ritzy residential area; it’s a dynamic business environment with rich opportunities in sectors like finance, healthcare, and technology. Our Darien office is strategically situated, offering you quick access to key industry contacts and valuable networking events.  By selecting an Opus Virtual Office in Darien, you’re doing more than cutting operational costs; you’re also securing a valuable advantage over your competitors. Don’t miss out—tap into our top-of-the-line virtual office services today.  Opus VO Darien @ 30 Old Kings Highway South, Darien, CT 06820 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Darien - 30 Old Kings Highway South | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Connecticut, Darien virtual office located at 30 Old Kings Highway South. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/connecticut/darien/location-981/",
+            "og": {
+                "title": "Virtual Office in Darien - 30 Old Kings Highway South | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Connecticut, Darien virtual office located at 30 Old Kings Highway South. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/connecticut/darien/location-981/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/981-Exterior.jpg"
+            }
+        }
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "success": true,
+    "location_id": 1493,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Glendale",
+            "state": "WI",
+            "price": null,
+            "address": {
+                "line1": "5215 N Ironwood Road",
+                "suite": null,
+                "city": "Glendale",
+                "state": "WI",
+                "zip": "53217",
+                "phone": "(414) 966-2765"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/1493-01.bldg_.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1493-02.meeting.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1493-03.meeting.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1493-04.meeting.jpg"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1493",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Glendale Virtual Office",
+            "body": "Thinking about a reputable Glendale address to advance your startup or enhance your current business, but hesitant because of the costs associated with a physical office? Opus VO is your answer. Anchor your brand in one of our select Glendale locations, enjoying the credibility of a prominent address without the financial outlay. When you require a first-class setting for essential meetings or impactful client interactions, our state-of-the-art conference rooms are here for you.  The offerings go beyond a stellar address. When you sign up for a virtual office at Opus VO in Glendale, you also get the added value of a live receptionist. Rely on us to skillfully manage your customer communications in a manner that perfectly aligns with your unique business goals. For everyday administrative tasks such as digital mail management and smart call routing, leave it to us, freeing you to focus on your business’s growth and success. ",
+            "map": {
+                "lat": 43.1112575,
+                "lng": -87.9186945,
+                "zoom": 14,
+                "city": "Glendale"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Glendale, Wisconsin even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Glendale. You can also adapt to better meet your clients’ unique needs within Wisconsin. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Glendale virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Glendale? Why Opus VO?",
+                "body": "Glendale isn’t just a vibrant community; it’s a growing center of commerce across a range of industries. By establishing your virtual office through Opus VO in Glendale, you’re instantly connecting with a lively professional community filled with promising opportunities.  Choosing Opus VO in Glendale isn’t just about cutting costs; it’s a strategic move designed to propel your business forward. Your next major milestone could be just a virtual office away.  Opus VO Location in Glendale @ 5215 N Ironwood Road, Glendale, WI 53217     ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Glendale - 5215 N Ironwood Road | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Wisconsin, Glendale virtual office located at 5215 N Ironwood Road. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/wisconsin/glendale/location-1493/",
+            "og": {
+                "title": "Virtual Office in Glendale - 5215 N Ironwood Road | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Wisconsin, Glendale virtual office located at 5215 N Ironwood Road. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/wisconsin/glendale/location-1493/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/1493-01.bldg_.jpg"
+            }
+        }
+    }
+}

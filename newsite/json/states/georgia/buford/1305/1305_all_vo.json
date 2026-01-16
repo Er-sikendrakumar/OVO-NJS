@@ -1,0 +1,95 @@
+{
+    "success": true,
+    "location_id": 1305,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Buford",
+            "state": "GA",
+            "price": null,
+            "address": {
+                "line1": "115 E Main St",
+                "suite": null,
+                "city": "Buford",
+                "state": "GA",
+                "zip": "30518",
+                "phone": "(770) 308-4097"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/1305.1.Virtual_Office_Georgia-619x550.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1305-001-Building.png",
+                    "/wp-content-mgr/wp-content/uploads/1305.2.Georgia_Buford_Virtual_Offices.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1305.3.Georgia_Buford_Virtual_Offices.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1305.4.Georgia_Buford_Virtual_Offices.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1305.5.Georgia_Buford_Virtual_Offices.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1305.6.Georgia_Buford_Virtual_Offices.jpg"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1305",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 1,
+            "nearbyPremiumUrl": "/virtual-office/georgia/atlanta/location-684/",
+            "nearbyPremiumText": "to view the most POPULAR locations nearby for the same $99/mo",
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Buford Virtual Office",
+            "body": "Land a prime business address in Buford without the hefty price tag of physical office space. With Opus VO, you can situate your operation smack in the middle of Buford’s dynamic landscape, all while keeping your budget intact. Have an essential client meeting or high-stakes presentation? Our state-of-the-art conference rooms are equipped to make an impact.  When you opt for a virtual address in Buford via Opus VO, a specialized live receptionist comes with the package whose aim is to make every client engagement feel like a tailored extension of your own brand identity. Send your routine admin responsibilities our way, liberating you to chase down your business dreams. ",
+            "map": {
+                "lat": 34.1214313,
+                "lng": -84.003593,
+                "zoom": 14,
+                "city": "Buford"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Buford, Georgia even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Buford. You can also adapt to better meet your clients’ unique needs within Georgia. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Buford virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Buford?",
+                "body": "Buford isn’t just a pleasant backdrop; it’s a rising nucleus for diverse industries from technology to retail. Anchoring your business in Buford gives you exclusive access to the movers and shakers, as well as events that can amplify your professional network.  Selecting Opus VO in Buford isn’t merely a budget-savvy decision—it’s a strategic advantage for your business. Are you set to amplify your enterprise? Our first-class virtual office solutions are ready for you.  Opus VO, Buford @ 115 E Main St, Buford, GA 30518 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Buford - 115 E Main St | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Georgia, Buford virtual office located at 115 E Main St. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/georgia/buford/location-1305/",
+            "og": {
+                "title": "Virtual Office in Buford - 115 E Main St | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Georgia, Buford virtual office located at 115 E Main St. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/georgia/buford/location-1305/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/1305.1.Virtual_Office_Georgia.jpg"
+            }
+        }
+    }
+}

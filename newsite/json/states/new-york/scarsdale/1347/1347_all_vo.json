@@ -1,0 +1,89 @@
+{
+    "success": true,
+    "location_id": 1347,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Scarsdale",
+            "state": "NY",
+            "price": null,
+            "address": {
+                "line1": "14 Harwood Court",
+                "suite": null,
+                "city": "Scarsdale",
+                "state": "NY",
+                "zip": "10583",
+                "phone": "(888) 898-9868"
+            },
+            "images": {
+                "hero": [
+                    "/assets/mail-center.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1347",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 0,
+            "nearbyPremium": 1,
+            "nearbyPremiumUrl": "/virtual-office/new-york/new-york/location-1450/",
+            "nearbyPremiumText": "to view nearby PREMIUM Locations that offer Meeting Rooms for the same $99/mo",
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Scarsdale Virtual Office",
+            "body": "Ever desired a distinguished Scarsdale address without the commitments of a conventional office? Opus VO has your solution. Root your business in the heart of Scarsdale’s thriving commercial community while keeping a watchful eye on your budget. Our state-of-the-art conference rooms are at your disposal for those essential meetings and productive team gatherings.  When you choose our virtual workspace in Scarsdale, you’re gaining more than just a prestigious address. You’re also securing the services of a skilled live receptionist who will seamlessly integrate into your team. They’ll ensure every client interaction reflects your unique brand identity, allowing us to handle the routine administrative tasks while you focus on your core business objectives. ",
+            "map": {
+                "lat": 40.9892898,
+                "lng": -73.8072737,
+                "zoom": 14,
+                "city": "Scarsdale"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Scarsdale, New York even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Scarsdale. You can also adapt to better meet your clients’ unique needs within New York. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Scarsdale virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Scarsdale?",
+                "body": "Scarsdale is not just an affluent suburb; it’s a bustling business center with opportunities spanning various sectors such as finance, healthcare, and professional services. A Scarsdale address not only elevates your business reputation but also opens doors to essential networking events and industry connections.  Opting for Opus VO for your virtual workspace in Scarsdale is more than a practical choice; it’s a strategic advantage. Ready to elevate your business presence? Explore our exceptional virtual workspace solutions today.  Opus VO, Scarsdale @ 14 Harwood Court, Scarsdale, NY 10583       ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Scarsdale - 14 Harwood Court | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our New York, Scarsdale virtual office located at 14 Harwood Court. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/new-york/scarsdale/location-1347/",
+            "og": {
+                "title": "Virtual Office in Scarsdale - 14 Harwood Court | $99/Month",
+                "description": "Get the ultimate office solution for your business with our New York, Scarsdale virtual office located at 14 Harwood Court. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/new-york/scarsdale/location-1347/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+            }
+        }
+    }
+}

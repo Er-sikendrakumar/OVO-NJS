@@ -1,0 +1,92 @@
+{
+    "success": true,
+    "location_id": 921,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Memphis",
+            "state": "TN",
+            "price": null,
+            "address": {
+                "line1": "5865 Ridgeway Center Parkway",
+                "suite": null,
+                "city": "Memphis",
+                "state": "TN",
+                "zip": "38120",
+                "phone": "(901) 620-2478"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/Opus-Virtual-Office-Memphis-Building-Entrance-scaled.webp",
+                    "/wp-content-mgr/wp-content/uploads/Opus-Virtual-Office-Memphis-Meeting-Room-scaled.webp",
+                    "/wp-content-mgr/wp-content/uploads/Opus-Virtual-Office-Memphis-Training-Room-scaled.webp",
+                    "/wp-content-mgr/wp-content/uploads/Opus-Virtual-Office-Memphis-Waiting-Area-scaled.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=921",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Memphis Virtual Office",
+            "body": "Unlock the benefits of having a prestigious business address in Tennessee without the complexities and expenses of running a traditional office. Opus VO allows you to secure a professional presence in Tennessee without the financial strain of a physical office lease. Manage your business mail, greet clients, and host meetings in our cutting-edge meeting rooms. Boost your business credibility with a sought-after address in the Memphis business district.  When you opt for a Tennessee virtual office via Opus VO, you’ll also gain the value of a live receptionist to enhance your client interactions. We offer customized solutions for every client call, backed by an array of top-notch administrative services, including digital mail management, top-tier call forwarding, and more. Free up your time to focus on strategic growth initiatives while our experienced administrative staff takes care of the operational details. ",
+            "map": {
+                "lat": 35.1043678,
+                "lng": -89.8660767,
+                "zoom": 14,
+                "city": "Memphis"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Memphis, Tennessee even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Memphis. You can also adapt to better meet your clients’ unique needs within Tennessee. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Memphis virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Choose a Memphis Virtual Office",
+                "body": "Memphis is not just about music and Southern hospitality; it’s a burgeoning hub for industries ranging from healthcare to manufacturing. Align your enterprise with a booming economy and gain access to a wealth of local opportunities that can drive your revenue. Conveniently located near business centers and local events, our Memphis office offers you a strategic advantage in networking and industry exposure.  Choosing an Opus Virtual Office in Memphis, Tennessee, provides your business with a leg up on the competition, all at a fraction of the cost of renting traditional office space. Take your business to the next level by capitalizing on this innovative and cost-effective option today.  Opus VO, Memphis @ 5865 Ridgeway Center Parkway, Memphis, TN 38120 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Memphis - 5865 Ridgeway Center Parkway | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Tennessee, Memphis virtual office located at 5865 Ridgeway Center Parkway. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/tennessee/memphis/location-921/",
+            "og": {
+                "title": "Virtual Office in Memphis - 5865 Ridgeway Center Parkway | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Tennessee, Memphis virtual office located at 5865 Ridgeway Center Parkway. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/tennessee/memphis/location-921/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/Opus-Virtual-Office-Memphis-Building-Entrance-scaled.webp"
+            }
+        }
+    }
+}

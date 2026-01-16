@@ -1,0 +1,89 @@
+{
+    "success": true,
+    "location_id": 602,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Diamond Bar",
+            "state": "CA",
+            "price": null,
+            "address": {
+                "line1": "1249 South Diamond Bar Boulevard",
+                "suite": null,
+                "city": "Diamond Bar",
+                "state": "CA",
+                "zip": "91765",
+                "phone": "(909) 247-3047"
+            },
+            "images": {
+                "hero": [
+                    "/assets/mail-center.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=602",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 0,
+            "nearbyPremium": 1,
+            "nearbyPremiumUrl": "/virtual-office/california/san-dimas/location-1667/",
+            "nearbyPremiumText": "to view the nearby PREMIUM Locations for the same $99/mo",
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Diamond Bar Virtual Office",
+            "body": "Enjoy the benefits of a respected business address in Diamond Bar without the financial constraints of a traditional office space. Opus VO offers you the exclusive chance to locate your business in our prime Diamond Bar location, all at a cost substantially lower than a standard office lease. Make use of our contemporary conference rooms for important business talks and client interactions, simultaneously elevating your brand with a prestigious Diamond Bar address.  When you select a virtual office in Diamond Bar through Opus VO, you gain the special advantage of a live receptionist dedicated to providing tailored, high-quality customer service. Our team ensures that each interaction with your clients aligns seamlessly with your individual business goals. Delegate everyday administrative tasks like complete mail handling and advanced call-features to us, allowing you the freedom to concentrate on advancing your business. ",
+            "map": {
+                "lat": 33.999879,
+                "lng": -117.812023,
+                "zoom": 14,
+                "city": "Diamond Bar"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Diamond Bar, California even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Diamond Bar. You can also adapt to better meet your clients’ unique needs within California. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Diamond Bar virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why opt for a Diamond Bar Virtual Office?",
+                "body": "Diamond Bar isn’t just an upscale residential community; it’s a growing center of business activity with opportunities spanning sectors like finance, healthcare, and technology. Our Diamond Bar location is advantageously situated, giving you uncomplicated access to key industry players and engaging networking events.  By choosing an Opus Virtual Office in Diamond Bar, you’re achieving more than just cutting operational costs; you’re capturing a valuable competitive edge. Raise your business to new peaks of success by taking advantage of our premier virtual office services today.  Opus VO, Diamond Bar @ 1249 South Diamond Bar Boulevard, Diamond Bar, CA 91765 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Diamond Bar - 1249 South Diamond Bar Boulevard | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our California, Diamond Bar virtual office located at 1249 South Diamond Bar Boulevard. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/california/diamond-bar/location-602/",
+            "og": {
+                "title": "Virtual Office in Diamond Bar - 1249 South Diamond Bar Boulevard | $99/Month",
+                "description": "Get the ultimate office solution for your business with our California, Diamond Bar virtual office located at 1249 South Diamond Bar Boulevard. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/california/diamond-bar/location-602/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+            }
+        }
+    }
+}

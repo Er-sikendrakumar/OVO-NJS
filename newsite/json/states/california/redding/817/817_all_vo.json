@@ -1,0 +1,89 @@
+{
+    "success": true,
+    "location_id": 817,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Redding",
+            "state": "CA",
+            "price": null,
+            "address": {
+                "line1": "2205 Hilltop Drive",
+                "suite": null,
+                "city": "Redding",
+                "state": "CA",
+                "zip": "96002",
+                "phone": "(530) 237-0509"
+            },
+            "images": {
+                "hero": [
+                    "/assets/mail-center.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=817",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 0,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Redding Virtual Office",
+            "body": "Enjoy the privilege of a distinguished business address in Redding without the financial burden of a physical workspace. Opus VO offers you the unique opportunity to position your business in an exceptional Redding location without the hefty costs associated with a conventional office lease. Utilize our cutting-edge conference rooms for crucial business meetings and impactful client interactions, all while enhancing your brand’s standing with a prestigious business address.  Choosing a virtual office in Redding through Opus VO affords you the specialized benefit of a live receptionist devoted to delivering tailored, high-quality customer service. Our staff ensures that each client interaction seamlessly aligns with your exclusive business goals. Entrust us with routine administrative duties like digital mail sorting and complete call handling, freeing you to focus your energy on your business’ growth and success. ",
+            "map": {
+                "lat": 40.5752641,
+                "lng": -122.3574838,
+                "zoom": 14,
+                "city": "Redding"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Redding, California even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Redding. You can also adapt to better meet your clients’ unique needs within California. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Redding virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why opt for a Redding Virtual Office?",
+                "body": "Redding is not merely a suburban haven; it’s an expanding center of commerce with a multitude of prospects in sectors like logistics, healthcare, and retail. Perfectly positioned near exciting business districts, our Redding office offer you convenient access to essential industry partners and vibrant networking activities.  By selecting an Opus Virtual Office in Rancho Cucamonga, you’re achieving more than a reduction in operational overhead; you’re gaining a significant competitive edge. Elevate your enterprise to unparalleled levels of success by availing yourself of our top-of-the-line virtual office services today.  Opus VO Redding @ 2205 Hilltop Dr., Redding, CA 96002  ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Redding - 2205 Hilltop Drive | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our California, Redding virtual office located at 2205 Hilltop Drive. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/california/redding/location-817/",
+            "og": {
+                "title": "Virtual Office in Redding - 2205 Hilltop Drive | $99/Month",
+                "description": "Get the ultimate office solution for your business with our California, Redding virtual office located at 2205 Hilltop Drive. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/california/redding/location-817/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+            }
+        }
+    }
+}

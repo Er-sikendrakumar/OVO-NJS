@@ -1,0 +1,89 @@
+{
+    "success": true,
+    "location_id": 1501,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Casper",
+            "state": "WY",
+            "price": null,
+            "address": {
+                "line1": "144 E Midwest Avenue",
+                "suite": null,
+                "city": "Casper",
+                "state": "WY",
+                "zip": "82601",
+                "phone": "(307) 275-3257"
+            },
+            "images": {
+                "hero": [
+                    "/assets/mail-center.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1501",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 0,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Casper Virtual Office",
+            "body": "Want a high-profile Casper address to initiate your startup or amplify your existing company, but concerned about the monetary commitments of a physical office? Opus VO is your answer. Set up shop in one of our esteemed Casper locales and enjoy the clout of a respected address without financial worry. When the occasion calls for a premium venue for important gatherings or influential client meetings, our advanced conference rooms are ready for you.  The advantages don’t end with a first-rate address. Opting for a virtual office at Opus VO in Casper includes the added benefit of a live receptionist. Trust our accomplished team to expertly oversee your client engagements, aligned to meet your particular business goals. For regular administrative work such as digital mail sorting and efficient call-routing, you can rely on us, allowing you to concentrate on propelling your business forward. ",
+            "map": {
+                "lat": 42.8478475,
+                "lng": -106.3241651,
+                "zoom": 14,
+                "city": "Casper"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Casper, Wyoming even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Casper. You can also adapt to better meet your clients’ unique needs within Wyoming. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Casper virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Casper? Why Opus VO?",
+                "body": "Why Casper? Why Opus VO?  Casper isn’t merely a captivating city; it’s also a thriving business center ripe with opportunities across several industries. By establishing your virtual office through Opus VO in Casper, you gain immediate admittance to a vibrant professional community, brimming with collaboration potential and growth opportunities.  Selecting Opus VO in Casper isn’t just about optimizing costs; it’s a purposeful step designed to set your business on a trajectory toward greater success. Your next monumental achievement could be just one virtual office selection away.  Opus VO Location in Casper @ 144 E Midwest Avenue, Casper, WY 82601 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Casper - 144 E Midwest Avenue | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Wyoming, Casper virtual office located at 144 E Midwest Avenue. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/wyoming/casper/location-1501/",
+            "og": {
+                "title": "Virtual Office in Casper - 144 E Midwest Avenue | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Wyoming, Casper virtual office located at 144 E Midwest Avenue. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/wyoming/casper/location-1501/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+            }
+        }
+    }
+}

@@ -1,0 +1,99 @@
+{
+    "success": true,
+    "state": "idaho",
+    "city": "coeur d alene",
+    "wp_city_post_id": null,
+    "locations": [
+        {
+            "id": "1739",
+            "name": "Coeur D Alene",
+            "locname": "311 E Coeur D Alene Ave, Coeur D Alene, ID 83815",
+            "address": "311 E Coeur D Alene Ave, Coeur D Alene, ID 83815",
+            "city": "coeur d alene",
+            "state": "idaho",
+            "state_english": "Idaho",
+            "abbr": "ID",
+            "phone": "2085153859",
+            "premium": "1",
+            "opusowned": "0",
+            "showpopular": "0",
+            "point_x": "47.675363399",
+            "point_y": "-116.782081",
+            "url": "/virtual-office/idaho/coeur-d-alene/location-1739/",
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1739-Exterior.jpg",
+                "alttext": "Exterior of building that houses Opus Virtual Offices located in Coeur D Alene, Idaho"
+            }
+        }
+    ],
+    "popular_locations": [],
+    "premium_locations": [
+        {
+            "id": "1739",
+            "name": "Coeur D Alene",
+            "locname": "311 E Coeur D Alene Ave, Coeur D Alene, ID 83815",
+            "address": "311 E Coeur D Alene Ave, Coeur D Alene, ID 83815",
+            "city": "coeur d alene",
+            "state": "idaho",
+            "state_english": "Idaho",
+            "abbr": "ID",
+            "phone": "2085153859",
+            "premium": "1",
+            "opusowned": "0",
+            "showpopular": "0",
+            "point_x": "47.675363399",
+            "point_y": "-116.782081",
+            "url": "/virtual-office/idaho/coeur-d-alene/location-1739/",
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1739-Exterior.jpg",
+                "alttext": "Exterior of building that houses Opus Virtual Offices located in Coeur D Alene, Idaho"
+            }
+        }
+    ],
+    "regular_locations": [],
+    "sections": [
+        {
+            "title": "OUR COEUR D ALENE\nVIRTUAL OFFICES",
+            "body": "<h2></h2>\n<p>Enjoy the benefits of having a business address in Coeur D Alene Idaho without the stress and expense surrounding a “traditional office environment”. OpusVO gives you the prestige of having an office with the budget of working from home. Receive all your business mail at a professional office building. No post office box number, just a great business address to use on your business cards and other marketing material.</p>\n<p>You don’t just get a business phone number with your Coeur D Alene virtual office, but also a live receptionist answering your calls the way you want them to be. Stop choosing between capturing new leads for your business and working on current clients. Do both. Get someone who looks out for you while you’re unable to break away.</p>\n",
+            "image": {
+                "url": "/newsite/wp-content/themes/ThemeDec23/assets/images/califonia-v-office.jpg",
+                "alt": "OUR COEUR D ALENE\nVIRTUAL OFFICES",
+                "title": "OUR COEUR D ALENE\nVIRTUAL OFFICES"
+            },
+            "layout": "image_text",
+            "imageAlignment": "right"
+        },
+        {
+            "title": "GET A VIRTUAL OFFICE\nIN COEUR D ALENE",
+            "body": "<h2></h2>\n<p>Whether you choose to work out of your home or on the road, a Coeur D Alene virtual office will give you the freedom and flexibility to get the job done in the place and style of your choosing. With a local company phone number, live receptionist, premium call transferring, and a professional business address, Opus VO provides a cost-effective way for your company to grow or establish a presence in a new market without any long-term commitments.</p>\n",
+            "image": {
+                "url": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "alt": "GET A VIRTUAL OFFICE\nIN COEUR D ALENE",
+                "title": "GET A VIRTUAL OFFICE\nIN COEUR D ALENE"
+            },
+            "layout": "image_text",
+            "imageAlignment": "left"
+        }
+    ],
+    "faqs": [],
+    "meta": {
+        "locations_count": 1,
+        "popular_locations_count": 0,
+        "premium_locations_count": 1,
+        "regular_locations_count": 0,
+        "sections_count": 2,
+        "faqs_count": 0
+    },
+    "seo": {
+        "title": "Virtual Office in Coeur D Alene, ID | Multiple Locations Available",
+        "meta_description": "Find the ultimate office solution with Opus Virtual Offices in Coeur D Alene, Idaho. Our all-inclusive virtual offices cater to your business needs. Sign up today!",
+        "canonical": "https://www.opusvirtualoffices.com/virtual-office/idaho/coeur-d-alene/",
+        "og": {
+            "title": "Virtual Office in Coeur D Alene, ID | Multiple Locations Available",
+            "description": "Find the ultimate office solution with Opus Virtual Offices in Coeur D Alene, Idaho. Our all-inclusive virtual offices cater to your business needs. Sign up today!",
+            "url": "https://www.opusvirtualoffices.com/virtual-office/idaho/coeur-d-alene/",
+            "type": "website",
+            "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+        }
+    }
+}

@@ -1,0 +1,89 @@
+{
+    "success": true,
+    "location_id": 1127,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Biloxi",
+            "state": "MS",
+            "price": null,
+            "address": {
+                "line1": "296 Beauvoir Road",
+                "suite": null,
+                "city": "Biloxi",
+                "state": "MS",
+                "zip": "39531",
+                "phone": "(228) 280-3312"
+            },
+            "images": {
+                "hero": [
+                    "/assets/mail-center.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1127",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 0,
+            "nearbyPremium": 1,
+            "nearbyPremiumUrl": "/virtual-office/mississippi/gulfport/location-1610/",
+            "nearbyPremiumText": "to view the nearby PREMIUM Locations for the same $99/mo",
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Biloxi Virtual Offices",
+            "body": "Claim an esteemed business address in Biloxi without the costs associated with physical office space. With Opus VO, you get the chance to place your business squarely in Biloxi’s thriving commercial landscape, all the while conserving your financial assets. Have a critical client meeting or a high-stakes presentation on the horizon? Our cutting-edge conference rooms are designed to impress.  When you go virtual in Biloxi with Opus VO, a dedicated live receptionist comes as part of your package. We focus on making each client interaction seamless, operating as a flawless extension of your own brand. Entrust your everyday admin chores to us, enabling you to focus on achieving your business objectives. ",
+            "map": {
+                "lat": 30.4018868,
+                "lng": -88.9724133,
+                "zoom": 14,
+                "city": "Biloxi"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Biloxi, Mississippi even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Biloxi. You can also adapt to better meet your clients’ unique needs within Mississippi. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Biloxi virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Biloxi?",
+                "body": "Don’t overlook Biloxi—it’s not just a resort town. It’s a rising hotspot for businesses in sectors ranging from hospitality to technology. Having your business situated in Biloxi offers you the opportunity to connect with influencers and participate in events that could elevate your network and business prospects.  Opting for Opus VO in Biloxi is not just a budget-friendly decision; it’s a savvy business move. Ready to elevate your business status? Our exceptional virtual office solutions are ready to assist you.  Opus VO, Biloxi @ 296 Beauvoir Road, Biloxi, MS 39531 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Biloxi - 296 Beauvoir Road | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Mississippi, Biloxi virtual office located at 296 Beauvoir Road. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/mississippi/biloxi/location-1127/",
+            "og": {
+                "title": "Virtual Office in Biloxi - 296 Beauvoir Road | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Mississippi, Biloxi virtual office located at 296 Beauvoir Road. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/mississippi/biloxi/location-1127/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+            }
+        }
+    }
+}

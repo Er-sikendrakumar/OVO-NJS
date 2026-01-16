@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "count": 6,
+    "state": "new jersey",
+    "data": [
+        {
+            "id": "251",
+            "name": "Fort Lee"
+        },
+        {
+            "id": "589",
+            "name": "Marlton"
+        },
+        {
+            "id": "216",
+            "name": "Newark"
+        },
+        {
+            "id": "789",
+            "name": "Parsippany"
+        },
+        {
+            "id": "536",
+            "name": "Scotch Plains"
+        },
+        {
+            "id": "799",
+            "name": "Trenton"
+        }
+    ]
+}

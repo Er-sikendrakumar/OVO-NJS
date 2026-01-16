@@ -1,0 +1,89 @@
+{
+    "success": true,
+    "location_id": 1558,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Tavares",
+            "state": "FL",
+            "price": null,
+            "address": {
+                "line1": "339 E Burleigh Boulevard",
+                "suite": null,
+                "city": "Tavares",
+                "state": "FL",
+                "zip": "32778",
+                "phone": "(352) 390-2497"
+            },
+            "images": {
+                "hero": [
+                    "/assets/mail-center.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1558",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 0,
+            "nearbyPremium": 1,
+            "nearbyPremiumUrl": "/virtual-office/florida/orlando/location-1499/",
+            "nearbyPremiumText": "to view nearby PREMIUM Locations that offer Meeting Rooms for the same $99/mo",
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Tavares Virtual Office",
+            "body": "Snatch up an esteemed business address in Tavares without the financial burden of actual square footage. With Opus VO, you can insert your company right into the heart of Tavares’ dynamic ecosystem, all without burning through your capital. Got a vital meeting or client pitch on the horizon? Our state-of-the-art conference rooms are ready to elevate your game.  When you take the virtual route in Tavares via Opus VO, an adept live receptionist becomes part of your value proposition. They focus on ensuring each client engagement is an effortless extension of your brand’s personality. Pass the admin baton to us, liberating you to follow your business dreams. ",
+            "map": {
+                "lat": 28.8172159,
+                "lng": -81.72626439,
+                "zoom": 14,
+                "city": "Tavares"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Tavares, Florida even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Tavares. You can also adapt to better meet your clients’ unique needs within Florida. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Tavares virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Tavares?",
+                "body": "Think Tavares is just a tranquil Lake County seat? Think broader. It’s an emerging playground for various industries from healthcare to small business entrepreneurship. Your virtual office in Tavares opens doors to an expansive network of industry insiders and potential clients.  By opting for Opus VO in Tavares, you’re not merely cutting costs—you’re acquiring a strategic edge. Ready to take the next step? Our high-caliber virtual office solutions are at your fingertips.  Opus VO, Tavares @ 375 E Burleigh Boulevard, Tavares, FL 32778 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Tavares - 339 E Burleigh Boulevard | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Florida, Tavares virtual office located at 339 E Burleigh Boulevard. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/florida/tavares/location-1558/",
+            "og": {
+                "title": "Virtual Office in Tavares - 339 E Burleigh Boulevard | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Florida, Tavares virtual office located at 339 E Burleigh Boulevard. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/florida/tavares/location-1558/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+            }
+        }
+    }
+}

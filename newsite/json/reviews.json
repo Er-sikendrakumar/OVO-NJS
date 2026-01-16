@@ -1,0 +1,2322 @@
+{
+    "success": true,
+    "count": 256,
+    "data": [
+        {
+            "id": 11900,
+            "client_name": " Susy",
+            "client_review": "The Miami location is fantastic. Alex is professional, pleasant and great to do business with",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Miami ",
+            "state_name": "FL"
+        },
+        {
+            "id": 11899,
+            "client_name": "Franchesca Franklin",
+            "client_review": "Grateful for this amazing company to support my business needs. Britney is PHENOMENAL & always goes above & beyond to make sure my needs are met. Professional company that definitely makes you feel like you’re the top priority!",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Atlanta",
+            "state_name": "GA"
+        },
+        {
+            "id": 11898,
+            "client_name": " Willie Binyard",
+            "client_review": "I just wanted to take a moment to recognize the incredible work that Britney has been doing at Opus Virtual Office. Her dedication and passion truly set her apart, and she consistently goes above and beyond to support clients. Britney’s attention to detail and exceptional communication skills makes it easy at Opus Virtual Office. She approaches every challenge with a positive attitude and a creative mindset.",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Atlanta",
+            "state_name": "GA"
+        },
+        {
+            "id": 11897,
+            "client_name": "Mike S",
+            "client_review": "I’ve had the pleasure of working with Jasmine at Opus Virtual, and I couldn’t be more impressed. Her professionalism, attentiveness, and warm demeanor make each interaction a joy. Jasmine consistently goes above and beyond to ensure every request is handled promptly and efficiently. Her attention to detail and commitment to excellence truly set her apart. Thank you, Jasmine, for making every experience with Opus Virtual exceptional!",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Brooklyn",
+            "state_name": "NY"
+        },
+        {
+            "id": 11896,
+            "client_name": "Redline Services LLC",
+            "client_review": "Exactly what I needed. Receptionist answering my calls and downtown nashville meeting room with views. Happy with the service I recieved.",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Nashville",
+            "state_name": "TN"
+        },
+        {
+            "id": 11878,
+            "client_name": "Kate Kennedy",
+            "client_review": "I can't say enough good things about Opus Virtual Offices! Their team is incredibly responsive, professional, and genuinely helpful. They go above and beyond to accommodate the ever-changing needs of small businesses like mine. Whether it's updating account preferences or assisting with specific requests, they handle everything quickly and efficiently. Their support has made running my business so much easier. If you're looking for a reliable and flexible virtual office solution, Opus is the way to go!",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Los Angeles",
+            "state_name": "CA"
+        },
+        {
+            "id": 11850,
+            "client_name": " Fox Wade",
+            "client_review": "Britney is by far the best receptionist I’ve ever encountered! What a true professional and bright spot for the Atlanta office looking location!",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Atlanta",
+            "state_name": "GA"
+        },
+        {
+            "id": 11849,
+            "client_name": "Edana Thompson",
+            "client_review": "I LOVE my virtual office. Location and services are Wonderful!",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Orlando",
+            "state_name": "FL"
+        },
+        {
+            "id": 11847,
+            "client_name": "boye osoba",
+            "client_review": "Great service our company has been using this virtual assistant since the onset of COVID-19, and we couldn't be more pleased with the service. The assistant is highly professional, accommodating, and consistently delivers top-notch support.this virtual office has become an invaluable part of our team. We highly recommend their services to any business looking for reliable and efficient virtual support.",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Houston",
+            "state_name": "TX"
+        },
+        {
+            "id": 11846,
+            "client_name": "Luis Delgado Jr",
+            "client_review": "exceptional professional who consistently delivers outstanding results.",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Atlanta",
+            "state_name": "GA"
+        },
+        {
+            "id": 11845,
+            "client_name": "Jay David",
+            "client_review": "Amazing!!! So nice",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Atlanta",
+            "state_name": "GA"
+        },
+        {
+            "id": 11844,
+            "client_name": "annie delcid",
+            "client_review": "Crystal gave an outstanding customer service ! It was such a pleasure! Thank you !",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Los Angeles",
+            "state_name": "CA"
+        },
+        {
+            "id": 11843,
+            "client_name": " Hande Akbas",
+            "client_review": "Very nice office and thorough explanations for all my questions. Jasmine is great!!",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Brooklyn",
+            "state_name": "NY"
+        },
+        {
+            "id": 11842,
+            "client_name": "Jay Brown",
+            "client_review": "My experience here has been phenomenal due to Angela Carraway’s professionalism. Love doing business here.",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Houston",
+            "state_name": "TX"
+        },
+        {
+            "id": 11841,
+            "client_name": "Marinala gonzalez",
+            "client_review": "She's a pleasure to interact with, always courteous and professional. She demonstrate excellent communication skills, notifying us immediately of any maintenance concerns and promptly addressing any issues. she is very respectful.",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Brooklyn",
+            "state_name": "NY"
+        },
+        {
+            "id": 11840,
+            "client_name": " Nia V",
+            "client_review": "I applied for an Opus virtual office and not even a day later, I was contacted by Meredith who has been the most helpful. It is just the beginning for me, and she has already made me feel welcomed, comfortable, and excited to be on this journey. I 100% recommend!",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Nashville",
+            "state_name": "TN"
+        },
+        {
+            "id": 11838,
+            "client_name": " Shane Tripp",
+            "client_review": "If you don’t need a full time office space but want the amenities of a professional office, this is a great option.",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Orlando",
+            "state_name": "FL"
+        },
+        {
+            "id": 11837,
+            "client_name": "Crypto Mike",
+            "client_review": "Opus provides a wonderful service. Beth at the front desk is very friendly and helpful.",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Wilmington",
+            "state_name": "DE"
+        },
+        {
+            "id": 11836,
+            "client_name": "LignumSpace Innovations",
+            "client_review": "I have been using opus for 2 years now and they have been great. I love there Bluetooth unlock feature that allows you to enter without the need for assistance. I also love that they help with creditsafe credit building and the features of scan mail to email and redirect delivery.",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Orlando",
+            "state_name": "FL"
+        },
+        {
+            "id": 11835,
+            "client_name": "Marcus Belke",
+            "client_review": "Very happy with the services.",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Fort Lauderdale",
+            "state_name": "FL"
+        },
+        {
+            "id": 11834,
+            "client_name": "richard chapa",
+            "client_review": "Great environment with welcoming staff, especially Jenn. She eally goes above and beyond to accommodate client needs. Responsive and attentive throughout visit.",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Orlando",
+            "state_name": "FL"
+        },
+        {
+            "id": 11833,
+            "client_name": "STELLARMAN",
+            "client_review": "A stellar customer service experience! Angela was incredibly patient and knowledgeable, quickly resolving my complex issue with a friendly and helpful attitude. They went above and beyond to ensure I fully understood the solution, leaving me feeling completely satisfied and confident in their service.",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Houston",
+            "state_name": "TX"
+        },
+        {
+            "id": 11832,
+            "client_name": "Di Es",
+            "client_review": "Very impressive setup, your own private meeting and office in downtown Orlando with amazing view. Jen is more than welcoming and attentive to all your needs. I am enthused with OPUS VO and will definitely recommend!",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Orlando",
+            "state_name": "FL"
+        },
+        {
+            "id": 11831,
+            "client_name": "Cindy Bassel",
+            "client_review": "Shari is wonderful , polite and friendly Can always rely on her.",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Boca Raton",
+            "state_name": "FL"
+        },
+        {
+            "id": 11830,
+            "client_name": "Michael Cortez",
+            "client_review": "Opus Virtual Offices have been a great partner for our small business. They are reliable and consistent with forwarding business mail. Their staff is always helpful and their online support is excellent.",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Houston",
+            "state_name": "TX"
+        },
+        {
+            "id": 11829,
+            "client_name": " del delafoisse",
+            "client_review": "OPUS has been a game-changer for business! Their virtual office services are seamless, professional, and truly top-notch. From the prestigious business address to the exceptional mail handling and customer support, every aspect of their service is designed to help businesses thrive. The team at OPUS is responsive, friendly, and always goes above and beyond to accommodate my needs. Having a reliable virtual office has not only enhanced my brand image but also allowed me to focus more on growing my business without worrying about the small details. I highly recommend OPUS to any entrepreneur or small business owner looking for a professional, hassle-free virtual office solution. Five stars all the way!",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "San Antonio",
+            "state_name": "TX"
+        },
+        {
+            "id": 11819,
+            "client_name": " Mac-Angelo Fobizshi",
+            "client_review": "OpusVo has been great for our business from answering all calls and managing our mail correspondence. We have continuously great commendations from our clients and customers for the professionalism and efficiency. - Thank you, Alex Vargas and the whole team",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Miami",
+            "state_name": "FL"
+        },
+        {
+            "id": 11818,
+            "client_name": "Daniel Romero",
+            "client_review": "I've had great support from everyone at the office, particularly Angela. She's been extremely helpful and proactive in making sure we get important information (critical for our business) as soon as possible both digitally and physically. She's a great asset to our collaboration with Opus Virtual Offices at Houston.",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Houston",
+            "state_name": "TX"
+        },
+        {
+            "id": 11817,
+            "client_name": "KHALID HAYNES",
+            "client_review": "This office is great. Jen is helpful and just wonderful around. Office is clean and definitely a good office to have",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Orlando",
+            "state_name": "FL"
+        },
+        {
+            "id": 11812,
+            "client_name": "Euphoric Inc",
+            "client_review": "Upscale office spaces with beautiful views. Professional atmosphere, and amazing secretary Jen makes everyone feel welcome!",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Orlando",
+            "state_name": "FL"
+        },
+        {
+            "id": 11811,
+            "client_name": "Michael Gonzalez",
+            "client_review": "The service I received directly from the owner was way passed my expectations. The fact it was the owner and not an employee already blew my mind. The degree of expertise he has and knowledge was what did it for me.",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Orlando",
+            "state_name": "FL"
+        },
+        {
+            "id": 11810,
+            "client_name": "Emma",
+            "client_review": "I want to express my appreciation for the outstanding customer service provided by Crystal during my appointment with my attorney. She was welcoming and professional. Their attention to detail and friendly demeanor created a positive experience from the moment I walked in. Excellent job!",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Los Angeles",
+            "state_name": "CA"
+        },
+        {
+            "id": 11809,
+            "client_name": "Joanne Farquharson",
+            "client_review": "We've used Opus for years and recommend them to our clients.",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "New York City",
+            "state_name": "NY"
+        },
+        {
+            "id": 11808,
+            "client_name": "Alex Diemer",
+            "client_review": "Jen is very friendly , organized and professional . Office is very clean and communication is great",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Orlando",
+            "state_name": "FL"
+        },
+        {
+            "id": 11807,
+            "client_name": "Alton",
+            "client_review": "I can’t recommend Opus Virtual Offices enough! Their reasonably priced products and services have truly given my business the professional edge I needed. From their top-notch virtual office setups to the seamless communication tools, everything is designed to enhance efficiency and create a polished, professional image. The convenience of having a dedicated business address and live receptionist services without the high overhead costs has been a game-changer. If you’re looking for an affordable and reliable virtual office solution, Opus is the way to go!",
+            "stars": 5,
+            "review_by": "Trustpilot",
+            "client_location": "Henderson",
+            "state_name": "NV"
+        },
+        {
+            "id": 11806,
+            "client_name": "Adri Ducoz",
+            "client_review": "Ingrid from the Beverly Hills location friendly demeanor and professionalism set a positive tone for my visit. I truly appreciate her great service and attention to detail. Thank you for making my experience so pleasant!",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Beverly Hills",
+            "state_name": "CA"
+        },
+        {
+            "id": 11805,
+            "client_name": "Ken Spencer",
+            "client_review": "Awesome location and great Office manager",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Austin",
+            "state_name": "TX"
+        },
+        {
+            "id": 11804,
+            "client_name": "Joseline Portillo",
+            "client_review": "I recently had a great experience with Ingrid at the Beverly Hills location was incredibly attentive and helpful. From the start, she listened carefully to my concerns and asked the right questions to understand my issue. She explained everything clearly, making it easy for me to follow along. I never felt rushed, and she patiently answered all my questions. She even anticipated potential problems and offered solutions before I asked. Overall, her friendly and proactive approach made me feel valued as a customer. It was a refreshing experience that truly stood out.",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Beverly Hills",
+            "state_name": "CA"
+        },
+        {
+            "id": 11803,
+            "client_name": " Patricia Ugarte",
+            "client_review": "The service is amazing! I had a conversation with Alex, and she gave me all the information needed and also she was so nice! Service 10/10!!!",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Miami",
+            "state_name": "FL"
+        },
+        {
+            "id": 11802,
+            "client_name": "Camila Vargas",
+            "client_review": "I called yesterday to get some info. Alex was super nice and helpful . I had a very pleasant experience overall. Great service!",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Miami",
+            "state_name": "FL"
+        },
+        {
+            "id": 11801,
+            "client_name": "Ana Gamez",
+            "client_review": "This office is very convenient locate in Downtown Orlando. Parking is free when you are going to pick up your mail, you are in and out quickly. It has a very nice conference room that you could utilize for any meeting, The office is clean and looks very professional. The attention of the front desk is superb, she is always very kind and eager to help you anytime you need. I recommend this location 100%.",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Orlando",
+            "state_name": "FL"
+        },
+        {
+            "id": 11800,
+            "client_name": " Sharlene Timothy-Gillespie",
+            "client_review": "My experience thus far has been great! It was easy to lease my virtual office, and the customer service was nothing short of amazing.",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Orlando",
+            "state_name": "FL"
+        },
+        {
+            "id": 11799,
+            "client_name": "Jose Molina",
+            "client_review": "We have been with Opus for a year , and when we receive packages or need info Giselle responds to my emails, quickly and professionally. My packages are alwasys ready when I arrive to pick up so I can get in and out quickly. Great Job",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Chicago",
+            "state_name": "IL"
+        },
+        {
+            "id": 11798,
+            "client_name": "Jay Feilen",
+            "client_review": "I've been using Opus Virtual Offices for several years now, and I’ve had nothing but great experiences with them. They make managing my business so much easier by handling all the little things that would normally take up my time. One thing I really appreciate is their First Impression Coordinator, Sheri Stein. She’s fantastic—always professional, warm, and quick to help out whenever I need something. It's those personal touches that really make a difference.",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Boca Raton",
+            "state_name": "FL"
+        },
+        {
+            "id": 11797,
+            "client_name": "Charlie G.L.Frost",
+            "client_review": "Angela is extremely professional, attentive, and a pleasure to deal w always! She exceeds expectation and anticipates clients needs - Every business needs an ANGELA as gatekeeper and administrator…",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Houston",
+            "state_name": "TX"
+        },
+        {
+            "id": 11795,
+            "client_name": "Willert Morris",
+            "client_review": "Opus verified my identity. It was a painless process. It helped give me confidence. In effect it enhanced my credibility and legitimacy as a business owner or operator.",
+            "stars": 5,
+            "review_by": "Trustpilot",
+            "client_location": "Los Angeles",
+            "state_name": "CA"
+        },
+        {
+            "id": 11792,
+            "client_name": "Brian Betancourth",
+            "client_review": "I have to say Jennifer Forman was a pleasure to work with and i would recommend for anyone to try them out.",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Orlando",
+            "state_name": "FL"
+        },
+        {
+            "id": 11791,
+            "client_name": "Scott DeYoung",
+            "client_review": "Jen is extremely polite and welcoming to the office. Her positivity and eagerness to assist is a great asset to OPUS.",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Orlando",
+            "state_name": "FL"
+        },
+        {
+            "id": 11790,
+            "client_name": "Selena Berry",
+            "client_review": "Had a very polite visit when picking up our company mail.",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Chicago",
+            "state_name": "IL"
+        },
+        {
+            "id": 11789,
+            "client_name": " Kevin Thompson",
+            "client_review": "I would recommend this service for all Nashville businesses’ ‘Meredith is excellent at handling my account’ ‘the location is perfect, close to everything downtown!’ ‘I love using opus’ ‘my coordinator takes great care of me and my clients!’ ‘No one else I’d trust!",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Nashville",
+            "state_name": "TN"
+        },
+        {
+            "id": 11788,
+            "client_name": " Maria Libby Elizondo",
+            "client_review": "Ms . Karen White (First Impression Coordinator) at Opus is wonderful ! She provides excellent professional customer service .She answers your questions and if does not know , she finds out for you on a timely manner .She is so helpful . Opus thank you for hiring great ppl !",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Austin",
+            "state_name": "TX"
+        },
+        {
+            "id": 11787,
+            "client_name": " Beatriz Koziner",
+            "client_review": "Most efficient and responsive place. Always attentive and ready to help, couldn’t recommend more!",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Miami",
+            "state_name": "FL"
+        },
+        {
+            "id": 11786,
+            "client_name": "Arquetipo Storage",
+            "client_review": "I am thoroughly impressed with the services and professionalism at Opus Brickell. The front desk team, especially Alejandra, consistently delivers exceptional service with a positive attitude. She is quick, efficient, and dependable. I highly recommend Opus Brickell for anyone seeking top-notch service!",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Miami",
+            "state_name": "FL"
+        },
+        {
+            "id": 11785,
+            "client_name": "Stevie Cooper",
+            "client_review": "Location, location, location! Meredith and the Nashville location has been incredible. We love being close to downtown and are completely satisfied with our experience. We highly recommend using their services and will do so in the future.",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Nashville",
+            "state_name": "TN"
+        },
+        {
+            "id": 11784,
+            "client_name": "Carly Lippincott",
+            "client_review": "I’m so extremely pleased and happy with the whole experience. Meredith has been incredible; the location is perfect and honestly being close to down town is exactly what we were looking for. I highly recommend Opus, and we’re so grateful for Meredith for handling our accounts and helping us with our clients needs.",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Nashville",
+            "state_name": "TN"
+        },
+        {
+            "id": 11783,
+            "client_name": "Julie Harmon",
+            "client_review": "I would recommend this service for all Nashville businesses’. Meredith is excellent at what she does and goes above and beyond to make sure your needs are met. The location is perfect with it being so close to everything downtown! I would 11/10 recommend to anyone!",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Nashville",
+            "state_name": "TN"
+        },
+        {
+            "id": 11775,
+            "client_name": "Apartazza",
+            "client_review": "The experience has been exceptional. Great customer service and quick turnaround for change requests. I would recommend to any company looking to build their presence!!",
+            "stars": 5,
+            "review_by": "Trustpilot",
+            "client_location": "Chicago",
+            "state_name": "IL"
+        },
+        {
+            "id": 11774,
+            "client_name": "Gabriela Martínez",
+            "client_review": "I stumbled upon Opus by chance while looking for another office in the building. I was a bit lost, but Alejandra, the receptionist, was incredibly kind and helped me find my way. She also took the opportunity to give me a tour of the facilities and explain their services, in case I might need them in the future.",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Miami",
+            "state_name": "FL"
+        },
+        {
+            "id": 11773,
+            "client_name": "JaMecia Miller",
+            "client_review": "I don't usually go out of my way to leave a review but every now and then you encounter a wonderful person and their kindness compels you to do a kindness. Jasmine was that person for me today. Very mindful, informative, and considerate. She definitely made a great first impression!",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Brooklyn",
+            "state_name": "NY"
+        },
+        {
+            "id": 11772,
+            "client_name": "Anna Thornqvist",
+            "client_review": "Simple registration, very fast and accurate customer service response.",
+            "stars": 5,
+            "review_by": "Trustpilot",
+            "client_location": "Houston",
+            "state_name": "TX"
+        },
+        {
+            "id": 11771,
+            "client_name": "Emmanuel Abraham",
+            "client_review": "First time visiting opus and it was great! Angela the coordinator was very professional and her service was swift. I would recommend Opus for your virtual office.",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Houston",
+            "state_name": "TX"
+        },
+        {
+            "id": 11770,
+            "client_name": "Chris LeBas",
+            "client_review": "Thank you for being so helpful and patient.",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "New York City",
+            "state_name": "NY"
+        },
+        {
+            "id": 11769,
+            "client_name": " Zane George",
+            "client_review": "As a Business owner it's very hard to be everywhere at once, However, having someone like Angela on your side to safe keep your important Documents is priceless. She's very professional and that means a lot to my business. Let's say Opus Virtual didn't disappoint with Angela!!! Angela is hands down the best and much appreciated. If you use the Galleria area location you want Angela ask for her you want be disappointed.. Greetings with a Smile that's Angela. Zanyii Enterprises LLC.",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Houston",
+            "state_name": "TX"
+        },
+        {
+            "id": 11768,
+            "client_name": "Green Ducates",
+            "client_review": "Thank you, Maglen for great expedited service with my concern. Opus is a GREAT COMPANY. I RECOMMEND YOUR BUSINESS SERVICES FOR ALL ENTREPRENEURS. CUSTOMER SERVICE IS VERY EFFICIENT!",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Houston",
+            "state_name": "TX"
+        },
+        {
+            "id": 11767,
+            "client_name": "John Perez",
+            "client_review": "Opus VO Houston office has been an incredible experience. Angela has been extremely helpful and amazing. I will for sure recommend Houston office location.",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Houston",
+            "state_name": "TX"
+        },
+        {
+            "id": 11766,
+            "client_name": "Chance Bernd",
+            "client_review": "Highly recommend for anyone seeking a top-tier virtual office solution. Christopher was especially helpful. Five stars!",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "New York City",
+            "state_name": "NY"
+        },
+        {
+            "id": 11765,
+            "client_name": "Isadora Marta",
+            "client_review": "Very kind and helpful",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Chicago",
+            "state_name": "IL"
+        },
+        {
+            "id": 10362,
+            "client_name": "Leo",
+            "client_review": "Fast mail delivery service, prompt replies, amazing customer service, highly recommend!",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Wilmington",
+            "state_name": "DE"
+        },
+        {
+            "id": 11719,
+            "client_name": "William Morris",
+            "client_review": "Opus verified my identity. It was a painless process. It helped give me confidence. In effect it enhanced my credibility and legitimacy as a business owner or operator.",
+            "stars": 5,
+            "review_by": "Trustpilot",
+            "client_location": "General",
+            "state_name": null
+        },
+        {
+            "id": 10448,
+            "client_name": "Bek Moldokulov",
+            "client_review": "I would like to extend a special thank you to Karen from Opus Virtual Office for her outstanding support and assistance. Her dedication and professionalism have been instrumental in ensuring my virtual office experience has been exceptional. Thank you, Karen, for going above and beyond to deliver excellent service!",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Austin",
+            "state_name": null
+        },
+        {
+            "id": 10446,
+            "client_name": " Jasmine Gray",
+            "client_review": "Great office",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Atlanta",
+            "state_name": null
+        },
+        {
+            "id": 10445,
+            "client_name": "Hutchins Enterprises Inc",
+            "client_review": "The Austin VO near the TX State Capitol has nice accommodations and a fantastic receptionist!",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Austin",
+            "state_name": null
+        },
+        {
+            "id": 10444,
+            "client_name": " K Overton",
+            "client_review": "Great experience working with B.Ellis",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Atlanta",
+            "state_name": null
+        },
+        {
+            "id": 10443,
+            "client_name": "Houston coke",
+            "client_review": "Ms Angela was awesome and so professional and customer care and I'm glad I'm doing business with OPUS",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Houston",
+            "state_name": null
+        },
+        {
+            "id": 10442,
+            "client_name": " Handsomek Johnson",
+            "client_review": "Very first time visiting Opus to pick up my mail and was met by Kimberly my receptionist and let me say the radiant and positive energy I was met with was amazing. She new my name and business without having to introduce myself. Her enthusiasm and attention to detail blew me away. This was a Top Tier experience that needs to be the example of what the epitome of customer service should be!! Thank you Opus and Kimberly for setting the standard!!!!",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Dallas",
+            "state_name": null
+        },
+        {
+            "id": 10441,
+            "client_name": " Domonique White",
+            "client_review": "Top notch customer service & professionalism. Karen at the front desk has been nothin short of great. Knowledgeable regarding products offered through opus. Such a great relationship to have as an entrepreneur. Thank you",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Austin",
+            "state_name": null
+        },
+        {
+            "id": 10440,
+            "client_name": "LaRhonda Franklin",
+            "client_review": "Kimberly is amazing…….whenever I call she is right on the money……she never says any job is too big or too small…. I love having her apart of my staff…..thanks Kim for all you do….without you I would be in shambles trying to keep up!",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Dallas",
+            "state_name": null
+        },
+        {
+            "id": 10439,
+            "client_name": "Taylor Harris",
+            "client_review": "Ms.Kimberly, was awesome in conversation by phone. My hubby and I had to go visit our vitual location. Once meeting her was even greater. This location is absolutely 💯 Wonderful",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Dallas",
+            "state_name": null
+        },
+        {
+            "id": 10438,
+            "client_name": "Raynel Hudson",
+            "client_review": "Angela and Leslie is doing a really good job",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Houston",
+            "state_name": null
+        },
+        {
+            "id": 10437,
+            "client_name": "Alvin Murry",
+            "client_review": "Clean and easy to find. Great staff!",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Dallas",
+            "state_name": null
+        },
+        {
+            "id": 10436,
+            "client_name": "Fred Hughey",
+            "client_review": "This is the best virtual office location for my business I am extremely happy and Britney Ellis is simply the best at running this office both professionally and supportively very satisfied",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Atlanta",
+            "state_name": "GA"
+        },
+        {
+            "id": 10435,
+            "client_name": " Webb Barringer",
+            "client_review": "Meredith is great!",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Nashville",
+            "state_name": null
+        },
+        {
+            "id": 10434,
+            "client_name": "Mark Stein",
+            "client_review": "Sign-up on line was quite easy so far. I am looking forward to seeing the facility.",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Boca Raton",
+            "state_name": null
+        },
+        {
+            "id": 10433,
+            "client_name": "Jordan Williams",
+            "client_review": "Great staff!",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Houston",
+            "state_name": null
+        },
+        {
+            "id": 10432,
+            "client_name": "TRoy Cross",
+            "client_review": "Kimberly Dallas location gave a warm welcome to the building and gave an amazing tour",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Dallas",
+            "state_name": null
+        },
+        {
+            "id": 10431,
+            "client_name": "Talal Zahoor",
+            "client_review": "Kimberly was so considerate and just lovely during our meeting. Definitely recommend!",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Dallas",
+            "state_name": null
+        },
+        {
+            "id": 10430,
+            "client_name": "Rachel Fox",
+            "client_review": "Absolutely incredible building & Opus virtual offices is simply the best!!!!",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Houston",
+            "state_name": "TX"
+        },
+        {
+            "id": 10429,
+            "client_name": "Jahkye Hudson",
+            "client_review": "Kimberly was great and very helpful.",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Dallas",
+            "state_name": null
+        },
+        {
+            "id": 10428,
+            "client_name": "Michael Russo",
+            "client_review": "Perfect service and really enjoyed the streamlined process. Thanks so much, Michael",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Boca Raton",
+            "state_name": null
+        },
+        {
+            "id": 10427,
+            "client_name": "Tyrell Stevens",
+            "client_review": "I have used opus offices to give interviews for potential employees on a number of occasions. Pricing is perfect for what I need and Angela at the front desk is excellent with helping my interviews look professional and go smoothly.",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Houston",
+            "state_name": null
+        },
+        {
+            "id": 10426,
+            "client_name": "Jamie Daniel",
+            "client_review": "very easy smooth transition",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Boca Raton",
+            "state_name": null
+        },
+        {
+            "id": 10424,
+            "client_name": "Chylon Global",
+            "client_review": "I would like to express my sincere admiration for Angela exceptional customer service. She is an incredibly devoted individual who exhibits an unwavering level of dedication to her job. She was always eager and ready to assist me. Thank you, Angela, for your hard work and excellent service!",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Houston",
+            "state_name": null
+        },
+        {
+            "id": 10423,
+            "client_name": "Arrejohn",
+            "client_review": "Angela is doing a great job. Glad she’s on our team. Always polite and hospitable.",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Houston",
+            "state_name": null
+        },
+        {
+            "id": 10422,
+            "client_name": " Erycca F",
+            "client_review": "Today was my first time visiting this location, and my expectations were surpassed. ANGELA. ANGELA. ANGELA. She’s truly heaven sent. I had my business laptop delivered here because my residence decided to adopt Fetch for our package deliveries. Let’s just say their reviews were more then enough for me to go the PO Box route. Immediately. I am a stickler when it comes to customer service. Especially in this day & age where it seems like corporations seem to hire the most incompetent employees known to man. But not OPUS!!! Angela made sure I could retrieve my package, and even stayed on the phone to serve as my personal navigation system to the property. Opus should be changed to Angela’s because she runs this place like it’s her name on the business! Passionate. Committed. & Customer Service Centric in spirit. I am so grateful for her professionalism & genuineness to help me!",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Houston",
+            "state_name": null
+        },
+        {
+            "id": 10421,
+            "client_name": "Brownie Neal",
+            "client_review": "Angela is so professional and helpful and she is why I keep my business with Opus. Thank you for everything.",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Houston",
+            "state_name": null
+        },
+        {
+            "id": 10420,
+            "client_name": "Retail Bags",
+            "client_review": "Great service.",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Atlanta",
+            "state_name": null
+        },
+        {
+            "id": 10419,
+            "client_name": "Matthew Downes",
+            "client_review": "Angela is very helpful! She makes the Opus office run smoothly!",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Houston",
+            "state_name": null
+        },
+        {
+            "id": 10418,
+            "client_name": "Dipesh Bhandari",
+            "client_review": "Yous guys are awesome. Thank you. Regards Dipesh",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Houston",
+            "state_name": null
+        },
+        {
+            "id": 10417,
+            "client_name": "Tony Bass",
+            "client_review": "I had a great experience with opus so far especially with Angela .She has been pleasant to work with . Thanks Angela",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Houston",
+            "state_name": null
+        },
+        {
+            "id": 10416,
+            "client_name": "Zack G",
+            "client_review": "Angela is absolutely amazing! Extremely helpful and accommodating!",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Houston",
+            "state_name": null
+        },
+        {
+            "id": 10415,
+            "client_name": " Vanessa D",
+            "client_review": "Angela at the front desk is really helpful and patient. Love her customer service.",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Houston",
+            "state_name": null
+        },
+        {
+            "id": 10414,
+            "client_name": "Astorial Lima",
+            "client_review": "Angela is very professional and gifted with her job. Never missed a mail since she started handling our files…. Thanks for all of your help . You have really been a big help to this office. -Southwood Shipping.",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Houston",
+            "state_name": null
+        },
+        {
+            "id": 10413,
+            "client_name": "Chris Zeno",
+            "client_review": "Angela has excellent customer service, and very helpful !!!!",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Houston",
+            "state_name": null
+        },
+        {
+            "id": 10412,
+            "client_name": "Jeff Shane",
+            "client_review": "Angela has been great every time I have been in the office.",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Houston",
+            "state_name": null
+        },
+        {
+            "id": 10411,
+            "client_name": "Shanri Lewis",
+            "client_review": "I started a account with them for my business virtual office",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Beverly Hills",
+            "state_name": null
+        },
+        {
+            "id": 10410,
+            "client_name": "Trayonshay Franklin",
+            "client_review": "Love the buckhead location!",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Atlanta",
+            "state_name": null
+        },
+        {
+            "id": 10409,
+            "client_name": "Money Coach",
+            "client_review": "Opus is great! Brittany is great, the location is great, the service is great and the price is great.",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Atlanta",
+            "state_name": null
+        },
+        {
+            "id": 10408,
+            "client_name": "Elijah Jones",
+            "client_review": "Love the Atlanta location!",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Atlanta",
+            "state_name": null
+        },
+        {
+            "id": 10407,
+            "client_name": "Gem Stone Drippin",
+            "client_review": "Brittany is the truth. If it was not for her single handedly executing daily, this office location would definitely be subpar. The top tier pedigree and integrity is brought by Ms. Brittany.",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Atlanta",
+            "state_name": null
+        },
+        {
+            "id": 10406,
+            "client_name": " Christian Alston",
+            "client_review": "Best location for Opus Virtual Offices. Britney always does a phenomenal job. Glad I went with Opus.",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Atlanta",
+            "state_name": null
+        },
+        {
+            "id": 10405,
+            "client_name": "L. Lamont Latebloom",
+            "client_review": "Angela provided great customer service with attention to detail",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Houston",
+            "state_name": null
+        },
+        {
+            "id": 10404,
+            "client_name": "Tamika Smith",
+            "client_review": "Angela is so nice, kind, and professional!",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Atlanta",
+            "state_name": null
+        },
+        {
+            "id": 10403,
+            "client_name": "James Qright",
+            "client_review": "My experience with Opus has been fantastic for my business!. I have had this service for years and don't plan on changing that. Britney in the Atlanta office is a big reason why I stay. She is amazing!",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Atlanta",
+            "state_name": null
+        },
+        {
+            "id": 10402,
+            "client_name": "ABMC Channel",
+            "client_review": "Preparing my marketing and socuL media, research. It's going well.",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Atlanta",
+            "state_name": null
+        },
+        {
+            "id": 10401,
+            "client_name": "Denise Self",
+            "client_review": "Opus VO is a great service, many other features are available. The best part for me was the sign up was much simpler than getting the business. I haven't been to the location but, it looks perfect.",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Los Angeles",
+            "state_name": null
+        },
+        {
+            "id": 10400,
+            "client_name": "Davonte Sanders",
+            "client_review": "Tara is so much more than a receptionist. She clearly wears many hats and was super helpful. She was wonderful!",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Tara is so much more than a receptionist. She clearly wears many hats and was super helpful. She was wonderful!",
+            "state_name": null
+        },
+        {
+            "id": 10399,
+            "client_name": "Steam Games",
+            "client_review": "I've been with Opus for 5 years now, and having great people inside the office must run in the dna of that particular office ! Angela is always on time, available, and ready to assist me. Her attitude and personality matches her great work ethic and professionalism! She goes out of her way to track down any mail, and If I have to have it to me in a specific time frame, she exhausts all resources to make sure my company and team receive quality services we need to keep things floating smoothly😀 Keep up the great work 👍🏽",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Houston",
+            "state_name": null
+        },
+        {
+            "id": 10398,
+            "client_name": "FAVOR MAN",
+            "client_review": "Angela is Amazing!! Walked me through the whole process!!",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Houston",
+            "state_name": null
+        },
+        {
+            "id": 10397,
+            "client_name": "Greg Mitchell",
+            "client_review": "Angela, was very helpful. Made the process so easy and smooth",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Houston",
+            "state_name": null
+        },
+        {
+            "id": 10396,
+            "client_name": "DEMAR WHITE",
+            "client_review": "Angela, has been amazing as always and very professional. Opus should be glad to have her as a valued employee!",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Houston",
+            "state_name": null
+        },
+        {
+            "id": 10395,
+            "client_name": "Joanne Murray",
+            "client_review": "The process was very user-friendly and easy to sign up.",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Boca Raton",
+            "state_name": null
+        },
+        {
+            "id": 10394,
+            "client_name": "Global Logistics",
+            "client_review": "Excellent customer service by Angela. She was very helpful",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Houston",
+            "state_name": null
+        },
+        {
+            "id": 10393,
+            "client_name": "John T Pitre",
+            "client_review": "I have two different Opus Virtual offices, and I enjoy the service and professionalism of the office staff whenever I interact with them.",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Houston",
+            "state_name": null
+        },
+        {
+            "id": 10392,
+            "client_name": "lee Cartell",
+            "client_review": "I have been with Opus for 6 years and Britney is a big part of why I am still with Opus. She is very thorough and has always been so pleasant. Great customer service.",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Atlanta",
+            "state_name": null
+        },
+        {
+            "id": 10391,
+            "client_name": "Kerria Walker",
+            "client_review": "Angela was awesome. She answered all of my questions in a professional manner and made the process of completing paperwork easier. I look forward to being in business with OPUS and their dedicated employees.",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Houston",
+            "state_name": null
+        },
+        {
+            "id": 10390,
+            "client_name": " Katina Lewis",
+            "client_review": "I spoke with Angela with Opus Virtual Offices. Angela is very helpful and has great customer service.",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "I spoke with Angela with Opus Virtual Offices. Angela is very helpful and has great customer service.",
+            "state_name": null
+        },
+        {
+            "id": 10389,
+            "client_name": "Tom Ghilay",
+            "client_review": "Love this location",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Love this location",
+            "state_name": null
+        },
+        {
+            "id": 10388,
+            "client_name": "Philecia Waller",
+            "client_review": "Very helpful for a first timer lol 🤣 would definitely recommend trying this very easy to set up the process",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Boca Raton",
+            "state_name": null
+        },
+        {
+            "id": 10387,
+            "client_name": "D. L. Smith",
+            "client_review": "Britney was great at the Atlanta location.",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Atlanta",
+            "state_name": null
+        },
+        {
+            "id": 10386,
+            "client_name": "New Level Group Ventures",
+            "client_review": "Clean, professional staff!!",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Atlanta",
+            "state_name": null
+        },
+        {
+            "id": 10385,
+            "client_name": "Loving Living",
+            "client_review": "Easy and straightforward sign-up",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Boca Raton",
+            "state_name": null
+        },
+        {
+            "id": 10383,
+            "client_name": " NaTina",
+            "client_review": "Angela was awesome. Very knowledgeable and prompt at processing my questions and requests.",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Houston",
+            "state_name": null
+        },
+        {
+            "id": 10382,
+            "client_name": "Ricky Banks",
+            "client_review": "I am truly impressed by Angela's exceptional service in helping me organize and sort out my paperwork. Her attention to detail, dedication, and expertise were evident throughout the process. Angela's ability to streamline the task and her clear communication made the often overwhelming task seem effortless. She went above and beyond, ensuring every document was organized and easily accessible. Her professionalism and friendly demeanor further enhanced the experience. Angela's outstanding performance undoubtedly turned a daunting task into a seamless and satisfying endeavor.",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Houston",
+            "state_name": null
+        },
+        {
+            "id": 10381,
+            "client_name": "Erica Spicer",
+            "client_review": "My receptionist Meredith is such an awesome assistant. She handles my mail and calls professionally. Meredith makes sure to keep me abreast on my daily mail and tasks. I would recommend her for any Nashville business.",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Nashville",
+            "state_name": null
+        },
+        {
+            "id": 10380,
+            "client_name": "James Lamb",
+            "client_review": "Dear Opus VO Management Team, I wish to extend my deepest appreciation and recognition for the outstanding service I received from Ms. Lesli Vargas following my recent acquisition of the Opus VO package on July 21st. Within a commendably brief span of less than 48 hours post my purchase, I was delighted to receive an email from Ms. Vargas. The content of her correspondence not only conveyed important details but was framed in such a manner that made me genuinely feel welcomed and valued as a member of the Opus VO community. Furthermore, Ms. Vargas diligently ensured open lines of communication, extending her contact details and personally reaching out via phone a few days later for an introduction. Such gestures, though seemingly simple, are reflective of her proactive commitment to fostering client relationships. Drawing from her extensive experience, notably from her tenure at Regus, Ms. Vargas possesses an in-depth understanding of the industry. It was evident in our conversations that she is a passionate advocate for Opus VO. As someone who has previously engaged with Regus, I confided in Ms. Vargas my intent to redirect associates, friends, and family towards Opus VO, largely attributable to the value proposition Opus VO offers in comparison to competitors. As the founder and CEO of Lamb IT Solutions, LLC, I have had myriad interactions with professionals from various sectors. I can assertively state that Ms. Vargas exemplifies the very essence of professionalism, subject matter expertise, and genuine client engagement. In conclusion, Ms. Lesli Vargas is undoubtedly an asset to Opus VO, reinforcing the brand's commitment to excellence. I am certain her contributions will continue to enhance your brand's reputation. It's a privilege to have professionals like her as the face of your organization. Warm regards, James Lamb, Jr. Founder & CEO Lamb IT Solutions, LLC.",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Houston",
+            "state_name": null
+        },
+        {
+            "id": 10379,
+            "client_name": "Sami Jumaan",
+            "client_review": "Angela was amazing walking me through the office and the process.",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Houston",
+            "state_name": null
+        },
+        {
+            "id": 10378,
+            "client_name": "Customer Service",
+            "client_review": "Angela has Excellent customer service. Her personality and professionalism is very welcoming.",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Houston",
+            "state_name": null
+        },
+        {
+            "id": 10377,
+            "client_name": "Lasean Tillman",
+            "client_review": "It was great working Angela. She helped with all my business questions. Great person to work with",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Houston",
+            "state_name": null
+        },
+        {
+            "id": 10376,
+            "client_name": "Ronnie Washington",
+            "client_review": "Angela is great!",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Houston",
+            "state_name": null
+        },
+        {
+            "id": 10375,
+            "client_name": "Re'Al Faraj",
+            "client_review": "Everyone exercises due diligence in assuring that your business needs are met. Angela Caraway goes the extra mile even after welcoming you to Opus to ensure that you are familiar with the services, and she takes the time to explain those things you may question while also extending courtesy phone calls to help you remain cognizant of your business.",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Houston",
+            "state_name": null
+        },
+        {
+            "id": 10374,
+            "client_name": "Cheryl Wilson",
+            "client_review": "I recently launched my business and limiting overhead costs was important. I looked at several virtual office options and the services provided by Opus was a great fit for me. The service I’ve received have been excellent. They’re very professional. Having a live person respond to calls to my office is wonderful! I tested by personally calling into my office and I was very impressed. I highly recommend Opus!!",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Atlanta",
+            "state_name": null
+        },
+        {
+            "id": 10373,
+            "client_name": "Robert Anthony",
+            "client_review": "I’ve have nothing but great things to say about Jen and the Opus Orlando office. Jen is friendly and professional no matter if you are standing in the office or speaking to her on the phone. The office is clean, business friendly and secure. I highly recommend Opus if you need a very straight forward virtual office for your business.",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Orlando",
+            "state_name": null
+        },
+        {
+            "id": 10372,
+            "client_name": "rtdanceez",
+            "client_review": "Angela is an awesome receptioninst, she took care all my work related tasks..",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Houston",
+            "state_name": null
+        },
+        {
+            "id": 10371,
+            "client_name": " Allgood Remodeling & Construction",
+            "client_review": "ANGELA wonderful, she is very professional and quick to resolve my inquiries. I am glad she manages opus office.",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Houston",
+            "state_name": null
+        },
+        {
+            "id": 10370,
+            "client_name": "Chris Lewis",
+            "client_review": "Great Service",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Houston",
+            "state_name": null
+        },
+        {
+            "id": 10369,
+            "client_name": "Victor Musoke",
+            "client_review": "I have had an extremely Wonderful experience working with Opus VO. Acquiring the offices and all that comes with it was just a click of a button away. ",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Los Angeles",
+            "state_name": null
+        },
+        {
+            "id": 10367,
+            "client_name": "Desiree Mckeithen",
+            "client_review": "Love the Atlanta/Buckhead location",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Atlanta",
+            "state_name": null
+        },
+        {
+            "id": 10366,
+            "client_name": "Giovanni Connor",
+            "client_review": "Brittany always welcome me with a Nice smile, office is clean and the Mail is always sorted and ready for pickup. Great office and great location!",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Atlanta",
+            "state_name": null
+        },
+        {
+            "id": 10365,
+            "client_name": "Greg Southall",
+            "client_review": "They do a great job, receptionist by the name of Eva Careces is nice and take care of business.",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Dallas",
+            "state_name": null
+        },
+        {
+            "id": 10364,
+            "client_name": "Jay Damn",
+            "client_review": "Jen is an amazing secretary and makes you and your clients feel welcome!",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Orlando",
+            "state_name": null
+        },
+        {
+            "id": 10363,
+            "client_name": "Lux Services",
+            "client_review": "I love using Opus as my virtual office ! And Eva is wonderful ! Very pleasant and kind ! Recommend 100% if you’re needing a virtual business address/office!!",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Dallas",
+            "state_name": null
+        },
+        {
+            "id": 10361,
+            "client_name": " Laine Barcenas",
+            "client_review": "Love it here, the receptionist is wonderful.",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Dallas",
+            "state_name": null
+        },
+        {
+            "id": 10360,
+            "client_name": "Carlos Acosta",
+            "client_review": "Just visit the office looks 100% perfect very clean and Eva at the front desk is very kind and professional love working with them",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Dallas",
+            "state_name": null
+        },
+        {
+            "id": 10359,
+            "client_name": "Fawn M",
+            "client_review": "I just signed up with Opus and thus far I’ve had a great experience. Jonathan G out out of the Boca office was professional, prompt and answered all my questions. I truly hope my experience with them continues to outweigh the negatives reviews.",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Boca Raton",
+            "state_name": null
+        },
+        {
+            "id": 10358,
+            "client_name": "Mark Price",
+            "client_review": "Excellent and Easy Process to sign up for this service.",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Boca Raton",
+            "state_name": null
+        },
+        {
+            "id": 10356,
+            "client_name": "Giovanni Smith",
+            "client_review": "Great Buckhead office!",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Atlanta",
+            "state_name": null
+        },
+        {
+            "id": 10355,
+            "client_name": "Kevin Herrera",
+            "client_review": "Great place and services.",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Austin",
+            "state_name": null
+        },
+        {
+            "id": 10354,
+            "client_name": "Pablo Martell",
+            "client_review": "Come see Lakitress at Opus! Incredibly helpful in having our virtual office set up!",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Fort Lauderdale",
+            "state_name": null
+        },
+        {
+            "id": 10353,
+            "client_name": "Byron Holman",
+            "client_review": "Awesome product with great service!!!",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Houston",
+            "state_name": null
+        },
+        {
+            "id": 10352,
+            "client_name": "Dee B",
+            "client_review": "My experience was very pleasant!!!!! Angela helped me get set up and her customer service was outstanding!!!!",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Houston",
+            "state_name": null
+        },
+        {
+            "id": 10351,
+            "client_name": "Hector Maduro",
+            "client_review": "I wanted to let you know how pleased I was with the outstanding and kindly services provided by your Quality Assurance Manager, Mrs. Maglen Vadillo, in my purchase. Very professional and easy to get with a great offer. I Highly recommended Opus Virtual Offices.",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Wilmington",
+            "state_name": null
+        },
+        {
+            "id": 10350,
+            "client_name": "Jeff Dobbin",
+            "client_review": "Great Service!!!! I'm so glad I signed up for Opus's virtual office services.",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Boca Raton",
+            "state_name": null
+        },
+        {
+            "id": 10349,
+            "client_name": "Benjamin Jones",
+            "client_review": "Friendly professional service. Highly recommended.",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Orlando",
+            "state_name": null
+        },
+        {
+            "id": 10348,
+            "client_name": "Angie B",
+            "client_review": "Angela is awesome, very pleasant and professional.",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Houston",
+            "state_name": null
+        },
+        {
+            "id": 10346,
+            "client_name": "J. Smith",
+            "client_review": "Great service!",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Orlando",
+            "state_name": null
+        },
+        {
+            "id": 10345,
+            "client_name": "Rafael Orellanes",
+            "client_review": "I received an outstanding service by the manager Maglen Vadillo.",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Boca Raton",
+            "state_name": null
+        },
+        {
+            "id": 10344,
+            "client_name": "Info :: Multicolor Labels",
+            "client_review": "Big shoutout to Maglen Vadillo, Quality Assurance Manager at Opus Virtual Offices! The assistance in guiding me through the setup process and addressing any issues has been invaluable. Always reliable and helpful. A seamless experience thanks to the support!",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "New York",
+            "state_name": null
+        },
+        {
+            "id": 10343,
+            "client_name": "Hector Torres",
+            "client_review": "We are glad we chose Opus Virtual Offices for my business, they have a great customer service and helped us setting up our business address in a timely manner",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Boca Raton",
+            "state_name": null
+        },
+        {
+            "id": 10342,
+            "client_name": "Eric Accime",
+            "client_review": "For many years our company has been an executive suite rental client of Opus. From the time of our sign-up, our problem-solving guiding light has been Ms. Maglen V. (the best) and we have been incredibly impressed with the high level of professionalism and care from the Tampa Fl staff, particularly Ms. Mellissa G. If you’re looking for great value and a service oriented executive suite rental offer, you and your group ought to seriously consider Opus.",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Boca Raton",
+            "state_name": null
+        },
+        {
+            "id": 10341,
+            "client_name": "Ede Araya",
+            "client_review": "Thank you so much Melissa for helping me did the video versification for google. You are so sweet and kind. Thank you.",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Tampa",
+            "state_name": null
+        },
+        {
+            "id": 10340,
+            "client_name": "CNC Precision Cuttings",
+            "client_review": "I am extremely satisfied with the services provided by Opus Virtual Offices. The staff is knowledgeable, responsive, and always ready to assist. I highly recommend Opus Virtual Offices to any business seeking top-notch virtual office services.",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Brooklyn",
+            "state_name": null
+        },
+        {
+            "id": 10339,
+            "client_name": "Jamal Shelton",
+            "client_review": "Amazing Customer Service Angela.",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Houston",
+            "state_name": null
+        },
+        {
+            "id": 10338,
+            "client_name": "Miguel Vargas",
+            "client_review": "I have been looking to sign up for a while. Alejandra Vargas was extremely helpful during the whole process. We arranged a call so she could explain the services. Alejandra explained everything very patiently and respectfully and helped me get started. I am very happy with the customer service.",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Miami",
+            "state_name": null
+        },
+        {
+            "id": 10337,
+            "client_name": "Trice Nelson",
+            "client_review": "Angela was very professional and polite answered all my questions",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Houston",
+            "state_name": null
+        },
+        {
+            "id": 10336,
+            "client_name": "JasmineRDH",
+            "client_review": "Angela is extremely helpful and very professional! She always greets me with a smile when I walk into the office and has a positive attitude. I can tell that she takes pride in her role and enjoys helping others.",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Houston",
+            "state_name": null
+        },
+        {
+            "id": 10335,
+            "client_name": "Aaron Bonner",
+            "client_review": "I was quite surprise with the amount of useful information Leslie presented in her welcome call. This is a piece of mind, in that, we made the right decision by choosing Opus! Thanks",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Houston",
+            "state_name": null
+        },
+        {
+            "id": 10334,
+            "client_name": "Guy",
+            "client_review": "Just signed up with them and received an amazing service. Thanks for making the process so effortless.",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Boca Raton",
+            "state_name": null
+        },
+        {
+            "id": 10333,
+            "client_name": "Brenda Roberts",
+            "client_review": "We love coming here! It is clean, organized, well equipped for meetings and gorgeous views. Centrally located in downtown Tampa, close to everything and ample parking around the building. Melissa is amazing and goes above and beyond to help with any needs!",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Tampa",
+            "state_name": null
+        },
+        {
+            "id": 10332,
+            "client_name": "Mohamed Diakite",
+            "client_review": "Eva was amazing! She helped me with everything I needed to get registered, if it wasn’t for her I would not have access.",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Dallas",
+            "state_name": null
+        },
+        {
+            "id": 10331,
+            "client_name": "Jo Schreiber",
+            "client_review": "Great company! Specially, Alex. She is ON IT She received a package from my company by mistake, she contacted me and kept it safe until I picked it up a few days later. Her work ethic is impeccable. Alex, thank you so much for everything you do.",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Miami",
+            "state_name": null
+        },
+        {
+            "id": 10330,
+            "client_name": "TruthBKnown",
+            "client_review": "Angela did a great job getting me set up. She’s professional, efficient, and friendly. I highly recommend this establishment.",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Houston",
+            "state_name": null
+        },
+        {
+            "id": 10329,
+            "client_name": "Cliff Parchmon",
+            "client_review": "Melissa, always has a smile on her face and is eager to help. I would recommend this location to any small business owner needing flexible office space",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Tampa",
+            "state_name": null
+        },
+        {
+            "id": 10328,
+            "client_name": " Jose Cera",
+            "client_review": "Great office space and convenient location. Melissa is very helpful and friendly!",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Tampa",
+            "state_name": null
+        },
+        {
+            "id": 10327,
+            "client_name": "Wendy Nelson",
+            "client_review": "We are new to OPUS VIRTUAL OFFICES and so pleased with the service provided by Alex. She is so friendly and accommodating. The location is great, and prices are so reasonable.",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Miami",
+            "state_name": null
+        },
+        {
+            "id": 10326,
+            "client_name": "Renee Rosso",
+            "client_review": "My law office is in the same building as your office in Orlando, FL. I met Jen Forman with your office, and she gave me all of the information to open an office with your company. We have started with an office in GA and potentially could open offices in 15 other states. Jen was very informative and walked us through the process after giving us important information about your company. Because of her knowledge, confidence about the company, and the way she carried herself, we made the decision to go with Opus.",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Orlando",
+            "state_name": null
+        },
+        {
+            "id": 10325,
+            "client_name": "Genesis Gonzalez",
+            "client_review": "Excellent and prompt service.",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Fort Lauderdale",
+            "state_name": null
+        },
+        {
+            "id": 10324,
+            "client_name": "Matt Frechette",
+            "client_review": "Karen is fantastic! What a great service!",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Austin",
+            "state_name": null
+        },
+        {
+            "id": 10323,
+            "client_name": "TIFFANY GREEN",
+            "client_review": "Angie and Leslie were amazing professionals. It was my first time stopping by Opus offices. It was super easy to find, great looking location. The fact that Angie and Leslie knew me from just the mention of my name was AMAZING! I felt like a rockstar.",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Houston",
+            "state_name": null
+        },
+        {
+            "id": 10322,
+            "client_name": "RNM",
+            "client_review": "Today I had the pleasure to speak with customer service Maglen from the Boca Raton Office. She was very helpful and kind, helping me get my company setted up the way I needed it. She also explained all the services I was getting from OpusVO for my new company. And then I spoke with Alejandra at the Brickell office and she also was very helpful explaining everything I needed to know about my VO. Honestly I feel like I’m in good hands, also the system is easier than other services that I’ve tried in the past, thank you !!!",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Miami",
+            "state_name": null
+        },
+        {
+            "id": 10321,
+            "client_name": "Cisrael",
+            "client_review": "As a small business owner, I’ve had the pleasure of using Opus Virtual Offices, and I must say they stand out from the rest. The professionalism and efficiency they display makes my business processes easier and more effective. The responsive customer service team is always kind, polite, and helpful. They make me feel confident in choosing Opus Virtual Offices. Their commitment to excellence and dedication to client satisfaction make them a valuable partner. Thank You.",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Atlanta",
+            "state_name": null
+        },
+        {
+            "id": 10320,
+            "client_name": "Christian Katopodis",
+            "client_review": "For the past 5 years, OpusVO is an indispensable provider for our organization. With an outstanding inbound calls reception services, office space to meet our clients and, back-office mail handling and forwarding services, OpusVO is the way to Go! They are consistent and extremely professionals in handling all our requests. We are very thankful to OpusVO!",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Boca Raton",
+            "state_name": null
+        },
+        {
+            "id": 10319,
+            "client_name": "Javier Barrios",
+            "client_review": "I appreciate your support Maglen Vadillo your guidance has been invaluable thank you.",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Beverly Hills",
+            "state_name": null
+        },
+        {
+            "id": 10318,
+            "client_name": "Alex Spencer",
+            "client_review": "Excellent Services",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Tampa",
+            "state_name": null
+        },
+        {
+            "id": 10317,
+            "client_name": "Luis Bares",
+            "client_review": "Hosting our team of 10 at Opus Meeting Rooms in Tampa was an absolute pleasure! From the seamless booking process to the breathtaking views of downtown Tampa, every aspect exceeded our expectations. The convenient parking made logistics a breeze. We loved having access to three beautifully outfitted conference rooms, perfect for our week-long series of face-to-face meetings. A special shoutout to Melissa, the office administrator, whose attention to detail and warm hospitality truly enhanced our experience. Five stars all around! We will be back!",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Tampa",
+            "state_name": null
+        },
+        {
+            "id": 10316,
+            "client_name": "Jacob Michel",
+            "client_review": "Melissa was amazing! Incredibly helpful",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Tampa",
+            "state_name": null
+        },
+        {
+            "id": 10315,
+            "client_name": "Alfred Davis",
+            "client_review": "Amazing! If you need a conference room in Tampa, this is the best place to be.",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Tampa",
+            "state_name": null
+        },
+        {
+            "id": 10314,
+            "client_name": "Craig Williams",
+            "client_review": "We had a fantastic experience during our past week and highly appreciated the facilities and administration of the offices.",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Tampa",
+            "state_name": null
+        },
+        {
+            "id": 10313,
+            "client_name": "Chris Gaj",
+            "client_review": "Love the Tampa location, and it wasn’t for Melissa, we wouldn’t be getting the results and positive feedback that we are. Will continue to use and highly recommend!",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Tampa",
+            "state_name": null
+        },
+        {
+            "id": 10312,
+            "client_name": "Jesse Philippe 4 Florida",
+            "client_review": "Melissa is awesome !!!",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Tampa",
+            "state_name": null
+        },
+        {
+            "id": 10311,
+            "client_name": "Steven Bosworth",
+            "client_review": "Melissa is extremely professional and always helpful throughout the years. Thank you Melissa.",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Tampa",
+            "state_name": null
+        },
+        {
+            "id": 10310,
+            "client_name": "Frederick Walker",
+            "client_review": "Angela was awesome and extremely helpful",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Houston",
+            "state_name": null
+        },
+        {
+            "id": 10309,
+            "client_name": "Navid Namazi",
+            "client_review": "Friendly people, great atmosphere, plenty of space to get work done or have meetings",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Orlando",
+            "state_name": null
+        },
+        {
+            "id": 10308,
+            "client_name": "P. Rausseo",
+            "client_review": "Thank you for the attention of Ms. MAGLEN VADILLO, it is wonderful, I highly recommend this service. (Original) Gracias por la atención de la Sra. MAGLEN VADILLO una maravilla recomiendo mucho este servicio",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Miami",
+            "state_name": null
+        },
+        {
+            "id": 10307,
+            "client_name": "LaDawne Malone",
+            "client_review": "Nice locations to choose from, no complaints.",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Boca Raton",
+            "state_name": null
+        },
+        {
+            "id": 10305,
+            "client_name": "David Margolies",
+            "client_review": "Shari Stein has always provided excellent service to us and is professional, friendly and always helpful. I worked with and known Shari for over 10 years, and her attention to detail and follow throukgh skills are above and beyond.",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Boca Raton",
+            "state_name": null
+        },
+        {
+            "id": 10304,
+            "client_name": "Maria Siracuse",
+            "client_review": "I have been using Opus for 10 years now. They are very responsive, professional and courteous. Shari is fantastic! Highly recommend this company.",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Boca Raton",
+            "state_name": null
+        },
+        {
+            "id": 10303,
+            "client_name": "Craig Zeuner",
+            "client_review": "Shari Stein, the First Impression Coordinator at Opus, is fantastic. She consistently goes above and beyond to ensure everything runs smoothly. Her professionalism, attention to detail, and friendly demeanor make every interaction a pleasure. Shari is always prompt and efficient and truly enhances the experience at Opus. Shari is the best!",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Boca Raton",
+            "state_name": null
+        },
+        {
+            "id": 10302,
+            "client_name": "S. P.",
+            "client_review": "I have been at Opus for years - and have been extremely happy with the set up and services. Shari is exceptional - she always goes above and beyond providing exemplary attention to my clients and my business.",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Boca Raton",
+            "state_name": null
+        },
+        {
+            "id": 10301,
+            "client_name": "Richard Blakeman",
+            "client_review": "I find the office very well run and the staff, especially Shari Stein, extremely helpful. When I do have clients come to the office for a meeting, I have no concerns about the appearance of the office.",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Boca Raton",
+            "state_name": null
+        },
+        {
+            "id": 10300,
+            "client_name": "Cory Z",
+            "client_review": "Shari at the Boca Raton office location of Opus has been a pleasure to work with. Shari is extremely knowledgeable, professional and personable. She is a hard worker and goes out of her way to assist her clients. Shari is a tremendous asset.",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Boca Raton",
+            "state_name": null
+        },
+        {
+            "id": 10299,
+            "client_name": " Brett Goldblatt",
+            "client_review": "Very organized and professional staff. Highly recommend to all!",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Boca Raton",
+            "state_name": null
+        },
+        {
+            "id": 10298,
+            "client_name": " Creatorz District",
+            "client_review": "Always a good and smooth experience, The assistant is always helpful, would recommend to anyone in the area.",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Atlanta",
+            "state_name": null
+        },
+        {
+            "id": 10297,
+            "client_name": " Chrystal Robinson",
+            "client_review": "This was absolutely the right choice for my law firm. In addition, Shari in the Boca Office is fantastic!",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Boca Raton",
+            "state_name": null
+        },
+        {
+            "id": 10296,
+            "client_name": "Miguel Aguilera",
+            "client_review": " I have been using Opus Virtual Rooms in Austin for several months, and my experience has been outstanding! The virtual office space is equipped with numerous amenities that cater to all my professional needs, making it an ideal environment for productivity. A special mention goes to Karen at the front desk. She is incredibly helpful and attentive, always ensuring that everything runs smoothly. Her professionalism and friendly demeanor make a significant difference, and she is always ready to assist with any request or question. Overall, Opus Virtual Rooms provides a top-notch service, and I highly recommend it to anyone looking for a reliable and well-equipped virtual office space in Austin. ---",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Austin",
+            "state_name": null
+        },
+        {
+            "id": 10295,
+            "client_name": "David Tannen",
+            "client_review": "I have been a customer of Opus Virtual Offices for a number of years now with several of my companies. Their structure of handling calls, mail and notifications, etc. has worked perfectly for me, since I no longer needed my larger office space. Their staff is well trained and efficient, especially Shari Stein, with whom I usually interact. Thank you Opus!",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Boca Raton",
+            "state_name": null
+        },
+        {
+            "id": 10294,
+            "client_name": "Michelle Bui",
+            "client_review": "Melissa is phenomenal and the main reason I have stayed with Opus for 5 years. She is helpful, intelligent, professional, and courteous. 5 stars to her!",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Tampa",
+            "state_name": null
+        },
+        {
+            "id": 10293,
+            "client_name": "Agustin Barbara",
+            "client_review": "I am writing to commend Alex for her exceptional service. Throughout my interactions with her, I have consistently been impressed by her professionalism, efficiency, and courteous demeanor. I can always count on her, thank you!",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Miami",
+            "state_name": null
+        },
+        {
+            "id": 5789,
+            "client_name": "Janice Ybarra",
+            "client_review": "Karen went above and beyond to make sure I got everything I needed.",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Austin",
+            "state_name": null
+        },
+        {
+            "id": 5787,
+            "client_name": "William McLeod",
+            "client_review": "It was very easy setting up the virtual office location Online. Since I live nearby, I went in to the office and (Karen White), the receptionist was very helpful in assisting me in completing the on boarding process as well as explaining service and facility features. She was warm, professional, and kind.",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Austin",
+            "state_name": null
+        },
+        {
+            "id": 5786,
+            "client_name": "Richard Baldwin",
+            "client_review": "Awesome, Friendly Staff! Brittany is extremely patient and always helps me locate my packages! Would definitely recommend! 10/10",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Atlanta",
+            "state_name": null
+        },
+        {
+            "id": 5785,
+            "client_name": "Maureen O'Neill Richardson",
+            "client_review": "We have worked with opus for years and specifically Britney! She has been responsive, professional, pleasant, responsible, trustworthy all of the traits you would want in a virtual assistant!",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Atlanta",
+            "state_name": null
+        },
+        {
+            "id": 5783,
+            "client_name": "Al Maddin",
+            "client_review": "I honestly love the Buckhead location best. It’s SUPER convenient and the receptionist at this location is very nice and helpful.",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Atlanta",
+            "state_name": null
+        },
+        {
+            "id": 5781,
+            "client_name": "Annette Davis",
+            "client_review": "Good Afternoon, I have nothing but great things to say about Brittany and this location. The service is exceptional and so is her professionalism. My mail, the phone service and even the meeting space is always consistently where I need it to be, which is at a high standard and timely. Thanks again Brittany I love how you represent our business!",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Atlanta",
+            "state_name": null
+        },
+        {
+            "id": 5780,
+            "client_name": "Diggity 24",
+            "client_review": "Brittany is a wonderful resource and representative of Opus and of my virtual business. She's professional, thorough, and attentive. A+++",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Atlanta",
+            "state_name": null
+        },
+        {
+            "id": 5779,
+            "client_name": "Stephanie Buggs",
+            "client_review": "I have been a client at this office for 5 years. The location In the heart of buckhead is very convenient for me. And every time i stop by the receptionist Britney is there to greet me with a smile and friendly welcome. She’s very helpful with anything i need. Rooms are clean and she always has snacks available :) I would definitely recommend this office for your business!!!",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Atlanta",
+            "state_name": null
+        },
+        {
+            "id": 5777,
+            "client_name": "Xernna Nieves",
+            "client_review": "I love the service. I want to send a suggestion for us to make manual payments on our account prior to the due date in order to pay early.",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Atlanta",
+            "state_name": null
+        },
+        {
+            "id": 5776,
+            "client_name": "Frederick Cannady",
+            "client_review": "Very professional service.",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Atlanta",
+            "state_name": null
+        },
+        {
+            "id": 5774,
+            "client_name": "Kinnee Mathis",
+            "client_review": "True professional customer service!",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Atlanta",
+            "state_name": null
+        },
+        {
+            "id": 5772,
+            "client_name": "Erica Atlanta Homes",
+            "client_review": "Top notch!",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Atlanta",
+            "state_name": null
+        },
+        {
+            "id": 5770,
+            "client_name": "Jasmine Robinson",
+            "client_review": "Its in a great location, and comes with great features for the price.",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Atlanta",
+            "state_name": null
+        },
+        {
+            "id": 5769,
+            "client_name": "Rachel Smith",
+            "client_review": "The site is easy to navigate.  I had entered in the wrong email and had to call the help desk and they were fast and prompt with correcting my email address.  Very friendly.",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Atlanta",
+            "state_name": null
+        },
+        {
+            "id": 5767,
+            "client_name": "Rc god 1",
+            "client_review": "Choosing Opus has been the best decision that I have made for my small business.",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Atlanta",
+            "state_name": null
+        },
+        {
+            "id": 5765,
+            "client_name": "GENO D",
+            "client_review": "It was the best Decision I made . And Britney at the Atlanta Offic is the best",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Atlanta",
+            "state_name": null
+        },
+        {
+            "id": 5763,
+            "client_name": "Kandie Martin",
+            "client_review": "I evaluated a lot of virtual office services prior to selecting Opus Virtual Offices. Their monthly fee is very reasonable and gives my company a polished look. Utilizing this service has helped my business expand as I can meet my client and potential clients in a central location. This is especially helpful when it comes to the Atlanta area! Highly Recommended.",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Atlanta",
+            "state_name": null
+        },
+        {
+            "id": 5762,
+            "client_name": "E Phoeson",
+            "client_review": "Been using the service for 2 years and absolutely love them.  We use them for two different locations one in Ohio and one in Atlanta.  Opus is very responsive to your inquiries.  I have never had any issues with my mail or booking conference rooms.  Onsite staff is always friendly and helpful.  I would highly recommend OVO.",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Atlanta",
+            "state_name": null
+        },
+        {
+            "id": 5043,
+            "client_name": "Amrinder Romana",
+            "client_review": "Great service provided by OPUS for my company. Their Wilmington office provide great service. I have Opus office for past 2-3 years. No Problems.",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Wilmington, DE",
+            "state_name": null
+        },
+        {
+            "id": 5042,
+            "client_name": "Samir Zakir",
+            "client_review": "I absolutely love my experience and service with Opus VO.",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Beverly Hills, CA",
+            "state_name": null
+        },
+        {
+            "id": 5041,
+            "client_name": "Irfan Zaidi",
+            "client_review": "I am very satisfied with the service. I plan to increase the usage of OPUS for my business in the near future.",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "New York, NY",
+            "state_name": null
+        },
+        {
+            "id": 5034,
+            "client_name": "Ben Cohen",
+            "client_review": "It has been great! super efficient and zero complaints. Staff are very attentive and reliable",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "New York, NY",
+            "state_name": null
+        },
+        {
+            "id": 5033,
+            "client_name": "Leon Adair",
+            "client_review": "Opus provides my business with administrative solutions and options that helps me operate in ways I couldn't otherwise imagine. Thank you.",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Portland, OR",
+            "state_name": null
+        },
+        {
+            "id": 5032,
+            "client_name": "Patricia Webb",
+            "client_review": "I have been with Opus for almost 3 years and they have been nothing but great! I wish every service provider was like them. Also, I truly appreciate how they consistently continue to upgrade their service. A++++",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Boca Raton, FL",
+            "state_name": null
+        },
+        {
+            "id": 5031,
+            "client_name": "Ronald Anania",
+            "client_review": "I have had a very positive experience at Opus's 515 Los Olas Blvd., Ft. Lauderdale Office. My mail is secure, incoming calls are handled professionally, the receptionist is very congenial, and the conference rooms are kept clean. I plan ahead as best as possible, and therefore have no conference room scheduling issues.",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Fort Lauderdale, FL",
+            "state_name": null
+        },
+        {
+            "id": 5030,
+            "client_name": "Matthew Gethins",
+            "client_review": "I evaluated a lot of virtual office services prior to selecting Opus Virtual Offices. Their monthly fee is very reasonable versus what you get in terms of services and a good address for your company or organization. Our company has been using them for over 2 years and we have no intentions of changing. BTW, virtual doesn't mean no people to help you, the staff at our location has always been great and ready to help us whenever we needed assistance. Great service and easy to business with. Highly recommended.",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Atlanta, GA",
+            "state_name": null
+        },
+        {
+            "id": 5029,
+            "client_name": "Nadine Plunkett",
+            "client_review": "I must say this is the best thing for me starting up a business and having a virtual offices. I love opus virtual offices because i can get all fax to my email which I'm so big on, and also all forward calls come to my phone as well. I love the fact if you need to have a meeting you can login and see if there is meeting space is open and book it. This is a best way for all upcoming business to start out. All the workers at Opus Virtual offices are so nice as well. -Gladiator Capital Invesment LLC",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Fort Lauderdale, FL",
+            "state_name": null
+        },
+        {
+            "id": 5028,
+            "client_name": "Mustafa Sharif",
+            "client_review": "Opus office has been a big help to the virtual office have given me and corporate ran looking office without me having to be in and office on a daily basis. The phone forwarding lets me get my calls wherever am at are send them to my voice mail and get the message later. The live answering by the reception makes it more professional I recommend Opus with anyone starting and business are working from home.",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Atlanta, GA",
+            "state_name": null
+        },
+        {
+            "id": 5027,
+            "client_name": "Snehal Chaudhari",
+            "client_review": "I highly recommend them.",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "New York, NY",
+            "state_name": null
+        },
+        {
+            "id": 5026,
+            "client_name": "Andrae Givans",
+            "client_review": "They do a great job.",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Darien, CT",
+            "state_name": null
+        },
+        {
+            "id": 5035,
+            "client_name": "Tirza Casanova",
+            "client_review": "Fast, Accurate, Professional",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Boca Raton, FL",
+            "state_name": null
+        },
+        {
+            "id": 5024,
+            "client_name": "Dr. John Strong",
+            "client_review": "My Dallas Office location in Turtle Creek. Love it!!!",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Dallas, TX",
+            "state_name": null
+        },
+        {
+            "id": 5022,
+            "client_name": "Travis Pernell",
+            "client_review": "Opus Virtual Offices is professional and good at what they do. The services have helped me a lot in getting business noticed by top clients and more. Try'em, they're just that good!!",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Houston, TX",
+            "state_name": null
+        },
+        {
+            "id": 5020,
+            "client_name": "Dawn Watts",
+            "client_review": "An affordable option to establish a professional presence for my home-based business.",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Beverly Hills, CA",
+            "state_name": null
+        },
+        {
+            "id": 5018,
+            "client_name": "Divine Favor",
+            "client_review": "They are very responsive so far. The set up seems relatively straightforward and easy. I will give a review on the actual service in about 30 days, but so far, great service!",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Los Angeles, CA",
+            "state_name": null
+        },
+        {
+            "id": 5016,
+            "client_name": "Nicholas Ellan",
+            "client_review": "Wow these people are phone wizards!",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Vancouver, Canada",
+            "state_name": null
+        },
+        {
+            "id": 5014,
+            "client_name": "Leonidas E Williamson",
+            "client_review": "Their sign up was as quick and easy as I've ever experienced.",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Boca Raton, FL",
+            "state_name": null
+        },
+        {
+            "id": 5012,
+            "client_name": "T.J. Hartford",
+            "client_review": "I'm still getting but everything I've learned is all positive, just the right thing for a new business to establish a business address without the brick and mortar.",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Providence, RI",
+            "state_name": null
+        },
+        {
+            "id": 5010,
+            "client_name": "Kimberly Burns",
+            "client_review": "Donna was extremely comforting and professional. She answered all of my questions and concerns. She also made sure I left the call with a smile on my face.",
+            "stars": 5,
+            "review_by": "Google Review",
+            "client_location": "Orlando, FL",
+            "state_name": null
+        }
+    ],
+    "seo": {
+        "title": "Opus Virtual Office Reviews",
+        "meta_description": "Opus Virtual Office Reviews from real customers. Visit our reviews page to learn how a Virtual Office has helped many businesses.",
+        "canonical": "https://njs.opusvirtualoffices.com/reviews/",
+        "og": {
+            "title": "Opus Virtual Office Reviews",
+            "description": "Opus Virtual Office Reviews from real customers. Visit our reviews page to learn how a Virtual Office has helped many businesses.",
+            "url": "https://njs.opusvirtualoffices.com/reviews/",
+            "type": "website",
+            "image": "https://njs.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+        }
+    }
+}

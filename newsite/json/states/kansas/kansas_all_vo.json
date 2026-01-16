@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "state": "kansas",
+    "cities_virtual": [
+        {
+            "id": "574",
+            "name": "Topeka",
+            "popular": "1"
+        },
+        {
+            "id": "362",
+            "name": "Wichita",
+            "popular": "1"
+        }
+    ],
+    "cities_business": [
+        {
+            "id": "574",
+            "name": "Topeka",
+            "popular": "1"
+        }
+    ],
+    "cities_popular": [
+        {
+            "id": "574",
+            "name": "Topeka"
+        },
+        {
+            "id": "362",
+            "name": "Wichita"
+        }
+    ],
+    "locations_virtual_office": [
+        {
+            "id": 969,
+            "location_name": "2611 SW 17th Street, Topeka, KS 66604",
+            "city": "Topeka",
+            "state": "Kansas",
+            "state_abbr": "KS",
+            "address": "2611 SW 17th Street, Topeka, KS 66604",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 39.036579,
+            "point_y": -95.710419,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/969-Front-Building.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/kansas/topeka/location-969/",
+            "phone": "7853807268"
+        },
+        {
+            "id": 1641,
+            "location_name": "4925 S Broadway, Wichita, KS 67216",
+            "city": "Wichita",
+            "state": "Kansas",
+            "state_abbr": "KS",
+            "address": "4925 S Broadway, Wichita, KS 67216",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 37.6059781,
+            "point_y": -97.33467259,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/kansas/wichita/location-1641/",
+            "phone": "0"
+        }
+    ],
+    "meta": {
+        "cities_virtual_count": 2,
+        "cities_business_count": 1,
+        "cities_popular_count": 2,
+        "locations_virtual_office_count": 2
+    },
+    "seo": {
+        "title": "Virtual Office in Kansas | Locations Statewide | Opus VO",
+        "meta_description": "Get a prestigious Kansas business address and professional phone answering services with Opus Virtual Offices, the perfect office solution for your business needs.",
+        "canonical": "https://www.opusvirtualoffices.com/virtual-office/kansas/",
+        "og": {
+            "title": "Virtual Office in Kansas | Locations Statewide | Opus VO",
+            "description": "Get a prestigious Kansas business address and professional phone answering services with Opus Virtual Offices, the perfect office solution for your business needs.",
+            "url": "https://www.opusvirtualoffices.com/virtual-office/kansas/",
+            "type": "website",
+            "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+        }
+    }
+}

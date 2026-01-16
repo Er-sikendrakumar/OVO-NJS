@@ -1,0 +1,22 @@
+{
+    "success": true,
+    "count": 3,
+    "state": "hawaii",
+    "data": [
+        {
+            "id": "813",
+            "name": "Honolulu",
+            "popular": "1"
+        },
+        {
+            "id": "754",
+            "name": "Kailua",
+            "popular": "1"
+        },
+        {
+            "id": "854",
+            "name": "Kailua Kona",
+            "popular": "1"
+        }
+    ]
+}

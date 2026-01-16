@@ -1,0 +1,92 @@
+{
+    "success": true,
+    "location_id": 931,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Bensalem",
+            "state": "PA",
+            "price": null,
+            "address": {
+                "line1": "501 Cambria Avenue",
+                "suite": null,
+                "city": "Bensalem",
+                "state": "PA",
+                "zip": "19020",
+                "phone": "(215) 613-0038"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/931-Building-800x530.jpg",
+                    "/wp-content-mgr/wp-content/uploads/931-Lobby-2-800x530.jpg",
+                    "/wp-content-mgr/wp-content/uploads/931-Lobby.jpg",
+                    "/wp-content-mgr/wp-content/uploads/931-Board-Room.jpg"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=931",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Bensalem Virtual Office",
+            "body": "Unlock the benefits of securing a prestigious business address in Bensalem, Pennsylvania, without the need for a physical office space. At Opus VO, we provide you with the opportunity to position your business in the heart of Bensalem’s dynamic business community while optimizing operational efficiency. Our modern conference rooms are readily available for important meetings and collaborative endeavors.  By selecting Opus VO’s virtual office in Bensalem, you not only secure a prestigious address but also gain access to a professional live receptionist who seamlessly integrates with your team. They ensure that every client interaction embodies your unique brand identity, allowing us to manage routine administrative tasks while you focus on your core business objectives. ",
+            "map": {
+                "lat": 40.0685284,
+                "lng": -74.948709,
+                "zoom": 14,
+                "city": "Bensalem"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Bensalem, Pennsylvania even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Bensalem. You can also adapt to better meet your clients’ unique needs within Pennsylvania. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Bensalem virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Bensalem?",
+                "body": "Bensalem is more than just a thriving community; it’s a bustling business hub with opportunities spanning various sectors, including retail, manufacturing, and technology. Having a Bensalem address not only enhances your business reputation but also grants access to essential networking events and industry connections.  Opting for Opus VO for your virtual office in Bensalem is not just a practical choice; it’s a strategic advantage. Are you prepared to elevate your business presence? Explore our exceptional virtual office solutions today.  Opus VO, Bensalem @ 501 Cambria Avenue, Bensalem, PA 19020 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Bensalem - 501 Cambria Avenue | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Pennsylvania, Bensalem virtual office located at 501 Cambria Avenue. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/pennsylvania/bensalem/location-931/",
+            "og": {
+                "title": "Virtual Office in Bensalem - 501 Cambria Avenue | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Pennsylvania, Bensalem virtual office located at 501 Cambria Avenue. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/pennsylvania/bensalem/location-931/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/931-Building.jpg"
+            }
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "success": true,
+    "count": 1,
+    "state": "nevada",
+    "data": [
+        {
+            "id": "178",
+            "name": "Las Vegas",
+            "popular": "1"
+        }
+    ]
+}

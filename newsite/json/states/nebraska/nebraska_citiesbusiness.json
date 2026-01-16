@@ -1,0 +1,12 @@
+{
+    "success": true,
+    "count": 1,
+    "state": "nebraska",
+    "data": [
+        {
+            "id": "171",
+            "name": "Lincoln",
+            "popular": "1"
+        }
+    ]
+}

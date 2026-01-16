@@ -1,0 +1,19 @@
+{
+    "success": true,
+    "count": 3,
+    "state": "hawaii",
+    "data": [
+        {
+            "id": "813",
+            "name": "Honolulu"
+        },
+        {
+            "id": "754",
+            "name": "Kailua"
+        },
+        {
+            "id": "854",
+            "name": "Kailua Kona"
+        }
+    ]
+}

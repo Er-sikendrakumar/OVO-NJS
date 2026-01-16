@@ -1,0 +1,23 @@
+{
+    "success": true,
+    "count": 4,
+    "state": "minnesota",
+    "data": [
+        {
+            "id": "596",
+            "name": "Edina"
+        },
+        {
+            "id": "554",
+            "name": "Minneapolis"
+        },
+        {
+            "id": "226",
+            "name": "Saint Paul"
+        },
+        {
+            "id": "595",
+            "name": "St. Louis Park"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "success": true,
+    "count": 2,
+    "state": "idaho",
+    "data": [
+        {
+            "id": "530",
+            "name": "Boise"
+        },
+        {
+            "id": "383",
+            "name": "Dalton Gardens"
+        }
+    ]
+}

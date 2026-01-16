@@ -1,0 +1,93 @@
+{
+    "success": true,
+    "location_id": 1100,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Peachtree City",
+            "state": "GA",
+            "price": null,
+            "address": {
+                "line1": "401 Westpark Court",
+                "suite": null,
+                "city": "Peachtree City",
+                "state": "GA",
+                "zip": "30269",
+                "phone": "(678) 783-5684"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/1100-01-Building.png",
+                    "/wp-content-mgr/wp-content/uploads/2Lobby-800x400.png",
+                    "/wp-content-mgr/wp-content/uploads/3Shared-space-800x400.png",
+                    "/wp-content-mgr/wp-content/uploads/4Board-Room-800x400.png",
+                    "/wp-content-mgr/wp-content/uploads/5Building-2-800x400.png"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1100",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Peachtree Virtual Office",
+            "body": "Unlock the prestige of a distinguished business address in Peachtree without the operational intricacies and financial commitments of conventional office space. Opus VO offers you the allure of a reputable Peachtree business address at a cost that won’t break the bank. Efficiently handle your corporate mail, meet clients, and conduct meetings in our contemporary meeting rooms. Enhance your brand’s image with a noteworthy address in one of Peachtree’s bustling business zones.  When you opt for a Peachtree virtual office through Opus VO, you also gain the invaluable service of a live receptionist. This adds a layer of personalized client engagement, making every client interaction unique and tailored to meet your specific business needs. Plus, you’ll benefit from our comprehensive range of high-quality administrative offerings, such as complete mail handling, elite call forwarding services, and more. Concentrate on scaling your business while our skilled administrative staff takes care of your routine operational requirements. ",
+            "map": {
+                "lat": 33.4013162,
+                "lng": -84.5896003,
+                "zoom": 14,
+                "city": "Peachtree City"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Peachtree City, Georgia even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Peachtree City. You can also adapt to better meet your clients’ unique needs within Georgia. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Peachtree City virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why opt for a Peachtree Virtual Office?",
+                "body": "Peachtree is more than just a charming Southern city; it’s a growing economic hub suitable for businesses in various sectors, from retail to technology. Associate your business with this expanding market to tap into a wealth of local opportunities that can positively influence your bottom line. Our Peachtree location is strategically placed near key business and networking venues, giving you instant access to valuable opportunities.  Choosing an Opus Virtual Office in Peachtree provides your business with an undeniable competitive advantage, all without the hefty price tag of traditional office spaces. Elevate your business prospects today by leveraging this cutting-edge, flexible workspace solution.  Opus VO, Peachtree @ 401 Westpark Court, Peachtree City, GA 30269. ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Peachtree City - 401 Westpark Court | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Georgia, Peachtree City virtual office located at 401 Westpark Court. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/georgia/peachtree-city/location-1100/",
+            "og": {
+                "title": "Virtual Office in Peachtree City - 401 Westpark Court | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Georgia, Peachtree City virtual office located at 401 Westpark Court. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/georgia/peachtree-city/location-1100/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/1100-01-Building.png"
+            }
+        }
+    }
+}

@@ -1,0 +1,65 @@
+# Dependencies
+node_modules
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Next.js
+.next
+out
+
+# Build outputs
+dist
+build
+*.tar.gz
+
+# Environment variables
+.env
+.env*.local
+.env.production
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode
+.idea
+*.swp
+*.swo
+*~
+
+# Testing
+coverage
+.nyc_output
+
+# Local development
+.local
+server/public
+vite.config.ts.*
+
+# Database
+*.db
+*.sqlite
+
+# Logs
+logs
+*.log
+
+# Custom ignores
+agent-images/
+figma/
+scripts/
+.claude/
+.git.bad/
+*.md
+api-responses/
+app/locations/
+next-env.d.tsNUL
+
+# Ignore markdown files except specific ones
+*.md
+!.github/**/*.md
+!.github/workflows/*.yml
+

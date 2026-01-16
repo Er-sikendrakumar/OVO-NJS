@@ -1,0 +1,92 @@
+{
+    "success": true,
+    "location_id": 1507,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Louisville",
+            "state": "CO",
+            "price": null,
+            "address": {
+                "line1": "357 McCaslin Blvd",
+                "suite": null,
+                "city": "Louisville",
+                "state": "CO",
+                "zip": "80027",
+                "phone": "(720) 598-9174"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/1507-01.bldg_.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1507-02.front_.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1507-03.conf_.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1507-04.conf_.jpg"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1507",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Louisville Virtual Office",
+            "body": "Secure a top-notch business address in Louisville without the overhead of a physical office. With Opus VO, you can establish your venture right in the heart of Louisville’s dynamic marketplace, all while saving those precious dollars. When you have crucial meetings or client engagements, you’ll have access to our contemporary conference rooms, perfectly equipped for your needs. Plus, a Louisville business address gives your brand that extra flair.  Going virtual in Louisville through Opus VO also gifts you with the services of a live receptionist. We aim to make every client interaction resonate with your unique business ethos. Offload those mundane administrative tasks to us, so you can focus on chasing down your business goals. ",
+            "map": {
+                "lat": 39.9664699,
+                "lng": -105.165279,
+                "zoom": 14,
+                "city": "Louisville"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Louisville, Colorado even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Louisville. You can also adapt to better meet your clients’ unique needs within Colorado. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Louisville virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Louisville?",
+                "body": "Don’t underestimate Louisville—this town is more than just a suburban gem. It’s a growing hub for tech startups, local artisans, and health services. Our Louisville locale offers you effortless connections to vital industry movers and networking events that you won’t want to miss.  By opting for Opus VO in Louisville, you’re doing more than economizing—you’re arming yourself with a competitive advantage. Ready to elevate your business game? Our top-of-the-line virtual office services are at your disposal.  Opus VO Louisville @ 357 McCaslin Blvd, Louisville, CO 80027 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Louisville - 357 McCaslin Blvd | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Colorado, Louisville virtual office located at 357 McCaslin Blvd. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/colorado/louisville/location-1507/",
+            "og": {
+                "title": "Virtual Office in Louisville - 357 McCaslin Blvd | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Colorado, Louisville virtual office located at 357 McCaslin Blvd. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/colorado/louisville/location-1507/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/1507-01.bldg_.jpg"
+            }
+        }
+    }
+}

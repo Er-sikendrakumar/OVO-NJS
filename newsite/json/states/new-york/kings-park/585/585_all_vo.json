@@ -1,0 +1,89 @@
+{
+    "success": true,
+    "location_id": 585,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Kings Park",
+            "state": "NY",
+            "price": null,
+            "address": {
+                "line1": "21 Pulaski Road",
+                "suite": null,
+                "city": "Kings Park",
+                "state": "NY",
+                "zip": "11754",
+                "phone": "(631) 973-3064"
+            },
+            "images": {
+                "hero": [
+                    "/assets/mail-center.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=585",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 0,
+            "nearbyPremium": 1,
+            "nearbyPremiumUrl": "/virtual-office/new-york/melville/location-1041/",
+            "nearbyPremiumText": "to view the nearby PREMIUM Locations for the same $99/mo",
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Kings Park Virtual Office",
+            "body": "Ever considered a premium Kings Park address without the long-term commitment of a physical office? Look no further than Opus VO. Situate your business in Kings Park’s lively commercial district while staying financially flexible. Our modern conference rooms are available for those essential meetings or teamwork sessions.  By opting for our virtual workspace in Kings Park, you’re getting more than just a sought-after address. You’ll also have a skilled live receptionist who will seamlessly mesh with your team. They’ll ensure each interaction with your clients mirrors your distinct brand image, freeing us to manage the routine administrative tasks while you keep your eyes on your ultimate business objectives. ",
+            "map": {
+                "lat": 40.8859,
+                "lng": -73.258518,
+                "zoom": 14,
+                "city": "Kings Park"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Kings Park, New York even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Kings Park. You can also adapt to better meet your clients’ unique needs within New York. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Kings Park virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Kings Park?",
+                "body": "Kings Park is more than just a picturesque locale; it’s a burgeoning commercial area with diverse opportunities in sectors like healthcare, retail, and technology. A Kings Park address adds gravitas to your brand and offers you access to critical industry events and networking possibilities.  Choosing Opus VO for your virtual workspace in Kings Park is more than just a cost-effective decision; it’s a game-changer. Ready to elevate your business? Browse through our range of flexible virtual workspace offerings today.  Opus VO, Kings Park @ 21 Pulaski Road, Kings Park, NY 11754 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Kings Park - 21 Pulaski Road | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our New York, Kings Park virtual office located at 21 Pulaski Road. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/new-york/kings-park/location-585/",
+            "og": {
+                "title": "Virtual Office in Kings Park - 21 Pulaski Road | $99/Month",
+                "description": "Get the ultimate office solution for your business with our New York, Kings Park virtual office located at 21 Pulaski Road. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/new-york/kings-park/location-585/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+            }
+        }
+    }
+}

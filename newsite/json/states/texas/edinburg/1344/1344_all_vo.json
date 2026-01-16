@@ -1,0 +1,92 @@
+{
+    "success": true,
+    "location_id": 1344,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Edinburg",
+            "state": "TX",
+            "price": null,
+            "address": {
+                "line1": "204 E Cano Street",
+                "suite": null,
+                "city": "Edinburg",
+                "state": "TX",
+                "zip": "78539",
+                "phone": "(956) 429-3409"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/1344-exterior.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1344-conference.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1344-lounge.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1344-reception.jpg"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1344",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Edinburg Virtual Office",
+            "body": "Thinking about setting up your business in Edinburg but worried about the cost of renting an office? Opus VO has got you covered. You can use one of our top-notch Edinburg locations as your business address without breaking the bank. And if you need to meet clients or have a team meeting, you can use our modern conference rooms.  But that’s not all. When you sign up for a virtual office with Opus VO in Edinburg, you also get a real person to answer your business calls. Our team is here to make sure your clients have a great experience every time they get in touch with you. We also handle routine stuff like sorting your mail and forwarding your calls, so you can focus on growing your business. ",
+            "map": {
+                "lat": 26.3000413,
+                "lng": -98.16129989,
+                "zoom": 14,
+                "city": "Edinburg"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Edinburg, Texas even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Edinburg. You can also adapt to better meet your clients’ unique needs within Texas. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Edinburg virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Choose Edinburg and Opus VO?",
+                "body": "Edinburg isn’t just a nice place to live; it’s also a great place to do business. By using Opus VO in Edinburg, you’re saving money and becoming part of a vibrant business community. It’s a smart way to help your business grow.  So, why wait? Your next big step in business could be just a call or click away.  Opus VO Location in Edinburg @ 204 E Cano Street, Edinburg, TX 78539 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Edinburg - 204 E Cano Street | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Texas, Edinburg virtual office located at 204 E Cano Street. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/texas/edinburg/location-1344/",
+            "og": {
+                "title": "Virtual Office in Edinburg - 204 E Cano Street | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Texas, Edinburg virtual office located at 204 E Cano Street. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/texas/edinburg/location-1344/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/1344-exterior.jpg"
+            }
+        }
+    }
+}

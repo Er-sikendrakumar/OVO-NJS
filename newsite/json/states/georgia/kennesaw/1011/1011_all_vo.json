@@ -1,0 +1,93 @@
+{
+    "success": true,
+    "location_id": 1011,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Kennesaw",
+            "state": "GA",
+            "price": null,
+            "address": {
+                "line1": "1300 Ridenour Boulevard",
+                "suite": null,
+                "city": "Kennesaw",
+                "state": "GA",
+                "zip": "30152",
+                "phone": "(678) 734-9804"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/1011-exterior.png",
+                    "/wp-content-mgr/wp-content/uploads/1011-conference.png",
+                    "/wp-content-mgr/wp-content/uploads/1011-conference2.png",
+                    "/wp-content-mgr/wp-content/uploads/1011-reception.png",
+                    "/wp-content-mgr/wp-content/uploads/100-lobby.png"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1011",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 1,
+            "nearbyPremiumUrl": "/virtual-office/georgia/atlanta/location-684/",
+            "nearbyPremiumText": "to view the most POPULAR locations nearby for the same $99/mo",
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "KENNESAW VIRTUAL OFFICE",
+            "body": "Enjoy the benefits of having a business address in Kennesaw, Georgia, without the overhead of a traditional office space. Opus VO gives you a professional mailing address for all your business needs, a prestigious office to meet and greet clients, and luxury meeting rooms for collaborative events. Level up your business with a professional address in Kennesaw, Georgia.   Offer clients personalized attention. With Opus VO, every call is treated as a unique encounter tailored to your client’s needs. Stop being pulled in different directions, focus on what’s important, and let our administrative support do the rest. Opus VO is here to help you expand your business reach and support your new endeavor. ",
+            "map": {
+                "lat": 33.995750699,
+                "lng": -84.589473,
+                "zoom": 14,
+                "city": "Kennesaw"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Kennesaw, Georgia even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Kennesaw. You can also adapt to better meet your clients’ unique needs within Georgia. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Kennesaw virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "GET A KENNESAW VIRTUAL OFFICE",
+                "body": "With a Kennesaw virtual office, you don’t need to choose where or how you want to run your company. Opus VO gives you the freedom and flexibility to run your business your way. With our premium virtual office package, you get a local business number and a prestigious business address in Cobb County, GA. If you want to create a professional image for your business or want you want to expand your up-and-running company into new markets, consider Opus VO. You’ll create instant credibility without the hassle.   Opus VO, Kennesaw @ 1300 Ridenour Boulevard Kennesaw, GA 30152 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Kennesaw - 1300 Ridenour Boulevard | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Georgia, Kennesaw virtual office located at 1300 Ridenour Boulevard. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/georgia/kennesaw/location-1011/",
+            "og": {
+                "title": "Virtual Office in Kennesaw - 1300 Ridenour Boulevard | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Georgia, Kennesaw virtual office located at 1300 Ridenour Boulevard. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/georgia/kennesaw/location-1011/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/1011-exterior.png"
+            }
+        }
+    }
+}

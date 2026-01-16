@@ -1,0 +1,89 @@
+{
+    "success": true,
+    "location_id": 955,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Clinton Township",
+            "state": "MI",
+            "price": null,
+            "address": {
+                "line1": "41800 Hayes Road",
+                "suite": null,
+                "city": "Clinton Township",
+                "state": "MI",
+                "zip": "48038",
+                "phone": "(248) 973-6119"
+            },
+            "images": {
+                "hero": [
+                    "/assets/mail-center.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=955",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 0,
+            "nearbyPremium": 1,
+            "nearbyPremiumUrl": "/virtual-office/michigan/sterling-heights/location-1254/",
+            "nearbyPremiumText": "to view the nearby PREMIUM Locations for the same $99/mo",
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Clinton Township Virtual Office",
+            "body": "Achieve an esteemed business address in Clinton Township, minus the fiscal commitment of leasing a physical office. With Opus VO, set your business among the lively Clinton Township locale, all while effectively managing your budget. Planning a make-or-break meeting or an essential client pitch? Our well-appointed meeting rooms are primed to dazzle and captivate.  When you opt for a virtual office in Clinton Township through Opus VO, a specialized live receptionist is part of the service offering. Our goal is to ensure that each client interaction aligns seamlessly with your brand identity. Offload your mundane administrative tasks to us, liberating you to focus on your ultimate business pursuits. ",
+            "map": {
+                "lat": 42.602905,
+                "lng": -82.971359,
+                "zoom": 14,
+                "city": "Clinton Township"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Clinton Township, Michigan even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Clinton Township. You can also adapt to better meet your clients’ unique needs within Michigan. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Clinton Township virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Clinton Township?",
+                "body": "Don’t overlook Clinton Township—this area is more than just a suburban charm. It’s a growing nexus for diversified businesses, from retail to tech innovation. Having a virtual office in Clinton Township connects you to a variety of key players and events that could greatly benefit your business network.  Selecting Opus VO in Clinton Township is not merely a cost-saving decision—it’s a powerful business move. Are you prepared to upscale your business status? Our first-rate virtual office services await your command.  Opus VO Clinton Township @ 41800 Hayes Road, Clinton Township, MI 48038 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Clinton Township - 41800 Hayes Road | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Michigan, Clinton Township virtual office located at 41800 Hayes Road. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/michigan/clinton-township/location-955/",
+            "og": {
+                "title": "Virtual Office in Clinton Township - 41800 Hayes Road | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Michigan, Clinton Township virtual office located at 41800 Hayes Road. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/michigan/clinton-township/location-955/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+            }
+        }
+    }
+}

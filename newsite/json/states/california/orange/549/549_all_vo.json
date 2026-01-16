@@ -1,0 +1,89 @@
+{
+    "success": true,
+    "location_id": 549,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Orange",
+            "state": "CA",
+            "price": null,
+            "address": {
+                "line1": "3024 E. Chapman Avenue",
+                "suite": null,
+                "city": "Orange",
+                "state": "CA",
+                "zip": "92869",
+                "phone": "(714) 242-3820"
+            },
+            "images": {
+                "hero": [
+                    "/assets/mail-center.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=549",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 0,
+            "nearbyPremium": 1,
+            "nearbyPremiumUrl": "/virtual-office/california/fullerton/location-1567/",
+            "nearbyPremiumText": "to view the nearby PREMIUM Locations for the same $99/mo",
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Orange Virtual Office",
+            "body": "Relish the perks of a distinguished business address in Orange without the financial demands of maintaining a brick-and-mortar office. Opus VO offers you the chance to situate your business in a top-notch Orange location, without the hefty costs associated with a traditional office lease. Take advantage of our modern conference rooms for essential business discussions and client interactions, all while elevating your brand’s status with a respected Orange address.  When you opt for a virtual office in Orange via Opus VO, you gain the unique advantage of a live receptionist, dedicated to delivering customized, first-rate customer service. Our team ensures each client interaction is in perfect alignment with your specific business ambitions. Relieve yourself of mundane administrative duties like digital mail management and call-forwarding, giving you more time to concentrate on your business’ upward trajectory. ",
+            "map": {
+                "lat": 33.7875948,
+                "lng": -117.8208028,
+                "zoom": 14,
+                "city": "Orange"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Orange, California even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Orange. You can also adapt to better meet your clients’ unique needs within California. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Orange virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Choose an Orange Virtual Office?",
+                "body": "Orange is more than just a picturesque Southern California city; it’s a vibrant business hub with diverse opportunities in areas such as healthcare, technology, and professional services. Located conveniently near key business districts, our Orange office provides you with unrestricted access to vital industry contacts and stimulating networking opportunities.  By selecting an Opus Virtual Office in Orange, you’re doing much more than cutting back on overhead; you’re seizing a valuable competitive advantage. Boost your business to new heights by utilizing our outstanding virtual office solutions today.  Opus VO, Orange Ca. @ 3024 E. Chapman Avenue., Orange, CA 92869 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Orange - 3024 E. Chapman Avenue | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our California, Orange virtual office located at 3024 E. Chapman Avenue. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/california/orange/location-549/",
+            "og": {
+                "title": "Virtual Office in Orange - 3024 E. Chapman Avenue | $99/Month",
+                "description": "Get the ultimate office solution for your business with our California, Orange virtual office located at 3024 E. Chapman Avenue. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/california/orange/location-549/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+            }
+        }
+    }
+}

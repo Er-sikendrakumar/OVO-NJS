@@ -1,0 +1,157 @@
+{
+    "success": true,
+    "count": 30,
+    "state": "new york",
+    "data": [
+        {
+            "id": "403",
+            "name": "Albany",
+            "popular": "1"
+        },
+        {
+            "id": "851",
+            "name": "Amherst",
+            "popular": "0"
+        },
+        {
+            "id": "327",
+            "name": "Binghamton",
+            "popular": "0"
+        },
+        {
+            "id": "212",
+            "name": "Bronx",
+            "popular": "1"
+        },
+        {
+            "id": "98",
+            "name": "Brooklyn",
+            "popular": "1"
+        },
+        {
+            "id": "194",
+            "name": "Buffalo",
+            "popular": "1"
+        },
+        {
+            "id": "347",
+            "name": "East Setauket",
+            "popular": "0"
+        },
+        {
+            "id": "794",
+            "name": "Forest Hills",
+            "popular": "0"
+        },
+        {
+            "id": "453",
+            "name": "Glen Cove",
+            "popular": "0"
+        },
+        {
+            "id": "99",
+            "name": "Great Neck",
+            "popular": "0"
+        },
+        {
+            "id": "873",
+            "name": "Huntington",
+            "popular": "0"
+        },
+        {
+            "id": "346",
+            "name": "Kings Park",
+            "popular": "0"
+        },
+        {
+            "id": "305",
+            "name": "Larchmont",
+            "popular": "0"
+        },
+        {
+            "id": "786",
+            "name": "Long Beach",
+            "popular": "0"
+        },
+        {
+            "id": "712",
+            "name": "Long Island City",
+            "popular": "0"
+        },
+        {
+            "id": "606",
+            "name": "Melville",
+            "popular": "0"
+        },
+        {
+            "id": "884",
+            "name": "Mooers",
+            "popular": "0"
+        },
+        {
+            "id": "701",
+            "name": "New City",
+            "popular": "1"
+        },
+        {
+            "id": "681",
+            "name": "New York",
+            "popular": "0"
+        },
+        {
+            "id": "645",
+            "name": "Newburgh",
+            "popular": "0"
+        },
+        {
+            "id": "641",
+            "name": "Plainview",
+            "popular": "0"
+        },
+        {
+            "id": "741",
+            "name": "Poughkeepsie",
+            "popular": "0"
+        },
+        {
+            "id": "278",
+            "name": "Queens Village",
+            "popular": "0"
+        },
+        {
+            "id": "192",
+            "name": "Rochester",
+            "popular": "1"
+        },
+        {
+            "id": "735",
+            "name": "Scarsdale",
+            "popular": "0"
+        },
+        {
+            "id": "911",
+            "name": "Skaneateles",
+            "popular": "0"
+        },
+        {
+            "id": "337",
+            "name": "Slingerlands",
+            "popular": "0"
+        },
+        {
+            "id": "195",
+            "name": "Syracuse",
+            "popular": "1"
+        },
+        {
+            "id": "601",
+            "name": "Uniondale",
+            "popular": "0"
+        },
+        {
+            "id": "532",
+            "name": "White Plains",
+            "popular": "1"
+        }
+    ]
+}

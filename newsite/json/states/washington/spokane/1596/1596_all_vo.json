@@ -1,0 +1,95 @@
+{
+    "success": true,
+    "location_id": 1596,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Spokane",
+            "state": "WA",
+            "price": null,
+            "address": {
+                "line1": "707 W Main Avenue",
+                "suite": null,
+                "city": "Spokane",
+                "state": "WA",
+                "zip": "99201",
+                "phone": "(888) 898-9868"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/1596-exterior.png",
+                    "/wp-content-mgr/wp-content/uploads/1596-conference.png",
+                    "/wp-content-mgr/wp-content/uploads/1596-conference2.png",
+                    "/wp-content-mgr/wp-content/uploads/1596-cowork.png",
+                    "/wp-content-mgr/wp-content/uploads/1596-reception.png",
+                    "/wp-content-mgr/wp-content/uploads/1596-kitchen.png",
+                    "/wp-content-mgr/wp-content/uploads/1592-lounge.jpg"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1596",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Spokane Virtual Office",
+            "body": "Ever considered a distinguished Spokane address to amplify your startup or revamp your existing business, yet wary of the overhead that comes with a traditional office? Opus VO is your answer. Plant your brand’s flag in one of our exceptional Spokane locations, gaining the allure of a premium address without straining your budget. And for those mission-critical meetings or client discussions that require the right atmosphere, our advanced conference rooms are at your beck and call.  But a business address is just the beginning. Enlist in a virtual office at Opus VO in Spokane and you also get the invaluable service of a live receptionist. Count on us to handle your client communications with the utmost finesse, all while mirroring your unique business ethos. Need to offload responsibilities like email triage and intelligent call routing? We have that covered, allowing you to laser-focus on business growth. ",
+            "map": {
+                "lat": 47.6588493,
+                "lng": -117.4225694,
+                "zoom": 14,
+                "city": "Spokane"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Spokane, Washington even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Spokane. You can also adapt to better meet your clients’ unique needs within Washington. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Spokane virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Spokane? Why Opus VO?",
+                "body": "Spokane isn’t just scenic landscapes and outdoor activities; it’s an emerging hub for diverse industries. Opt for an Opus VO virtual office in Spokane, and you’re not just getting an address—you’re tapping into a vibrant ecosystem of professionals, teeming with opportunities for collaboration and growth.  Choosing Opus VO in Spokane is about more than fiscal prudence; it’s about enabling the future achievements of your business. Your next monumental stride might be just one virtual office decision away.  Opus VO Location in Spokane @ 707 W Main Avenue, Spokane, WA 99201 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Spokane - 707 W Main Avenue | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Washington, Spokane virtual office located at 707 W Main Avenue. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/washington/spokane/location-1596/",
+            "og": {
+                "title": "Virtual Office in Spokane - 707 W Main Avenue | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Washington, Spokane virtual office located at 707 W Main Avenue. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/washington/spokane/location-1596/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/1596-exterior.png"
+            }
+        }
+    }
+}

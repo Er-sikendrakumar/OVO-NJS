@@ -1,0 +1,118 @@
+{
+    "success": true,
+    "location_id": 1255,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Dallas",
+            "state": "TX",
+            "price": null,
+            "address": {
+                "line1": "3626 North Hall Street (Two Oak Lawn)",
+                "suite": "Suite 610",
+                "city": "Dallas",
+                "state": "TX",
+                "zip": "75219",
+                "phone": "(214) 932-9906"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/Opus-Virtual-Office-Dallas-3626-North-Hall-Street-Modern-Office-Building.webp",
+                    "/wp-content-mgr/wp-content/uploads/AY_Shay-Zaidenberg-003.webp",
+                    "/wp-content-mgr/wp-content/uploads/AY_Shay-Zaidenberg-006.webp",
+                    "/wp-content-mgr/wp-content/uploads/AY_Shay-Zaidenberg-020.webp",
+                    "/wp-content-mgr/wp-content/uploads/AY_Shay-Zaidenberg-008.webp",
+                    "/wp-content-mgr/wp-content/uploads/AY_Shay-Zaidenberg-017.webp",
+                    "/wp-content-mgr/wp-content/uploads/AY_Shay-Zaidenberg-015.webp",
+                    "/wp-content-mgr/wp-content/uploads/AY_Shay-Zaidenberg-013.webp",
+                    "/wp-content-mgr/wp-content/uploads/AY_Shay-Zaidenberg-024.webp",
+                    "/wp-content-mgr/wp-content/uploads/AY_Shay-Zaidenberg-009.webp",
+                    "/wp-content-mgr/wp-content/uploads/AY_Shay-Zaidenberg-028.webp",
+                    "/wp-content-mgr/wp-content/uploads/AY_Shay-Zaidenberg-023.webp",
+                    "/wp-content-mgr/wp-content/uploads/AY_Shay-Zaidenberg-029.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 1
+            },
+            "addressOnlyOptionAvailable": 1,
+            "addressOnlyUrl": "/business-address/texas/dallas/location-1255/",
+            "signupUrl": "/signup/?locid=1255",
+            "openingHours": {
+                "opens": "09:00:00",
+                "closes": "18:00:00",
+                "daysOfWeek": [
+                    "Monday",
+                    "Tuesday",
+                    "Wednesday",
+                    "Thursday",
+                    "Friday"
+                ]
+            },
+            "opusowned": 1,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "DALLAS VIRTUAL OFFICE",
+            "body": "Live large, think big, and grab life by the horns with a prestigious virtual office in Dallas, Texas. Located in the beautiful Oak Lawn neighborhood just north of Downtown Dallas, Opus Virtual Office’s meeting room will impress even the most jaded people. 3626 North Hall Street is the ultimate choice when it comes to comfort and convenience. The building includes a lounge with a first-rate golf simulator, so be sure to get your stretches in before your meeting. The building also features secure parking, on-site security, and a fitness center to work off those nerves. Located just ten minutes from Dallas Love Field Airport and thirty minutes from Dallas/Fort Worth Airport, you and your clients have easy access to connect with the rest of the business world.  ",
+            "map": {
+                "lat": 32.8092951,
+                "lng": -96.8060222,
+                "zoom": 14,
+                "city": "Dallas"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Dallas, Texas even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Dallas. You can also adapt to better meet your clients’ unique needs within Texas. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Dallas virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "WHY OPUS?",
+                "body": "Opting for a virtual office in Dallas through Opus VO gives you the exclusive advantage of a live receptionist committed to offering personalized, top-tier client service. Every point of client contact is carefully designed to resonate with your unique business objectives, supported by our wide range of administrative services. These amenities include a corporate mailing address, digital mail sorting, company phone and fax number, state-of-the-art call-forwarding options, and beyond. Our efficient administrative staff will manage your day-to-day tasks, freeing you to concentrate on your company’s strategic growth and success. Opus VO, Dallas @ 3626 North Hall Street (Two Oak Lawn), Suite 610 Dallas, TX 75219 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            },
+            {
+                "title": "CHOOSE DALLAS",
+                "body": "Dallas, a city where Southern charm meets modern sophistication, is an urban oasis for relaxation and innovation. Home to world-class museums and expansive parks, Dallas is a city that radiates with its mix of natural beauty and captivating downtown landscapes. Turtle Creek Park, a green haven located only a few miles from your new office, provides excellent amenities such as fishing and hiking. Dallas is a city that proudly wears its history and heart on its sleeve, and it’s ready to welcome you and your business to the Metroplex.",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/botaraton-covered.png",
+                "layout": "image_text",
+                "imageAlignment": "left"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Dallas - 3626 North Hall Street (Two Oak Lawn) | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Texas, Dallas virtual office located at 3626 North Hall Street (Two Oak Lawn). Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/texas/dallas/location-1255/",
+            "og": {
+                "title": "Virtual Office in Dallas - 3626 North Hall Street (Two Oak Lawn) | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Texas, Dallas virtual office located at 3626 North Hall Street (Two Oak Lawn). Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/texas/dallas/location-1255/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/Opus-Virtual-Office-Dallas-3626-North-Hall-Street-Modern-Office-Building.webp"
+            }
+        }
+    }
+}

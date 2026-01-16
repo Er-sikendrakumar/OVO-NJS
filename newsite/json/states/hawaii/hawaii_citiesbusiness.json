@@ -1,0 +1,12 @@
+{
+    "success": true,
+    "count": 1,
+    "state": "hawaii",
+    "data": [
+        {
+            "id": "754",
+            "name": "Kailua",
+            "popular": "1"
+        }
+    ]
+}

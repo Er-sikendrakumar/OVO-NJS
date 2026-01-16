@@ -1,0 +1,22 @@
+{
+    "success": true,
+    "count": 3,
+    "state": "alaska",
+    "data": [
+        {
+            "id": "660",
+            "name": "Anchorage",
+            "popular": "1"
+        },
+        {
+            "id": "489",
+            "name": "Palmer",
+            "popular": "1"
+        },
+        {
+            "id": "831",
+            "name": "Wasilla",
+            "popular": "1"
+        }
+    ]
+}

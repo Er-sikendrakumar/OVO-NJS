@@ -1,0 +1,47 @@
+{
+    "success": true,
+    "count": 8,
+    "state": "tennessee",
+    "data": [
+        {
+            "id": "145",
+            "name": "Brentwood",
+            "popular": "0"
+        },
+        {
+            "id": "618",
+            "name": "Chattanooga",
+            "popular": "1"
+        },
+        {
+            "id": "129",
+            "name": "Franklin",
+            "popular": "0"
+        },
+        {
+            "id": "790",
+            "name": "Goodlettsville",
+            "popular": "0"
+        },
+        {
+            "id": "502",
+            "name": "Knoxville",
+            "popular": "1"
+        },
+        {
+            "id": "127",
+            "name": "Memphis",
+            "popular": "1"
+        },
+        {
+            "id": "146",
+            "name": "Murfreesboro",
+            "popular": "1"
+        },
+        {
+            "id": "474",
+            "name": "Nashville",
+            "popular": "1"
+        }
+    ]
+}

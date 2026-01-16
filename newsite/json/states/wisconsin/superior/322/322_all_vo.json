@@ -1,0 +1,89 @@
+{
+    "success": true,
+    "location_id": 322,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Superior",
+            "state": "WI",
+            "price": null,
+            "address": {
+                "line1": "816 Tower Ave.",
+                "suite": null,
+                "city": "Superior",
+                "state": "WI",
+                "zip": "54880",
+                "phone": "(715) 301-9736"
+            },
+            "images": {
+                "hero": [
+                    "/assets/mail-center.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=322",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 0,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Superior Virtual Office",
+            "body": "Thinking of a distinguished Superior address to jump-start your startup or boost your current venture, but hesitant due to the fiscal responsibilities of a brick-and-mortar office? Opus VO offers the perfect remedy. Situate your business in one of our premium Superior locations and delight in the high status of a prestigious address without the financial stress. For those occasions when an upscale setting is needed for vital meetings or key client discussions, our cutting-edge conference rooms are yours to utilize.  But the perks go far beyond a distinguished address. With a virtual office plan from Opus VO in Superior, you also gain the services of a live receptionist. Depend on our proficient team to skillfully guide your customer interactions, designed to align with your unique business aspirations. For day-to-day administrative duties like managing digital mail and adept call routing, we’ve got you covered, allowing you to direct your full attention to business expansion. ",
+            "map": {
+                "lat": 46.728310099,
+                "lng": -92.1034701,
+                "zoom": 14,
+                "city": "Superior"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Superior, Wisconsin even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Superior. You can also adapt to better meet your clients’ unique needs within Wisconsin. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Superior virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Superior? Why Opus VO?",
+                "body": "Superior is more than just a picturesque locale; it’s a budding business arena with a wide array of opportunities in multiple sectors. By anchoring your virtual office at Opus VO in Superior, you plug into an invigorating professional landscape filled with possibilities for business alliances and advancements.  Choosing Opus VO in Superior isn’t merely about economizing; it’s a tactical move that enhances your business’s prospects for greater achievements. Your next landmark milestone may well be just a virtual office arrangement away.  Opus VO Location in Superior @ 816 Tower Ave., Superior, WI 54880   ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Superior - 816 Tower Ave. | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Wisconsin, Superior virtual office located at 816 Tower Ave.. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/wisconsin/superior/location-322/",
+            "og": {
+                "title": "Virtual Office in Superior - 816 Tower Ave. | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Wisconsin, Superior virtual office located at 816 Tower Ave.. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/wisconsin/superior/location-322/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+            }
+        }
+    }
+}

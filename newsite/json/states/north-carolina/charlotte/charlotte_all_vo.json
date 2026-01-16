@@ -1,0 +1,141 @@
+{
+    "success": true,
+    "state": "north carolina",
+    "city": "charlotte",
+    "wp_city_post_id": null,
+    "locations": [
+        {
+            "id": "1737",
+            "name": "Charlotte",
+            "locname": "1515 Mockingbird Lane, Charlotte, NC 28209",
+            "address": "1515 Mockingbird Lane, Charlotte, NC 28209",
+            "city": "charlotte",
+            "state": "north carolina",
+            "state_english": "North Carolina",
+            "abbr": "NC",
+            "phone": "7047784406",
+            "premium": "1",
+            "opusowned": "0",
+            "showpopular": "0",
+            "point_x": "35.1674642",
+            "point_y": "-80.8491078",
+            "url": "/virtual-office/north-carolina/charlotte/location-1737/",
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1737-building-1748873523575.webp",
+                "alttext": "Exterior of building that houses Opus Virtual Offices located in Charlotte, North Carolina"
+            }
+        },
+        {
+            "id": "1720",
+            "name": "Charlotte",
+            "locname": "1914 J N Pease Pl, Charlotte, NC 28262",
+            "address": "1914 J N Pease Pl, Charlotte, NC 28262",
+            "city": "charlotte",
+            "state": "north carolina",
+            "state_english": "North Carolina",
+            "abbr": "NC",
+            "phone": "7045942389",
+            "premium": "1",
+            "opusowned": "0",
+            "showpopular": "0",
+            "point_x": "35.320947",
+            "point_y": "-80.7747855",
+            "url": "/virtual-office/north-carolina/charlotte/location-1720/",
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1720-01.building.jpg",
+                "alttext": "Building exterior of Opus Virtual Offices located in Charlotte, North Carolina"
+            }
+        }
+    ],
+    "popular_locations": [],
+    "premium_locations": [
+        {
+            "id": "1737",
+            "name": "Charlotte",
+            "locname": "1515 Mockingbird Lane, Charlotte, NC 28209",
+            "address": "1515 Mockingbird Lane, Charlotte, NC 28209",
+            "city": "charlotte",
+            "state": "north carolina",
+            "state_english": "North Carolina",
+            "abbr": "NC",
+            "phone": "7047784406",
+            "premium": "1",
+            "opusowned": "0",
+            "showpopular": "0",
+            "point_x": "35.1674642",
+            "point_y": "-80.8491078",
+            "url": "/virtual-office/north-carolina/charlotte/location-1737/",
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1737-building-1748873523575.webp",
+                "alttext": "Exterior of building that houses Opus Virtual Offices located in Charlotte, North Carolina"
+            }
+        },
+        {
+            "id": "1720",
+            "name": "Charlotte",
+            "locname": "1914 J N Pease Pl, Charlotte, NC 28262",
+            "address": "1914 J N Pease Pl, Charlotte, NC 28262",
+            "city": "charlotte",
+            "state": "north carolina",
+            "state_english": "North Carolina",
+            "abbr": "NC",
+            "phone": "7045942389",
+            "premium": "1",
+            "opusowned": "0",
+            "showpopular": "0",
+            "point_x": "35.320947",
+            "point_y": "-80.7747855",
+            "url": "/virtual-office/north-carolina/charlotte/location-1720/",
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1720-01.building.jpg",
+                "alttext": "Building exterior of Opus Virtual Offices located in Charlotte, North Carolina"
+            }
+        }
+    ],
+    "regular_locations": [],
+    "sections": [
+        {
+            "title": "OUR CHARLOTTE\nVIRTUAL OFFICES",
+            "body": "<h2></h2>\n<p>Enjoy the benefits of having a business address in Charlotte North Carolina without the stress and expense surrounding a “traditional office environment”. OpusVO gives you the prestige of having an office with the budget of working from home. Receive all your business mail at a professional office building. No post office box number, just a great business address to use on your business cards and other marketing material.</p>\n<p>You don’t just get a business phone number with your Charlotte virtual office, but also a live receptionist answering your calls the way you want them to be. Stop choosing between capturing new leads for your business and working on current clients. Do both. Get someone who looks out for you while you’re unable to break away.</p>\n",
+            "image": {
+                "url": "/newsite/wp-content/themes/ThemeDec23/assets/images/califonia-v-office.jpg",
+                "alt": "OUR CHARLOTTE\nVIRTUAL OFFICES",
+                "title": "OUR CHARLOTTE\nVIRTUAL OFFICES"
+            },
+            "layout": "image_text",
+            "imageAlignment": "right"
+        },
+        {
+            "title": "GET A VIRTUAL OFFICE\nIN CHARLOTTE",
+            "body": "<h2></h2>\n<p>Whether you choose to work out of your home or on the road, a Charlotte virtual office will give you the freedom and flexibility to get the job done in the place and style of your choosing. With a local company phone number, live receptionist, premium call transferring, and a professional business address, Opus VO provides a cost-effective way for your company to grow or establish a presence in a new market without any long-term commitments.</p>\n",
+            "image": {
+                "url": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "alt": "GET A VIRTUAL OFFICE\nIN CHARLOTTE",
+                "title": "GET A VIRTUAL OFFICE\nIN CHARLOTTE"
+            },
+            "layout": "image_text",
+            "imageAlignment": "left"
+        }
+    ],
+    "faqs": [],
+    "meta": {
+        "locations_count": 2,
+        "popular_locations_count": 0,
+        "premium_locations_count": 2,
+        "regular_locations_count": 0,
+        "sections_count": 2,
+        "faqs_count": 0
+    },
+    "seo": {
+        "title": "Virtual Office in Charlotte, NC | Multiple Locations Available",
+        "meta_description": "Find the ultimate office solution with Opus Virtual Offices in Charlotte, North Carolina. Our all-inclusive virtual offices cater to your business needs. Sign up today!",
+        "canonical": "https://www.opusvirtualoffices.com/virtual-office/north-carolina/charlotte/",
+        "og": {
+            "title": "Virtual Office in Charlotte, NC | Multiple Locations Available",
+            "description": "Find the ultimate office solution with Opus Virtual Offices in Charlotte, North Carolina. Our all-inclusive virtual offices cater to your business needs. Sign up today!",
+            "url": "https://www.opusvirtualoffices.com/virtual-office/north-carolina/charlotte/",
+            "type": "website",
+            "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+        }
+    }
+}

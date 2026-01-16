@@ -1,0 +1,22 @@
+{
+    "success": true,
+    "count": 3,
+    "state": "utah",
+    "data": [
+        {
+            "id": "920",
+            "name": "Orem",
+            "popular": "0"
+        },
+        {
+            "id": "315",
+            "name": "Salt Lake City",
+            "popular": "1"
+        },
+        {
+            "id": "224",
+            "name": "West Valley City",
+            "popular": "1"
+        }
+    ]
+}

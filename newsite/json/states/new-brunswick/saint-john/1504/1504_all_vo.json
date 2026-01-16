@@ -1,0 +1,93 @@
+{
+    "success": true,
+    "location_id": 1504,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Saint John",
+            "state": "NB",
+            "price": null,
+            "address": {
+                "line1": "107 Charlotte Street",
+                "suite": null,
+                "city": "Saint John",
+                "state": "NB",
+                "zip": "E2L2J2",
+                "phone": "(506) 406-9136"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/1504-01.bldg_.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1504-03.meeting.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1504-04.shared.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1504-05.bldg_.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1504-06.meeting.jpg"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1504",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Saint John Virtual Office",
+            "body": "Considering a Saint John locale to either launch your new project or boost your ongoing operation, but hesitant about the financial aspects of a permanent office? Opus VO is your answer. Anchor your business in one of our premium Saint John locations, and savor the perks of a distinguished address without the financial weight. And when the need arises for face-to-face conversations or pivotal client engagements, our state-of-the-art conference rooms stand ready.  But the advantages don’t stop at a top-tier address. Opting for a virtual office through Opus VO in Saint John also provides you with the invaluable service of a live receptionist. Trust our skilled team to expertly handle your customer relations and manage day-to-day activities like digital mail sorting and efficient call directing, allowing you to concentrate fully on expanding your enterprise. ",
+            "map": {
+                "lat": 45.2725828,
+                "lng": -66.0587619,
+                "zoom": 14,
+                "city": "Saint John"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Saint John, New Brunswick even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Saint John. You can also adapt to better meet your clients’ unique needs within New Brunswick. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Saint John virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Saint John? Why Opus VO?",
+                "body": "Saint John is more than a picturesque city; it’s a thriving nexus of business, replete with potential in diverse industries. By positioning your virtual office with Opus VO in Saint John, you’re diving headfirst into an active network of professionals, ripe with possibilities for partnerships and advancements.  Choosing Opus VO in Saint John is not just a cost-cutting exercise; it’s a strategic maneuver that sets your business on a trajectory for broader achievements. Your next significant milestone could be a simple virtual office decision away.  Opus VO Location in Saint John @ 107 Charlotte Street, Saint John, NB E2L2J2   ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Saint John - 107 Charlotte Street | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our New Brunswick, Saint John virtual office located at 107 Charlotte Street. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/new-brunswick/saint-john/location-1504/",
+            "og": {
+                "title": "Virtual Office in Saint John - 107 Charlotte Street | $99/Month",
+                "description": "Get the ultimate office solution for your business with our New Brunswick, Saint John virtual office located at 107 Charlotte Street. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/new-brunswick/saint-john/location-1504/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/1504-01.bldg_.jpg"
+            }
+        }
+    }
+}

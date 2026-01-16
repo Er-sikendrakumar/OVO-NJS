@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "location_id": 1399,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Mundelein",
+            "state": "IL",
+            "price": null,
+            "address": {
+                "line1": "914 N Lake Street",
+                "suite": null,
+                "city": "Mundelein",
+                "state": "IL",
+                "zip": "60060",
+                "phone": "(224) 304-2389"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/1399-01.bldg_-733x550.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1399-02.meeting-733x550.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1399-03.meeting-733x550.jpg"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1399",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": "This location does not offer mail forwarding"
+        },
+        "overview": {
+            "heading": "Mundelein Virtual Office",
+            "body": "Not interested in the commitment of a full-fledged office. With Opus VO, you’ll mark your spot in Mundelein’s buzzing business circle while keeping your finances lean. Schedule that impactful meeting or key presentation on the calendar and impress your clients with ur state-of-the-art conference rooms ready to elevate the experience.  When you go virtual in Mundelein via Opus VO, a live receptionist is part of your package deal. We ensure every client interaction is smooth and reflects your brand’s distinct identity. Hand over the tedious admin work to us and focus on scaling your business sky-high.   ",
+            "map": {
+                "lat": 42.2769366,
+                "lng": -88.0046093,
+                "zoom": 14,
+                "city": "Mundelein"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Mundelein, Illinois even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Mundelein. You can also adapt to better meet your clients’ unique needs within Illinois. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Mundelein virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Mundelein? Why a Virtual Office?",
+                "body": "Mundelein is more than just a suburban backdrop. It’s an emerging hub for a myriad of industries, including tech, retail, and professional services. By situating your virtual office in Mundelein, you’re opening doors to a world of networking possibilities and industry connections.  Choosing Opus VO in Mundelein is not just a budget-conscious choice—it’s a catalyst for your business growth. So, are you set to level up? Our unmatched virtual office services are at your beck and call.  Opus VO, Mundelein @ 914 N Lake Street, Mundelein, IL 60060 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Mundelein - 914 N Lake Street | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Illinois, Mundelein virtual office located at 914 N Lake Street. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/illinois/mundelein/location-1399/",
+            "og": {
+                "title": "Virtual Office in Mundelein - 914 N Lake Street | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Illinois, Mundelein virtual office located at 914 N Lake Street. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/illinois/mundelein/location-1399/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/1399-01.bldg_.jpg"
+            }
+        }
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "success": true,
+    "location_id": 1512,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Princeton",
+            "state": "NJ",
+            "price": null,
+            "address": {
+                "line1": "300 Carnegie Center",
+                "suite": "Suite 150",
+                "city": "Princeton",
+                "state": "NJ",
+                "zip": "08540",
+                "phone": "(609) 336-3843"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/1512-01.bldg_.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1512-02.conf_.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1512-03.conf_.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1512-04.conf_.jpg"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1512",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Princeton Virtual Office",
+            "body": "Are you in search of a prestigious Princeton address but want to forgo the obligations of a traditional office? Opus VO provides the perfect answer. Set your business amidst Princeton’s dynamic commercial ecosystem, all without straining your budget. For those essential in-person meetings or team collaborations, our top-notch conference rooms are at your service.  When you opt for our virtual workspace in Princeton, you’re getting more than just a high-profile address. You also benefit from a skilled live receptionist who effortlessly integrates with your existing team. They will ensure that each client interaction aligns with your unique brand voice, allowing us to manage mundane administrative tasks while you concentrate on your core business endeavors. ",
+            "map": {
+                "lat": 40.3100835,
+                "lng": -74.6557709,
+                "zoom": 14,
+                "city": "Princeton"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Princeton, New Jersey even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Princeton. You can also adapt to better meet your clients’ unique needs within New Jersey. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Princeton virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Princeton?",
+                "body": "Princeton is renowned not just for its academic excellence but also as a lucrative business center, offering opportunities across various sectors like tech, healthcare, and consulting. A Princeton address not only bolsters your business image but also provides access to an array of networking opportunities and significant industry contacts.  Choosing Opus VO for your virtual workspace in Princeton isn’t merely convenient; it’s a strategic advantage. Are you prepared to elevate your business standing? Take a look at our diverse virtual workspace options today.  Opus VO, Princeton @ 300 Carnegie Center, Princeton, NJ 08540 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Princeton - 300 Carnegie Center | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our New Jersey, Princeton virtual office located at 300 Carnegie Center. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/new-jersey/princeton/location-1512/",
+            "og": {
+                "title": "Virtual Office in Princeton - 300 Carnegie Center | $99/Month",
+                "description": "Get the ultimate office solution for your business with our New Jersey, Princeton virtual office located at 300 Carnegie Center. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/new-jersey/princeton/location-1512/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/1512-01.bldg_.jpg"
+            }
+        }
+    }
+}

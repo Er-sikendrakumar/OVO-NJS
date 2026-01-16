@@ -1,0 +1,77 @@
+{
+    "success": true,
+    "slug": "home-services",
+    "page_id": "13014",
+    "page_title": "Home Services",
+    "hero": {
+        "heading": "Establish your business presence with Opus VO",
+        "description": "<p>Whether you&#8217;re a contractor, electrician, or plumber, Opus VO gives your business a real office presence, professional phone service, and client confidence. <strong>Only $99/mo</strong></p>\n",
+        "image": "https://www.opusvirtualoffices.com/newsite/wp-content/uploads/2025/12/home-service2.webp"
+    },
+    "services": {
+        "heading": "Stay on the Job. We’ll handle the Office",
+        "description": "<p>Opus gives electricians, plumbers, roofers, HVAC techs, and landscapers everything they need to look and stay professional. We provide a business address, dedicated phone number, live call answering, and more, so you can stay connected while you’re out in the field.</p>\n",
+        "image": "https://www.opusvirtualoffices.com/newsite/wp-content/uploads/2025/11/home-services-256x300-2.webp"
+    },
+    "features": [
+        {
+            "title": "Prestigious Business Address",
+            "description": "Select one of our Virtual Offices locations as your primary business address and use it to receive all your mail and packages."
+        },
+        {
+            "title": "Live Call Answering",
+            "description": "Monday through Friday from 8:30am to 5:30pm (in PST timezone 8am to 5pm) a live receptionist will be answering all incoming calls on behalf of your company."
+        },
+        {
+            "title": "Premium Call Transferring",
+            "description": "All calls that are being transferred to your personal extension by our Live Receptionist will ring up to 4 phone numbers provided by you. If the call is not answered, your personal extension voice mail box will activate"
+        },
+        {
+            "title": "Company Phone and Fax Number",
+            "description": "Select one of our local phone and fax numbers as your primary company line."
+        },
+        {
+            "title": "Voicemail & Fax converted to Email",
+            "description": "All voice mail messages and faxes are being forwarded to Tenant's provided e-mail address as a WAV / PDF File."
+        }
+    ],
+    "industry_content": [
+        {
+            "main_heading": "<h2>No missed calls. No lost opportunities.<br>Maintain a professional image wherever you go!</h2>",
+            "industry_paragraph": "<p>We talk and connect with hundreds of homeowners and clients every day. And because of that, we know better than anyone just how far home service professionals like you go to provide the best possible service to the people you serve.</p>\n<p>Whether you&#8217;re a solo contractor or manage your own crew, we&#8217;re here to provide solutions and support. No matter the size of your business.</p>\n"
+        },
+        {
+            "main_heading": "<h2>Virtual Office Solutions for Home Service Professionals</h2>",
+            "industry_paragraph": "<p>As a home service professional, your business is built on trust, reliability, and reputation. Whether you’re a plumber, roofer, electrician, HVAC specialist, or contractor, clients expect professionalism from the first impression to the final handshake.</p>\n<p>With an Opus Virtual Office, you can elevate your business image and operations without the cost of a physical office.</p>\n"
+        },
+        {
+            "main_heading": "<h3>Your Professional Image</h3>",
+            "industry_paragraph": "<p>A virtual office for home service professionals provides the polished, professional presence your business deserves. Instead of listing your residential address, you’ll have a prestigious business address that enhances credibility with customers, suppliers, and partners. This address can be used for business registration, marketing, and Google Business verification, helping you appear more established and trustworthy online.</p>\n"
+        },
+        {
+            "main_heading": "<h3>Stay Connected</h3>",
+            "industry_paragraph": "<p>Opus Virtual Offices also includes a dedicated business phone number with live professional receptionists answering your calls. So even when you’re on a roof or under a sink, your customers always speak to a real person representing your brand. No missed calls, no lost jobs.</p>\n<p>Opus’ team of professional virtual receptionists ensures every homeowner’s call is answered promptly, helping you save time, win more projects, and keep your business growing.</p>\n"
+        },
+        {
+            "main_heading": "<h3>Simplify Operations</h3>",
+            "industry_paragraph": "<p>With our secure mail receiving and forwarding services, your important correspondence stays organized and protected. We also offer meeting rooms and coworking space access, perfect for client consultations, interviews, or business presentations when needed.</p>\n<p>Running your business in the field doesn’t mean sacrificing professionalism. With Opus, you can keep your brand consistent, your communications seamless, and your operations efficient, all for one low monthly cost.</p>\n"
+        },
+        {
+            "main_heading": "<h3>Project a professional image wherever your work takes you with Opus Virtual Offices; the smarter, more affordable way for home service pros to build trust, attract more clients, and grow their businesses!</h3>",
+            "industry_paragraph": ""
+        }
+    ],
+    "seo": {
+        "title": "Home Services - Opus Virtual Offices",
+        "meta_description": "",
+        "canonical": "https://www.opusvirtualoffices.com/is-a-virtual-office-for-me/home-services/",
+        "og": {
+            "title": "Home Services - Opus Virtual Offices",
+            "description": "",
+            "url": "https://www.opusvirtualoffices.com/is-a-virtual-office-for-me/home-services/",
+            "type": "website",
+            "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+        }
+    },
+    "generated_at": "2025-12-08 18:49:25"
+}

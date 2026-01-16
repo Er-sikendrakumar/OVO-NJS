@@ -1,0 +1,12 @@
+{
+    "success": true,
+    "count": 1,
+    "state": "south dakota",
+    "data": [
+        {
+            "id": "669",
+            "name": "Sioux Falls",
+            "popular": "1"
+        }
+    ]
+}

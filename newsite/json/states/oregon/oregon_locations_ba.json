@@ -1,0 +1,27 @@
+{
+    "success": true,
+    "count": 1,
+    "state": "oregon",
+    "mode": "business-address",
+    "data": [
+        {
+            "id": 1519,
+            "location_name": "5020 NE Martin Luther King Jr Blvd, Portland, OR 97211",
+            "city": "Portland",
+            "state": "Oregon",
+            "state_abbr": "OR",
+            "address": "5020 NE Martin Luther King Jr Blvd, Portland, OR 97211",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 45.55945,
+            "point_y": -122.6611564,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1519-01.Building.webp",
+                "alttext": null
+            },
+            "url": "/business-address/oregon/portland/location-1519/",
+            "phone": "5037135512"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "success": true,
+    "page": "action-coach",
+    "page_type": "simple",
+    "seo": {
+        "title": "Action Coach - Opus Virtual Offices",
+        "meta_description": "Partner with Opus Virtual Offices to elevate your coaching brand. Get a business address, call handling, and admin support tailored for Action Coaches.",
+        "canonical": "https://njs.opusvirtualoffices.com/action-coach/",
+        "og": {
+            "title": "Action Coach - Opus Virtual Offices",
+            "description": "Partner with Opus Virtual Offices to elevate your coaching brand. Get a business address, call handling, and admin support tailored for Action Coaches.",
+            "url": "https://njs.opusvirtualoffices.com/action-coach/",
+            "type": "website",
+            "image": "https://njs.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+        }
+    }
+}

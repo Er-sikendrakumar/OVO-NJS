@@ -1,0 +1,89 @@
+{
+    "success": true,
+    "location_id": 508,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Southbury",
+            "state": "CT",
+            "price": null,
+            "address": {
+                "line1": "385 Main Street S.",
+                "suite": null,
+                "city": "Southbury",
+                "state": "CT",
+                "zip": "06488",
+                "phone": "(203) 405-4085"
+            },
+            "images": {
+                "hero": [
+                    "/assets/mail-center.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=508",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 0,
+            "nearbyPremium": 1,
+            "nearbyPremiumUrl": "/virtual-office/connecticut/danbury/location-1639/",
+            "nearbyPremiumText": "to view the nearby PREMIUM Locations for the same $99/mo",
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Southbury Virtual Office",
+            "body": "Snag an impressive business address in Southbury without the financial weight of a traditional office space. With Opus VO, you can establish your business right in the heart of Southbury’s emerging market, and all without breaking the bank. Need to host key meetings or entertain clients? Our top-notch conference rooms are at your service, bolstering your brand with a legitimate Southbury address.  When you go virtual in Southbury through Opus VO, a live receptionist committed to ensuring each client interaction aligns seamlessly with your business ethos is part and parcel of the package. Let us handle the routine administrative tasks, liberating you to focus on expanding your empire. ",
+            "map": {
+                "lat": 41.472349,
+                "lng": -73.222226,
+                "zoom": 14,
+                "city": "Southbury"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Southbury, Connecticut even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Southbury. You can also adapt to better meet your clients’ unique needs within Connecticut. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Southbury virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Southbury?",
+                "body": "Southbury is more than a charming community; it’s an up-and-coming business locale with a range of opportunities across different sectors. Being strategically located in Southbury means you’re within reach of essential industry contacts and exciting networking events.  By choosing an Opus Virtual Office in Southbury, you’re not only reducing your overhead; you’re acquiring a beneficial edge over your competition. Are you prepared to take your business to the next level? Our first-class virtual office solutions await you.  Opus VO Southbury @ 385 Main Street S., Southbury, CT 06488  ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Southbury - 385 Main Street S. | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Connecticut, Southbury virtual office located at 385 Main Street S.. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/connecticut/southbury/location-508/",
+            "og": {
+                "title": "Virtual Office in Southbury - 385 Main Street S. | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Connecticut, Southbury virtual office located at 385 Main Street S.. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/connecticut/southbury/location-508/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+            }
+        }
+    }
+}

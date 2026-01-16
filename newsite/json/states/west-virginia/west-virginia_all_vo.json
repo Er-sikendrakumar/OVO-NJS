@@ -1,0 +1,119 @@
+{
+    "success": true,
+    "state": "west virginia",
+    "cities_virtual": [
+        {
+            "id": "702",
+            "name": "Clarksburg",
+            "popular": "1"
+        },
+        {
+            "id": "662",
+            "name": "Martinsburg",
+            "popular": "1"
+        },
+        {
+            "id": "817",
+            "name": "South Charleston",
+            "popular": "1"
+        }
+    ],
+    "cities_business": [
+        {
+            "id": "662",
+            "name": "Martinsburg",
+            "popular": "1"
+        }
+    ],
+    "cities_popular": [
+        {
+            "id": "702",
+            "name": "Clarksburg"
+        },
+        {
+            "id": "662",
+            "name": "Martinsburg"
+        },
+        {
+            "id": "817",
+            "name": "South Charleston"
+        }
+    ],
+    "locations_virtual_office": [
+        {
+            "id": 1278,
+            "location_name": "2413 East Pike Street, Clarksburg, WV 26301",
+            "city": "Clarksburg",
+            "state": "West Virginia",
+            "state_abbr": "WV",
+            "address": "2413 East Pike Street, Clarksburg, WV 26301",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 39.2791106,
+            "point_y": -80.2898604,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/278-1.virtual-office-2443-East-Pike-Street-Clarksburg-WV-26301.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/west-virginia/clarksburg/location-1278/",
+            "phone": "3049024368"
+        },
+        {
+            "id": 1182,
+            "location_name": "126 E Burke Street, Martinsburg, WV 25401",
+            "city": "Martinsburg",
+            "state": "West Virginia",
+            "state_abbr": "WV",
+            "address": "126 E Burke Street, Martinsburg, WV 25401",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 39.4571111,
+            "point_y": -77.9625105,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1Entrance.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/west-virginia/martinsburg/location-1182/",
+            "phone": "3043809008"
+        },
+        {
+            "id": 1529,
+            "location_name": "5312 MacCorkle Avenue SW, South Charleston, WV 25309",
+            "city": "South Charleston",
+            "state": "West Virginia",
+            "state_abbr": "WV",
+            "address": "5312 MacCorkle Avenue SW, South Charleston, WV 25309",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 38.3540295,
+            "point_y": -81.74132019,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/west-virginia/south-charleston/location-1529/",
+            "phone": "3043565872"
+        }
+    ],
+    "meta": {
+        "cities_virtual_count": 3,
+        "cities_business_count": 1,
+        "cities_popular_count": 3,
+        "locations_virtual_office_count": 3
+    },
+    "seo": {
+        "title": "Virtual Office in West Virginia | Locations Statewide | Opus VO",
+        "meta_description": "Get a prestigious West Virginia business address and professional phone answering services with Opus Virtual Offices, the perfect office solution for your business needs.",
+        "canonical": "https://www.opusvirtualoffices.com/virtual-office/west-virginia/",
+        "og": {
+            "title": "Virtual Office in West Virginia | Locations Statewide | Opus VO",
+            "description": "Get a prestigious West Virginia business address and professional phone answering services with Opus Virtual Offices, the perfect office solution for your business needs.",
+            "url": "https://www.opusvirtualoffices.com/virtual-office/west-virginia/",
+            "type": "website",
+            "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+        }
+    }
+}

@@ -1,0 +1,130 @@
+{
+    "success": true,
+    "state": "tennessee",
+    "city": "murfreesboro",
+    "wp_city_post_id": null,
+    "locations": [
+        {
+            "id": "1469",
+            "name": "Murfreesboro",
+            "locname": "925 S Church Street, Murfreesboro, TN 37130",
+            "address": "925 S Church Street, Murfreesboro, TN 37130",
+            "city": "murfreesboro",
+            "state": "tennessee",
+            "state_english": "Tennessee",
+            "abbr": "TN",
+            "phone": "6154722105",
+            "premium": "1",
+            "opusowned": "0",
+            "showpopular": "0",
+            "point_x": "35.8338842",
+            "point_y": "-86.3926625",
+            "url": "/virtual-office/tennessee/murfreesboro/location-1469/",
+            "image": "/assets/mail-center.webp"
+        },
+        {
+            "id": "682",
+            "name": "Murfreesboro",
+            "locname": "1784 W. Northfield Blvd., Murfreesboro, TN 37129",
+            "address": "1784 W. Northfield Blvd., Murfreesboro, TN 37129",
+            "city": "murfreesboro",
+            "state": "tennessee",
+            "state_english": "Tennessee",
+            "abbr": "TN",
+            "phone": "6154722125",
+            "premium": "0",
+            "opusowned": "0",
+            "showpopular": "0",
+            "point_x": "35.870564",
+            "point_y": "-86.41324",
+            "url": "/virtual-office/tennessee/murfreesboro/location-682/",
+            "image": "/assets/mail-center.webp"
+        }
+    ],
+    "popular_locations": [],
+    "premium_locations": [
+        {
+            "id": "1469",
+            "name": "Murfreesboro",
+            "locname": "925 S Church Street, Murfreesboro, TN 37130",
+            "address": "925 S Church Street, Murfreesboro, TN 37130",
+            "city": "murfreesboro",
+            "state": "tennessee",
+            "state_english": "Tennessee",
+            "abbr": "TN",
+            "phone": "6154722105",
+            "premium": "1",
+            "opusowned": "0",
+            "showpopular": "0",
+            "point_x": "35.8338842",
+            "point_y": "-86.3926625",
+            "url": "/virtual-office/tennessee/murfreesboro/location-1469/",
+            "image": "/assets/mail-center.webp"
+        }
+    ],
+    "regular_locations": [
+        {
+            "id": "682",
+            "name": "Murfreesboro",
+            "locname": "1784 W. Northfield Blvd., Murfreesboro, TN 37129",
+            "address": "1784 W. Northfield Blvd., Murfreesboro, TN 37129",
+            "city": "murfreesboro",
+            "state": "tennessee",
+            "state_english": "Tennessee",
+            "abbr": "TN",
+            "phone": "6154722125",
+            "premium": "0",
+            "opusowned": "0",
+            "showpopular": "0",
+            "point_x": "35.870564",
+            "point_y": "-86.41324",
+            "url": "/virtual-office/tennessee/murfreesboro/location-682/",
+            "image": "/assets/mail-center.webp"
+        }
+    ],
+    "sections": [
+        {
+            "title": "OUR MURFREESBORO\nVIRTUAL OFFICES",
+            "body": "<h2></h2>\n<p>Enjoy the benefits of having a business address in Murfreesboro Tennessee without the stress and expense surrounding a “traditional office environment”. OpusVO gives you the prestige of having an office with the budget of working from home. Receive all your business mail at a professional office building. No post office box number, just a great business address to use on your business cards and other marketing material.</p>\n<p>You don’t just get a business phone number with your Murfreesboro virtual office, but also a live receptionist answering your calls the way you want them to be. Stop choosing between capturing new leads for your business and working on current clients. Do both. Get someone who looks out for you while you’re unable to break away.</p>\n",
+            "image": {
+                "url": "/newsite/wp-content/themes/ThemeDec23/assets/images/califonia-v-office.jpg",
+                "alt": "OUR MURFREESBORO\nVIRTUAL OFFICES",
+                "title": "OUR MURFREESBORO\nVIRTUAL OFFICES"
+            },
+            "layout": "image_text",
+            "imageAlignment": "right"
+        },
+        {
+            "title": "GET A VIRTUAL OFFICE\nIN MURFREESBORO",
+            "body": "<h2></h2>\n<p>Whether you choose to work out of your home or on the road, a Murfreesboro virtual office will give you the freedom and flexibility to get the job done in the place and style of your choosing. With a local company phone number, live receptionist, premium call transferring, and a professional business address, Opus VO provides a cost-effective way for your company to grow or establish a presence in a new market without any long-term commitments.</p>\n",
+            "image": {
+                "url": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "alt": "GET A VIRTUAL OFFICE\nIN MURFREESBORO",
+                "title": "GET A VIRTUAL OFFICE\nIN MURFREESBORO"
+            },
+            "layout": "image_text",
+            "imageAlignment": "left"
+        }
+    ],
+    "faqs": [],
+    "meta": {
+        "locations_count": 2,
+        "popular_locations_count": 0,
+        "premium_locations_count": 1,
+        "regular_locations_count": 1,
+        "sections_count": 2,
+        "faqs_count": 0
+    },
+    "seo": {
+        "title": "Virtual Office in Murfreesboro, TN | Multiple Locations Available",
+        "meta_description": "Find the ultimate office solution with Opus Virtual Offices in Murfreesboro, Tennessee. Our all-inclusive virtual offices cater to your business needs. Sign up today!",
+        "canonical": "https://www.opusvirtualoffices.com/virtual-office/tennessee/murfreesboro/",
+        "og": {
+            "title": "Virtual Office in Murfreesboro, TN | Multiple Locations Available",
+            "description": "Find the ultimate office solution with Opus Virtual Offices in Murfreesboro, Tennessee. Our all-inclusive virtual offices cater to your business needs. Sign up today!",
+            "url": "https://www.opusvirtualoffices.com/virtual-office/tennessee/murfreesboro/",
+            "type": "website",
+            "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+        }
+    }
+}

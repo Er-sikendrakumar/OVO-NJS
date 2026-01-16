@@ -1,0 +1,27 @@
+{
+    "success": true,
+    "count": 1,
+    "state": "maine",
+    "mode": "business-address",
+    "data": [
+        {
+            "id": 1112,
+            "location_name": "6 City Center, Portland, ME 04101",
+            "city": "Portland",
+            "state": "Maine",
+            "state_abbr": "ME",
+            "address": "6 City Center, Portland, ME 04101",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 43.6570753,
+            "point_y": -70.2567033,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/01_Building3.jpg",
+                "alttext": null
+            },
+            "url": "/business-address/maine/portland/location-1112/",
+            "phone": "2075093225"
+        }
+    ]
+}

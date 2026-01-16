@@ -1,0 +1,112 @@
+{
+    "success": true,
+    "location_id": 803,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Fort Lauderdale",
+            "state": "FL",
+            "price": null,
+            "address": {
+                "line1": "515 E Las Olas Boulevard",
+                "suite": "Suite 1301",
+                "city": "Fort Lauderdale",
+                "state": "FL",
+                "zip": "33301",
+                "phone": "(954) 903-3100"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/803-01.bldg_-1.jpg",
+                    "/wp-content-mgr/wp-content/uploads/803-02.meeting.jpg",
+                    "/wp-content-mgr/wp-content/uploads/803-03.meeting.jpg",
+                    "/wp-content-mgr/wp-content/uploads/803-04.front_.jpg",
+                    "/wp-content-mgr/wp-content/uploads/803-05.lobby_.jpg",
+                    "/wp-content-mgr/wp-content/uploads/803-06.reception.jpg",
+                    "/wp-content-mgr/wp-content/uploads/803-07.patio_.jpg"
+                ]
+            },
+            "features": {
+                "showMailX": 1
+            },
+            "addressOnlyOptionAvailable": 1,
+            "addressOnlyUrl": "/business-address/florida/fort-lauderdale/location-803/",
+            "signupUrl": "/signup/?locid=803",
+            "openingHours": {
+                "opens": "08:30:00",
+                "closes": "17:30:00",
+                "daysOfWeek": [
+                    "Monday",
+                    "Tuesday",
+                    "Wednesday",
+                    "Thursday",
+                    "Friday"
+                ]
+            },
+            "opusowned": 1,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Fort Lauderdale Virtual Office",
+            "body": "Golden sunsets and endless horizons await when you sign up for a Fort Lauderdale virtual office with Opus VO. Famous for its sun-kissed beaches and bars, Fort Lauderdale is also known as a top global trade market. Located in the heart of Las Olas, 515 East Las Olas stands above the rest. This 4-star Class A building features expansive parking, on-site retail shops, on-site banking, and is in close proximity to some of the most elegant shops and restaurants in all of South Florida. Conduct as many meetings as you please from 515 East Las Olas without paying a costly office lease, saving your business thousands in a competitive South Florida market. Whether you’re having a short meeting to sign a client contract, or setting up a virtual business address, 515 East Las Olas defines success.",
+            "map": {
+                "lat": 26.119866,
+                "lng": -80.1381012,
+                "zoom": 14,
+                "city": "Fort Lauderdale"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Fort Lauderdale, Florida even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Fort Lauderdale. You can also adapt to better meet your clients’ unique needs within Florida. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Fort Lauderdale virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "WHY OPUS?",
+                "body": "Opting for a virtual office in Fort Lauderdale through Opus VO gives you the exclusive advantage of a live receptionist committed to offering personalized, top-tier client service. Every point of client contact is carefully designed to resonate with your unique business objectives, supported by our wide range of administrative services. These amenities include a corporate mailing address, digital mail sorting, company phone and fax number, state-of-the-art call-forwarding options, and beyond. Our efficient administrative staff will manage your day-to-day tasks, freeing you to concentrate on your company’s strategic growth and success. Opus VO, Fort Lauderdale @ 515 E Las Olas Boulevard, Suite 120 Fort Lauderdale, FL 33301   ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            },
+            {
+                "title": "CHOOSE FORT LAUDERDALE",
+                "body": "Fort Lauderdale is a coastal gem that’s a sanctum of soft sand and clear waters. The sun-drenched shores offer a tranquil escape that many big cities don’t offer. Las Olas is the heart of the city’s social scene where art and upscale restaurants meet to form a picturesque backdrop that can’t be found anywhere else in the country. A top destination for world travelers, Fort Lauderdale gives your business that international feel that many small businesses fail to achieve. Undergo a tropical transformation with a virtual office in Fort Lauderdale.",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/botaraton-covered.png",
+                "layout": "image_text",
+                "imageAlignment": "left"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office Space Fort Lauderdale | $99 All Inclusive | Opus Virtual Office",
+            "meta_description": "Browse Opus Virtual Office space in Fort Lauderdale. Fully furnished rental conference rooms, perfect for businesses seeking an instant meeting space. Call today. CALL 1(888) 898-9868.",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/florida/fort-lauderdale/location-803/",
+            "og": {
+                "title": "Virtual Office Space Fort Lauderdale | $99 All Inclusive | Opus Virtual Office",
+                "description": "Browse Opus Virtual Office space in Fort Lauderdale. Fully furnished rental conference rooms, perfect for businesses seeking an instant meeting space. Call today. CALL 1(888) 898-9868.",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/florida/fort-lauderdale/location-803/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/803-01.bldg_-1.jpg"
+            }
+        }
+    }
+}

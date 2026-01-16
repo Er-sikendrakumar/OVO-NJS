@@ -1,0 +1,92 @@
+{
+    "success": true,
+    "location_id": 1441,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Palm Beach Gardens",
+            "state": "FL",
+            "price": null,
+            "address": {
+                "line1": "7711 North Military Trail",
+                "suite": null,
+                "city": "Palm Beach Gardens",
+                "state": "FL",
+                "zip": "33410",
+                "phone": "(561) 571-0619"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/1441-01.bldg_-625x550.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1441-02.meeting-633x550.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1441-03.reception-527x550.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1441-04.meeting-654x550.jpg"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1441",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Palm Beach Gardens Virtual Office",
+            "body": "Get yourself a coveted business address in Palm Beach Gardens without the costly commitment of a physical office. With Opus VO, your business can be a staple in the buzzing ecosystem of Palm Beach Gardens, all without breaking the bank. Have a high-stakes meeting or client catch-up? Our chic conference rooms have got you covered.  When you opt for a virtual setup in Palm Beach Gardens through Opus VO, a live receptionist is included to elevate your service. We’re committed to making each customer interaction feel like an integrated extension of your distinct brand. Offload your day-to-day admin duties to us and liberate yourself to pursue greater business ambitions. ",
+            "map": {
+                "lat": 26.7890855,
+                "lng": -80.1074242,
+                "zoom": 14,
+                "city": "Palm Beach Gardens"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Palm Beach Gardens, Florida even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Palm Beach Gardens. You can also adapt to better meet your clients’ unique needs within Florida. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Palm Beach Gardens virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Palm Beach Gardens?",
+                "body": "Don’t overlook Palm Beach Gardens—it’s more than just idyllic scenery. This area is a growing hub for a myriad of sectors from hospitality to tech. With a business address here, you’re tapping into a network of influential people and must-attend industry events.  By going virtual with Opus VO in Palm Beach Gardens, you’re not merely saving on overhead—you’re securing a distinct advantage in a competitive marketplace. Ready to ramp up your business? Our premium virtual office services are standing by.  Choose from one of two Opus VO Palm Beach Gardens locations @ 7711 North Military Trail, Palm Beach Gardens, FL 33410, or 6231 PGA Blvd, Suite #104, Palm Beach Gardens, FL 33418    ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Palm Beach Gardens - 7711 North Military Trail | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Florida, Palm Beach Gardens virtual office located at 7711 North Military Trail. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/florida/palm-beach-gardens/location-1441/",
+            "og": {
+                "title": "Virtual Office in Palm Beach Gardens - 7711 North Military Trail | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Florida, Palm Beach Gardens virtual office located at 7711 North Military Trail. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/florida/palm-beach-gardens/location-1441/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/1441-01.bldg_.jpg"
+            }
+        }
+    }
+}

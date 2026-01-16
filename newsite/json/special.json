@@ -1,0 +1,50 @@
+{
+    "success": true,
+    "data": {
+        "locations": [
+            {
+                "address": "1201 North Market Street, Suite 111, Wilmington, DE 19801",
+                "city_state_zip": "",
+                "cityname": "Wilmington",
+                "locid": 942,
+                "image": "/wp-content-mgr/wp-content/uploads/Opus-Virtual-Office-Wilmington-1201-North-Market-Street-Exterior.webp"
+            },
+            {
+                "address": "26 Broadway, Suite 934, New York, NY 10004",
+                "city_state_zip": "",
+                "cityname": "New York",
+                "locid": 1450,
+                "image": "/wp-content-mgr/wp-content/uploads/1450-building-1746036916361.jpg"
+            },
+            {
+                "address": "848 Brickell Avenue, Suite PH5, Miami, FL 33131",
+                "city_state_zip": "",
+                "cityname": "Miami",
+                "locid": 1285,
+                "image": "/wp-content-mgr/wp-content/uploads/wh_shay_zaidenberg-001.webp"
+            },
+            {
+                "address": "3050 Post Oak Blvd, Suite 510, Houston, TX 77056",
+                "city_state_zip": "",
+                "cityname": "Houston",
+                "locid": 1323,
+                "image": "/wp-content-mgr/wp-content/uploads/Opus-Virtual-Office-Houston-3050-Post-Oak-Blvd-Glass-Tower-Exterior.webp"
+            },
+            {
+                "address": "122 South Michigan Avenue, Suite 1390, Chicago, IL 60603",
+                "city_state_zip": "",
+                "cityname": "Chicago",
+                "locid": 1430,
+                "image": "/wp-content-mgr/wp-content/uploads/1430-01.bldg_-2.jpg"
+            },
+            {
+                "address": "626 Wilshire Blvd, Suite 410, Los Angeles, CA 90017",
+                "city_state_zip": "",
+                "cityname": "Los Angeles",
+                "locid": 1362,
+                "image": "/wp-content-mgr/wp-content/uploads/Opus-Virtual-Office-Los-Angeles-626-Wilshire-Blvd-Modern-Office-Building.webp"
+            }
+        ],
+        "total_locations": 6
+    }
+}

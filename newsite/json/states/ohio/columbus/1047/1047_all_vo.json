@@ -1,0 +1,93 @@
+{
+    "success": true,
+    "location_id": 1047,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Columbus",
+            "state": "OH",
+            "price": null,
+            "address": {
+                "line1": "175 South Third Street",
+                "suite": null,
+                "city": "Columbus",
+                "state": "OH",
+                "zip": "43215",
+                "phone": "(614) 715-9039"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/1047-building-3-800x533.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1047-building-800x507.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1047-rear-conf-room-2-800x533.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1047-large-conf-room1-367x550.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1047-lobby-800x533.jpg"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1047",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Columbus Virtual Office",
+            "body": "Experience the advantages of a prestigious business address in Columbus without the complexities and financial burdens of a traditional office space. Opus VO provides the benefit of an exceptional Columbus location at a fraction of the expense of a physical office. Manage your business mail, greet your clientele, and hold meetings in our state-of-the-art, fully-equipped conference rooms. Elevate your business profile with a business address in one of Columbus’s key commercial zones.  Selecting a virtual office in Columbus through Opus VO gives you the exclusive feature of a live receptionist, delivering personalized, high-quality service to your clients. Each engagement is tailored to align with your unique business goals and is supported by our comprehensive array of administrative services. These include complete mail management, sophisticated full-service phone handling, and more. Let our administrative staff manage your day-to-day tasks, allowing you to focus on strategic business development and growth. ",
+            "map": {
+                "lat": 39.9588399,
+                "lng": -82.9974969,
+                "zoom": 14,
+                "city": "Columbus"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Columbus, Ohio even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Columbus. You can also adapt to better meet your clients’ unique needs within Ohio. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Columbus virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Choose a Columbus Virtual Office?",
+                "body": "Columbus is not just a capital city; it’s a thriving economic hub with sectors ranging from healthcare and finance to technology and logistics. Place your enterprise in this growing market to tap into local opportunities that can substantially boost your revenue streams. Our Columbus location is strategically located near vital business centers and networking venues, providing you with easy access to significant industry events and valuable connections.  By opting for an Opus Virtual Office in Columbus, you do more than reduce overhead costs tied to traditional office setups; you also secure a competitive edge for your business. Advance your company by embracing our innovative virtual office solutions today.    Opus VO, Ohio @ 175 South Third Street Columbus, OH 43215  ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Full Featured Virtual Offices In Columbus | Opus Virtual Offices",
+            "meta_description": "Get the ultimate office solution for your business with our Ohio, Columbus virtual office located at 175 South Third Street. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/ohio/columbus/location-1047/",
+            "og": {
+                "title": "Full Featured Virtual Offices In Columbus | Opus Virtual Offices",
+                "description": "Get the ultimate office solution for your business with our Ohio, Columbus virtual office located at 175 South Third Street. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/ohio/columbus/location-1047/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/1047-building-3.jpg"
+            }
+        }
+    }
+}

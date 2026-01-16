@@ -1,0 +1,89 @@
+{
+    "success": true,
+    "location_id": 1470,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Guaynabo",
+            "state": "PR",
+            "price": null,
+            "address": {
+                "line1": "1353 Ave Luis Vigoreaux",
+                "suite": null,
+                "city": "Guaynabo",
+                "state": "PR",
+                "zip": "00966",
+                "phone": "(787) 937-8316"
+            },
+            "images": {
+                "hero": [
+                    "/assets/mail-center.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1470",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 0,
+            "nearbyPremium": 1,
+            "nearbyPremiumUrl": "/virtual-office/puerto-rico/san-juan/location-1768/",
+            "nearbyPremiumText": "to view the nearby PREMIUM Locations for the same $99/mo",
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Guaynabo Virtual Office",
+            "body": "Looking for a Guaynabo address to kick off your startup or level up your existing business, but worried about the costs of a full-blown office? Opus VO is your solution. You can have your business listed at one of our prime Guaynabo locations without the hefty price tag. Plus, whenever you need a place for key meetings or client chats, our state-of-the-art conference rooms have got you covered.  That’s not all. With a virtual office from Opus VO in Guaynabo, you also get the help of a live receptionist. Our team is here to take care of customer calls and manage everyday tasks like sorting through your digital mail and directing calls, so you can keep your eyes on growing your business. ",
+            "map": {
+                "lat": 18.4000897,
+                "lng": -66.10884399,
+                "zoom": 14,
+                "city": "Guaynabo"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Guaynabo, Puerto Rico even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Guaynabo. You can also adapt to better meet your clients’ unique needs within Puerto Rico. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Guaynabo virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Choose Guaynabo and Opus VO?",
+                "body": "Guaynabo is more than a pleasant town; it’s a great place to do business with plenty of opportunities. Setting up your virtual office with Opus VO in Guaynabo means you’re tapping into a busy professional scene, full of potential contacts and chances for growth.  Going with Opus VO in Guaynabo isn’t just about saving money; it’s a smart move that helps you aim higher and achieve more with your business. Your next big step might just be a virtual office away.  Opus VO Location in Guaynabo @ 1353 Ave Luis Vigoreaux, Guaynabo, PR 00966   ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Guaynabo - 1353 Ave Luis Vigoreaux | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Puerto Rico, Guaynabo virtual office located at 1353 Ave Luis Vigoreaux. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/puerto-rico/guaynabo/location-1470/",
+            "og": {
+                "title": "Virtual Office in Guaynabo - 1353 Ave Luis Vigoreaux | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Puerto Rico, Guaynabo virtual office located at 1353 Ave Luis Vigoreaux. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/puerto-rico/guaynabo/location-1470/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+            }
+        }
+    }
+}

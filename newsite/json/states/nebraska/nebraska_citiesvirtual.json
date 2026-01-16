@@ -1,0 +1,17 @@
+{
+    "success": true,
+    "count": 2,
+    "state": "nebraska",
+    "data": [
+        {
+            "id": "171",
+            "name": "Lincoln",
+            "popular": "1"
+        },
+        {
+            "id": "174",
+            "name": "Omaha",
+            "popular": "1"
+        }
+    ]
+}

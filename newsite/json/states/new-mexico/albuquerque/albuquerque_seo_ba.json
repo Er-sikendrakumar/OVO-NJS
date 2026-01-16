@@ -1,0 +1,23 @@
+{
+    "success": true,
+    "page": "business-address/new-mexico/albuquerque",
+    "page_type": "location_city",
+    "view": "city",
+    "seo": {
+        "title": "Virtual Office in Albuquerque, NM | Multiple Locations Available",
+        "meta_description": "Find the ultimate office solution with Opus Virtual Offices in Albuquerque, New Mexico. Our all-inclusive virtual offices cater to your business needs. Sign up today!",
+        "canonical": "https://www.opusvirtualoffices.com/business-address/new-mexico/albuquerque/",
+        "og": {
+            "title": "Virtual Office in Albuquerque, NM | Multiple Locations Available",
+            "description": "Find the ultimate office solution with Opus Virtual Offices in Albuquerque, New Mexico. Our all-inclusive virtual offices cater to your business needs. Sign up today!",
+            "url": "https://www.opusvirtualoffices.com/business-address/new-mexico/albuquerque/",
+            "type": "website",
+            "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+        }
+    },
+    "data": {
+        "state": "New Mexico",
+        "city": "Albuquerque",
+        "mode": "business-address"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "success": true,
+    "count": 4,
+    "state": "nevada",
+    "data": [
+        {
+            "id": "422",
+            "name": "Henderson",
+            "popular": "1"
+        },
+        {
+            "id": "661",
+            "name": "Incline Village",
+            "popular": "1"
+        },
+        {
+            "id": "178",
+            "name": "Las Vegas",
+            "popular": "1"
+        },
+        {
+            "id": "659",
+            "name": "Reno",
+            "popular": "1"
+        }
+    ]
+}

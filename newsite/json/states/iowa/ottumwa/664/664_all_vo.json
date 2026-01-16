@@ -1,0 +1,89 @@
+{
+    "success": true,
+    "location_id": 664,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Ottumwa",
+            "state": "IA",
+            "price": null,
+            "address": {
+                "line1": "619 Church Street",
+                "suite": null,
+                "city": "Ottumwa",
+                "state": "IA",
+                "zip": "52501",
+                "phone": "(641) 903-7102"
+            },
+            "images": {
+                "hero": [
+                    "/assets/mail-center.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=664",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 0,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Ottumwa Virtual Office",
+            "body": "Secure an esteemed business address in Ottumwa without incurring the cost of an actual physical office. With Opus VO, you can station your enterprise amidst the local dynamism of Ottumwa, all the while conserving your financial assets. Should you require an imposing setting for significant meetings or client consultations, our contemporary conference rooms are designed to captivate.  Venturing into virtual operations in Ottumwa via Opus VO includes the added benefit of a devoted live receptionist. We strive to make each client encounter seamlessly align with your specific brand character. Delegate your routine administrative tasks to us, thus freeing your royal self to pursue greater business horizons. ",
+            "map": {
+                "lat": 41.008246,
+                "lng": -92.42041,
+                "zoom": 14,
+                "city": "Ottumwa"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Ottumwa, Iowa even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Ottumwa. You can also adapt to better meet your clients’ unique needs within Iowa. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Ottumwa virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Ottumwa?",
+                "body": "Don’t overlook Ottumwa; it’s more than its charming small-town aura. It’s an emerging hub for various industries, offering opportunities for networking and growth. An Ottumwa location connects you to essential industry professionals and enriching events that can enhance your business network.  Opting for Opus VO in Ottumwa isn’t just about fiscal prudence—it’s a golden opportunity for a strategic edge. Are you prepared to take your business up a notch? Our first-class virtual office services are here at your beck and call.  Opus VO, Ottumwa @ 619 Church Street, Ottumwa, IA 52501   ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Ottumwa - 619 Church Street | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Iowa, Ottumwa virtual office located at 619 Church Street. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/iowa/ottumwa/location-664/",
+            "og": {
+                "title": "Virtual Office in Ottumwa - 619 Church Street | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Iowa, Ottumwa virtual office located at 619 Church Street. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/iowa/ottumwa/location-664/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+            }
+        }
+    }
+}

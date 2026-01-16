@@ -1,0 +1,19 @@
+{
+    "success": true,
+    "count": 3,
+    "state": "louisiana",
+    "data": [
+        {
+            "id": "208",
+            "name": "Baton Rouge"
+        },
+        {
+            "id": "206",
+            "name": "Lafayette"
+        },
+        {
+            "id": "126",
+            "name": "New Orleans"
+        }
+    ]
+}

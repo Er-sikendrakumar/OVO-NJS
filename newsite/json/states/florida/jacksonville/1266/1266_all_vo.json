@@ -1,0 +1,93 @@
+{
+    "success": true,
+    "location_id": 1266,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Jacksonville",
+            "state": "FL",
+            "price": null,
+            "address": {
+                "line1": "9428 Baymeadows Road",
+                "suite": null,
+                "city": "Jacksonville",
+                "state": "FL",
+                "zip": "32256",
+                "phone": "(904) 677-3523"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/1266-exterior.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1266-conference.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1266-conference2.png",
+                    "/wp-content-mgr/wp-content/uploads/1266-reception.png",
+                    "/wp-content-mgr/wp-content/uploads/1266-kitchen.png"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 1,
+            "addressOnlyUrl": "/business-address/florida/jacksonville/location-1266/",
+            "signupUrl": "/signup/?locid=1266",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 1,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Jacksonville Virtual Office",
+            "body": "Grab a prestigious business address in Jacksonville without the commitment of a full-blown office. Opus VO lets you tap into Jacksonville’s bustling business scene without stretching your finances thin. When the stakes are high for face-to-face meetings or client interactions, our state-of-the-art conference rooms are at your service.  Opting for a virtual office in Jacksonville through Opus VO also includes a live receptionist as part of the package. This skilled individual ensures that each client encounter reflects your brand’s signature style, all while delivering exceptional customer service. Hand off the everyday admin duties to us, so you can focus on driving your business to greater heights. ",
+            "map": {
+                "lat": 30.219511,
+                "lng": -81.5623166,
+                "zoom": 14,
+                "city": "Jacksonville"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Jacksonville, Florida even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Jacksonville. You can also adapt to better meet your clients’ unique needs within Florida. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Jacksonville virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Jacksonville Virtual Office Services",
+                "body": "Opus VO at Jacksonville @ 9428 Baymeadows Road, Suite 502, Jacksonville, FL 32256  Jacksonville is more than just a port city; it’s a rapidly growing commercial nexus featuring a mix of sectors such as finance, logistics, and healthcare. Our location in Jacksonville places you within arm’s reach of important industry contacts and valuable networking events.  By choosing Opus VO in Jacksonville, you’re not merely saving on costs—you’re securing a strategic advantage over your rivals. Are you ready to up your business game? Our top-of-the-line virtual office services await you.   ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Jacksonville - 9428 Baymeadows Road | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Florida, Jacksonville virtual office located at 9428 Baymeadows Road. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/florida/jacksonville/location-1266/",
+            "og": {
+                "title": "Virtual Office in Jacksonville - 9428 Baymeadows Road | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Florida, Jacksonville virtual office located at 9428 Baymeadows Road. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/florida/jacksonville/location-1266/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/1266-exterior.jpg"
+            }
+        }
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "success": true,
+    "count": 1,
+    "state": "georgia",
+    "mode": "business-address",
+    "data": [
+        {
+            "id": 684,
+            "location_name": "3379 Peachtree Road NE (Buckhead), Suite 655, Atlanta, GA 30326",
+            "city": "Atlanta",
+            "state": "Georgia",
+            "state_abbr": "GA",
+            "address": "3379 Peachtree Road NE (Buckhead), Suite 655, Atlanta, GA 30326",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 1,
+            "point_x": 33.8481789,
+            "point_y": -84.36589809,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/Atlanta-Virtual-Office-Space-3379-Peachtree-Road-NE.webp",
+                "alttext": "Exterior view of the Atlanta virtual office building at 3379 Peachtree Road NE, showcasing modern glass architecture and nearby high-rise buildings."
+            },
+            "url": "/business-address/georgia/atlanta/location-684/",
+            "phone": "4049749900"
+        }
+    ]
+}

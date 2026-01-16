@@ -1,0 +1,94 @@
+{
+    "success": true,
+    "location_id": 1498,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Tysons",
+            "state": "VA",
+            "price": null,
+            "address": {
+                "line1": "7918 Jones Branch Drive",
+                "suite": null,
+                "city": "Tysons",
+                "state": "VA",
+                "zip": "22102",
+                "phone": "(703) 239-7935"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/1498-exterior.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1498-conference.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1498-conference2.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1498-lobby.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1498-kitchen.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1498-building-lobby.jpg"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1498",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Tysons Virtual Office",
+            "body": "Claim the allure of an elite Tysons business location without the financial drain of maintaining a physical workspace. With Opus VO, anchor your cutting-edge startup or dynamic venture in one of our luxurious Tysons spots—all at a sliver of the costs typically associated with traditional office rentals. Access our state-of-the-art meeting suites for pivotal investor sit-downs and high-stakes client interactions, while enhancing your brand’s digital reach through a prestigious Tysons address.  Choosing a virtual workspace in Tysons through Opus VO bestows upon you the added benefit of a live, dedicated receptionist. Committed to providing custom-tailored, superior customer service, our specialized team ensures each client touchpoint is enhanced and perfectly aligned with your business vision. Handoff administrative tasks like unlimited call answer and call forwarding to us, liberating you to focus on scaling your business. ",
+            "map": {
+                "lat": 38.9259403,
+                "lng": -77.2170731,
+                "zoom": 14,
+                "city": "Tysons"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Tysons, Virginia even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Tysons. You can also adapt to better meet your clients’ unique needs within Virginia. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Tysons virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Go Virtual in Tysons with Opus VO?",
+                "body": "Tysons is more than a thriving Virginia business district; it’s a hotbed for young professionals and burgeoning startups. Abundant in opportunities spanning tech, finance, and consulting, our prime Tysons locations offer you tap-and-go access to industry movers and Instagrammable professional events.  By opting for an Opus Virtual Office in Tysons, you’re not just minimizing overhead—you’re claiming a powerful competitive edge. Rocket your business into the stratosphere by leveraging our top-shelf virtual office facilities today.  Opus VO Tysons @ 7918 Jones Branch Drive, Tysons, VA 22102 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Tysons - 7918 Jones Branch Drive | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Virginia, Tysons virtual office located at 7918 Jones Branch Drive. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/virginia/tysons/location-1498/",
+            "og": {
+                "title": "Virtual Office in Tysons - 7918 Jones Branch Drive | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Virginia, Tysons virtual office located at 7918 Jones Branch Drive. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/virginia/tysons/location-1498/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/1498-exterior.jpg"
+            }
+        }
+    }
+}

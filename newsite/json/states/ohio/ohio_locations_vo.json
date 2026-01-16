@@ -1,0 +1,255 @@
+{
+    "success": true,
+    "count": 13,
+    "state": "ohio",
+    "mode": "virtual-office",
+    "data": [
+        {
+            "id": 1449,
+            "location_name": "1200 E Market Street, Akron, OH 44305",
+            "city": "Akron",
+            "state": "Ohio",
+            "state_abbr": "OH",
+            "address": "1200 E Market Street, Akron, OH 44305",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 41.0655015,
+            "point_y": -81.4833873,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1449-001-Building.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/ohio/akron/location-1449/",
+            "phone": "3309835478"
+        },
+        {
+            "id": 1677,
+            "location_name": "26300 Cedar Road, Beachwood, OH 44122",
+            "city": "Beachwood",
+            "state": "Ohio",
+            "state_abbr": "OH",
+            "address": "26300 Cedar Road, Beachwood, OH 44122",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 41.498487999,
+            "point_y": -81.4941423,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/Beachwood-Ohio-Virtual-Office-at-26300-Cedar-Road-Exterior.webp",
+                "alttext": "Modern office building exterior of Opus Virtual Offices' Beachwood, Ohio location at 26300 Cedar Road."
+            },
+            "url": "/virtual-office/ohio/beachwood/location-1677/",
+            "phone": "2165163352"
+        },
+        {
+            "id": 852,
+            "location_name": "11427 Reed Hartman Hwy, Cincinnati, OH 45241",
+            "city": "Cincinnati",
+            "state": "Ohio",
+            "state_abbr": "OH",
+            "address": "11427 Reed Hartman Hwy, Cincinnati, OH 45241",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 39.275868,
+            "point_y": -84.374267,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/852-01-Building.webp",
+                "alttext": null
+            },
+            "url": "/virtual-office/ohio/cincinnati/location-852/",
+            "phone": "5137668478"
+        },
+        {
+            "id": 1658,
+            "location_name": "815 Superior Ave East, Cleveland, OH 44114",
+            "city": "Cleveland",
+            "state": "Ohio",
+            "state_abbr": "OH",
+            "address": "815 Superior Ave East, Cleveland, OH 44114",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 41.5023763,
+            "point_y": -81.68940219,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1658-01.Building.webp",
+                "alttext": null
+            },
+            "url": "/virtual-office/ohio/cleveland/location-1658/",
+            "phone": "2163426157"
+        },
+        {
+            "id": 370,
+            "location_name": "5247 Wilson Mills Rd., Cleveland, OH 44143",
+            "city": "Cleveland",
+            "state": "Ohio",
+            "state_abbr": "OH",
+            "address": "5247 Wilson Mills Rd., Cleveland, OH 44143",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 41.5394043,
+            "point_y": -81.4911958,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/ohio/cleveland/location-370/",
+            "phone": "4404359019"
+        },
+        {
+            "id": 1047,
+            "location_name": "175 South Third Street, Columbus, OH 43215",
+            "city": "Columbus",
+            "state": "Ohio",
+            "state_abbr": "OH",
+            "address": "175 South Third Street, Columbus, OH 43215",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 39.9588399,
+            "point_y": -82.9974969,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1047-building-3.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/ohio/columbus/location-1047/",
+            "phone": "6147159039"
+        },
+        {
+            "id": 1251,
+            "location_name": "6605 Longshore Street, Dublin, OH 43017",
+            "city": "Dublin",
+            "state": "Ohio",
+            "state_abbr": "OH",
+            "address": "6605 Longshore Street, Dublin, OH 43017",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 40.1019659,
+            "point_y": -83.1098549,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1251-Lounge-2.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/ohio/dublin/location-1251/",
+            "phone": "6145918179"
+        },
+        {
+            "id": 1256,
+            "location_name": "675 Alpha Drive, Highland Heights, OH 44143",
+            "city": "Highland Heights",
+            "state": "Ohio",
+            "state_abbr": "OH",
+            "address": "675 Alpha Drive, Highland Heights, OH 44143",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 41.5460416,
+            "point_y": -81.4527394,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1256-1Building-2.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/ohio/highland-heights/location-1256/",
+            "phone": "2163012957"
+        },
+        {
+            "id": 1706,
+            "location_name": "101 S Fountain Avenue, Springfield, OH 45502",
+            "city": "Springfield",
+            "state": "Ohio",
+            "state_abbr": "OH",
+            "address": "101 S Fountain Avenue, Springfield, OH 45502",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 39.9231318,
+            "point_y": -83.8109199,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1706-exterior.jpg",
+                "alttext": "Exterior of building that houses Opus Virtual Offices located in Springfield, Ohio"
+            },
+            "url": "/virtual-office/ohio/springfield/location-1706/",
+            "phone": "9376015773"
+        },
+        {
+            "id": 472,
+            "location_name": "450 West Avenue, Tallmadge, OH 44278",
+            "city": "Tallmadge",
+            "state": "Ohio",
+            "state_abbr": "OH",
+            "address": "450 West Avenue, Tallmadge, OH 44278",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 41.1020374,
+            "point_y": -81.4592581,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/ohio/tallmadge/location-472/",
+            "phone": "3309835427"
+        },
+        {
+            "id": 1169,
+            "location_name": "5533 Southwyck Boulevard, Toledo, OH 43614",
+            "city": "Toledo",
+            "state": "Ohio",
+            "state_abbr": "OH",
+            "address": "5533 Southwyck Boulevard, Toledo, OH 43614",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 41.6022336,
+            "point_y": -83.671628,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/Building-1-1.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/ohio/toledo/location-1169/",
+            "phone": "4199306162"
+        },
+        {
+            "id": 416,
+            "location_name": "7385 North State Route 3, Westerville, OH 43082",
+            "city": "Westerville",
+            "state": "Ohio",
+            "state_abbr": "OH",
+            "address": "7385 North State Route 3, Westerville, OH 43082",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 40.148767,
+            "point_y": -82.922472,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/ohio/westerville/location-416/",
+            "phone": "6144057213"
+        },
+        {
+            "id": 525,
+            "location_name": "4496 Mahoning Avenue, Youngstown, OH 44515",
+            "city": "Youngstown",
+            "state": "Ohio",
+            "state_abbr": "OH",
+            "address": "4496 Mahoning Avenue, Youngstown, OH 44515",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 41.101768,
+            "point_y": -80.73533,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/ohio/youngstown/location-525/",
+            "phone": "3309835445"
+        }
+    ]
+}

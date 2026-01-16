@@ -1,0 +1,89 @@
+{
+    "success": true,
+    "location_id": 636,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Marine City",
+            "state": "MI",
+            "price": null,
+            "address": {
+                "line1": "420 South Water St.",
+                "suite": null,
+                "city": "Marine City",
+                "state": "MI",
+                "zip": "48039",
+                "phone": "(810) 740-2021"
+            },
+            "images": {
+                "hero": [
+                    "/assets/mail-center.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=636",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 0,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Marine City Virtual Office",
+            "body": "Gain a prestigious Marine City business address without the costs associated with a traditional office space. With Opus VO, you can position your venture amidst the bustling environment of Marine City while conserving your monetary resources. Have an essential meeting or a crucial client presentation to conduct? Our state-of-the-art conference rooms are designed to leave a lasting impression.  When you opt for a virtual setting in Marine City via Opus VO, you’re afforded the benefit of a dedicated live receptionist. We make sure that each interaction with your clients echoes the values of your brand, allowing you to focus on your core business activities. ",
+            "map": {
+                "lat": 42.715317,
+                "lng": -82.492841,
+                "zoom": 14,
+                "city": "Marine City"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Marine City, Michigan even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Marine City. You can also adapt to better meet your clients’ unique needs within Michigan. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Marine City virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Marine City?",
+                "body": "Marine City is not just a waterfront haven; it’s a burgeoning hub for diverse enterprises from shipping to tourism. Stationing your business in Marine City affords you the opportunity to network with industry leaders and participate in events that can boost your business reach.  Choosing Opus VO in Marine City goes beyond being a financially sound decision—it’s a strategic game-changer. Are you set to ascend your business to new heights? Our comprehensive virtual office services are geared to facilitate just that.  Opus VO, Marine City @ 420 South Water St., Marine City, MI 48039          ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Marine City - 420 South Water St. | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Michigan, Marine City virtual office located at 420 South Water St.. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/michigan/marine-city/location-636/",
+            "og": {
+                "title": "Virtual Office in Marine City - 420 South Water St. | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Michigan, Marine City virtual office located at 420 South Water St.. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/michigan/marine-city/location-636/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+            }
+        }
+    }
+}

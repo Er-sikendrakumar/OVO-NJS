@@ -1,0 +1,190 @@
+{
+    "success": true,
+    "state": "iowa",
+    "cities_virtual": [
+        {
+            "id": "460",
+            "name": "Cedar Rapids",
+            "popular": "1"
+        },
+        {
+            "id": "447",
+            "name": "Des Moines",
+            "popular": "1"
+        },
+        {
+            "id": "893",
+            "name": "Iowa City",
+            "popular": "0"
+        },
+        {
+            "id": "412",
+            "name": "Ottumwa",
+            "popular": "1"
+        },
+        {
+            "id": "770",
+            "name": "Windsor Heights",
+            "popular": "1"
+        }
+    ],
+    "cities_business": [
+        {
+            "id": "447",
+            "name": "Des Moines",
+            "popular": "1"
+        }
+    ],
+    "cities_popular": [
+        {
+            "id": "460",
+            "name": "Cedar Rapids"
+        },
+        {
+            "id": "447",
+            "name": "Des Moines"
+        },
+        {
+            "id": "412",
+            "name": "Ottumwa"
+        },
+        {
+            "id": "770",
+            "name": "Windsor Heights"
+        }
+    ],
+    "locations_virtual_office": [
+        {
+            "id": 724,
+            "location_name": "5249 North Park Place NE, Cedar Rapids, IA 52402",
+            "city": "Cedar Rapids",
+            "state": "Iowa",
+            "state_abbr": "IA",
+            "address": "5249 North Park Place NE, Cedar Rapids, IA 52402",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 42.028141,
+            "point_y": -91.6293233,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/iowa/cedar-rapids/location-724/",
+            "phone": "3197319078"
+        },
+        {
+            "id": 1279,
+            "location_name": "500 Locust Street, Des Moines, IA 50309",
+            "city": "Des Moines",
+            "state": "Iowa",
+            "state_abbr": "IA",
+            "address": "500 Locust Street, Des Moines, IA 50309",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 41.5867217,
+            "point_y": -93.6239175,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1279-001-Building.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/iowa/des-moines/location-1279/",
+            "phone": "5153130032"
+        },
+        {
+            "id": 707,
+            "location_name": "4225 Fleur Drive, Des Moines, IA 50321",
+            "city": "Des Moines",
+            "state": "Iowa",
+            "state_abbr": "IA",
+            "address": "4225 Fleur Drive, Des Moines, IA 50321",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 41.545982,
+            "point_y": -93.644921,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/iowa/des-moines/location-707/",
+            "phone": "5158023923"
+        },
+        {
+            "id": 1709,
+            "location_name": "1566 S Gilbert Street, Iowa City, IA 52240",
+            "city": "Iowa City",
+            "state": "Iowa",
+            "state_abbr": "IA",
+            "address": "1566 S Gilbert Street, Iowa City, IA 52240",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 41.6432885,
+            "point_y": -91.53297669,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/iowa/iowa-city/location-1709/",
+            "phone": "3192043241"
+        },
+        {
+            "id": 664,
+            "location_name": "619 Church Street, Ottumwa, IA 52501",
+            "city": "Ottumwa",
+            "state": "Iowa",
+            "state_abbr": "IA",
+            "address": "619 Church Street, Ottumwa, IA 52501",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 41.008246,
+            "point_y": -92.42041,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/iowa/ottumwa/location-664/",
+            "phone": "6419037102"
+        },
+        {
+            "id": 1171,
+            "location_name": "6500 University Avenue, Windsor Heights, IA 50324",
+            "city": "Windsor Heights",
+            "state": "Iowa",
+            "state_abbr": "IA",
+            "address": "6500 University Avenue, Windsor Heights, IA 50324",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 41.6001508,
+            "point_y": -93.7073798,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1Building68.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/iowa/windsor-heights/location-1171/",
+            "phone": "5152212969"
+        }
+    ],
+    "meta": {
+        "cities_virtual_count": 5,
+        "cities_business_count": 1,
+        "cities_popular_count": 4,
+        "locations_virtual_office_count": 6
+    },
+    "seo": {
+        "title": "Virtual Office in Iowa | Locations Statewide | Opus VO",
+        "meta_description": "Get a prestigious Iowa business address and professional phone answering services with Opus Virtual Offices, the perfect office solution for your business needs.",
+        "canonical": "https://www.opusvirtualoffices.com/virtual-office/iowa/",
+        "og": {
+            "title": "Virtual Office in Iowa | Locations Statewide | Opus VO",
+            "description": "Get a prestigious Iowa business address and professional phone answering services with Opus Virtual Offices, the perfect office solution for your business needs.",
+            "url": "https://www.opusvirtualoffices.com/virtual-office/iowa/",
+            "type": "website",
+            "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+        }
+    }
+}

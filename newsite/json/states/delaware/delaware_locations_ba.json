@@ -1,0 +1,27 @@
+{
+    "success": true,
+    "count": 1,
+    "state": "delaware",
+    "mode": "business-address",
+    "data": [
+        {
+            "id": 942,
+            "location_name": "1201 North Market Street, Suite 111, Wilmington, DE 19801",
+            "city": "Wilmington",
+            "state": "Delaware",
+            "state_abbr": "DE",
+            "address": "1201 North Market Street, Suite 111, Wilmington, DE 19801",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 1,
+            "point_x": 39.7479883,
+            "point_y": -75.5469842,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/Opus-Virtual-Office-Wilmington-1201-North-Market-Street-Exterior.webp",
+                "alttext": "Exterior view of the modern office building at 1201 North Market Street, Wilmington, Delaware, home to Opus Virtual Office."
+            },
+            "url": "/business-address/delaware/wilmington/location-942/",
+            "phone": "3022980000"
+        }
+    ]
+}

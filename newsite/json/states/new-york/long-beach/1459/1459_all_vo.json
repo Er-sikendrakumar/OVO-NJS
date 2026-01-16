@@ -1,0 +1,93 @@
+{
+    "success": true,
+    "location_id": 1459,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Long Beach",
+            "state": "NY",
+            "price": null,
+            "address": {
+                "line1": "120 W Park Avenue",
+                "suite": null,
+                "city": "Long Beach",
+                "state": "NY",
+                "zip": "11561",
+                "phone": "(516) 908-3842"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/1459-01.building-3.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1459-02.meeting-2.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1459-03.lounge-2.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1459-04.meeting-2.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1459-05-lounge-1-2.jpg"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1459",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 1,
+            "nearbyPremiumUrl": "/virtual-office/new-york/brooklyn/location-1477/",
+            "nearbyPremiumText": "to view the most POPULAR locations nearby for the same $99/mo",
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Long Beach Virtual Office",
+            "body": "Looking for a prestigious Long Beach address but want to avoid the trappings of a traditional office? Opus VO is the answer. Position your business within Long Beach’s vibrant entrepreneurial scene, all while being mindful of your finances. Our top-tier conference rooms are on standby for those essential client meetings or team discussions.  By selecting our virtual workspace in Long Beach, you’re acquiring more than just an esteemed address. You’re also enlisting the aid of a skilled live receptionist who will integrate seamlessly into your business. They’ll ensure that all client interactions resonate with your unique brand personality, allowing us to manage the daily admin grind while you concentrate on achieving your business aspirations. ",
+            "map": {
+                "lat": 40.5880866,
+                "lng": -73.6676473,
+                "zoom": 14,
+                "city": "Long Beach"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Long Beach, New York even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Long Beach. You can also adapt to better meet your clients’ unique needs within New York. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Long Beach virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Long Beach?",
+                "body": "Long Beach isn’t just a coastal paradise; it’s also a bustling business environment with an array of opportunities in areas like tourism, logistics, and technology. A Long Beach address lends credibility to your business and grants you entry into an expansive network of industry events and contacts.  Choosing Opus VO for your virtual workspace in Long Beach isn’t merely a cost-saving move; it’s a strategic asset. Ready to take your business to new heights? Dive into our selection of tailored virtual workspace options today.  Opus VO, Long Beach @ 120 W Park Avenue, Long Beach, NY 11561 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Long Beach - 120 W Park Avenue | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our New York, Long Beach virtual office located at 120 W Park Avenue. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/new-york/long-beach/location-1459/",
+            "og": {
+                "title": "Virtual Office in Long Beach - 120 W Park Avenue | $99/Month",
+                "description": "Get the ultimate office solution for your business with our New York, Long Beach virtual office located at 120 W Park Avenue. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/new-york/long-beach/location-1459/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/1459-01.building-3.jpg"
+            }
+        }
+    }
+}

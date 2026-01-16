@@ -1,0 +1,89 @@
+{
+    "success": true,
+    "location_id": 555,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Mukilteo",
+            "state": "WA",
+            "price": null,
+            "address": {
+                "line1": "11700 Mukilteo Speedway",
+                "suite": null,
+                "city": "Mukilteo",
+                "state": "WA",
+                "zip": "98275",
+                "phone": "(425) 943-9517"
+            },
+            "images": {
+                "hero": [
+                    "/assets/mail-center.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=555",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 0,
+            "nearbyPremium": 1,
+            "nearbyPremiumUrl": "/virtual-office/washington/seattle/location-1005/",
+            "nearbyPremiumText": "to view the nearby PREMIUM Locations for the same $99/mo",
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Mukilteo Virtual Office",
+            "body": "Thinking about a high-profile Mukilteo address to enhance your startup or upscale your existing business, but reluctant to splurge on a physical location? Opus VO has you covered. Secure your brand’s home in one of our elite Mukilteo spots, enjoying all the cachet without the financial drain. For those must-attend meetings or impactful client chats, our state-of-the-art conference rooms are at your disposal.  But the package doesn’t end with just an address. Your virtual office at Opus VO in Mukilteo includes the dedicated services of a live receptionist. Allow us to be the face and voice of your customer engagements, interacting seamlessly in a manner that captures the essence of your business. And those pesky administrative chores like email sorting and strategic call forwarding? Leave them to us, so you can direct your energy toward growth and innovation.",
+            "map": {
+                "lat": 47.8912382,
+                "lng": -122.287249,
+                "zoom": 14,
+                "city": "Mukilteo"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Mukilteo, Washington even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Mukilteo. You can also adapt to better meet your clients’ unique needs within Washington. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Mukilteo virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Choose Mukilteo and Opus VO?",
+                "body": "Mukilteo is more than scenic views and charming ambiance; it’s an emerging hotbed for diverse business sectors. Your virtual office in Mukilteo via Opus VO connects you instantly to a dynamic community of professionals, opening doors to partnerships, opportunities, and maybe even your next business triumph.  Opting for Opus VO in Mukilteo means you’re not just being cost-effective—you’re investing in your business’s limitless potential. Who knows, your next breakthrough could be just one virtual office decision away.  Opus VO Location in Mukilteo @ 11700 Mukilteo Speedway, Mukilteo, WA 98275   ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Mukilteo - 11700 Mukilteo Speedway | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Washington, Mukilteo virtual office located at 11700 Mukilteo Speedway. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/washington/mukilteo/location-555/",
+            "og": {
+                "title": "Virtual Office in Mukilteo - 11700 Mukilteo Speedway | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Washington, Mukilteo virtual office located at 11700 Mukilteo Speedway. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/washington/mukilteo/location-555/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+            }
+        }
+    }
+}

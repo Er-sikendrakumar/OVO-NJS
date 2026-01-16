@@ -1,0 +1,89 @@
+{
+    "success": true,
+    "location_id": 425,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Saint Paul",
+            "state": "MN",
+            "price": null,
+            "address": {
+                "line1": "2136 Ford Parkway",
+                "suite": null,
+                "city": "Saint Paul",
+                "state": "MN",
+                "zip": "55116",
+                "phone": "(651) 236-6497"
+            },
+            "images": {
+                "hero": [
+                    "/assets/mail-center.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=425",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 0,
+            "nearbyPremium": 1,
+            "nearbyPremiumUrl": "/virtual-office/minnesota/bloomington/location-1392/",
+            "nearbyPremiumText": "to view the nearby PREMIUM Locations for the same $99/mo",
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Saint Paul Virtual Office",
+            "body": "Capture an illustrious business address in Saint Paul without the expense of physical premises. With Opus VO, you can strategically place your business within Saint Paul’s dynamic landscape, all the while conserving your financial assets. Have a critical meeting or client engagement? Our technologically advanced conference rooms are designed to make a lasting impression.  By choosing a virtual office in Saint Paul via Opus VO, a dedicated live receptionist becomes an integral part of your package. We are committed to ensuring each client interaction seamlessly integrates with your own brand’s identity. Offload your mundane administrative tasks to us, leaving you free to focus on your grander business goals. ",
+            "map": {
+                "lat": 44.917729,
+                "lng": -93.190725,
+                "zoom": 14,
+                "city": "Saint Paul"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Saint Paul, Minnesota even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Saint Paul. You can also adapt to better meet your clients’ unique needs within Minnesota. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Saint Paul virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Saint Paul?",
+                "body": "Saint Paul is much more than its rich history and cultural landmarks. It’s a fertile ground for diverse enterprises from retail to cutting-edge tech companies. Establishing your business in Saint Paul grants you immediate access to a network of industry leaders and potential clients.  Choosing Opus VO in Saint Paul is not merely a cost-effective decision; it’s a savvy business strategy. Are you prepared to propel your business to new pinnacles? Our superior virtual office services stand ready to serve you.  Opus VO, Saint Paul @ 2136 Ford Parkway, Saint Paul, MN 55116      ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Saint Paul - 2136 Ford Parkway | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Minnesota, Saint Paul virtual office located at 2136 Ford Parkway. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/minnesota/saint-paul/location-425/",
+            "og": {
+                "title": "Virtual Office in Saint Paul - 2136 Ford Parkway | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Minnesota, Saint Paul virtual office located at 2136 Ford Parkway. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/minnesota/saint-paul/location-425/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+            }
+        }
+    }
+}

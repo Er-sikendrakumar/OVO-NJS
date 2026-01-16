@@ -1,0 +1,89 @@
+{
+    "success": true,
+    "location_id": 829,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Santa Clarita",
+            "state": "CA",
+            "price": null,
+            "address": {
+                "line1": "18723 Via Princessa",
+                "suite": null,
+                "city": "Santa Clarita",
+                "state": "CA",
+                "zip": "91387",
+                "phone": "(661) 244-9715"
+            },
+            "images": {
+                "hero": [
+                    "/assets/mail-center.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=829",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 0,
+            "nearbyPremium": 1,
+            "nearbyPremiumUrl": "/virtual-office/california/woodland-hills/location-1707/",
+            "nearbyPremiumText": "to view the nearby PREMIUM Locations for the same $99/mo",
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Santa Clarita Virtual Office",
+            "body": "If you want the allure of a distinguished business address in Santa Clarita without the financial encumbrances of a physical locale, get a virtual office. Opus VO provides you with the exclusive opportunity to situate your company in a prestigious Santa Clarita location, all without the prohibitive costs typical of a conventional office lease. Utilize our avant-garde conference rooms for critical business collaborations and client interactions while elevating your brand’s image with a reputable Santa Clarita address.  Opting for a virtual office in Santa Clarita through Opus VO gives you the unique service of a live receptionist committed to delivering personalized, first-rate customer service. Our team ensures that each client interaction aligns flawlessly with your distinct business goals. Relinquish the daily admin tasks such as digital mail management and complete call handling to us, offering you the freedom of time to zero in on the growth and success of your enterprise. ",
+            "map": {
+                "lat": 34.404603,
+                "lng": -118.463582,
+                "zoom": 14,
+                "city": "Santa Clarita"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Santa Clarita, California even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Santa Clarita. You can also adapt to better meet your clients’ unique needs within California. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Santa Clarita virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Choose a Santa Clarita Virtual Office?",
+                "body": "Santa Clarita is not merely a tranquil suburban haven; it is an evolving commercial epicenter teeming with opportunities in areas like entertainment, technology, and healthcare. Conveniently situated near key business regions, our Santa Clarita location affords you unrestricted access to valuable industry contacts and invigorating networking occasions.  By choosing an Opus Virtual Office in Santa Clarita, you’re achieving more than merely reducing your operational expenses; you’re gaining an invaluable competitive edge. Elevate your business to new summits by leveraging our superior virtual office services today.  Opus VO Santa Clarita @ 18723 Via Princessa, Santa Clarita, CA 91387 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Santa Clarita - 18723 Via Princessa | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our California, Santa Clarita virtual office located at 18723 Via Princessa. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/california/santa-clarita/location-829/",
+            "og": {
+                "title": "Virtual Office in Santa Clarita - 18723 Via Princessa | $99/Month",
+                "description": "Get the ultimate office solution for your business with our California, Santa Clarita virtual office located at 18723 Via Princessa. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/california/santa-clarita/location-829/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+            }
+        }
+    }
+}

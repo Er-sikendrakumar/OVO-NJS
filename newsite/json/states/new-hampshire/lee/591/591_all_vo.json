@@ -1,0 +1,89 @@
+{
+    "success": true,
+    "location_id": 591,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Lee",
+            "state": "NH",
+            "price": null,
+            "address": {
+                "line1": "62 Calef Highway",
+                "suite": null,
+                "city": "Lee",
+                "state": "NH",
+                "zip": "03824",
+                "phone": "(603) 263-1497"
+            },
+            "images": {
+                "hero": [
+                    "/assets/mail-center.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=591",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 0,
+            "nearbyPremium": 1,
+            "nearbyPremiumUrl": "/virtual-office/new-hampshire/dover/location-1748/",
+            "nearbyPremiumText": "to view the nearby PREMIUM Locations for the same $99/mo",
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Lee Virtual Office",
+            "body": "Transform your business stature with a professional address in Lee, all without the commitment to a physical office space. Opus VO offers you the privilege of situating your enterprise in the epicenter of Lee’s flourishing business environment, and all at a cost-efficient rate. Our technologically advanced conference facilities stand ready for your pivotal meetings and events.  When you select Opus VO’s virtual workspace in Lee, you’re not just acquiring an address; you’re also gaining a dedicated live receptionist who integrates effortlessly with your existing team. We ensure that each client engagement mirrors your brand’s distinctive character. Entrust us with your day-to-day administrative functions, freeing you to zero in on your fundamental business goals. ",
+            "map": {
+                "lat": 43.152253,
+                "lng": -71.005881,
+                "zoom": 14,
+                "city": "Lee"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Lee, New Hampshire even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Lee. You can also adapt to better meet your clients’ unique needs within New Hampshire. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Lee virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Lee?",
+                "body": "Lee is not merely a charming New England city; it’s a vibrant economic center with diverse opportunities across sectors like technology, healthcare, and retail. A Lee address offers you access to invaluable networking experiences and industry relationships.  Opting for Opus VO’s virtual workspace in Lee isn’t just a logistical convenience; it’s a calculated move toward gaining a competitive edge. Are you prepared to uplift your business presence? Explore our unmatched virtual workspace services today.  Opus VO, Lee @ 62 Calef Highway, Lee, NH 03824 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Lee - 62 Calef Highway | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our New Hampshire, Lee virtual office located at 62 Calef Highway. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/new-hampshire/lee/location-591/",
+            "og": {
+                "title": "Virtual Office in Lee - 62 Calef Highway | $99/Month",
+                "description": "Get the ultimate office solution for your business with our New Hampshire, Lee virtual office located at 62 Calef Highway. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/new-hampshire/lee/location-591/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+            }
+        }
+    }
+}

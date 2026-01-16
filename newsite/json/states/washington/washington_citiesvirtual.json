@@ -1,0 +1,37 @@
+{
+    "success": true,
+    "count": 6,
+    "state": "washington",
+    "data": [
+        {
+            "id": "322",
+            "name": "Bellevue",
+            "popular": "1"
+        },
+        {
+            "id": "421",
+            "name": "Issaquah",
+            "popular": "0"
+        },
+        {
+            "id": "323",
+            "name": "Mukilteo",
+            "popular": "0"
+        },
+        {
+            "id": "213",
+            "name": "Seattle",
+            "popular": "1"
+        },
+        {
+            "id": "565",
+            "name": "Spokane",
+            "popular": "1"
+        },
+        {
+            "id": "308",
+            "name": "Vancouver",
+            "popular": "0"
+        }
+    ]
+}

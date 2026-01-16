@@ -1,0 +1,89 @@
+{
+    "success": true,
+    "location_id": 1053,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Wellington",
+            "state": "FL",
+            "price": null,
+            "address": {
+                "line1": "9314 Forest Hill Boulevard",
+                "suite": null,
+                "city": "Wellington",
+                "state": "FL",
+                "zip": "33411",
+                "phone": "(561) 237-3053"
+            },
+            "images": {
+                "hero": [
+                    "/assets/mail-center.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1053",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 0,
+            "nearbyPremium": 1,
+            "nearbyPremiumUrl": "/virtual-office/florida/boca-raton/location-776/",
+            "nearbyPremiumText": "to view nearby PREMIUM Locations that offer Meeting Rooms for the same $99/mo",
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Wellington Virtual Office",
+            "body": "Land a prestigious business address in Wellington without the hassle of a long-term physical lease. With Opus VO, you’re not just putting your business on the map in Wellington’s thriving environment; you’re also making smart financial choices. Need a setting that screams professionalism for an important meeting or client presentation? Our sleek conference rooms have got you covered.  When you establish your virtual office in Wellington via Opus VO, a specialized live receptionist is part of the deal. They’ll be committed to making every interaction with your clientele an authentic extension of your brand’s personality. Delegate your routine admin chores to us and liberate yourself to focus on your entrepreneurial visions.   ",
+            "map": {
+                "lat": 26.650646,
+                "lng": -80.203817,
+                "zoom": 14,
+                "city": "Wellington"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Wellington, Florida even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Wellington. You can also adapt to better meet your clients’ unique needs within Florida. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Wellington virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Wellington? ",
+                "body": "Wellington isn’t just about equestrian events and upscale living. It’s a growing hub for industries ranging from tech to healthcare. By choosing a Wellington location, you gain direct access to pivotal networking events and industry influencers, supercharging your business prospects.  By choosing Opus VO in Wellington, you’re not merely saving money—you’re also securing a strategic business advantage. Ready to level up? Our premium virtual office services are at your fingertips.  Opus VO, Wellington @ 9314 Forest Hill Boulevard, Wellington, FL 33411 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Wellington - 9314 Forest Hill Boulevard | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Florida, Wellington virtual office located at 9314 Forest Hill Boulevard. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/florida/wellington/location-1053/",
+            "og": {
+                "title": "Virtual Office in Wellington - 9314 Forest Hill Boulevard | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Florida, Wellington virtual office located at 9314 Forest Hill Boulevard. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/florida/wellington/location-1053/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+            }
+        }
+    }
+}

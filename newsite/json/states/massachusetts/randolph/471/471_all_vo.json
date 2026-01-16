@@ -1,0 +1,89 @@
+{
+    "success": true,
+    "location_id": 471,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Randolph",
+            "state": "MA",
+            "price": null,
+            "address": {
+                "line1": "141 Memorial Parkway",
+                "suite": null,
+                "city": "Randolph",
+                "state": "MA",
+                "zip": "02368",
+                "phone": "(781) 906-0848"
+            },
+            "images": {
+                "hero": [
+                    "/assets/mail-center.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=471",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 0,
+            "nearbyPremium": 1,
+            "nearbyPremiumUrl": "/virtual-office/massachusetts/canton/location-1699/",
+            "nearbyPremiumText": "to view the nearby PREMIUM Locations for the same $99/mo",
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Randolph Virtual Office",
+            "body": "Obtain an elite business address in Randolph without the financial burden of a physical office. With Opus VO, you place your business in the bustling landscape of Randolph without depleting your capital. Hosting a critical meeting or presenting to a potential client? Our top-tier conference rooms are equipped to astonish.  When you opt for a virtual setting via Opus VO in Randolph, a full-time live receptionist is included. Each client interaction is orchestrated to seamlessly align with your brand’s identity, making us a genuine extension of your in-house team. Offload your regular admin duties to us, granting you the freedom to pursue your business ambitions. ",
+            "map": {
+                "lat": 42.162993,
+                "lng": -71.045586,
+                "zoom": 14,
+                "city": "Randolph"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Randolph, Massachusetts even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Randolph. You can also adapt to better meet your clients’ unique needs within Massachusetts. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Randolph virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Randolph?",
+                "body": "Don’t underestimate Randolph—it’s not merely a place of natural beauty. It’s an emerging hub for a myriad of enterprises, from innovative startups to well-established corporations. Having a Randolph address grants you access to valuable networking opportunities and business potential.  Selecting Opus VO in Randolph isn’t just smart budgeting—it’s a competitive edge. Ready to elevate your brand? Our unparalleled virtual office solutions await your command.  Opus Vo Randolph @ 141 Memorial Parkway, Randolph, MA 02368 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Randolph - 141 Memorial Parkway | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Massachusetts, Randolph virtual office located at 141 Memorial Parkway. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/massachusetts/randolph/location-471/",
+            "og": {
+                "title": "Virtual Office in Randolph - 141 Memorial Parkway | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Massachusetts, Randolph virtual office located at 141 Memorial Parkway. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/massachusetts/randolph/location-471/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+            }
+        }
+    }
+}

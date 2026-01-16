@@ -1,0 +1,92 @@
+{
+    "success": true,
+    "location_id": 1012,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Marlton",
+            "state": "NJ",
+            "price": null,
+            "address": {
+                "line1": "525 Route 73 North",
+                "suite": null,
+                "city": "Marlton",
+                "state": "NJ",
+                "zip": "08053",
+                "phone": "(856) 595-9024"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/1012-building-1743106952987.webp",
+                    "/wp-content-mgr/wp-content/uploads/1012-conference-1743108912512-1.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1012-Conference-room-1-1743108912714.png",
+                    "/wp-content-mgr/wp-content/uploads/1012-reception-1743108912902-1.jpg"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1012",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Marlton Virtual Office",
+            "body": "Experience the advantages of a respected business address in Marlton without the logistical challenges and financial burden of traditional office space. Opus VO enables you to position your business in an esteemed Marlton location at just a fraction of the cost of leasing a physical office. Oversee your business communications, receive clients, and host events in our cutting-edge, fully-equipped conference rooms. Amplify your brand’s reputation with a distinguished address in one of Marlton’s prime business areas.  Selecting a virtual office in Marlton through Opus VO provides you with the special benefit of a live receptionist devoted to offering top-notch, customized client service. Every client interaction is meticulously tailored to coincide with your unique business goals, all backed by our wide array of administrative services. These include digital mail management, advanced call forwarding capabilities, and more. Our skilled administrative team will handle your day-to-day operations, giving you the freedom to focus on strategic business expansion and growth. ",
+            "map": {
+                "lat": 39.8758383,
+                "lng": -74.923065,
+                "zoom": 14,
+                "city": "Marlton"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Marlton, New Jersey even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Marlton. You can also adapt to better meet your clients’ unique needs within New Jersey. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Marlton virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Choose a Marlton Virtual Office?",
+                "body": "Marlton is more than just a suburban community near Philadelphia; it’s an evolving economic zone with diverse sectors such as healthcare, finance, and technology. Plant your business in this growing market to exploit local opportunities that can meaningfully enhance your revenue. Our Marlton location is strategically situated near crucial business centers and networking venues, affording you convenient access to important industry events and valuable contacts.  By opting for an Opus Virtual Office in Marlton, you’re doing more than simply reducing overhead related to traditional office spaces; you’re also equipping your business with a competitive advantage. Take your enterprise to the next level by utilizing our sophisticated virtual office services today.  Opus VO, Marlton @ 525 Rt 73 North Marlton, NJ 08053 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Marlton - 525 Route 73 North | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our New Jersey, Marlton virtual office located at 525 Route 73 North. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/new-jersey/marlton/location-1012/",
+            "og": {
+                "title": "Virtual Office in Marlton - 525 Route 73 North | $99/Month",
+                "description": "Get the ultimate office solution for your business with our New Jersey, Marlton virtual office located at 525 Route 73 North. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/new-jersey/marlton/location-1012/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/1012-building-1743106952987.webp"
+            }
+        }
+    }
+}

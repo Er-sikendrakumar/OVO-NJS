@@ -1,0 +1,92 @@
+{
+    "success": true,
+    "location_id": 1445,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Hammond",
+            "state": "LA",
+            "price": null,
+            "address": {
+                "line1": "406 West Morris Avenue",
+                "suite": null,
+                "city": "Hammond",
+                "state": "LA",
+                "zip": "70403",
+                "phone": "(985) 601-3036"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/1445-01.bldg_-608x550.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1445-02.bldg_-657x550.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1445-03.meeting-552x550.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1445-04.front_-540x550.jpg"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1445",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": "This location does not offer mail forwarding"
+        },
+        "overview": {
+            "heading": "Hammond Virtual Office",
+            "body": "Establish an esteemed business presence in Hammond without the financial burden of leasing a physical location. At Opus VO, you can situate your venture amid the bustling milieu of Hammond while conserving your economic resources. Have a significant client meeting or a high-stakes presentation on the horizon? Our modern, fully-equipped meeting rooms are set to astonish.  Opting for a virtual space in Hammond through Opus VO grants you the service of a dedicated live receptionist. We seamlessly integrate every client interaction to align with the core values of your brand. Trust us with your routine administrative tasks, freeing you to focus on achieving your business objectives. ",
+            "map": {
+                "lat": 30.5023634,
+                "lng": -90.464967,
+                "zoom": 14,
+                "city": "Hammond"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Hammond, Louisiana even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Hammond. You can also adapt to better meet your clients’ unique needs within Louisiana. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Hammond virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Hammond?",
+                "body": "Hammond offers more than mere aesthetic appeal—it’s a rapidly growing hub for diverse business sectors. By marking your territory in Hammond, you’re aligning yourself with an environment rich in opportunities and influential networking events.  Choosing Opus VO in Hammond isn’t just wise from a financial standpoint; it’s a strategic maneuver. Are you set to ascend the ladder of business success? Our superior virtual office services stand ready to assist you.  Opus VO, Hammond @ 406 West Morris Avenue, Hammond, LA 70403 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Hammond - 406 West Morris Avenue | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Louisiana, Hammond virtual office located at 406 West Morris Avenue. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/louisiana/hammond/location-1445/",
+            "og": {
+                "title": "Virtual Office in Hammond - 406 West Morris Avenue | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Louisiana, Hammond virtual office located at 406 West Morris Avenue. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/louisiana/hammond/location-1445/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/1445-01.bldg_.jpg"
+            }
+        }
+    }
+}

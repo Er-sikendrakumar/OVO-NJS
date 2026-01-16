@@ -1,0 +1,15 @@
+{
+    "success": true,
+    "count": 2,
+    "state": "south dakota",
+    "data": [
+        {
+            "id": "487",
+            "name": "Rapid City"
+        },
+        {
+            "id": "669",
+            "name": "Sioux Falls"
+        }
+    ]
+}

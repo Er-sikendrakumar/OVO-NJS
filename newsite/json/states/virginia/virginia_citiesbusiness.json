@@ -1,0 +1,17 @@
+{
+    "success": true,
+    "count": 2,
+    "state": "virginia",
+    "data": [
+        {
+            "id": "49",
+            "name": "Alexandria",
+            "popular": "1"
+        },
+        {
+            "id": "50",
+            "name": "Arlington",
+            "popular": "0"
+        }
+    ]
+}

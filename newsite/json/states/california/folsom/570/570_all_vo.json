@@ -1,0 +1,89 @@
+{
+    "success": true,
+    "location_id": 570,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Folsom",
+            "state": "CA",
+            "price": null,
+            "address": {
+                "line1": "1750 Prairie City Road",
+                "suite": null,
+                "city": "Folsom",
+                "state": "CA",
+                "zip": "95630",
+                "phone": "(916) 282-2137"
+            },
+            "images": {
+                "hero": [
+                    "/assets/mail-center.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=570",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 0,
+            "nearbyPremium": 1,
+            "nearbyPremiumUrl": "/virtual-office/california/el-dorado-hills/location-1322/",
+            "nearbyPremiumText": "to view the nearby PREMIUM Locations for the same $99/mo",
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Folsom Virtual Office",
+            "body": "Enjoy the distinction of a highly regarded business address in Folsom without the financial burdens that come with a physical workspace. Opus VO provides you with the singular opportunity to locate your business in a premier Folsom setting, all at a cost far less than that of a standard office lease. Utilize our state-of-the-art conference rooms for crucial business discussions and impactful client engagements, all while elevating your brand with an esteemed Folsom address.  Opting for a virtual office in Folsom through Opus VO bestows upon you the specialized benefit of a live receptionist. Committed to offering custom-tailored, superior customer service, our team ensures that every client interaction is seamlessly aligned with your unique business vision. Relieve yourself of routine administrative tasks like complete mail management and advanced call-forwarding, allowing you the freedom to concentrate on steering your business towards greater success. ",
+            "map": {
+                "lat": 38.6510523,
+                "lng": -121.1657144,
+                "zoom": 14,
+                "city": "Folsom"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Folsom, California even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Folsom. You can also adapt to better meet your clients’ unique needs within California. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Folsom virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Choose a Folsom Virtual Office?",
+                "body": "Folsom is not simply a picturesque suburb of Sacramento; it’s an emerging business landscape brimming with possibilities in areas such as tech, healthcare, and retail. Strategically located near vital business hubs, our Folsom offices provide you with direct access to crucial industry players and dynamic networking gatherings.  By opting for an Opus Virtual Office in Folsom, you’re achieving much more than a mere cut in operational expenses; you’re securing an invaluable competitive advantage. Catapult your business to new pinnacles of success by taking advantage of our top-tier virtual office services today.  Opus VO, Folsom @ 1750 Prairie City Road, Folsom, CA 95630 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Folsom - 1750 Prairie City Road | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our California, Folsom virtual office located at 1750 Prairie City Road. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/california/folsom/location-570/",
+            "og": {
+                "title": "Virtual Office in Folsom - 1750 Prairie City Road | $99/Month",
+                "description": "Get the ultimate office solution for your business with our California, Folsom virtual office located at 1750 Prairie City Road. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/california/folsom/location-570/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+            }
+        }
+    }
+}

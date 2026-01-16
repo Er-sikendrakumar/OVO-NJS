@@ -1,0 +1,23 @@
+{
+    "success": true,
+    "page": "virtual-office/louisiana/houma",
+    "page_type": "location_city",
+    "view": "city",
+    "seo": {
+        "title": "Virtual Office in Houma, LA | Multiple Locations Available",
+        "meta_description": "Find the ultimate office solution with Opus Virtual Offices in Houma, Louisiana. Our all-inclusive virtual offices cater to your business needs. Sign up today!",
+        "canonical": "https://www.opusvirtualoffices.com/virtual-office/louisiana/houma/",
+        "og": {
+            "title": "Virtual Office in Houma, LA | Multiple Locations Available",
+            "description": "Find the ultimate office solution with Opus Virtual Offices in Houma, Louisiana. Our all-inclusive virtual offices cater to your business needs. Sign up today!",
+            "url": "https://www.opusvirtualoffices.com/virtual-office/louisiana/houma/",
+            "type": "website",
+            "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+        }
+    },
+    "data": {
+        "state": "Louisiana",
+        "city": "Houma",
+        "mode": "virtual-office"
+    }
+}

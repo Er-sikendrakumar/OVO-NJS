@@ -1,0 +1,92 @@
+{
+    "success": true,
+    "location_id": 1420,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Milwaukee",
+            "state": "WI",
+            "price": null,
+            "address": {
+                "line1": "313 N Plankinton Avenue",
+                "suite": null,
+                "city": "Milwaukee",
+                "state": "WI",
+                "zip": "53203",
+                "phone": "(414) 203-0212"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/1420-01.bldg_.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1420-02.meeting-759x550.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1420-03.shared-642x550.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1420-04.meeting.jpg"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 1,
+            "addressOnlyUrl": "/business-address/wisconsin/milwaukee/location-1420/",
+            "signupUrl": "/signup/?locid=1420",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 1,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": "This location does not offer mail forwarding"
+        },
+        "overview": {
+            "heading": "Milwaukee Virtual Office",
+            "body": "Thinking about a distinguished Milwaukee address to kick-start your startup or lift your existing enterprise, but wary about the financial commitment of traditional office space? Opus VO is your go-to solution. Position your enterprise in one of our exceptional Milwaukee locations and savor the prestige of a renowned address without the hefty price tag. Whenever a high-quality space is needed for essential business meetings or valuable client encounters, our avant-garde conference rooms are available.  The incentives extend beyond a prestigious address. When you enroll in a virtual office package at Opus VO in Milwaukee, a live receptionist is part of the offering. Trust our dedicated team to adeptly steer your client communications, aligning them with your distinct business aims. As for daily administrative tasks like digital mail coordination and smart call routing, let us handle that, liberating you to focus on the business’s upward trajectory. ",
+            "map": {
+                "lat": 43.0339657,
+                "lng": -87.91183439,
+                "zoom": 14,
+                "city": "Milwaukee"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Milwaukee, Wisconsin even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Milwaukee. You can also adapt to better meet your clients’ unique needs within Wisconsin. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Milwaukee virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Milwaukee? Why Opus VO?",
+                "body": "Milwaukee is not just an energetic city; it’s a fertile ground for business in diverse fields. By aligning your virtual office with Opus VO in Milwaukee, you tap into a lively and varied professional network, teeming with opportunities for collaboration and expansion.  Opting for Opus VO in Milwaukee is not just a savvy cost-saving move; it’s a calculated strategy designed to accelerate your business success. Your next pivotal achievement could be just a virtual office selection away.  Choose from two of our Opus VO locations in Milwaukee @ 313 N Plankinton Avenue, Milwaukee, WI 53203, or 1345 N. Jefferson, Milwaukee, WI 53202 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Milwaukee - 313 N Plankinton Avenue | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Wisconsin, Milwaukee virtual office located at 313 N Plankinton Avenue. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/wisconsin/milwaukee/location-1420/",
+            "og": {
+                "title": "Virtual Office in Milwaukee - 313 N Plankinton Avenue | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Wisconsin, Milwaukee virtual office located at 313 N Plankinton Avenue. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/wisconsin/milwaukee/location-1420/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/1420-01.bldg_.jpg"
+            }
+        }
+    }
+}

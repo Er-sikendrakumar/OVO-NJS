@@ -1,0 +1,301 @@
+{
+    "success": true,
+    "state": "louisiana",
+    "cities_virtual": [
+        {
+            "id": "208",
+            "name": "Baton Rouge",
+            "popular": "1"
+        },
+        {
+            "id": "788",
+            "name": "Carencro",
+            "popular": "0"
+        },
+        {
+            "id": "815",
+            "name": "Gretna",
+            "popular": "0"
+        },
+        {
+            "id": "777",
+            "name": "Hammond",
+            "popular": "0"
+        },
+        {
+            "id": "118",
+            "name": "Houma",
+            "popular": "0"
+        },
+        {
+            "id": "206",
+            "name": "Lafayette",
+            "popular": "1"
+        },
+        {
+            "id": "871",
+            "name": "Marrero",
+            "popular": "0"
+        },
+        {
+            "id": "126",
+            "name": "New Orleans",
+            "popular": "1"
+        },
+        {
+            "id": "696",
+            "name": "Shreveport",
+            "popular": "0"
+        }
+    ],
+    "cities_business": [
+        {
+            "id": "126",
+            "name": "New Orleans",
+            "popular": "1"
+        }
+    ],
+    "cities_popular": [
+        {
+            "id": "208",
+            "name": "Baton Rouge"
+        },
+        {
+            "id": "206",
+            "name": "Lafayette"
+        },
+        {
+            "id": "126",
+            "name": "New Orleans"
+        }
+    ],
+    "locations_virtual_office": [
+        {
+            "id": 404,
+            "location_name": "9655 Perkins Rd, Baton Rouge, LA 70810",
+            "city": "Baton Rouge",
+            "state": "Louisiana",
+            "state_abbr": "LA",
+            "address": "9655 Perkins Rd, Baton Rouge, LA 70810",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 30.379823,
+            "point_y": -91.098731,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/louisiana/baton-rouge/location-404/",
+            "phone": "2253723767"
+        },
+        {
+            "id": 1773,
+            "location_name": "440 3rd St, Baton Rouge, LA 70802",
+            "city": "Baton Rouge",
+            "state": "Louisiana",
+            "state_abbr": "LA",
+            "address": "440 3rd St, Baton Rouge, LA 70802",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 30.451049599,
+            "point_y": -91.1878552,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1773-Exterior.jpg",
+                "alttext": "Exterior of building that houses Opus Virtual Offices located in Baton Rouge, Louisiana"
+            },
+            "url": "/virtual-office/louisiana/baton-rouge/location-1773/",
+            "phone": "2254753997"
+        },
+        {
+            "id": 1461,
+            "location_name": "3419 NW Evangeline Thwy, Carencro, LA 70520",
+            "city": "Carencro",
+            "state": "Louisiana",
+            "state_abbr": "LA",
+            "address": "3419 NW Evangeline Thwy, Carencro, LA 70520",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 30.3022294,
+            "point_y": -92.0286163,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1461-01.bldg-.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/louisiana/carencro/location-1461/",
+            "phone": "3375926005"
+        },
+        {
+            "id": 1524,
+            "location_name": "2112 Belle Chasse Hwy, Gretna, LA 70056",
+            "city": "Gretna",
+            "state": "Louisiana",
+            "state_abbr": "LA",
+            "address": "2112 Belle Chasse Hwy, Gretna, LA 70056",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 29.8880181,
+            "point_y": -90.0318187,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/louisiana/gretna/location-1524/",
+            "phone": "5048723759"
+        },
+        {
+            "id": 1445,
+            "location_name": "406 West Morris Avenue, Hammond, LA 70403",
+            "city": "Hammond",
+            "state": "Louisiana",
+            "state_abbr": "LA",
+            "address": "406 West Morris Avenue, Hammond, LA 70403",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 30.5023634,
+            "point_y": -90.464967,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1445-01.bldg_.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/louisiana/hammond/location-1445/",
+            "phone": "9856013036"
+        },
+        {
+            "id": 1553,
+            "location_name": "2043 Coteau Road, Houma, LA 70364",
+            "city": "Houma",
+            "state": "Louisiana",
+            "state_abbr": "LA",
+            "address": "2043 Coteau Road, Houma, LA 70364",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 29.6345191,
+            "point_y": -90.70915579,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1553-01.building.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/louisiana/houma/location-1553/",
+            "phone": "9852892913"
+        },
+        {
+            "id": 402,
+            "location_name": "4400A Ambassador Caffery Pkwy, Lafayette, LA 70508",
+            "city": "Lafayette",
+            "state": "Louisiana",
+            "state_abbr": "LA",
+            "address": "4400A Ambassador Caffery Pkwy, Lafayette, LA 70508",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 30.1567102,
+            "point_y": -92.0511454,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/louisiana/lafayette/location-402/",
+            "phone": "3373669852"
+        },
+        {
+            "id": 1657,
+            "location_name": "4657 Westbank Expy, Marrero, LA 70072",
+            "city": "Marrero",
+            "state": "Louisiana",
+            "state_abbr": "LA",
+            "address": "4657 Westbank Expy, Marrero, LA 70072",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 29.893641799,
+            "point_y": -90.0977874,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1657-01-Building.webp",
+                "alttext": null
+            },
+            "url": "/virtual-office/louisiana/marrero/location-1657/",
+            "phone": "5043182520"
+        },
+        {
+            "id": 1381,
+            "location_name": "3205 Orleans Avenue, New Orleans, LA 70119",
+            "city": "New Orleans",
+            "state": "Louisiana",
+            "state_abbr": "LA",
+            "address": "3205 Orleans Avenue, New Orleans, LA 70119",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 29.9747445,
+            "point_y": -90.0883448,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1381-01.building.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/louisiana/new-orleans/location-1381/",
+            "phone": "5048723853"
+        },
+        {
+            "id": 283,
+            "location_name": "3436 Magazine Street, New Orleans, LA 70115",
+            "city": "New Orleans",
+            "state": "Louisiana",
+            "state_abbr": "LA",
+            "address": "3436 Magazine Street, New Orleans, LA 70115",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 29.922512,
+            "point_y": -90.089803,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/louisiana/new-orleans/location-283/",
+            "phone": "5042911713"
+        },
+        {
+            "id": 1637,
+            "location_name": "717 Crockett Street, Shreveport, LA 71101",
+            "city": "Shreveport",
+            "state": "Louisiana",
+            "state_abbr": "LA",
+            "address": "717 Crockett Street, Shreveport, LA 71101",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 32.5091725,
+            "point_y": -93.7503217,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1637-001.Building-scaled.webp",
+                "alttext": null
+            },
+            "url": "/virtual-office/louisiana/shreveport/location-1637/",
+            "phone": "3183832220"
+        }
+    ],
+    "meta": {
+        "cities_virtual_count": 9,
+        "cities_business_count": 1,
+        "cities_popular_count": 3,
+        "locations_virtual_office_count": 11
+    },
+    "seo": {
+        "title": "Virtual Office in Louisiana | Locations Statewide | Opus VO",
+        "meta_description": "Get a prestigious Louisiana business address and professional phone answering services with Opus Virtual Offices, the perfect office solution for your business needs.",
+        "canonical": "https://www.opusvirtualoffices.com/virtual-office/louisiana/",
+        "og": {
+            "title": "Virtual Office in Louisiana | Locations Statewide | Opus VO",
+            "description": "Get a prestigious Louisiana business address and professional phone answering services with Opus Virtual Offices, the perfect office solution for your business needs.",
+            "url": "https://www.opusvirtualoffices.com/virtual-office/louisiana/",
+            "type": "website",
+            "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+        }
+    }
+}

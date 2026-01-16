@@ -1,0 +1,46 @@
+{
+    "success": true,
+    "count": 2,
+    "state": "arizona",
+    "mode": "business-address",
+    "data": [
+        {
+            "id": 862,
+            "location_name": "18444 N 25th Ave, Phoenix, AZ 85023",
+            "city": "Phoenix",
+            "state": "Arizona",
+            "state_abbr": "AZ",
+            "address": "18444 N 25th Ave, Phoenix, AZ 85023",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 33.653881,
+            "point_y": -112.111879,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/862-Exterior.png",
+                "alttext": "Exterior of building that houses Opus Virtual Offices located in Pheonix, Arizona"
+            },
+            "url": "/business-address/arizona/phoenix/location-862/",
+            "phone": "6026442508"
+        },
+        {
+            "id": 1722,
+            "location_name": "5151 E Broadway Blvd, Tucson, AZ 85711",
+            "city": "Tucson",
+            "state": "Arizona",
+            "state_abbr": "AZ",
+            "address": "5151 E Broadway Blvd, Tucson, AZ 85711",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 32.2228334,
+            "point_y": -110.8826734,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1722-exterior.png",
+                "alttext": "Exterior of building that houses Opus Virtual Offices locates in Tucson, Arizona"
+            },
+            "url": "/business-address/arizona/tucson/location-1722/",
+            "phone": "5202888528"
+        }
+    ]
+}

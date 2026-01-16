@@ -1,0 +1,95 @@
+{
+    "success": true,
+    "location_id": 1426,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Pittsburgh",
+            "state": "PA",
+            "price": null,
+            "address": {
+                "line1": "429 Fourth Avenue",
+                "suite": null,
+                "city": "Pittsburgh",
+                "state": "PA",
+                "zip": "15219",
+                "phone": "(412) 857-3528"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/1426-02.lobby_-675x550.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1426-07.meeting-788x550.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1426-03.meeting-701x550.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1426-04.bldg_.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1426-05.meeting-574x550.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1426-06.shared.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1426-01.bldg_-479x550.jpg"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1426",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Pittsburgh Virtual Office",
+            "body": "Experience the advantages of a high-caliber business address in Pittsburgh without the operational hassles or financial obligations of traditional office space. Opus VO provides you with the flexibility to position your business in an elite locale at just a fraction of the cost of leasing a physical office. Manage your business communications, entertain clients, and orchestrate meetings in our modern, fully-outfitted conference rooms. Enhance your brand’s prestige with an esteemed address in one of Pittsburgh’s prime business sectors.  Electing a virtual office in Pittsburgh through Opus VO affords you the distinct privilege of a live receptionist, dedicated to delivering individualized, superior client service. Every client interaction is skillfully tailored to meet your specific business objectives, supported by our expansive range of administrative services. These offerings include complete mail handling, advanced call-forwarding technologies, and more. Our administrative team will oversee your routine tasks, freeing you to concentrate on strategic business growth and innovation. ",
+            "map": {
+                "lat": 40.4385697,
+                "lng": -79.99835809,
+                "zoom": 14,
+                "city": "Pittsburgh"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Pittsburgh, Pennsylvania even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Pittsburgh. You can also adapt to better meet your clients’ unique needs within Pennsylvania. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Pittsburgh virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Choose a Pittsburgh Virtual Office?",
+                "body": "Pittsburgh isn’t merely a steel town; it’s an emerging hub for diverse sectors such as technology, healthcare, and finance. By placing your business in this evolving market, you can harness local opportunities that could markedly boost your bottom line. Conveniently located near essential business centers and networking venues, our Pittsburgh location grants you seamless access to impactful industry connections and key professional events.  By selecting an Opus Virtual Office in Pittsburgh, you’re doing more than just minimizing operational costs; you’re also granting your business a critical competitive edge. Propel your enterprise to unprecedented success by capitalizing on our premier virtual office solutions today.  Opus VO, Pittsburgh @ 429 Fourth Avenue Pittsburgh, PA 15219 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Pittsburgh - 429 Fourth Avenue | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Pennsylvania, Pittsburgh virtual office located at 429 Fourth Avenue. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/pennsylvania/pittsburgh/location-1426/",
+            "og": {
+                "title": "Virtual Office in Pittsburgh - 429 Fourth Avenue | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Pennsylvania, Pittsburgh virtual office located at 429 Fourth Avenue. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/pennsylvania/pittsburgh/location-1426/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/1426-02.lobby_.jpg"
+            }
+        }
+    }
+}

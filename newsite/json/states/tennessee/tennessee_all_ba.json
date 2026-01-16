@@ -1,0 +1,114 @@
+{
+    "success": true,
+    "state": "tennessee",
+    "cities_virtual": [
+        {
+            "id": "145",
+            "name": "Brentwood",
+            "popular": "0"
+        },
+        {
+            "id": "618",
+            "name": "Chattanooga",
+            "popular": "1"
+        },
+        {
+            "id": "129",
+            "name": "Franklin",
+            "popular": "0"
+        },
+        {
+            "id": "790",
+            "name": "Goodlettsville",
+            "popular": "0"
+        },
+        {
+            "id": "502",
+            "name": "Knoxville",
+            "popular": "1"
+        },
+        {
+            "id": "127",
+            "name": "Memphis",
+            "popular": "1"
+        },
+        {
+            "id": "146",
+            "name": "Murfreesboro",
+            "popular": "1"
+        },
+        {
+            "id": "474",
+            "name": "Nashville",
+            "popular": "1"
+        }
+    ],
+    "cities_business": [
+        {
+            "id": "474",
+            "name": "Nashville",
+            "popular": "1"
+        }
+    ],
+    "cities_popular": [
+        {
+            "id": "618",
+            "name": "Chattanooga"
+        },
+        {
+            "id": "502",
+            "name": "Knoxville"
+        },
+        {
+            "id": "127",
+            "name": "Memphis"
+        },
+        {
+            "id": "146",
+            "name": "Murfreesboro"
+        },
+        {
+            "id": "474",
+            "name": "Nashville"
+        }
+    ],
+    "locations_business_address": [
+        {
+            "id": 1476,
+            "location_name": "611 Commerce Street, Suite 2611, Nashville, TN 37203",
+            "city": "Nashville",
+            "state": "Tennessee",
+            "state_abbr": "TN",
+            "address": "611 Commerce Street, Suite 2611, Nashville, TN 37203",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 1,
+            "point_x": 36.160597,
+            "point_y": -86.7796539,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/Opus-Virtual-Office-Nashville-611-Commerce-Street-Downtown-Skyline-View.webp",
+                "alttext": "View of the downtown Nashville skyline from Opus Virtual Office at 611 Commerce Street, Nashville, TN."
+            },
+            "url": "/business-address/tennessee/nashville/location-1476/",
+            "phone": "6158574210"
+        }
+    ],
+    "meta": {
+        "cities_virtual_count": 8,
+        "cities_business_count": 1,
+        "cities_popular_count": 5,
+        "locations_business_address_count": 1
+    },
+    "seo": {
+        "title": "Virtual Business Address in Tennessee | Opus Virtual Offices",
+        "meta_description": "Get a prestigious business address in Tennessee with Opus. Multiple premium locations statewide mail handling privacy protection all for just $59/month.",
+        "canonical": "https://www.opusvirtualoffices.com/business-address/tennessee/",
+        "og": {
+            "title": "Virtual Business Address in Tennessee | Opus Virtual Offices",
+            "description": "Get a prestigious business address in Tennessee with Opus. Multiple premium locations statewide mail handling privacy protection all for just $59/month.",
+            "url": "https://www.opusvirtualoffices.com/business-address/tennessee/",
+            "type": "website",
+            "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+        }
+    }
+}

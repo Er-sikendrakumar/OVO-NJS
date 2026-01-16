@@ -1,0 +1,125 @@
+{
+    "success": true,
+    "state": "south carolina",
+    "cities_virtual": [
+        {
+            "id": "326",
+            "name": "Charleston",
+            "popular": "1"
+        },
+        {
+            "id": "44",
+            "name": "Columbia",
+            "popular": "1"
+        },
+        {
+            "id": "856",
+            "name": "Fort Mill",
+            "popular": "0"
+        },
+        {
+            "id": "45",
+            "name": "Greenville",
+            "popular": "0"
+        },
+        {
+            "id": "46",
+            "name": "Greer",
+            "popular": "0"
+        },
+        {
+            "id": "324",
+            "name": "Hilton Head",
+            "popular": "0"
+        },
+        {
+            "id": "47",
+            "name": "Lexington",
+            "popular": "1"
+        },
+        {
+            "id": "526",
+            "name": "Mount Pleasant",
+            "popular": "0"
+        },
+        {
+            "id": "560",
+            "name": "Myrtle Beach",
+            "popular": "1"
+        },
+        {
+            "id": "48",
+            "name": "Seneca",
+            "popular": "0"
+        },
+        {
+            "id": "903",
+            "name": "Summerville",
+            "popular": "0"
+        }
+    ],
+    "cities_business": [
+        {
+            "id": "44",
+            "name": "Columbia",
+            "popular": "1"
+        }
+    ],
+    "cities_popular": [
+        {
+            "id": "326",
+            "name": "Charleston"
+        },
+        {
+            "id": "44",
+            "name": "Columbia"
+        },
+        {
+            "id": "47",
+            "name": "Lexington"
+        },
+        {
+            "id": "560",
+            "name": "Myrtle Beach"
+        }
+    ],
+    "locations_business_address": [
+        {
+            "id": 1724,
+            "location_name": "1901 Main Street, Columbia, SC 29201",
+            "city": "Columbia",
+            "state": "South Carolina",
+            "state_abbr": "SC",
+            "address": "1901 Main Street, Columbia, SC 29201",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 34.010961,
+            "point_y": -81.03827629,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1724-Exterior.jpg",
+                "alttext": "Exterior image of high-rise building with Virtual Offices in Columbia, South Carolina"
+            },
+            "url": "/business-address/south-carolina/columbia/location-1724/",
+            "phone": "8035202295"
+        }
+    ],
+    "meta": {
+        "cities_virtual_count": 11,
+        "cities_business_count": 1,
+        "cities_popular_count": 4,
+        "locations_business_address_count": 1
+    },
+    "seo": {
+        "title": "Virtual Business Address in South Carolina | Opus Virtual Offices",
+        "meta_description": "Get a prestigious business address in South Carolina with Opus. Multiple premium locations statewide mail handling privacy protection all for just $59/month.",
+        "canonical": "https://www.opusvirtualoffices.com/business-address/south-carolina/",
+        "og": {
+            "title": "Virtual Business Address in South Carolina | Opus Virtual Offices",
+            "description": "Get a prestigious business address in South Carolina with Opus. Multiple premium locations statewide mail handling privacy protection all for just $59/month.",
+            "url": "https://www.opusvirtualoffices.com/business-address/south-carolina/",
+            "type": "website",
+            "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+        }
+    }
+}

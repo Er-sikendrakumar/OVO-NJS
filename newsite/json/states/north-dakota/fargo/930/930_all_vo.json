@@ -1,0 +1,89 @@
+{
+    "success": true,
+    "location_id": 930,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Fargo",
+            "state": "ND",
+            "price": null,
+            "address": {
+                "line1": "19 8th Street South",
+                "suite": null,
+                "city": "Fargo",
+                "state": "ND",
+                "zip": "58103",
+                "phone": "(701) 526-5072"
+            },
+            "images": {
+                "hero": [
+                    "/assets/mail-center.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=930",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 0,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Fargo Virtual Office",
+            "body": "Unlock the benefits of securing a prestigious business address in Fargo, North Dakota, without the need for a physical office space. At Opus VO, we provide you with the opportunity to position your business in the heart of Fargo’s dynamic business landscape while ensuring operational efficiency. Our state-of-the-art conference rooms are at your disposal for important meetings and collaborative endeavors.  When you opt for Opus VO’s virtual office in Fargo, you not only secure a prestigious address but also gain access to a skilled live receptionist who seamlessly integrates with your team. They ensure that every client interaction embodies your unique brand identity, allowing us to manage routine administrative tasks while you focus on your core business objectives. ",
+            "map": {
+                "lat": 46.8742841,
+                "lng": -96.7910796,
+                "zoom": 14,
+                "city": "Fargo"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Fargo, North Dakota even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Fargo. You can also adapt to better meet your clients’ unique needs within North Dakota. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Fargo virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Fargo? Why a Virtual Office?",
+                "body": "Fargo is more than just a charming city; it’s a thriving business hub with opportunities spanning various sectors, including finance, healthcare, and technology. Having a Fargo address not only enhances your business reputation but also grants access to crucial networking events and industry connections.  Opting for Opus VO for your virtual office in Fargo is not just a practical choice; it’s a strategic advantage. Are you ready to elevate your business presence? Explore our exceptional virtual office solutions today.  Opus VO, Fargo @ 19 8th Street South, Fargo, ND 58103 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Fargo - 19 8th Street South | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our North Dakota, Fargo virtual office located at 19 8th Street South. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/north-dakota/fargo/location-930/",
+            "og": {
+                "title": "Virtual Office in Fargo - 19 8th Street South | $99/Month",
+                "description": "Get the ultimate office solution for your business with our North Dakota, Fargo virtual office located at 19 8th Street South. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/north-dakota/fargo/location-930/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+            }
+        }
+    }
+}

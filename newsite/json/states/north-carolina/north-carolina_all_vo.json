@@ -1,0 +1,524 @@
+{
+    "success": true,
+    "state": "north carolina",
+    "cities_virtual": [
+        {
+            "id": "249",
+            "name": "Asheville",
+            "popular": "1"
+        },
+        {
+            "id": "42",
+            "name": "Chapel Hill",
+            "popular": "0"
+        },
+        {
+            "id": "68",
+            "name": "Charlotte",
+            "popular": "1"
+        },
+        {
+            "id": "125",
+            "name": "Clemmons",
+            "popular": "0"
+        },
+        {
+            "id": "700",
+            "name": "Fayetteville",
+            "popular": "0"
+        },
+        {
+            "id": "555",
+            "name": "Greensboro",
+            "popular": "1"
+        },
+        {
+            "id": "882",
+            "name": "Greenville",
+            "popular": "0"
+        },
+        {
+            "id": "886",
+            "name": "Henderson",
+            "popular": "0"
+        },
+        {
+            "id": "747",
+            "name": "High Point",
+            "popular": "1"
+        },
+        {
+            "id": "104",
+            "name": "Huntersville",
+            "popular": "0"
+        },
+        {
+            "id": "718",
+            "name": "Matthews",
+            "popular": "0"
+        },
+        {
+            "id": "719",
+            "name": "Monroe",
+            "popular": "0"
+        },
+        {
+            "id": "270",
+            "name": "Raleigh",
+            "popular": "0"
+        },
+        {
+            "id": "792",
+            "name": "Rocky Mount",
+            "popular": "0"
+        },
+        {
+            "id": "343",
+            "name": "Wilmington",
+            "popular": "1"
+        },
+        {
+            "id": "142",
+            "name": "Winston Salem",
+            "popular": "1"
+        }
+    ],
+    "cities_business": [
+        {
+            "id": "68",
+            "name": "Charlotte",
+            "popular": "1"
+        },
+        {
+            "id": "270",
+            "name": "Raleigh",
+            "popular": "0"
+        }
+    ],
+    "cities_popular": [
+        {
+            "id": "249",
+            "name": "Asheville"
+        },
+        {
+            "id": "68",
+            "name": "Charlotte"
+        },
+        {
+            "id": "555",
+            "name": "Greensboro"
+        },
+        {
+            "id": "747",
+            "name": "High Point"
+        },
+        {
+            "id": "343",
+            "name": "Wilmington"
+        },
+        {
+            "id": "142",
+            "name": "Winston Salem"
+        }
+    ],
+    "locations_virtual_office": [
+        {
+            "id": 1691,
+            "location_name": "135 Sweeten Creek Road, Asheville, NC 28803",
+            "city": "Asheville",
+            "state": "North Carolina",
+            "state_abbr": "NC",
+            "address": "135 Sweeten Creek Road, Asheville, NC 28803",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 35.5588097,
+            "point_y": -82.52146669,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1691-01.bldg_.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/north-carolina/asheville/location-1691/",
+            "phone": "8289776019"
+        },
+        {
+            "id": 151,
+            "location_name": "11312 Us  Hwy 15 501 N, Chapel Hill, NC 27517",
+            "city": "Chapel Hill",
+            "state": "North Carolina",
+            "state_abbr": "NC",
+            "address": "11312 Us  Hwy 15 501 N, Chapel Hill, NC 27517",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 35.8448948,
+            "point_y": -79.0891303,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/north-carolina/chapel-hill/location-151/",
+            "phone": "9194257428"
+        },
+        {
+            "id": 1737,
+            "location_name": "1515 Mockingbird Lane, Charlotte, NC 28209",
+            "city": "Charlotte",
+            "state": "North Carolina",
+            "state_abbr": "NC",
+            "address": "1515 Mockingbird Lane, Charlotte, NC 28209",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 35.1674642,
+            "point_y": -80.8491078,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1737-building-1748873523575.webp",
+                "alttext": "Exterior of building that houses Opus Virtual Offices located in Charlotte, North Carolina"
+            },
+            "url": "/virtual-office/north-carolina/charlotte/location-1737/",
+            "phone": "7047784406"
+        },
+        {
+            "id": 1720,
+            "location_name": "1914 J N Pease Pl, Charlotte, NC 28262",
+            "city": "Charlotte",
+            "state": "North Carolina",
+            "state_abbr": "NC",
+            "address": "1914 J N Pease Pl, Charlotte, NC 28262",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 35.320947,
+            "point_y": -80.7747855,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1720-01.building.jpg",
+                "alttext": "Building exterior of Opus Virtual Offices located in Charlotte, North Carolina"
+            },
+            "url": "/virtual-office/north-carolina/charlotte/location-1720/",
+            "phone": "7045942389"
+        },
+        {
+            "id": 282,
+            "location_name": "6255 Towncenter Drive, Clemmons, NC 27012",
+            "city": "Clemmons",
+            "state": "North Carolina",
+            "state_abbr": "NC",
+            "address": "6255 Towncenter Drive, Clemmons, NC 27012",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 36.038304,
+            "point_y": -80.386595,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/north-carolina/clemmons/location-282/",
+            "phone": "3366035978"
+        },
+        {
+            "id": 1627,
+            "location_name": "2501 Bragg Boulevard, Fayetteville, NC 28303",
+            "city": "Fayetteville",
+            "state": "North Carolina",
+            "state_abbr": "NC",
+            "address": "2501 Bragg Boulevard, Fayetteville, NC 28303",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 35.0715079,
+            "point_y": -78.9226805,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1627-001-Building-e1709933150701.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/north-carolina/fayetteville/location-1627/",
+            "phone": "9109682639"
+        },
+        {
+            "id": 1325,
+            "location_name": "806 Green Valley Road, Greensboro, NC 27408",
+            "city": "Greensboro",
+            "state": "North Carolina",
+            "state_abbr": "NC",
+            "address": "806 Green Valley Road, Greensboro, NC 27408",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 36.0909522,
+            "point_y": -79.81592719,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1325-01.Building-Virtual-Office-Greensboro-North-Carolina.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/north-carolina/greensboro/location-1325/",
+            "phone": "3366035413"
+        },
+        {
+            "id": 1767,
+            "location_name": "204 E Arlington Blvd, Greenville, NC 27858",
+            "city": "Greenville",
+            "state": "North Carolina",
+            "state_abbr": "NC",
+            "address": "204 E Arlington Blvd, Greenville, NC 27858",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 35.588333,
+            "point_y": -77.3752672,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1767-Exterior.png",
+                "alttext": "Exterior of building that houses Opus Virtual Offices located in Greenville, North Carolina"
+            },
+            "url": "/virtual-office/north-carolina/greenville/location-1767/",
+            "phone": "2523814218"
+        },
+        {
+            "id": 1696,
+            "location_name": "100 S Garnett Street, Henderson, NC 27536",
+            "city": "Henderson",
+            "state": "North Carolina",
+            "state_abbr": "NC",
+            "address": "100 S Garnett Street, Henderson, NC 27536",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 36.3272602,
+            "point_y": -78.40286019,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1696-01.bldg_.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/north-carolina/henderson/location-1696/",
+            "phone": "2523814233"
+        },
+        {
+            "id": 1386,
+            "location_name": "3980 Premier Drive, High Point, NC 27265",
+            "city": "High Point",
+            "state": "North Carolina",
+            "state_abbr": "NC",
+            "address": "3980 Premier Drive, High Point, NC 27265",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 36.0388739,
+            "point_y": -79.9653123,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1386-exterior.jpg",
+                "alttext": "Exterior of building that houses Opus Virtual Offices located in High Point, North Carolina"
+            },
+            "url": "/virtual-office/north-carolina/high-point/location-1386/",
+            "phone": "3366035972"
+        },
+        {
+            "id": 1064,
+            "location_name": "8936 Northpointe Executive Park Drive, Huntersville, NC 28078",
+            "city": "Huntersville",
+            "state": "North Carolina",
+            "state_abbr": "NC",
+            "address": "8936 Northpointe Executive Park Drive, Huntersville, NC 28078",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 35.4456926,
+            "point_y": -80.8743085,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1064-building.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/north-carolina/huntersville/location-1064/",
+            "phone": "7047051543"
+        },
+        {
+            "id": 246,
+            "location_name": "14316 Reese Boulevard, Huntersville, NC 28078",
+            "city": "Huntersville",
+            "state": "North Carolina",
+            "state_abbr": "NC",
+            "address": "14316 Reese Boulevard, Huntersville, NC 28078",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 35.4090054,
+            "point_y": -80.8630755,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/north-carolina/huntersville/location-246/",
+            "phone": "7049728281"
+        },
+        {
+            "id": 1310,
+            "location_name": "3116 Weddington Road, Matthews, NC 28105",
+            "city": "Matthews",
+            "state": "North Carolina",
+            "state_abbr": "NC",
+            "address": "3116 Weddington Road, Matthews, NC 28105",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 35.082011,
+            "point_y": -80.732422,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/north-carolina/matthews/location-1310/",
+            "phone": "7044700285"
+        },
+        {
+            "id": 1311,
+            "location_name": "1736 Dickerson Blvd, Monroe, NC 28110",
+            "city": "Monroe",
+            "state": "North Carolina",
+            "state_abbr": "NC",
+            "address": "1736 Dickerson Blvd, Monroe, NC 28110",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 35.003619,
+            "point_y": -80.564297,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/north-carolina/monroe/location-1311/",
+            "phone": "7049728316"
+        },
+        {
+            "id": 906,
+            "location_name": "5540 Centerview Drive, Raleigh, NC 27606",
+            "city": "Raleigh",
+            "state": "North Carolina",
+            "state_abbr": "NC",
+            "address": "5540 Centerview Drive, Raleigh, NC 27606",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 35.7629976,
+            "point_y": -78.73218779,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/906-Exterior.jpg",
+                "alttext": "Exterior of building that houses Opus Virtual Offices located in Raleigh, North Carolina"
+            },
+            "url": "/virtual-office/north-carolina/raleigh/location-906/",
+            "phone": "9195616436"
+        },
+        {
+            "id": 1682,
+            "location_name": "4801 Glenwood Avenue, Raleigh, NC 27612",
+            "city": "Raleigh",
+            "state": "North Carolina",
+            "state_abbr": "NC",
+            "address": "4801 Glenwood Avenue, Raleigh, NC 27612",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 35.843023,
+            "point_y": -78.6822368,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1682-01.bldg_.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/north-carolina/raleigh/location-1682/",
+            "phone": "9195616436"
+        },
+        {
+            "id": 1527,
+            "location_name": "1444 Jeffreys Road, Rocky Mount, NC 27804",
+            "city": "Rocky Mount",
+            "state": "North Carolina",
+            "state_abbr": "NC",
+            "address": "1444 Jeffreys Road, Rocky Mount, NC 27804",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 35.9751613,
+            "point_y": -77.81210159,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/north-carolina/rocky-mount/location-1527/",
+            "phone": "2524582271"
+        },
+        {
+            "id": 1638,
+            "location_name": "1608 Queen Street, Wilmington, NC 28401",
+            "city": "Wilmington",
+            "state": "North Carolina",
+            "state_abbr": "NC",
+            "address": "1608 Queen Street, Wilmington, NC 28401",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 34.227953,
+            "point_y": -77.9272292,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1638-01.bldg_.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/north-carolina/wilmington/location-1638/",
+            "phone": "9107865393"
+        },
+        {
+            "id": 1565,
+            "location_name": "6400 Carolina Beach Road, Wilmington, NC 28412",
+            "city": "Wilmington",
+            "state": "North Carolina",
+            "state_abbr": "NC",
+            "address": "6400 Carolina Beach Road, Wilmington, NC 28412",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 34.1070135,
+            "point_y": -77.901479,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/north-carolina/wilmington/location-1565/",
+            "phone": "9105999435"
+        },
+        {
+            "id": 300,
+            "location_name": "5335 Robinhood Village, Winston Salem, NC 27106",
+            "city": "Winston Salem",
+            "state": "North Carolina",
+            "state_abbr": "NC",
+            "address": "5335 Robinhood Village, Winston Salem, NC 27106",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 36.122574,
+            "point_y": -80.367412,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/north-carolina/winston-salem/location-300/",
+            "phone": "3366035872"
+        }
+    ],
+    "meta": {
+        "cities_virtual_count": 16,
+        "cities_business_count": 2,
+        "cities_popular_count": 6,
+        "locations_virtual_office_count": 20
+    },
+    "seo": {
+        "title": "Virtual Office in North Carolina | Locations Statewide | Opus VO",
+        "meta_description": "Get a prestigious North Carolina business address and professional phone answering services with Opus Virtual Offices, the perfect office solution for your business needs.",
+        "canonical": "https://www.opusvirtualoffices.com/virtual-office/north-carolina/",
+        "og": {
+            "title": "Virtual Office in North Carolina | Locations Statewide | Opus VO",
+            "description": "Get a prestigious North Carolina business address and professional phone answering services with Opus Virtual Offices, the perfect office solution for your business needs.",
+            "url": "https://www.opusvirtualoffices.com/virtual-office/north-carolina/",
+            "type": "website",
+            "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+        }
+    }
+}

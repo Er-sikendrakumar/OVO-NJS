@@ -1,0 +1,89 @@
+{
+    "success": true,
+    "location_id": 490,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Rochester Hills",
+            "state": "MI",
+            "price": null,
+            "address": {
+                "line1": "3128 Walton Blvd",
+                "suite": null,
+                "city": "Rochester Hills",
+                "state": "MI",
+                "zip": "48309",
+                "phone": "(248) 430-0885"
+            },
+            "images": {
+                "hero": [
+                    "/assets/mail-center.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=490",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 0,
+            "nearbyPremium": 1,
+            "nearbyPremiumUrl": "/virtual-office/michigan/troy/location-1308/",
+            "nearbyPremiumText": "to view the nearby PREMIUM Locations for the same $99/mo",
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Rochester Hills Virtual Office",
+            "body": "Secure an elite business address in Rochester Hills without the financial burden of a physical office. With Opus VO, you can establish your business in the vibrant heart of Rochester Hills while smartly managing your expenses. Got a pivotal meeting or a high-stakes client pitch? Our state-of-the-art conference rooms are primed to impress.  Embrace the virtual office experience in Rochester Hills with Opus VO, and you’ll receive the services of a dedicated live receptionist. We ensure each client interaction feels like a seamless extension of your own brand, freeing you to pursue your business objectives. ",
+            "map": {
+                "lat": 42.680769,
+                "lng": -83.195673,
+                "zoom": 14,
+                "city": "Rochester Hills"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Rochester Hills, Michigan even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Rochester Hills. You can also adapt to better meet your clients’ unique needs within Michigan. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Rochester Hills virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Rochester Hills?",
+                "body": "Rochester Hills is not just about the scenic beauty; it’s a thriving community for businesses from tech to healthcare. Opting for a Rochester Hills location offers you access to invaluable networking events and business-enhancing opportunities.  Selecting Opus VO in Rochester Hills is more than just a wise economic move—it’s a tactical advantage. Ready to take your business to the next level? Our exceptional virtual office services are at your service.  Opus VO, Rochester Hills @ 3128 Walton Blvd Rochester Hills, MI 48309     ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Rochester Hills - 3128 Walton Blvd | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Michigan, Rochester Hills virtual office located at 3128 Walton Blvd. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/michigan/rochester-hills/location-490/",
+            "og": {
+                "title": "Virtual Office in Rochester Hills - 3128 Walton Blvd | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Michigan, Rochester Hills virtual office located at 3128 Walton Blvd. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/michigan/rochester-hills/location-490/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+            }
+        }
+    }
+}

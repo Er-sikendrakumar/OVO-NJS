@@ -1,0 +1,89 @@
+{
+    "success": true,
+    "location_id": 988,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Richmond",
+            "state": "VA",
+            "price": null,
+            "address": {
+                "line1": "10825 Midlothian Turnpike",
+                "suite": null,
+                "city": "Richmond",
+                "state": "VA",
+                "zip": "23235",
+                "phone": "(804) 723-0403"
+            },
+            "images": {
+                "hero": [
+                    "/assets/mail-center.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=988",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 0,
+            "nearbyPremium": 1,
+            "nearbyPremiumUrl": "/virtual-office/virginia/richmond/location-1704/",
+            "nearbyPremiumText": "to view the nearby PREMIUM Locations for the same $99/mo",
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Richmond Virtual Office",
+            "body": "Embrace the prestige of an upscale Richmond business address without draining your budget on physical office space. With Opus VO, position your nimble startup or enterprise in one of our chic Richmond locations—all at a mere sliver of cost compared to traditional office rents. Utilize our ultramodern meeting rooms for crucial stakeholder briefings and key client relations, all while elevating your online brand persona via an esteemed Richmond address.  When you go virtual in Richmond via Opus VO, you also snag the added bonus of a live, dedicated receptionist. Fervent about delivering customized, top-notch client engagement, our team makes sure every interaction is optimized and aligned with your Gen Z and Millennial business goals. Shift backend chores like email filtering and dynamic call rerouting to us, freeing you to hone in on your entrepreneurial growth. ",
+            "map": {
+                "lat": 37.506163699,
+                "lng": -77.5970706,
+                "zoom": 14,
+                "city": "Richmond"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Richmond, Virginia even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Richmond. You can also adapt to better meet your clients’ unique needs within Virginia. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Richmond virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Pick a Virtual Office in Richmond with Opus VO?",
+                "body": "Richmond isn’t just a historic Virginia city; it’s a burgeoning haven for young professionals and disruptive startups. Abundant in opportunities across sectors like tech, marketing, and sustainability, our ideally-located Richmond sites give you swipe-right access to critical industry influencers and can’t-miss networking soirees.  By getting an Opus Virtual Office in Richmond, you’re not just shaving off your operational costs—you’re locking in a significant competitive edge. Level up your business game by diving into our best-in-class virtual office amenities today.  Choose from two Opus VO Richmond Locales @ 10825 Midlothian Turnpike, Richmond, VA 23235. Or 1806 Summit Avenue, Richmond, VA 23230 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Richmond - 10825 Midlothian Turnpike | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Virginia, Richmond virtual office located at 10825 Midlothian Turnpike. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/virginia/richmond/location-988/",
+            "og": {
+                "title": "Virtual Office in Richmond - 10825 Midlothian Turnpike | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Virginia, Richmond virtual office located at 10825 Midlothian Turnpike. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/virginia/richmond/location-988/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+            }
+        }
+    }
+}

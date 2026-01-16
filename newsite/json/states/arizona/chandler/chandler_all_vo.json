@@ -1,0 +1,136 @@
+{
+    "success": true,
+    "state": "arizona",
+    "city": "chandler",
+    "wp_city_post_id": null,
+    "locations": [
+        {
+            "id": "975",
+            "name": "Chandler",
+            "locname": "2705 S. Alma School Road, Chandler, AZ 85286",
+            "address": "2705 S. Alma School Road, Chandler, AZ 85286",
+            "city": "chandler",
+            "state": "arizona",
+            "state_english": "Arizona",
+            "abbr": "AZ",
+            "phone": "4807298852",
+            "premium": "1",
+            "opusowned": "0",
+            "showpopular": "0",
+            "point_x": "33.2665811",
+            "point_y": "-111.8580721",
+            "url": "/virtual-office/arizona/chandler/location-975/",
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/975-Building-800x533-1.jpg",
+                "alttext": ""
+            }
+        },
+        {
+            "id": "771",
+            "name": "Chandler",
+            "locname": "2925 East Riggs Road, Chandler, AZ 85249",
+            "address": "2925 East Riggs Road, Chandler, AZ 85249",
+            "city": "chandler",
+            "state": "arizona",
+            "state_english": "Arizona",
+            "abbr": "AZ",
+            "phone": "4802967560",
+            "premium": "0",
+            "opusowned": "0",
+            "showpopular": "0",
+            "point_x": "33.219148",
+            "point_y": "-111.794434",
+            "url": "/virtual-office/arizona/chandler/location-771/",
+            "image": "/assets/mail-center.webp"
+        }
+    ],
+    "popular_locations": [],
+    "premium_locations": [
+        {
+            "id": "975",
+            "name": "Chandler",
+            "locname": "2705 S. Alma School Road, Chandler, AZ 85286",
+            "address": "2705 S. Alma School Road, Chandler, AZ 85286",
+            "city": "chandler",
+            "state": "arizona",
+            "state_english": "Arizona",
+            "abbr": "AZ",
+            "phone": "4807298852",
+            "premium": "1",
+            "opusowned": "0",
+            "showpopular": "0",
+            "point_x": "33.2665811",
+            "point_y": "-111.8580721",
+            "url": "/virtual-office/arizona/chandler/location-975/",
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/975-Building-800x533-1.jpg",
+                "alttext": ""
+            }
+        }
+    ],
+    "regular_locations": [
+        {
+            "id": "771",
+            "name": "Chandler",
+            "locname": "2925 East Riggs Road, Chandler, AZ 85249",
+            "address": "2925 East Riggs Road, Chandler, AZ 85249",
+            "city": "chandler",
+            "state": "arizona",
+            "state_english": "Arizona",
+            "abbr": "AZ",
+            "phone": "4802967560",
+            "premium": "0",
+            "opusowned": "0",
+            "showpopular": "0",
+            "point_x": "33.219148",
+            "point_y": "-111.794434",
+            "url": "/virtual-office/arizona/chandler/location-771/",
+            "image": "/assets/mail-center.webp"
+        }
+    ],
+    "sections": [
+        {
+            "title": "OUR CHANDLER\nVIRTUAL OFFICES",
+            "body": "<h2></h2>\n<p>Enjoy the benefits of having a business address in Chandler Arizona without the stress and expense surrounding a “traditional office environment”. OpusVO gives you the prestige of having an office with the budget of working from home. Receive all your business mail at a professional office building. No post office box number, just a great business address to use on your business cards and other marketing material.</p>\n<p>You don’t just get a business phone number with your Chandler virtual office, but also a live receptionist answering your calls the way you want them to be. Stop choosing between capturing new leads for your business and working on current clients. Do both. Get someone who looks out for you while you’re unable to break away.</p>\n",
+            "image": {
+                "url": "/newsite/wp-content/themes/ThemeDec23/assets/images/califonia-v-office.jpg",
+                "alt": "OUR CHANDLER\nVIRTUAL OFFICES",
+                "title": "OUR CHANDLER\nVIRTUAL OFFICES"
+            },
+            "layout": "image_text",
+            "imageAlignment": "right"
+        },
+        {
+            "title": "GET A VIRTUAL OFFICE\nIN CHANDLER",
+            "body": "<h2></h2>\n<p>Whether you choose to work out of your home or on the road, a Chandler virtual office will give you the freedom and flexibility to get the job done in the place and style of your choosing. With a local company phone number, live receptionist, premium call transferring, and a professional business address, Opus VO provides a cost-effective way for your company to grow or establish a presence in a new market without any long-term commitments.</p>\n",
+            "image": {
+                "url": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "alt": "GET A VIRTUAL OFFICE\nIN CHANDLER",
+                "title": "GET A VIRTUAL OFFICE\nIN CHANDLER"
+            },
+            "layout": "image_text",
+            "imageAlignment": "left"
+        }
+    ],
+    "faqs": [],
+    "meta": {
+        "locations_count": 2,
+        "popular_locations_count": 0,
+        "premium_locations_count": 1,
+        "regular_locations_count": 1,
+        "sections_count": 2,
+        "faqs_count": 0
+    },
+    "seo": {
+        "title": "Virtual Office in Chandler, AZ | Multiple Locations Available",
+        "meta_description": "Find the ultimate office solution with Opus Virtual Offices in Chandler, Arizona. Our all-inclusive virtual offices cater to your business needs. Sign up today!",
+        "canonical": "https://www.opusvirtualoffices.com/virtual-office/arizona/chandler/",
+        "og": {
+            "title": "Virtual Office in Chandler, AZ | Multiple Locations Available",
+            "description": "Find the ultimate office solution with Opus Virtual Offices in Chandler, Arizona. Our all-inclusive virtual offices cater to your business needs. Sign up today!",
+            "url": "https://www.opusvirtualoffices.com/virtual-office/arizona/chandler/",
+            "type": "website",
+            "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+        }
+    }
+}

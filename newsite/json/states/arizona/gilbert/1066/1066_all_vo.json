@@ -1,0 +1,95 @@
+{
+    "success": true,
+    "location_id": 1066,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Gilbert",
+            "state": "AZ",
+            "price": null,
+            "address": {
+                "line1": "1530 E Williams Field Road",
+                "suite": null,
+                "city": "Gilbert",
+                "state": "AZ",
+                "zip": "85295",
+                "phone": "(480) 588-4716"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/1066-building-800x497.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1066-entry-800x367.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1066-reception-358x550.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1066-conference-room-696x550.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1066-meeting-room-800x498.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1066-small-meeting-area-800x393.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1066-small-meeting-area-2-376x550.jpg"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1066",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Gilbert Virtual Office",
+            "body": "Experience the benefits of a prestigious business address in Gilbert without the financial burden of a physical office. Opus VO enables you to establish your company in one of two select Gilbert locations, all at a fraction of the cost of a traditional office lease. Make use of our cutting-edge conference rooms for essential meetings and client liaisons, all while boosting your brand through a respected Gilbert address.  Opting for a virtual office in Gilbert via Opus VO affords you the special perk of a live receptionist. Committed to offering customized, top-quality customer service, our team ensures that every client interaction is in harmony with your unique business goals. Assign administrative tasks such as digital mail handling and sophisticated call-forwarding to us, freeing you to focus on expanding your business. ",
+            "map": {
+                "lat": 33.3082602,
+                "lng": -111.7572274,
+                "zoom": 14,
+                "city": "Gilbert"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Gilbert, Arizona even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Gilbert. You can also adapt to better meet your clients’ unique needs within Arizona. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Gilbert virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Choose a Gilbert Virtual Office?",
+                "body": "Gilbert is not just a charming town in the Phoenix metropolitan area; it’s also a dynamic business hub with abundant opportunities in sectors like technology, healthcare, and commerce. Strategically located near key business venues, our Gilbert offices grant you easy access to crucial industry contacts and professional networking events.  By choosing an Opus Virtual Office in Gilbert, you’re doing more than minimizing your operational costs; you’re securing a significant competitive advantage. Propel your business to new heights by capitalizing on our premier virtual office solutions today.  Opus VO Gilbert location @ 1530 E Williams Field Road, Gilbert, AZ 85295 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Gilbert - 1530 E Williams Field Road | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Arizona, Gilbert virtual office located at 1530 E Williams Field Road. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/arizona/gilbert/location-1066/",
+            "og": {
+                "title": "Virtual Office in Gilbert - 1530 E Williams Field Road | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Arizona, Gilbert virtual office located at 1530 E Williams Field Road. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/arizona/gilbert/location-1066/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/1066-building.jpg"
+            }
+        }
+    }
+}

@@ -1,0 +1,236 @@
+{
+    "success": true,
+    "count": 12,
+    "state": "massachusetts",
+    "mode": "virtual-office",
+    "data": [
+        {
+            "id": 1697,
+            "location_name": "500 Cummings Center, Beverly, MA 01915",
+            "city": "Beverly",
+            "state": "Massachusetts",
+            "state_abbr": "MA",
+            "address": "500 Cummings Center, Beverly, MA 01915",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 42.5630303,
+            "point_y": -70.8889812,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1697-01.building.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/massachusetts/beverly/location-1697/",
+            "phone": "9785162172"
+        },
+        {
+            "id": 1206,
+            "location_name": "265 Franklin Street, Boston, MA 02110",
+            "city": "Boston",
+            "state": "Massachusetts",
+            "state_abbr": "MA",
+            "address": "265 Franklin Street, Boston, MA 02110",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 42.3564979,
+            "point_y": -71.0533518,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1206-001-Building.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/massachusetts/boston/location-1206/",
+            "phone": "6178024204"
+        },
+        {
+            "id": 691,
+            "location_name": "71 Commercial Street (Merchantile Building), Boston, MA 02109",
+            "city": "Boston",
+            "state": "Massachusetts",
+            "state_abbr": "MA",
+            "address": "71 Commercial Street (Merchantile Building), Boston, MA 02109",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 42.361272,
+            "point_y": -71.053237,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/massachusetts/boston/location-691/",
+            "phone": "6179822374"
+        },
+        {
+            "id": 1698,
+            "location_name": "150 Grossman Drive, Braintree, MA 02184",
+            "city": "Braintree",
+            "state": "Massachusetts",
+            "state_abbr": "MA",
+            "address": "150 Grossman Drive, Braintree, MA 02184",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 42.2113917,
+            "point_y": -71.0000219,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1698-01.bldg_.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/massachusetts/braintree/location-1698/",
+            "phone": "7819060848"
+        },
+        {
+            "id": 1584,
+            "location_name": "10 Mall Road, Burlington, MA 01803",
+            "city": "Burlington",
+            "state": "Massachusetts",
+            "state_abbr": "MA",
+            "address": "10 Mall Road, Burlington, MA 01803",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 42.4915083,
+            "point_y": -71.1954326,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1584-exterior.jpg",
+                "alttext": "Exterior of building that houses Opus Virtual Offices located in Burlington, located in Burlington, Massachusetts"
+            },
+            "url": "/virtual-office/massachusetts/burlington/location-1584/",
+            "phone": "0"
+        },
+        {
+            "id": 1699,
+            "location_name": "45 Dan Road, Canton, MA 02021",
+            "city": "Canton",
+            "state": "Massachusetts",
+            "state_abbr": "MA",
+            "address": "45 Dan Road, Canton, MA 02021",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 42.1603585,
+            "point_y": -71.11328519,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1699-01.bldg_.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/massachusetts/canton/location-1699/",
+            "phone": "7815469051"
+        },
+        {
+            "id": 1701,
+            "location_name": "132 Chief Justice Cushing Highway, Cohasset, MA 02025",
+            "city": "Cohasset",
+            "state": "Massachusetts",
+            "state_abbr": "MA",
+            "address": "132 Chief Justice Cushing Highway, Cohasset, MA 02025",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 42.2425308,
+            "point_y": -70.83615089,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1701-01.bldg_.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/massachusetts/cohasset/location-1701/",
+            "phone": "7815469390"
+        },
+        {
+            "id": 1692,
+            "location_name": "197 Palmer Avenue, Falmouth, MA 02540",
+            "city": "Falmouth",
+            "state": "Massachusetts",
+            "state_abbr": "MA",
+            "address": "197 Palmer Avenue, Falmouth, MA 02540",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 41.5581705,
+            "point_y": -70.6196827,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1692-01.bldg_.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/massachusetts/falmouth/location-1692/",
+            "phone": "5089284384"
+        },
+        {
+            "id": 1700,
+            "location_name": "350 Lincoln Street, Hingham, MA 02043",
+            "city": "Hingham",
+            "state": "Massachusetts",
+            "state_abbr": "MA",
+            "address": "350 Lincoln Street, Hingham, MA 02043",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 42.2487649,
+            "point_y": -70.9209638,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1700-01.bldg_.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/massachusetts/hingham/location-1700/",
+            "phone": "7815469185"
+        },
+        {
+            "id": 1546,
+            "location_name": "11 Apex Drive, Marlborough, MA 01752",
+            "city": "Marlborough",
+            "state": "Massachusetts",
+            "state_abbr": "MA",
+            "address": "11 Apex Drive, Marlborough, MA 01752",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 42.3393025,
+            "point_y": -71.5840788,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1546-exterior.jpg",
+                "alttext": "Exterior of building that houses Opus Virtual Offices located in Marlborough, Massachusetts"
+            },
+            "url": "/virtual-office/massachusetts/marlborough/location-1546/",
+            "phone": "5089058191"
+        },
+        {
+            "id": 471,
+            "location_name": "141 Memorial Parkway, Randolph, MA 02368",
+            "city": "Randolph",
+            "state": "Massachusetts",
+            "state_abbr": "MA",
+            "address": "141 Memorial Parkway, Randolph, MA 02368",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 42.162993,
+            "point_y": -71.045586,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/massachusetts/randolph/location-471/",
+            "phone": "7819060848"
+        },
+        {
+            "id": 1712,
+            "location_name": "2 Bridgeview Circle, Tyngsboro, MA 01879",
+            "city": "Tyngsboro",
+            "state": "Massachusetts",
+            "state_abbr": "MA",
+            "address": "2 Bridgeview Circle, Tyngsboro, MA 01879",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 42.6589758,
+            "point_y": -71.4043318,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1712-building-1745616749170.jpg",
+                "alttext": "Building exterior and parking lot of a virtual office located in Tyngsboro, Massachusetts"
+            },
+            "url": "/virtual-office/massachusetts/tyngsboro/location-1712/",
+            "phone": "9785162172"
+        }
+    ]
+}

@@ -1,0 +1,92 @@
+{
+    "success": true,
+    "location_id": 1437,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Rockledge",
+            "state": "FL",
+            "price": null,
+            "address": {
+                "line1": "881 Barton Boulevard",
+                "suite": null,
+                "city": "Rockledge",
+                "state": "FL",
+                "zip": "32955",
+                "phone": "(321) 216-3069"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/1437-02.lobby_-710x550.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1437-03.meeting-726x550.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1437-04.bldg_-642x550.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1437-01.bldg_-703x550.jpg"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1437",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Rockledge Virtual Office",
+            "body": "Secure a high-profile business address in Rockledge without the expense of a traditional office. With Opus VO, your business can stake its claim in the dynamic Rockledge environment, all while being financially savvy. Need to wow a client or nail a critical presentation? Our cutting-edge conference rooms are here to make you shine.  Choosing a virtual office in Rockledge via Opus VO includes a dedicated receptionist committed to ensuring each client interaction mirrors your brand’s unique ethos. Delegate the day-to-day admin tasks to us, liberating you to focus on your entrepreneurial vision. ",
+            "map": {
+                "lat": 28.330307,
+                "lng": -80.7400851,
+                "zoom": 14,
+                "city": "Rockledge"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Rockledge, Florida even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Rockledge. You can also adapt to better meet your clients’ unique needs within Florida. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Rockledge virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Rockledge?",
+                "body": "Don’t overlook Rockledge—it’s more than just a quaint space coast town. It’s rapidly emerging as a haven for diverse sectors, including aerospace, healthcare, and tech startups. By having an address in Rockledge, you’re tapping into a network rich with potential collaborations and growth opportunities.  By going virtual with Opus VO in Rockledge, you’re not only saving money—you’re gaining a strategic edge. Ready to kick your business up a notch? Our unparalleled virtual office services are at your service.  Opus VO, Rockledge @ 881 Barton Boulevard, Rockledge, FL 32955 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Rockledge - 881 Barton Boulevard | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Florida, Rockledge virtual office located at 881 Barton Boulevard. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/florida/rockledge/location-1437/",
+            "og": {
+                "title": "Virtual Office in Rockledge - 881 Barton Boulevard | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Florida, Rockledge virtual office located at 881 Barton Boulevard. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/florida/rockledge/location-1437/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/1437-02.lobby_.jpg"
+            }
+        }
+    }
+}

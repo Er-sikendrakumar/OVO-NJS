@@ -1,0 +1,94 @@
+{
+    "success": true,
+    "location_id": 1510,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Longmont",
+            "state": "CO",
+            "price": null,
+            "address": {
+                "line1": "1079 S Hover Street",
+                "suite": null,
+                "city": "Longmont",
+                "state": "CO",
+                "zip": "80501",
+                "phone": "(720) 970-7935"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/1510-01.bldg-.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1510-conference1.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1510-conference2.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1510-conference.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1510-reception.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1510-001-Building-e1709828992669.jpg"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1510",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Longmont Virtual Office",
+            "body": "Get your hands on an enviable business address in Longmont without the financial burden of leasing a physical space. Opus VO lets you set your business squarely in the middle of Longmont’s buzzing commercial hub, all the while keeping your costs low. When it’s crunch time for those high-profile meetings or client interactions, our sleek conference rooms are at your service. And don’t forget, having a Longmont address adds a splash of prestige to your brand.  When you opt for a virtual setting in Longmont through Opus VO, a live receptionist comes as part of the package. Our mission is to ensure every client interaction reflects your distinct business character. Delegate the tedious admin tasks to us and liberate yourself to scale your enterprise. ",
+            "map": {
+                "lat": 40.1475714,
+                "lng": -105.1327909,
+                "zoom": 14,
+                "city": "Longmont"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Longmont, Colorado even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Longmont. You can also adapt to better meet your clients’ unique needs within Colorado. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Longmont virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Longmont?",
+                "body": "Don’t be fooled by Longmont’s quaint charm; this city is a burgeoning center for technology, craft breweries, and small businesses. Our location in Longmont connects you effortlessly to essential industry contacts and must-attend networking events.  By choosing Opus VO in Longmont, you’re not merely trimming down your operational costs—you’re also gaining a noteworthy edge over your competitors. Ready to boost your business? Our premier virtual office solutions are here for you.  Opus VO Longmont @ 1079 S Hover Street, Longmont, CO 80501 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Longmont - 1079 S Hover Street | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Colorado, Longmont virtual office located at 1079 S Hover Street. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/colorado/longmont/location-1510/",
+            "og": {
+                "title": "Virtual Office in Longmont - 1079 S Hover Street | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Colorado, Longmont virtual office located at 1079 S Hover Street. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/colorado/longmont/location-1510/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/1510-01.bldg-.jpg"
+            }
+        }
+    }
+}

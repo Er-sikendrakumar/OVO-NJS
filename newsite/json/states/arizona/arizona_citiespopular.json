@@ -1,0 +1,27 @@
+{
+    "success": true,
+    "count": 5,
+    "state": "arizona",
+    "data": [
+        {
+            "id": "491",
+            "name": "Chandler"
+        },
+        {
+            "id": "214",
+            "name": "Phoenix"
+        },
+        {
+            "id": "185",
+            "name": "Scottsdale"
+        },
+        {
+            "id": "217",
+            "name": "Tempe"
+        },
+        {
+            "id": "649",
+            "name": "Tucson"
+        }
+    ]
+}

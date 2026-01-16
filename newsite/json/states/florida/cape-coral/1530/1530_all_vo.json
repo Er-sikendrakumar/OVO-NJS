@@ -1,0 +1,89 @@
+{
+    "success": true,
+    "location_id": 1530,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Cape Coral",
+            "state": "FL",
+            "price": null,
+            "address": {
+                "line1": "19 Del Prado Blvd N",
+                "suite": null,
+                "city": "Cape Coral",
+                "state": "FL",
+                "zip": "33909",
+                "phone": "(239) 687-3915"
+            },
+            "images": {
+                "hero": [
+                    "/assets/mail-center.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1530",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 0,
+            "nearbyPremium": 1,
+            "nearbyPremiumUrl": "/virtual-office/florida/fort-myers/location-1349/",
+            "nearbyPremiumText": "to view the nearby PREMIUM Locations for the same $99/mo",
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Cape Coral Virtual Office",
+            "body": "Snag a premium business address in Cape Coral without breaking the bank on a physical office space. With Opus VO, your enterprise can have a prestigious Cape Coral presence without the hefty price tag. For those must-have meetings and client conferences, our fully-equipped meeting rooms are at your service, elevating your brand with a distinguished Cape Coral location.  By going virtual in Cape Coral via Opus VO, you’ll benefit from a live receptionist, adept at ensuring that each client interaction complements your unique business goals. Relieve yourself of routine admin work like mail management and call handling, leaving you more time to focus on scaling your business. ",
+            "map": {
+                "lat": 26.650955,
+                "lng": -81.940719,
+                "zoom": 14,
+                "city": "Cape Coral"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Cape Coral, Florida even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Cape Coral. You can also adapt to better meet your clients’ unique needs within Florida. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Cape Coral virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Cape Coral?",
+                "body": "Cape Coral is more than just a sun-soaked paradise; it’s a burgeoning business locale with opportunities across diverse sectors like tourism, real estate, and healthcare. Our Cape Coral office grants you quick and easy access to valuable industry networks and essential business events.  Choosing an Opus Virtual Office in Cape Coral isn’t just a cost-saving measure; it’s a strategic business move. Take the next step in your business journey by leveraging our first-class virtual office services today.  Opus VO Cape Coral @ 19 Del Prado Blvd, Cape Coral, FL 33909   ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Cape Coral - 19 Del Prado Blvd N | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Florida, Cape Coral virtual office located at 19 Del Prado Blvd N. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/florida/cape-coral/location-1530/",
+            "og": {
+                "title": "Virtual Office in Cape Coral - 19 Del Prado Blvd N | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Florida, Cape Coral virtual office located at 19 Del Prado Blvd N. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/florida/cape-coral/location-1530/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+            }
+        }
+    }
+}

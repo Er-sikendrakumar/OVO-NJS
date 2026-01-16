@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "location_id": 1551,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Greenville",
+            "state": "TX",
+            "price": null,
+            "address": {
+                "line1": "2920 Lee Street",
+                "suite": null,
+                "city": "Greenville",
+                "state": "TX",
+                "zip": "75401",
+                "phone": "(888) 898-9868"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/1551-01.bldg_-2.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1551-02.meetingroom-2.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1551-03.shared.jpg"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1551",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Greenville Virtual Office",
+            "body": "Thinking about positioning your startup or current business in Greenville but worried about the steep costs of a physical office? Opus VO has your solution. You can use one of our distinguished Greenville locations as your official business address without breaking the bank.  What sets us apart isn’t just the address, but also the environment we offer. Our conference rooms are readily available, providing you with the professional setting you need for high-stakes meetings or important team discussions. It’s not merely about having a place to meet; it’s about offering you a seamless, flexible way to conduct your business in the way you see fit, free from the limitations that come with a traditional office.  But the perks don’t end there. When you choose a virtual office at Opus VO in Greenville, you also gain the support of a dedicated live receptionist. Our team excels at creating a positive experience for your clients when they reach out, ensuring your customer interactions align with your brand’s values. Additionally, we take care of everyday administrative tasks like mail management and call directing, so you can center your attention on business expansion. ",
+            "map": {
+                "lat": 33.1401835,
+                "lng": -96.1108325,
+                "zoom": 14,
+                "city": "Greenville"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Greenville, Texas even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Greenville. You can also adapt to better meet your clients’ unique needs within Texas. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Greenville virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Greenville? Why Opus VO?",
+                "body": "Greenville isn’t just a pleasant town; it’s a hub of business potential. Opting for a virtual office in Greenville via Opus VO not only reduces your operating costs but also situates you within a dynamic community of business professionals.  Seize the moment; your business’ next big leap could just be a call or a click away.  Opus VO, Greenville @ 2920 Lee Street, Greenville, TX 75401 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Greenville - 2920 Lee Street | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Texas, Greenville virtual office located at 2920 Lee Street. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/texas/greenville/location-1551/",
+            "og": {
+                "title": "Virtual Office in Greenville - 2920 Lee Street | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Texas, Greenville virtual office located at 2920 Lee Street. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/texas/greenville/location-1551/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/1551-01.bldg_-2.jpg"
+            }
+        }
+    }
+}

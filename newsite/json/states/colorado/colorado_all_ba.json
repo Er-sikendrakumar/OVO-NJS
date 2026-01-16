@@ -1,0 +1,121 @@
+{
+    "success": true,
+    "state": "colorado",
+    "cities_virtual": [
+        {
+            "id": "189",
+            "name": "Arvada",
+            "popular": "0"
+        },
+        {
+            "id": "507",
+            "name": "Boulder",
+            "popular": "1"
+        },
+        {
+            "id": "508",
+            "name": "Brighton",
+            "popular": "0"
+        },
+        {
+            "id": "510",
+            "name": "Broomfield",
+            "popular": "0"
+        },
+        {
+            "id": "379",
+            "name": "Colorado Springs",
+            "popular": "1"
+        },
+        {
+            "id": "211",
+            "name": "Denver",
+            "popular": "1"
+        },
+        {
+            "id": "520",
+            "name": "Fort Collins",
+            "popular": "0"
+        },
+        {
+            "id": "807",
+            "name": "Golden",
+            "popular": "0"
+        },
+        {
+            "id": "899",
+            "name": "Littleton",
+            "popular": "0"
+        },
+        {
+            "id": "808",
+            "name": "Longmont",
+            "popular": "0"
+        },
+        {
+            "id": "806",
+            "name": "Louisville",
+            "popular": "0"
+        }
+    ],
+    "cities_business": [
+        {
+            "id": "211",
+            "name": "Denver",
+            "popular": "1"
+        }
+    ],
+    "cities_popular": [
+        {
+            "id": "507",
+            "name": "Boulder"
+        },
+        {
+            "id": "379",
+            "name": "Colorado Springs"
+        },
+        {
+            "id": "211",
+            "name": "Denver"
+        }
+    ],
+    "locations_business_address": [
+        {
+            "id": 1307,
+            "location_name": "7887 East Belleview Avenue, Denver, CO 80111",
+            "city": "Denver",
+            "state": "Colorado",
+            "state_abbr": "CO",
+            "address": "7887 East Belleview Avenue, Denver, CO 80111",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 39.6255798,
+            "point_y": -104.8970366,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/Opus-Virtual-Office-Denver-Building-Exterior-Flag.webp",
+                "alttext": "Exterior view of 7887 East Belleview Avenue with American flag at Opus Virtual Office in Denver, CO"
+            },
+            "url": "/business-address/colorado/denver/location-1307/",
+            "phone": "3039972954"
+        }
+    ],
+    "meta": {
+        "cities_virtual_count": 11,
+        "cities_business_count": 1,
+        "cities_popular_count": 3,
+        "locations_business_address_count": 1
+    },
+    "seo": {
+        "title": "Virtual Business Address in Colorado | Opus Virtual Offices",
+        "meta_description": "Get a prestigious business address in Colorado with Opus. Multiple premium locations statewide mail handling privacy protection all for just $59/month.",
+        "canonical": "https://www.opusvirtualoffices.com/business-address/colorado/",
+        "og": {
+            "title": "Virtual Business Address in Colorado | Opus Virtual Offices",
+            "description": "Get a prestigious business address in Colorado with Opus. Multiple premium locations statewide mail handling privacy protection all for just $59/month.",
+            "url": "https://www.opusvirtualoffices.com/business-address/colorado/",
+            "type": "website",
+            "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+        }
+    }
+}

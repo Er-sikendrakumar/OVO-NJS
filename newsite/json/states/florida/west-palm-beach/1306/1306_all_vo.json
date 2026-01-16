@@ -1,0 +1,94 @@
+{
+    "success": true,
+    "location_id": 1306,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "West Palm Beach",
+            "state": "FL",
+            "price": null,
+            "address": {
+                "line1": "401 N Rosemary Avenue",
+                "suite": null,
+                "city": "West Palm Beach",
+                "state": "FL",
+                "zip": "33401",
+                "phone": "(561) 578-6666"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/1306-01.Entry_Virtual_Office_West_Palm_Beach_Florida-800x450.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1306-02.Entry-1_Virtual_Office_Florida-800x450.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1306-03.Conf-Room_West_Palm_Beach-800x450.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1306-04.Shared_West_Palm_Beach-800x450.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1306-05.Shared-1_West_Palm_Beach-800x450.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1306-06.Shared-2_West_Palm_Beach-800x450.jpg"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1306",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 1,
+            "nearbyPremiumUrl": "/virtual-office/florida/boca-raton/location-776/",
+            "nearbyPremiumText": "to view the most POPULAR locations nearby for the same $99/mo",
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "West Palm Beach Virtual Office",
+            "body": "Lock in a prestigious business address in West Palm Beach without the financial burden of a physical lease. With Opus VO, your business gets prime real estate in the heart of West Palm Beach, but without the hefty price tag. Need to host a critical meeting or client presentation? Our state-of-the-art conference rooms are at your service.  When you go virtual in West Palm Beach via Opus VO, a dedicated live receptionist is  committed to making every client interaction feel like an authentic extension of your brand. Send your routine administrative work our way, freeing you to focus on your business ambitions. ",
+            "map": {
+                "lat": 26.716314,
+                "lng": -80.057072,
+                "zoom": 14,
+                "city": "West Palm Beach"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in West Palm Beach, Florida even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of West Palm Beach. You can also adapt to better meet your clients’ unique needs within Florida. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our West Palm Beach virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why West Palm Beach?",
+                "body": "Don’t overlook West Palm Beach; it’s more than a vacation destination. It’s a burgeoning hub for diverse industries like tourism, healthcare, and finance. With a West Palm Beach address, you’re connected to a wealth of networking events and key players in your field.  Choosing Opus VO in West Palm Beach is more than a smart financial decision—it’s a strategic advantage. Are you prepared to upgrade your business profile? Our exceptional virtual office services are here to assist.  Opus VO, West Palm Beach @ 401 N Rosemary Avenue, West Palm Beach, FL 33401",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in West Palm Beach - 401 N Rosemary Avenue | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Florida, West Palm Beach virtual office located at 401 N Rosemary Avenue. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/florida/west-palm-beach/location-1306/",
+            "og": {
+                "title": "Virtual Office in West Palm Beach - 401 N Rosemary Avenue | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Florida, West Palm Beach virtual office located at 401 N Rosemary Avenue. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/florida/west-palm-beach/location-1306/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/1306-01.Entry_Virtual_Office_West_Palm_Beach_Florida.jpg"
+            }
+        }
+    }
+}

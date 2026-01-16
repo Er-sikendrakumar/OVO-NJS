@@ -1,0 +1,197 @@
+{
+    "success": true,
+    "state": "new jersey",
+    "cities_virtual": [
+        {
+            "id": "818",
+            "name": "Asbury Park",
+            "popular": "0"
+        },
+        {
+            "id": "874",
+            "name": "Bridgewater",
+            "popular": "0"
+        },
+        {
+            "id": "219",
+            "name": "Clifton",
+            "popular": "0"
+        },
+        {
+            "id": "902",
+            "name": "Egg Harbor Township",
+            "popular": "0"
+        },
+        {
+            "id": "872",
+            "name": "Elizabeth",
+            "popular": "0"
+        },
+        {
+            "id": "251",
+            "name": "Fort Lee",
+            "popular": "1"
+        },
+        {
+            "id": "613",
+            "name": "Hoboken",
+            "popular": "0"
+        },
+        {
+            "id": "256",
+            "name": "Madison",
+            "popular": "0"
+        },
+        {
+            "id": "589",
+            "name": "Marlton",
+            "popular": "1"
+        },
+        {
+            "id": "638",
+            "name": "Middletown",
+            "popular": "0"
+        },
+        {
+            "id": "216",
+            "name": "Newark",
+            "popular": "1"
+        },
+        {
+            "id": "789",
+            "name": "Parsippany",
+            "popular": "1"
+        },
+        {
+            "id": "809",
+            "name": "Princeton",
+            "popular": "0"
+        },
+        {
+            "id": "819",
+            "name": "Red Bank",
+            "popular": "0"
+        },
+        {
+            "id": "536",
+            "name": "Scotch Plains",
+            "popular": "1"
+        },
+        {
+            "id": "210",
+            "name": "Seaville",
+            "popular": "0"
+        },
+        {
+            "id": "559",
+            "name": "Somerset",
+            "popular": "0"
+        },
+        {
+            "id": "799",
+            "name": "Trenton",
+            "popular": "1"
+        },
+        {
+            "id": "671",
+            "name": "Union City",
+            "popular": "0"
+        }
+    ],
+    "cities_business": [
+        {
+            "id": "613",
+            "name": "Hoboken",
+            "popular": "0"
+        },
+        {
+            "id": "536",
+            "name": "Scotch Plains",
+            "popular": "1"
+        }
+    ],
+    "cities_popular": [
+        {
+            "id": "251",
+            "name": "Fort Lee"
+        },
+        {
+            "id": "589",
+            "name": "Marlton"
+        },
+        {
+            "id": "216",
+            "name": "Newark"
+        },
+        {
+            "id": "789",
+            "name": "Parsippany"
+        },
+        {
+            "id": "536",
+            "name": "Scotch Plains"
+        },
+        {
+            "id": "799",
+            "name": "Trenton"
+        }
+    ],
+    "locations_business_address": [
+        {
+            "id": 1065,
+            "location_name": "50 Harrison Street, Hoboken, NJ 07030",
+            "city": "Hoboken",
+            "state": "New Jersey",
+            "state_abbr": "NJ",
+            "address": "50 Harrison Street, Hoboken, NJ 07030",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 40.737444,
+            "point_y": -74.04313189,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1065-001-Building.png",
+                "alttext": null
+            },
+            "url": "/business-address/new-jersey/hoboken/location-1065/",
+            "phone": "2013458637"
+        },
+        {
+            "id": 860,
+            "location_name": "1812 Front Street, Scotch Plains, NJ 07076",
+            "city": "Scotch Plains",
+            "state": "New Jersey",
+            "state_abbr": "NJ",
+            "address": "1812 Front Street, Scotch Plains, NJ 07076",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 40.6496271,
+            "point_y": -74.3993953,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/860-Exterior.png",
+                "alttext": "Exterior of building that houses Opus Virtual Offices located in Scotch Plains, New Jersey"
+            },
+            "url": "/business-address/new-jersey/scotch-plains/location-860/",
+            "phone": "9089771479"
+        }
+    ],
+    "meta": {
+        "cities_virtual_count": 19,
+        "cities_business_count": 2,
+        "cities_popular_count": 6,
+        "locations_business_address_count": 2
+    },
+    "seo": {
+        "title": "Virtual Business Address in New Jersey | Opus Virtual Offices",
+        "meta_description": "Get a prestigious business address in New Jersey with Opus. Multiple premium locations statewide mail handling privacy protection all for just $59/month.",
+        "canonical": "https://www.opusvirtualoffices.com/business-address/new-jersey/",
+        "og": {
+            "title": "Virtual Business Address in New Jersey | Opus Virtual Offices",
+            "description": "Get a prestigious business address in New Jersey with Opus. Multiple premium locations statewide mail handling privacy protection all for just $59/month.",
+            "url": "https://www.opusvirtualoffices.com/business-address/new-jersey/",
+            "type": "website",
+            "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+        }
+    }
+}

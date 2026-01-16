@@ -1,0 +1,143 @@
+{
+    "success": true,
+    "state": "british columbia",
+    "cities_virtual": [
+        {
+            "id": "599",
+            "name": "Richmond",
+            "popular": "0"
+        },
+        {
+            "id": "836",
+            "name": "Surrey",
+            "popular": "0"
+        },
+        {
+            "id": "598",
+            "name": "Vancouver",
+            "popular": "0"
+        },
+        {
+            "id": "897",
+            "name": "West Vancouver",
+            "popular": "0"
+        }
+    ],
+    "cities_business": [],
+    "cities_popular": [],
+    "locations_virtual_office": [
+        {
+            "id": 1649,
+            "location_name": "150-10451 Shellbridge Way, Richmond, BC V6X 2W8",
+            "city": "Richmond",
+            "state": "British Columbia",
+            "state_abbr": "BC",
+            "address": "150-10451 Shellbridge Way, Richmond, BC V6X 2W8",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 49.1872671,
+            "point_y": -123.1063164,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1649-01-Building.webp",
+                "alttext": null
+            },
+            "url": "/virtual-office/british-columbia/richmond/location-1649/",
+            "phone": "6042590342"
+        },
+        {
+            "id": 1754,
+            "location_name": "15350 Croydon Dr, Surrey, BC V3Z 1H4",
+            "city": "Surrey",
+            "state": "British Columbia",
+            "state_abbr": "BC",
+            "address": "15350 Croydon Dr, Surrey, BC V3Z 1H4",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 49.0596956,
+            "point_y": -122.7973807,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1754-Exterior-2.jpg",
+                "alttext": "Exterior of building that houses Opus Virtual Offices located in Surrey, British Columbia"
+            },
+            "url": "/virtual-office/british-columbia/surrey/location-1754/",
+            "phone": "7782000244"
+        },
+        {
+            "id": 1135,
+            "location_name": "300-3665 Kingsway, Vancouver, BC V5R 5W2",
+            "city": "Vancouver",
+            "state": "British Columbia",
+            "state_abbr": "BC",
+            "address": "300-3665 Kingsway, Vancouver, BC V5R 5W2",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 49.2326333,
+            "point_y": -123.0242383,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1Building35.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/british-columbia/vancouver/location-1135/",
+            "phone": "6042279087"
+        },
+        {
+            "id": 1650,
+            "location_name": "720-999 West Broadway, Vancouver, BC V5Z 1K5",
+            "city": "Vancouver",
+            "state": "British Columbia",
+            "state_abbr": "BC",
+            "address": "720-999 West Broadway, Vancouver, BC V5Z 1K5",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 49.2637502,
+            "point_y": -123.1261031,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1650-01-Building.webp",
+                "alttext": null
+            },
+            "url": "/virtual-office/british-columbia/vancouver/location-1650/",
+            "phone": "6042590328"
+        },
+        {
+            "id": 1716,
+            "location_name": "200-100 Park Royal South, West Vancouver, BC V7T 1A2",
+            "city": "West Vancouver",
+            "state": "British Columbia",
+            "state_abbr": "BC",
+            "address": "200-100 Park Royal South, West Vancouver, BC V7T 1A2",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 49.325235199,
+            "point_y": -123.1335909,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1716-exterior.jpeg",
+                "alttext": "Exterior of building that houses Opus Virtual Offices located in West Vancouver, British Columbia"
+            },
+            "url": "/virtual-office/british-columbia/west-vancouver/location-1716/",
+            "phone": "6043737699"
+        }
+    ],
+    "meta": {
+        "cities_virtual_count": 4,
+        "cities_business_count": 0,
+        "cities_popular_count": 0,
+        "locations_virtual_office_count": 5
+    },
+    "seo": {
+        "title": "Virtual Office in British Columbia | Locations Statewide | Opus VO",
+        "meta_description": "Get a prestigious British Columbia business address and professional phone answering services with Opus Virtual Offices, the perfect office solution for your business needs.",
+        "canonical": "https://www.opusvirtualoffices.com/virtual-office/british-columbia/",
+        "og": {
+            "title": "Virtual Office in British Columbia | Locations Statewide | Opus VO",
+            "description": "Get a prestigious British Columbia business address and professional phone answering services with Opus Virtual Offices, the perfect office solution for your business needs.",
+            "url": "https://www.opusvirtualoffices.com/virtual-office/british-columbia/",
+            "type": "website",
+            "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+        }
+    }
+}

@@ -1,0 +1,93 @@
+{
+    "success": true,
+    "location_id": 1557,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Oakville",
+            "state": "ON",
+            "price": null,
+            "address": {
+                "line1": "2275 Upper Middle Road East",
+                "suite": null,
+                "city": "Oakville",
+                "state": "ON",
+                "zip": "L6H0C3",
+                "phone": "(905) 367-0218"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/1557-001-Building-e1709935879169.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1557-conference.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1557-conference2.png",
+                    "/wp-content-mgr/wp-content/uploads/1557-reception.png",
+                    "/wp-content-mgr/wp-content/uploads/1557-enterance.jpg"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1557",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Oakville Virtual Office",
+            "body": "Mulling over an Oakville address to either launch your startup or take your existing company to the next level, but concerned about the financial strings of a brick-and-mortar office? Opus VO is your answer. Position your business at one of our distinguished Oakville locations, enabling you to flaunt a prestigious address without breaking the bank. Should you need a high-quality setting for crucial meetings or important client conversations, our top-notch conference rooms stand ready.  The benefits extend past just a notable address. By opting for a virtual office at Opus VO in Oakville, you gain access to the added value of a live receptionist. Depend on our capable team to manage your client communications seamlessly, taking care of logistical tasks like electronic mail management and efficient call redirection, thus freeing you to focus on what truly matters: growing your business. ",
+            "map": {
+                "lat": 43.504436299,
+                "lng": -79.671928,
+                "zoom": 14,
+                "city": "Oakville"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Oakville, Ontario even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Oakville. You can also adapt to better meet your clients’ unique needs within Ontario. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Oakville virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Oakville? Why Opus VO?",
+                "body": "Oakville is more than just a picturesque town; it’s a lively commercial center filled with abundant opportunities across multiple sectors. By anchoring your virtual office at Opus VO in Oakville, you’re not merely mitigating costs; you’re connecting with a thriving professional environment ripe for collaborations and growth.  Choosing Opus VO in Oakville isn’t simply about economizing; it’s a calculated strategy that primes your business for greater achievements. Your next big leap could very well be just one decision away.  Opus VO Location in Oakville @ 2275 Upper Middle Road East, Oakville, ON L6H0C3 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Oakville - 2275 Upper Middle Road East | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Ontario, Oakville virtual office located at 2275 Upper Middle Road East. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/ontario/oakville/location-1557/",
+            "og": {
+                "title": "Virtual Office in Oakville - 2275 Upper Middle Road East | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Ontario, Oakville virtual office located at 2275 Upper Middle Road East. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/ontario/oakville/location-1557/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/1557-001-Building-e1709935879169.jpg"
+            }
+        }
+    }
+}

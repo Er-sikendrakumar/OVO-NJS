@@ -1,0 +1,94 @@
+{
+    "success": true,
+    "location_id": 1079,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Fresno",
+            "state": "CA",
+            "price": null,
+            "address": {
+                "line1": "1444 Fulton Street",
+                "suite": null,
+                "city": "Fresno",
+                "state": "CA",
+                "zip": "93721",
+                "phone": "(559) 272-8617"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/1079-01-Building.png",
+                    "/wp-content-mgr/wp-content/uploads/Entry-Fresno-800x533.jpg",
+                    "/wp-content-mgr/wp-content/uploads/Lobby-Fresno-800x473.jpg",
+                    "/wp-content-mgr/wp-content/uploads/Meeting-Room-Fresno-800x533.jpg",
+                    "/wp-content-mgr/wp-content/uploads/Meeting-Room-Fresno1-702x550.jpg",
+                    "/wp-content-mgr/wp-content/uploads/Reception-Fresno-800x468.jpg"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1079",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Fresno Virtual Office",
+            "body": "Take your business to the next level with an esteemed address in Fresno, all while avoiding the overhead associated with traditional office spaces. Choose Opus VO in Fresno for a complete package that includes business mail services, a welcoming environment for your clients, and access to state-of-the-art meeting facilities. Position your business in a prime Fresno location, right in the heart of the city’s bustling commercial district.  Opting for a virtual office in Fresno through Opus VO also grants you the services of a live receptionist, adding a personal touch to each client interaction. We offer a suite of top-notch administrative services, such as digital mail management, seamless call forwarding, and much more. This allows you to focus your energy on business expansion while our dedicated administrative staff handles your day-to-day operational tasks. ",
+            "map": {
+                "lat": 36.7388844,
+                "lng": -119.7952145,
+                "zoom": 14,
+                "city": "Fresno"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Fresno, California even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Fresno. You can also adapt to better meet your clients’ unique needs within California. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Fresno virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Fresno Virtual Office?",
+                "body": "Fresno is more than its scenic beauty; it’s a growing hub for businesses in diverse sectors ranging from agriculture to technology. By establishing a virtual office in Fresno, you’ll align your business with a vibrant local economy ripe with opportunity. Our strategically located Fresno facility gives you easy access to important industry events, trade shows, and networking occasions.  By leveraging an Opus Virtual Office in Fresno, you gain a competitive edge in your market at a cost significantly lower than renting traditional office space. Transform your business today by taking advantage of this contemporary, cost-effective solution.  Opus VO, Fresno @ 1444 Fulton Street, Fresno, CA 93721",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Fresno - 1444 Fulton Street | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our California, Fresno virtual office located at 1444 Fulton Street. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/california/fresno/location-1079/",
+            "og": {
+                "title": "Virtual Office in Fresno - 1444 Fulton Street | $99/Month",
+                "description": "Get the ultimate office solution for your business with our California, Fresno virtual office located at 1444 Fulton Street. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/california/fresno/location-1079/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/1079-01-Building.png"
+            }
+        }
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "success": true,
+    "count": 4,
+    "state": "british columbia",
+    "data": [
+        {
+            "id": "599",
+            "name": "Richmond",
+            "popular": "0"
+        },
+        {
+            "id": "836",
+            "name": "Surrey",
+            "popular": "0"
+        },
+        {
+            "id": "598",
+            "name": "Vancouver",
+            "popular": "0"
+        },
+        {
+            "id": "897",
+            "name": "West Vancouver",
+            "popular": "0"
+        }
+    ]
+}

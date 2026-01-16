@@ -1,0 +1,27 @@
+{
+    "success": true,
+    "count": 1,
+    "state": "iowa",
+    "mode": "business-address",
+    "data": [
+        {
+            "id": 1279,
+            "location_name": "500 Locust Street, Des Moines, IA 50309",
+            "city": "Des Moines",
+            "state": "Iowa",
+            "state_abbr": "IA",
+            "address": "500 Locust Street, Des Moines, IA 50309",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 41.5867217,
+            "point_y": -93.6239175,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1279-001-Building.jpg",
+                "alttext": null
+            },
+            "url": "/business-address/iowa/des-moines/location-1279/",
+            "phone": "5153130032"
+        }
+    ]
+}

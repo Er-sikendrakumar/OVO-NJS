@@ -1,0 +1,93 @@
+{
+    "success": true,
+    "location_id": 1577,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Mobile",
+            "state": "AL",
+            "price": null,
+            "address": {
+                "line1": "1850 Airport Blvd",
+                "suite": null,
+                "city": "Mobile",
+                "state": "AL",
+                "zip": "36606",
+                "phone": "(251) 378-2724"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/1577-001-Building.jpeg",
+                    "/wp-content-mgr/wp-content/uploads/1577-conference.png",
+                    "/wp-content-mgr/wp-content/uploads/1577-conference2.png",
+                    "/wp-content-mgr/wp-content/uploads/1577-cowork.png",
+                    "/wp-content-mgr/wp-content/uploads/1577-04.front_.jpg"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1577",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": "This location does not currently offer mail forwarding"
+        },
+        "overview": {
+            "heading": "Mobile Virtual Office",
+            "body": "Enjoy the benefits of a high-caliber business address in Mobile without the burden of a physical workspace. Opus VO allows you to situate your company in a prominent Mobile locale at just a fraction of the cost of a traditional office lease. Utilize our modern conference rooms for key meetings and client interactions, all while enhancing your company’s prestige with an illustrious Mobile address.  By selecting a virtual office in Mobile through Opus VO, you gain the unique advantage of a live receptionist. Focused on delivering top-notch, personalized customer service, our team will ensure each client interaction is in line with your business objectives. Delegate routine administrative tasks like digital mail management and advanced call-forwarding to us, so you can focus on expanding your business. ",
+            "map": {
+                "lat": 30.6779262,
+                "lng": -88.08414549,
+                "zoom": 14,
+                "city": "Mobile"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Mobile, Alabama even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Mobile. You can also adapt to better meet your clients’ unique needs within Alabama. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Mobile virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Choose a Mobile Virtual Office?",
+                "body": "Mobile is more than a historic port city; it’s an emerging business hub with diverse opportunities in sectors like shipping, aerospace, and healthcare. Conveniently situated near key commercial centers, our Mobile location offers you seamless access to critical industry contacts and networking opportunities.  By opting for an Opus Virtual Office in Mobile, you’re doing more than just reducing operational costs; you’re equipping your business with a vital competitive advantage. Elevate your enterprise to greater success by taking advantage of our premium virtual office solutions.  Opus VO, Mobile @ 1850 Airport Blvd, Mobile, AL 36606 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Mobile - 1850 Airport Blvd | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Alabama, Mobile virtual office located at 1850 Airport Blvd. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/alabama/mobile/location-1577/",
+            "og": {
+                "title": "Virtual Office in Mobile - 1850 Airport Blvd | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Alabama, Mobile virtual office located at 1850 Airport Blvd. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/alabama/mobile/location-1577/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/1577-001-Building.jpeg"
+            }
+        }
+    }
+}

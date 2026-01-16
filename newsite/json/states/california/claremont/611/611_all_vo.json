@@ -1,0 +1,89 @@
+{
+    "success": true,
+    "location_id": 611,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Claremont",
+            "state": "CA",
+            "price": null,
+            "address": {
+                "line1": "112 Harvard Ave",
+                "suite": null,
+                "city": "Claremont",
+                "state": "CA",
+                "zip": "91711",
+                "phone": "(909) 247-3045"
+            },
+            "images": {
+                "hero": [
+                    "/assets/mail-center.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=611",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 0,
+            "nearbyPremium": 1,
+            "nearbyPremiumUrl": "/virtual-office/california/san-dimas/location-1667/",
+            "nearbyPremiumText": "to view the nearby PREMIUM Locations for the same $99/mo",
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Clarmont Virtual Office",
+            "body": "Establish a prestigious business address in Claremont without the heavy financial burden of a brick-and-mortar office. Opus VO offers you the opportunity to position your business in our prime Claremont location, all without the hefty costs that come with a conventional office lease. Take advantage of our modern conference rooms for your vital business engagements and client meetings, while boosting your brand’s image with a professional Claremont address.  By opting for a virtual office in Claremont through Opus VO, you enjoy the added benefit of a live receptionist committed to delivering personalized, top-notch customer service. Our team makes sure every client interaction is in harmony with your unique business objectives. Hand over routine tasks like mail handling and call management to us, freeing you to focus solely on your business’ growth and development. ",
+            "map": {
+                "lat": 34.094857,
+                "lng": -117.716229,
+                "zoom": 14,
+                "city": "Claremont"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Claremont, California even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Claremont. You can also adapt to better meet your clients’ unique needs within California. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Claremont virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Choose a Claremont Virtual Office?",
+                "body": "Claremont is more than a college town; it’s an emerging center of commerce with growth potential in various fields like education, technology, and healthcare. Our Claremont office is strategically placed, affording you easy access to important industry connections and relevant networking events.  By selecting an Opus Virtual Office in Claremont, you’re accomplishing much more than merely reducing your operational expenses; you’re securing a significant competitive advantage. Boost your business to new levels of success by leveraging our exceptional virtual office services today.  Opus VO, Claremont @ 112 Harvard Ave, Claremont, CA 91711 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Claremont - 112 Harvard Ave | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our California, Claremont virtual office located at 112 Harvard Ave. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/california/claremont/location-611/",
+            "og": {
+                "title": "Virtual Office in Claremont - 112 Harvard Ave | $99/Month",
+                "description": "Get the ultimate office solution for your business with our California, Claremont virtual office located at 112 Harvard Ave. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/california/claremont/location-611/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+            }
+        }
+    }
+}

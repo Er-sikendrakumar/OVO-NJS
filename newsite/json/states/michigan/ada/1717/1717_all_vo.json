@@ -1,0 +1,95 @@
+{
+    "success": true,
+    "location_id": 1717,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Ada",
+            "state": "MI",
+            "price": null,
+            "address": {
+                "line1": "496 Ada Drive SE",
+                "suite": null,
+                "city": "Ada",
+                "state": "MI",
+                "zip": "49301",
+                "phone": "(616) 483-3392"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/1717-exterior.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1717-conference.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1717-conference2.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1717-conference.3jpg.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1717-reception.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1717-cowork.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1717-kitchen.jpg"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1717",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "ADA VIRTUAL OFFICE",
+            "body": "You can start a business just about anywhere in Michigan, but some cities offer more benefits for your company’s goals. At Opus, we have compiled a list of the most popular cities to start a business, for any type of business. Growth is important for a business, not only when you are in the early stages of starting your business but also when you are looking to expand. Check out each one to see which one could benefit your business long-term prospects. Considering the increase in leasing fees, having a virtual office and business presence in these locations could save you a fortune and help you profit immensely. Take advantage of a virtual office in Michigan today.”",
+            "map": {
+                "lat": 42.9547391,
+                "lng": -85.4860607,
+                "zoom": 14,
+                "city": "Ada"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Ada, Michigan even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Ada. You can also adapt to better meet your clients’ unique needs within Michigan. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Ada virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "ADA VIRTUAL OFFICE",
+                "body": "",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Ada - 496 Ada Drive SE | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Michigan, Ada virtual office located at 496 Ada Drive SE. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/michigan/ada/location-1717/",
+            "og": {
+                "title": "Virtual Office in Ada - 496 Ada Drive SE | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Michigan, Ada virtual office located at 496 Ada Drive SE. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/michigan/ada/location-1717/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/1717-exterior.jpg"
+            }
+        }
+    }
+}

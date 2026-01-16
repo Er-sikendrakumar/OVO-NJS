@@ -1,0 +1,93 @@
+{
+    "success": true,
+    "location_id": 1005,
+    "mode": "business-address",
+    "data": {
+        "header": {
+            "city": "Seattle",
+            "state": "WA",
+            "price": null,
+            "address": {
+                "line1": "4500 9th Avenue NE",
+                "suite": null,
+                "city": "Seattle",
+                "state": "WA",
+                "zip": "98105",
+                "phone": "(206) 681-9424"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/1005-exterior.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1005-Conference.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1005-reception-1.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1005-Lobby.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1005-kitchen.jpg"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 1,
+            "addressOnlyUrl": "/business-address/washington/seattle/location-1005/",
+            "signupUrl": "/signup/?locid=1005",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 1,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Seattle Virtual Office",
+            "body": "Contemplating a prestigious Seattle address to bolster your startup or elevate your established enterprise, but hesitant due to the costs of a brick-and-mortar location? Opus VO is your go-to solution. Position your brand in one of our top-tier Seattle locales, harvesting all the associated prestige without breaking the bank. When you need a conducive setting for high-stakes meetings or pivotal client interactions, our cutting-edge conference rooms are yours for the taking.  Beyond an illustrious address, your Opus VO virtual office in Seattle comes equipped with the dedicated services of a live receptionist. Trust us to manage your client communications with unparalleled professionalism, reflecting the individuality of your brand. Administrative duties like sorting through emails and effective call routing? Consider it done, freeing you to channel your focus toward scaling new heights. ",
+            "map": {
+                "lat": 47.661643,
+                "lng": -122.3180587,
+                "zoom": 14,
+                "city": "Seattle"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Seattle, Washington even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Seattle. You can also adapt to better meet your clients’ unique needs within Washington. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Seattle virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Seattle? Why Opus VO?",
+                "body": "Seattle isn’t just a cultural melting pot; it’s a veritable nexus of business innovation and opportunity. Establishing your virtual office through Opus VO in Seattle grants you immediate access to a thriving network of professionals and a wide range of industry opportunities that could very well define your next level of success.  Choosing Opus VO in Seattle is not merely a cost-saving strategy; it’s an investment in your brand’s upward trajectory. Your next business milestone could very well be one virtual office away.  Opus VO Location in Seattle @ 4500 9th Avenue NE, Seattle, WA 98105 or 9030 35th Avenue SW, Seattle, WA 98126 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Prestigious Business Address 4500 9th Avenue NE Seattle | $59/month",
+            "meta_description": "Impress clients with a virtual office at 4500 9th Avenue NE Seattle enjoy a prime location mail handling digital alerts and privacy for only $59/month",
+            "canonical": "https://www.opusvirtualoffices.com/business-address/washington/seattle/location-1005/",
+            "og": {
+                "title": "Prestigious Business Address 4500 9th Avenue NE Seattle | $59/month",
+                "description": "Impress clients with a virtual office at 4500 9th Avenue NE Seattle enjoy a prime location mail handling digital alerts and privacy for only $59/month",
+                "url": "https://www.opusvirtualoffices.com/business-address/washington/seattle/location-1005/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/1005-exterior.jpg"
+            }
+        }
+    }
+}

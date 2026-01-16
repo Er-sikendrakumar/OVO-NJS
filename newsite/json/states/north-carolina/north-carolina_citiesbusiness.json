@@ -1,0 +1,17 @@
+{
+    "success": true,
+    "count": 2,
+    "state": "north carolina",
+    "data": [
+        {
+            "id": "68",
+            "name": "Charlotte",
+            "popular": "1"
+        },
+        {
+            "id": "270",
+            "name": "Raleigh",
+            "popular": "0"
+        }
+    ]
+}

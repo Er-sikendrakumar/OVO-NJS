@@ -1,0 +1,46 @@
+{
+    "success": true,
+    "count": 2,
+    "state": "nevada",
+    "mode": "business-address",
+    "data": [
+        {
+            "id": 834,
+            "location_name": "3430 E. Russell Road, Las Vegas, NV 89120",
+            "city": "Las Vegas",
+            "state": "Nevada",
+            "state_abbr": "NV",
+            "address": "3430 E. Russell Road, Las Vegas, NV 89120",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 36.087314,
+            "point_y": -115.0995266,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/834-0001-Building.png",
+                "alttext": null
+            },
+            "url": "/business-address/nevada/las-vegas/location-834/",
+            "phone": "7022733256"
+        },
+        {
+            "id": 839,
+            "location_name": "6130 Elton Avenue, Las Vegas, NV 89107",
+            "city": "Las Vegas",
+            "state": "Nevada",
+            "state_abbr": "NV",
+            "address": "6130 Elton Avenue, Las Vegas, NV 89107",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 36.1724916,
+            "point_y": -115.2254507,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/839-building.jpg",
+                "alttext": null
+            },
+            "url": "/business-address/nevada/las-vegas/location-839/",
+            "phone": "7025606619"
+        }
+    ]
+}

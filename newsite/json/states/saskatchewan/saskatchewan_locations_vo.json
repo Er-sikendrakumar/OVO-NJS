@@ -1,0 +1,27 @@
+{
+    "success": true,
+    "count": 1,
+    "state": "saskatchewan",
+    "mode": "virtual-office",
+    "data": [
+        {
+            "id": 1205,
+            "location_name": "918 Albert Street, Regina, SK S4R2P7",
+            "city": "Regina",
+            "state": "Saskatchewan",
+            "state_abbr": "SK",
+            "address": "918 Albert Street, Regina, SK S4R2P7",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 50.4640728,
+            "point_y": -104.618604,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/saskatchewan/regina/location-1205/",
+            "phone": "3062051973"
+        }
+    ]
+}

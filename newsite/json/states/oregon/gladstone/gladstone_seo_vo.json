@@ -1,0 +1,23 @@
+{
+    "success": true,
+    "page": "virtual-office/oregon/gladstone",
+    "page_type": "location_city",
+    "view": "city",
+    "seo": {
+        "title": "Virtual Office in Gladstone, OR | Multiple Locations Available",
+        "meta_description": "Find the ultimate office solution with Opus Virtual Offices in Gladstone, Oregon. Our all-inclusive virtual offices cater to your business needs. Sign up today!",
+        "canonical": "https://www.opusvirtualoffices.com/virtual-office/oregon/gladstone/",
+        "og": {
+            "title": "Virtual Office in Gladstone, OR | Multiple Locations Available",
+            "description": "Find the ultimate office solution with Opus Virtual Offices in Gladstone, Oregon. Our all-inclusive virtual offices cater to your business needs. Sign up today!",
+            "url": "https://www.opusvirtualoffices.com/virtual-office/oregon/gladstone/",
+            "type": "website",
+            "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+        }
+    },
+    "data": {
+        "state": "Oregon",
+        "city": "Gladstone",
+        "mode": "virtual-office"
+    }
+}

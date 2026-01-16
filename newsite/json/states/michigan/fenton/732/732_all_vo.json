@@ -1,0 +1,89 @@
+{
+    "success": true,
+    "location_id": 732,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Fenton",
+            "state": "MI",
+            "price": null,
+            "address": {
+                "line1": "1114 N Leroy Street",
+                "suite": null,
+                "city": "Fenton",
+                "state": "MI",
+                "zip": "48430",
+                "phone": "(810) 740-2036"
+            },
+            "images": {
+                "hero": [
+                    "/assets/mail-center.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=732",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 0,
+            "nearbyPremium": 1,
+            "nearbyPremiumUrl": "/virtual-office/michigan/brighton/location-1633/",
+            "nearbyPremiumText": "to view the nearby PREMIUM Locations for the same $99/mo",
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Fenton Virtual Office",
+            "body": "Secure a coveted Fenton business address without the expense of a physical location. With Opus VO, place your business in the bustling landscape of Fenton while keeping an eye on your financial well-being. Need to make a lasting impression for an important meeting or client pitch? Our high-end conference facilities are at your service.  When you opt for a virtual setup in Fenton via Opus VO, a devoted live receptionist comes with the deal. We make each client interaction feel like a seamless extension of your own brand culture. Delegate your day-to-day administrative tasks to us, liberating you to focus on your business ambitions. ",
+            "map": {
+                "lat": 42.810172,
+                "lng": -83.707411,
+                "zoom": 14,
+                "city": "Fenton"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Fenton, Michigan even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Fenton. You can also adapt to better meet your clients’ unique needs within Michigan. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Fenton virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Fenton?",
+                "body": "Don’t overlook Fenton; it’s more than just a charming locale. It’s an emerging nexus for various businesses, from local artisans to growing tech firms. Having a Fenton address provides you with access to local events and a network that can propel your business forward.  Choosing Opus VO in Fenton is not just a wise financial decision—it’s a pivotal strategic move. Ready to take your business to the next level? Our top-of-the-line virtual office solutions await you.  Opus VO Fenton @ 1114 N Leroy Street, Fenton, MI 48430 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Fenton - 1114 N Leroy Street | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Michigan, Fenton virtual office located at 1114 N Leroy Street. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/michigan/fenton/location-732/",
+            "og": {
+                "title": "Virtual Office in Fenton - 1114 N Leroy Street | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Michigan, Fenton virtual office located at 1114 N Leroy Street. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/michigan/fenton/location-732/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+            }
+        }
+    }
+}

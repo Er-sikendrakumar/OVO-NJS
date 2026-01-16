@@ -1,0 +1,46 @@
+{
+    "success": true,
+    "count": 2,
+    "state": "rhode island",
+    "mode": "virtual-office",
+    "data": [
+        {
+            "id": 1695,
+            "location_name": "45 Industrial Road, Cumberland, RI 02864",
+            "city": "Cumberland",
+            "state": "Rhode Island",
+            "state_abbr": "RI",
+            "address": "45 Industrial Road, Cumberland, RI 02864",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 41.9525601,
+            "point_y": -71.3961712,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1695-01.bldg_.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/rhode-island/cumberland/location-1695/",
+            "phone": "4017573974"
+        },
+        {
+            "id": 1077,
+            "location_name": "166 Valley Street Bldg 6M, Providence, RI 02909",
+            "city": "Providence",
+            "state": "Rhode Island",
+            "state_abbr": "RI",
+            "address": "166 Valley Street Bldg 6M, Providence, RI 02909",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 41.8211533,
+            "point_y": -71.4407525,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1077-exterior.jpg",
+                "alttext": "Exterior of building that houses Opus Virtual Offices located in Providence, Rhode Island"
+            },
+            "url": "/virtual-office/rhode-island/providence/location-1077/",
+            "phone": "4017573973"
+        }
+    ]
+}

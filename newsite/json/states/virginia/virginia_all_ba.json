@@ -1,0 +1,178 @@
+{
+    "success": true,
+    "state": "virginia",
+    "cities_virtual": [
+        {
+            "id": "49",
+            "name": "Alexandria",
+            "popular": "1"
+        },
+        {
+            "id": "50",
+            "name": "Arlington",
+            "popular": "0"
+        },
+        {
+            "id": "913",
+            "name": "Ashburn",
+            "popular": "0"
+        },
+        {
+            "id": "743",
+            "name": "Charlottesville",
+            "popular": "0"
+        },
+        {
+            "id": "745",
+            "name": "Culpeper",
+            "popular": "0"
+        },
+        {
+            "id": "915",
+            "name": "Fairfax",
+            "popular": "0"
+        },
+        {
+            "id": "504",
+            "name": "Fredericksburg",
+            "popular": "0"
+        },
+        {
+            "id": "425",
+            "name": "Herndon",
+            "popular": "0"
+        },
+        {
+            "id": "639",
+            "name": "Leesburg",
+            "popular": "1"
+        },
+        {
+            "id": "109",
+            "name": "McLean",
+            "popular": "1"
+        },
+        {
+            "id": "744",
+            "name": "North Springfield",
+            "popular": "0"
+        },
+        {
+            "id": "847",
+            "name": "Portsmouth",
+            "popular": "0"
+        },
+        {
+            "id": "416",
+            "name": "Richmond",
+            "popular": "1"
+        },
+        {
+            "id": "801",
+            "name": "Tysons",
+            "popular": "0"
+        },
+        {
+            "id": "500",
+            "name": "Virginia Beach",
+            "popular": "1"
+        },
+        {
+            "id": "651",
+            "name": "Yorktown",
+            "popular": "0"
+        }
+    ],
+    "cities_business": [
+        {
+            "id": "49",
+            "name": "Alexandria",
+            "popular": "1"
+        },
+        {
+            "id": "50",
+            "name": "Arlington",
+            "popular": "0"
+        }
+    ],
+    "cities_popular": [
+        {
+            "id": "49",
+            "name": "Alexandria"
+        },
+        {
+            "id": "639",
+            "name": "Leesburg"
+        },
+        {
+            "id": "109",
+            "name": "McLean"
+        },
+        {
+            "id": "416",
+            "name": "Richmond"
+        },
+        {
+            "id": "500",
+            "name": "Virginia Beach"
+        }
+    ],
+    "locations_business_address": [
+        {
+            "id": 1419,
+            "location_name": "2800 Eisenhower Avenue, Alexandria, VA 22314",
+            "city": "Alexandria",
+            "state": "Virginia",
+            "state_abbr": "VA",
+            "address": "2800 Eisenhower Avenue, Alexandria, VA 22314",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 38.8016031,
+            "point_y": -77.0817187,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1419-01.bldg_.jpg",
+                "alttext": null
+            },
+            "url": "/business-address/virginia/alexandria/location-1419/",
+            "phone": "7033401416"
+        },
+        {
+            "id": 1585,
+            "location_name": "1550 Wilson Blvd, Arlington, VA 22209",
+            "city": "Arlington",
+            "state": "Virginia",
+            "state_abbr": "VA",
+            "address": "1550 Wilson Blvd, Arlington, VA 22209",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 38.8942529,
+            "point_y": -77.0759154,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1585-01.building.jpg",
+                "alttext": null
+            },
+            "url": "/business-address/virginia/arlington/location-1585/",
+            "phone": "7032149026"
+        }
+    ],
+    "meta": {
+        "cities_virtual_count": 16,
+        "cities_business_count": 2,
+        "cities_popular_count": 5,
+        "locations_business_address_count": 2
+    },
+    "seo": {
+        "title": "Virtual Business Address in Virginia | Opus Virtual Offices",
+        "meta_description": "Get a prestigious business address in Virginia with Opus. Multiple premium locations statewide mail handling privacy protection all for just $59/month.",
+        "canonical": "https://www.opusvirtualoffices.com/business-address/virginia/",
+        "og": {
+            "title": "Virtual Business Address in Virginia | Opus Virtual Offices",
+            "description": "Get a prestigious business address in Virginia with Opus. Multiple premium locations statewide mail handling privacy protection all for just $59/month.",
+            "url": "https://www.opusvirtualoffices.com/business-address/virginia/",
+            "type": "website",
+            "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+        }
+    }
+}

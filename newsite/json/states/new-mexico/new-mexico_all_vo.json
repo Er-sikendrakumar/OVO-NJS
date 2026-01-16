@@ -1,0 +1,119 @@
+{
+    "success": true,
+    "state": "new mexico",
+    "cities_virtual": [
+        {
+            "id": "294",
+            "name": "Albuquerque",
+            "popular": "1"
+        },
+        {
+            "id": "268",
+            "name": "Rio Rancho",
+            "popular": "1"
+        },
+        {
+            "id": "654",
+            "name": "Santa Fe",
+            "popular": "1"
+        }
+    ],
+    "cities_business": [
+        {
+            "id": "294",
+            "name": "Albuquerque",
+            "popular": "1"
+        }
+    ],
+    "cities_popular": [
+        {
+            "id": "294",
+            "name": "Albuquerque"
+        },
+        {
+            "id": "268",
+            "name": "Rio Rancho"
+        },
+        {
+            "id": "654",
+            "name": "Santa Fe"
+        }
+    ],
+    "locations_virtual_office": [
+        {
+            "id": 1718,
+            "location_name": "8206 Louisiana Blvd NE, Albuquerque, NM 87113",
+            "city": "Albuquerque",
+            "state": "New Mexico",
+            "state_abbr": "NM",
+            "address": "8206 Louisiana Blvd NE, Albuquerque, NM 87113",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 35.1764606,
+            "point_y": -106.5677211,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1718-01.bldg_.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/new-mexico/albuquerque/location-1718/",
+            "phone": "5058357969"
+        },
+        {
+            "id": 480,
+            "location_name": "2003 Southern Blvd. SE, Rio Rancho, NM 87124",
+            "city": "Rio Rancho",
+            "state": "New Mexico",
+            "state_abbr": "NM",
+            "address": "2003 Southern Blvd. SE, Rio Rancho, NM 87124",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 35.241742,
+            "point_y": -106.694335,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/new-mexico/rio-rancho/location-480/",
+            "phone": "5057173127"
+        },
+        {
+            "id": 1506,
+            "location_name": "314 S Guadalupe Street, Santa Fe, NM 87501",
+            "city": "Santa Fe",
+            "state": "New Mexico",
+            "state_abbr": "NM",
+            "address": "314 S Guadalupe Street, Santa Fe, NM 87501",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 35.6864145,
+            "point_y": -105.94534,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1506-01.bldg_.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/new-mexico/santa-fe/location-1506/",
+            "phone": "5058357981"
+        }
+    ],
+    "meta": {
+        "cities_virtual_count": 3,
+        "cities_business_count": 1,
+        "cities_popular_count": 3,
+        "locations_virtual_office_count": 3
+    },
+    "seo": {
+        "title": "Virtual Office in New Mexico | Locations Statewide | Opus VO",
+        "meta_description": "Get a prestigious New Mexico business address and professional phone answering services with Opus Virtual Offices, the perfect office solution for your business needs.",
+        "canonical": "https://www.opusvirtualoffices.com/virtual-office/new-mexico/",
+        "og": {
+            "title": "Virtual Office in New Mexico | Locations Statewide | Opus VO",
+            "description": "Get a prestigious New Mexico business address and professional phone answering services with Opus Virtual Offices, the perfect office solution for your business needs.",
+            "url": "https://www.opusvirtualoffices.com/virtual-office/new-mexico/",
+            "type": "website",
+            "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+        }
+    }
+}

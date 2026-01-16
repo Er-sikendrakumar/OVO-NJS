@@ -1,0 +1,19 @@
+{
+    "success": true,
+    "count": 3,
+    "state": "colorado",
+    "data": [
+        {
+            "id": "507",
+            "name": "Boulder"
+        },
+        {
+            "id": "379",
+            "name": "Colorado Springs"
+        },
+        {
+            "id": "211",
+            "name": "Denver"
+        }
+    ]
+}

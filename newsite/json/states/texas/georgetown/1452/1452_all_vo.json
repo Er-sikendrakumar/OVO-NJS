@@ -1,0 +1,94 @@
+{
+    "success": true,
+    "location_id": 1452,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Georgetown",
+            "state": "TX",
+            "price": null,
+            "address": {
+                "line1": "601 Quail Valley Drive",
+                "suite": null,
+                "city": "Georgetown",
+                "state": "TX",
+                "zip": "78626",
+                "phone": "(512) 621-7812"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/1452-01.bldg_-711x550.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1452-02.entry_-734x550.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1452-03.meeting-694x550.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1452-04.front_-633x550.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1452-05.meeting-733x550.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1452-06.share_-733x550.jpg"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1452",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 1,
+            "nearbyPremiumUrl": "/virtual-office/texas/austin/location-1475/",
+            "nearbyPremiumText": "to view the most POPULAR locations nearby for the same $99/mo",
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Georgetown Virtual Office",
+            "body": "Do you want to establish your startup or elevate your existing business in Georgetown but are concerned about the financial toll of a traditional office? Look no further than Opus VO. With us, you can claim a prestigious Georgetown address for your business without incurring the high expenses usually associated with it.  What sets us apart is more than just an address. Our top-notch conference rooms are available for those times when you need an impressive and professional environment for critical meetings or engaging discussions with your team or clients. It’s all about providing you the flexibility to do business your way, on your terms, without the constraints of physical office space.  But the advantages don’t stop there. Opt for a virtual office in Georgetown through Opus VO and gain the added benefit of a live receptionist. Our dedicated team is trained to offer your clients a warm and positive experience whenever they reach out to you. In addition to this, we handle routine administrative chores like mail sorting and call routing, allowing you to concentrate on what matters most—scaling your venture. ",
+            "map": {
+                "lat": 30.6218711,
+                "lng": -97.67093299,
+                "zoom": 14,
+                "city": "Georgetown"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Georgetown, Texas even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Georgetown. You can also adapt to better meet your clients’ unique needs within Texas. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Georgetown virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Choose Georgetown and Opus VO?",
+                "body": "Georgetown is not merely a scenic place to live; it’s a burgeoning center of commerce and opportunity. With a virtual office through Opus VO in Georgetown, you’re positioning yourself in a community ripe with potential for business collaborations and networking.  Don’t put off your business’ growth any longer; your next milestone could very well be one well-placed decision away.  Opus VO, Georgetown @ 601 Quail Valley Drive, Georgetown, TX 78626 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Georgetown - 601 Quail Valley Drive | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Texas, Georgetown virtual office located at 601 Quail Valley Drive. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/texas/georgetown/location-1452/",
+            "og": {
+                "title": "Virtual Office in Georgetown - 601 Quail Valley Drive | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Texas, Georgetown virtual office located at 601 Quail Valley Drive. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/texas/georgetown/location-1452/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/1452-01.bldg_.jpg"
+            }
+        }
+    }
+}

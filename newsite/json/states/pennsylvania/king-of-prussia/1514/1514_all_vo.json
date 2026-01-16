@@ -1,0 +1,93 @@
+{
+    "success": true,
+    "location_id": 1514,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "King of Prussia",
+            "state": "PA",
+            "price": null,
+            "address": {
+                "line1": "840 First Avenue",
+                "suite": null,
+                "city": "King of Prussia",
+                "state": "PA",
+                "zip": "19406",
+                "phone": "(610) 973-5286"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/1514-01.Building.webp",
+                    "/wp-content-mgr/wp-content/uploads/1514-02-Meeting-Room.webp",
+                    "/wp-content-mgr/wp-content/uploads/1514-03-Meeting-Room.webp",
+                    "/wp-content-mgr/wp-content/uploads/1514-04-Shared.webp",
+                    "/wp-content-mgr/wp-content/uploads/1514-05-Shared.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1514",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 1,
+            "nearbyPremiumUrl": "/virtual-office/delaware/wilmington/location-942/",
+            "nearbyPremiumText": "to view the most POPULAR locations nearby for the same $99/mo",
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "King of Prussia Virtual Office",
+            "body": "Unlock the benefits of securing a prestigious business address in King of Prussia, Pennsylvania, without the need for a physical office space. At Opus VO, we provide you with the opportunity to position your business in the heart of King of Prussia’s dynamic business community while optimizing operational efficiency. Our modern conference rooms are readily available for important meetings and collaborative endeavors.  By selecting Opus VO’s virtual office in King of Prussia, you not only secure a prestigious address but also gain access to a professional live receptionist who seamlessly integrates with your team. They ensure that every client interaction embodies your unique brand identity, allowing us to manage routine administrative tasks while you focus on your core business objectives. ",
+            "map": {
+                "lat": 40.0963524,
+                "lng": -75.4007103,
+                "zoom": 14,
+                "city": "King of Prussia"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in King Of Prussia, Pennsylvania even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of King Of Prussia. You can also adapt to better meet your clients’ unique needs within Pennsylvania. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our King Of Prussia virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why King of Prussia?",
+                "body": "King of Prussia is more than just a thriving area; it’s a bustling business hub with opportunities spanning various sectors, including retail, technology, and healthcare. Having a King of Prussia address not only enhances your business reputation but also grants access to essential networking events and industry connections.  Opting for Opus VO for your virtual office in King of Prussia is not just a practical choice; it’s a strategic advantage. Are you prepared to elevate your business presence? Explore our exceptional virtual office solutions today.  Opus VO, King of Prussia @ 1150 First Avenue, King of Prussia, PA 19406 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in King Of Prussia - 840 First Avenue | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Pennsylvania, King Of Prussia virtual office located at 840 First Avenue. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/pennsylvania/king-of-prussia/location-1514/",
+            "og": {
+                "title": "Virtual Office in King Of Prussia - 840 First Avenue | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Pennsylvania, King Of Prussia virtual office located at 840 First Avenue. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/pennsylvania/king-of-prussia/location-1514/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/1514-01.Building.webp"
+            }
+        }
+    }
+}

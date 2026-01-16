@@ -1,0 +1,97 @@
+{
+    "success": true,
+    "count": 18,
+    "state": "maryland",
+    "data": [
+        {
+            "id": "111",
+            "name": "Annapolis",
+            "popular": "1"
+        },
+        {
+            "id": "114",
+            "name": "Baltimore",
+            "popular": "1"
+        },
+        {
+            "id": "586",
+            "name": "Bethesda",
+            "popular": "0"
+        },
+        {
+            "id": "284",
+            "name": "Clinton",
+            "popular": "0"
+        },
+        {
+            "id": "395",
+            "name": "Columbia",
+            "popular": "0"
+        },
+        {
+            "id": "607",
+            "name": "Ellicott City",
+            "popular": "1"
+        },
+        {
+            "id": "853",
+            "name": "Fort Washington",
+            "popular": "0"
+        },
+        {
+            "id": "914",
+            "name": "Frederick",
+            "popular": "0"
+        },
+        {
+            "id": "348",
+            "name": "Gaithersburg",
+            "popular": "1"
+        },
+        {
+            "id": "547",
+            "name": "Hagerstown",
+            "popular": "0"
+        },
+        {
+            "id": "917",
+            "name": "Lanham",
+            "popular": "0"
+        },
+        {
+            "id": "852",
+            "name": "Laurel",
+            "popular": "0"
+        },
+        {
+            "id": "912",
+            "name": "Linthicum Heights",
+            "popular": "0"
+        },
+        {
+            "id": "429",
+            "name": "Odenton",
+            "popular": "0"
+        },
+        {
+            "id": "276",
+            "name": "Rockville",
+            "popular": "0"
+        },
+        {
+            "id": "303",
+            "name": "Silver Spring",
+            "popular": "0"
+        },
+        {
+            "id": "904",
+            "name": "Timonium",
+            "popular": "0"
+        },
+        {
+            "id": "918",
+            "name": "Towson",
+            "popular": "0"
+        }
+    ]
+}

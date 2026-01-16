@@ -1,0 +1,92 @@
+{
+    "success": true,
+    "location_id": 1010,
+    "mode": "business-address",
+    "data": {
+        "header": {
+            "city": "Philadelphia",
+            "state": "PA",
+            "price": null,
+            "address": {
+                "line1": "1700 Market Street",
+                "suite": null,
+                "city": "Philadelphia",
+                "state": "PA",
+                "zip": "19103",
+                "phone": "(215) 618-3565"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/1010-001-Building.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1010-conference1.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1010-conference2.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1010-reception.png"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 1,
+            "addressOnlyUrl": "/business-address/pennsylvania/philadelphia/location-1010/",
+            "signupUrl": "/signup/?locid=1010",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 1,
+            "premium": 1,
+            "nearbyPremium": 1,
+            "nearbyPremiumUrl": "/virtual-office/delaware/wilmington/location-942/",
+            "nearbyPremiumText": "to view the most POPULAR locations nearby for the same $99/mo",
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Philadelphia Virtual Office",
+            "body": "Elevate your business prestige with a notable address in Philadelphia, without the financial or logistical burdens of a conventional office space. Opt for Opus VO in Philadelphia and gain access to mail management, client reception areas, and cutting-edge meeting rooms. Situate your business in a landmark building, strategically located in the vibrant commercial sector of Philadelphia.  When you select a virtual office in Philadelphia via Opus VO, you’ll receive the added benefit of a dedicated live receptionist, ensuring each client interaction is customized to your business’s unique requirements. Benefit from a comprehensive array of administrative services, including digital mail sorting, advanced call-forwarding options, and more, freeing you to concentrate on scaling your business. ",
+            "map": {
+                "lat": 39.9526481,
+                "lng": -75.1690533,
+                "zoom": 14,
+                "city": "Philadelphia"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Philadelphia, Pennsylvania even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Philadelphia. You can also adapt to better meet your clients’ unique needs within Pennsylvania. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Philadelphia virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Choose a Philadelphia Virtual Office?",
+                "body": "Philadelphia is more than its rich historical backdrop; it’s a burgeoning business center with opportunities spanning from tech to healthcare. Align your venture with the growing economic energy of the city and tap into local market advantages that can contribute significantly to your bottom line. Located conveniently near business hubs and social hotspots, our Philadelphia site provides seamless access to valuable networking events and industry conferences.  Enlisting the services of an Opus Virtual Office in Philadelphia provides your business with a significant competitive advantage, all at a fraction of the cost of traditional office spaces. Make the decision to transform your business by embracing our innovative virtual office solutions today.     ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Prestigious Business Address 1700 Market Street Philadelphia | $59/month",
+            "meta_description": "Impress clients with a virtual office at 1700 Market Street Philadelphia enjoy a prime location mail handling digital alerts and privacy for only $59/month",
+            "canonical": "https://www.opusvirtualoffices.com/business-address/pennsylvania/philadelphia/location-1010/",
+            "og": {
+                "title": "Prestigious Business Address 1700 Market Street Philadelphia | $59/month",
+                "description": "Impress clients with a virtual office at 1700 Market Street Philadelphia enjoy a prime location mail handling digital alerts and privacy for only $59/month",
+                "url": "https://www.opusvirtualoffices.com/business-address/pennsylvania/philadelphia/location-1010/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/1010-001-Building.jpg"
+            }
+        }
+    }
+}

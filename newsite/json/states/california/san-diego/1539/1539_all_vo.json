@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "location_id": 1539,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "San Diego",
+            "state": "CA",
+            "price": null,
+            "address": {
+                "line1": "4379 30th Street",
+                "suite": null,
+                "city": "San Diego",
+                "state": "CA",
+                "zip": "92104",
+                "phone": "(619) 923-1383"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/1539-01.bldg_.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1539-02.conference.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1539-03.conference.jpg"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1539",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "San Diego Virtual Page",
+            "body": "Discover the benefits of an elite business address in San Diego without the fiscal obligations associated with a brick-and-mortar office. Opus VO extends to you the luxury of basing your business in an enviable San Diego location, without the high costs tied to traditional office leases. Utilize our advanced conference rooms for crucial business meeting and engaging with clients, all the while upping your brand image with a prestigious San Diego address.  Opting for a virtual office in San Diego via Opus VO furnishes you with the unique asset of a live receptionist, committed to offering specialized, first-rate customer service. Our staff ensures that every client interaction seamlessly aligns with your customized business strategy. Hand over routine administrative responsibilities like mail management and sophisticated call-handling to us, giving you the liberty to focus solely on advancing your business. ",
+            "map": {
+                "lat": 32.7568972,
+                "lng": -117.1300141,
+                "zoom": 14,
+                "city": "San Diego"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in San Diego, California even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of San Diego. You can also adapt to better meet your clients’ unique needs within California. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our San Diego virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why San Diego?",
+                "body": "San Diego is far more than a tourist hotspot; it’s an expanding commercial nexus offering avenues in sectors like biotech, tourism, and defense. Conveniently situated near high-profile industry names, our San Diego offices give you unrestricted access to essential industry professionals and exciting networking activities.  By choosing an Opus Virtual Office in San Diego, you’re not merely minimizing your operational costs; you’re attaining a genuine competitive advantage. Elevate your business to unparalleled success by leveraging our top-tier virtual office services today.  Choose from two of our Opus VO San Diego locations @ 4379 30th Street, San Diego, CA 92104, or 5755 Oberlin Drive, San Diego, CA 92121 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in San Diego - 4379 30th Street | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our California, San Diego virtual office located at 4379 30th Street. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/california/san-diego/location-1539/",
+            "og": {
+                "title": "Virtual Office in San Diego - 4379 30th Street | $99/Month",
+                "description": "Get the ultimate office solution for your business with our California, San Diego virtual office located at 4379 30th Street. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/california/san-diego/location-1539/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/1539-01.bldg_.jpg"
+            }
+        }
+    }
+}

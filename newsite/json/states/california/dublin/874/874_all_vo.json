@@ -1,0 +1,93 @@
+{
+    "success": true,
+    "location_id": 874,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Dublin",
+            "state": "CA",
+            "price": null,
+            "address": {
+                "line1": "11501 Dublin Blvd",
+                "suite": null,
+                "city": "Dublin",
+                "state": "CA",
+                "zip": "94568",
+                "phone": "(925) 396-3618"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/874-Exterior.png",
+                    "/wp-content-mgr/wp-content/uploads/874-Conference.png",
+                    "/wp-content-mgr/wp-content/uploads/874-Conference2.png",
+                    "/wp-content-mgr/wp-content/uploads/874-Reception.png",
+                    "/wp-content-mgr/wp-content/uploads/874-Workspace.png"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=874",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Dublin Virtual Office",
+            "body": "Reap the rewards of a distinguished business address in Dublin without bearing the financial burden of a brick-and-mortar office. Opus VO grants you the unique opportunity to station your business in a premium Dublin location, all at a price significantly below that of a traditional office lease. Utilize our state-of-the-art conference rooms for vital business consultations and client engagements, while enhancing your brand’s reputation with a sought-after Dublin address.  Selecting a virtual office in Dublin through Opus VO affords you the added benefit of a live receptionist. Committed to delivering personalized, superior customer service, our team works diligently to ensure each client interaction is perfectly aligned with your specific business objectives. Leave the mundane administrative duties like complete mail handling and complex call-forwarding to us, liberating you to focus on the growth and prosperity of your business. ",
+            "map": {
+                "lat": 37.699589,
+                "lng": -121.9438212,
+                "zoom": 14,
+                "city": "Dublin"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Dublin, California even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Dublin. You can also adapt to better meet your clients’ unique needs within California. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Dublin virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Choose a Dublin Virtual Office?",
+                "body": "Dublin is more than just a pleasant Bay Area suburb; it’s an emergent commercial nexus teeming with opportunities in industries like technology, healthcare, and finance. Conveniently located near key business corridors, our Dublin office provides you with easy access to essential industry contacts and enriching networking opportunities.  By opting for an Opus Virtual Office in Dublin, you’re doing more than merely reducing your operational expenses; you’re securing a significant competitive advantage. Catapult your business to new levels of achievement by leveraging our top-notch virtual office services today.  Opus VO, Dublin @ 11501 Dublin Blvd, Dublin, CA 94568 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Dublin - 11501 Dublin Blvd | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our California, Dublin virtual office located at 11501 Dublin Blvd. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/california/dublin/location-874/",
+            "og": {
+                "title": "Virtual Office in Dublin - 11501 Dublin Blvd | $99/Month",
+                "description": "Get the ultimate office solution for your business with our California, Dublin virtual office located at 11501 Dublin Blvd. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/california/dublin/location-874/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/874-Exterior.png"
+            }
+        }
+    }
+}

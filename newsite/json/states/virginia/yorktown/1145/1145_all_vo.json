@@ -1,0 +1,89 @@
+{
+    "success": true,
+    "location_id": 1145,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Yorktown",
+            "state": "VA",
+            "price": null,
+            "address": {
+                "line1": "7307 George Washington Memorial Hwy",
+                "suite": null,
+                "city": "Yorktown",
+                "state": "VA",
+                "zip": "23692",
+                "phone": "(757) 296-9474"
+            },
+            "images": {
+                "hero": [
+                    "/assets/mail-center.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1145",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 0,
+            "nearbyPremium": 1,
+            "nearbyPremiumUrl": "/virtual-office/virginia/portsmouth/location-1607/",
+            "nearbyPremiumText": "to view the nearby PREMIUM Locations for the same $99/mo",
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Yorktown Virtual Office",
+            "body": "Ever dreamt of having an elite Yorktown address to boost your startup or business, but hesitant about the overhead of a physical workspace? Look no further than Opus VO. Place your brand in one of our esteemed Yorktown locations, reaping all the advantages without a significant financial commitment. For those essential face-to-face meetings or deal-closing client interactions, our modern, comfy conference rooms have you covered.  But wait, there’s more. Choosing a virtual office through Opus VO in Yorktown also includes the invaluable service of a live, dedicated receptionist. Let us manage your first impressions; our team is trained to interact with your clients in a manner that reflects your unique business ethos. Need someone to take care of email management and smart call routing? We’ve got it, freeing you to zero in on growing your brand. ",
+            "map": {
+                "lat": 37.180142,
+                "lng": -76.484902,
+                "zoom": 14,
+                "city": "Yorktown"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Yorktown, Virginia even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Yorktown. You can also adapt to better meet your clients’ unique needs within Virginia. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Yorktown virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Yorktown with Opus VO?",
+                "body": "Yorktown is more than a historical gem—it’s an emerging hub for forward-thinking entrepreneurs and businesses alike. Activate your Opus VO virtual office here, and you’ll tap into an exciting network of professionals and a myriad of growth opportunities that could very well catalyze your next business breakthrough.  With Opus VO in Yorktown, you’re not merely cutting costs; you’re securing a ladder to your future successes. Your next big venture might just be a virtual office away.  Opus VO Yorktown @ 7307 George Washington Memorial Hwy, Yorktown, VA 23692 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Yorktown - 7307 George Washington Memorial Hwy | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Virginia, Yorktown virtual office located at 7307 George Washington Memorial Hwy. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/virginia/yorktown/location-1145/",
+            "og": {
+                "title": "Virtual Office in Yorktown - 7307 George Washington Memorial Hwy | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Virginia, Yorktown virtual office located at 7307 George Washington Memorial Hwy. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/virginia/yorktown/location-1145/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+            }
+        }
+    }
+}

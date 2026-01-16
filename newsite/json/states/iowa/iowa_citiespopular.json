@@ -1,0 +1,23 @@
+{
+    "success": true,
+    "count": 4,
+    "state": "iowa",
+    "data": [
+        {
+            "id": "460",
+            "name": "Cedar Rapids"
+        },
+        {
+            "id": "447",
+            "name": "Des Moines"
+        },
+        {
+            "id": "412",
+            "name": "Ottumwa"
+        },
+        {
+            "id": "770",
+            "name": "Windsor Heights"
+        }
+    ]
+}

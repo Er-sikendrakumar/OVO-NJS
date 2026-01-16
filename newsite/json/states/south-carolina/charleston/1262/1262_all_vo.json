@@ -1,0 +1,93 @@
+{
+    "success": true,
+    "location_id": 1262,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Charleston",
+            "state": "SC",
+            "price": null,
+            "address": {
+                "line1": "6650 Rivers Avenue",
+                "suite": null,
+                "city": "Charleston",
+                "state": "SC",
+                "zip": "29406",
+                "phone": "(843) 405-5003"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/1262-001-Building.png",
+                    "/wp-content-mgr/wp-content/uploads/1262-2Reception-550x550.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1262-3SharedSpace-800x533.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1262-4MeetingRoom-746x550.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1262-5MeetingRoom2-800x533.jpg"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1262",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Charleston Virtual Office",
+            "body": "Unlock the benefits of securing a prestigious business address in Charleston, South Carolina, without the need for a physical office space. At Opus VO, we provide you with the opportunity to position your business in the heart of Charleston’s dynamic business community while optimizing operational efficiency. Our modern conference rooms are readily available for important meetings and collaborative endeavors.  By selecting Opus VO’s virtual office in Charleston, you not only secure a prestigious address but also gain access to a professional live receptionist who seamlessly integrates with your team. They ensure that every client interaction embodies your unique brand identity, allowing us to manage routine administrative tasks while you focus on your core business objectives. ",
+            "map": {
+                "lat": 32.9188583,
+                "lng": -80.0279518,
+                "zoom": 14,
+                "city": "Charleston"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Charleston, South Carolina even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Charleston. You can also adapt to better meet your clients’ unique needs within South Carolina. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Charleston virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Charleston? Why Opus VO?",
+                "body": "Charleston is more than just a charming city; it’s a thriving business hub with opportunities spanning various sectors, including tourism, technology, and healthcare. Having a Charleston address not only enhances your business reputation but also grants access to essential networking events and industry connections.  Opting for Opus VO for your virtual office in Charleston is not just a practical choice; it’s a strategic advantage. Are you prepared to elevate your business presence? Explore our exceptional virtual office solutions today.  Opus VO, Charleston @ 6650 Rivers Avenue, Charleston, SC 29406 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Charleston - 6650 Rivers Avenue | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our South Carolina, Charleston virtual office located at 6650 Rivers Avenue. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/south-carolina/charleston/location-1262/",
+            "og": {
+                "title": "Virtual Office in Charleston - 6650 Rivers Avenue | $99/Month",
+                "description": "Get the ultimate office solution for your business with our South Carolina, Charleston virtual office located at 6650 Rivers Avenue. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/south-carolina/charleston/location-1262/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/1262-001-Building.png"
+            }
+        }
+    }
+}

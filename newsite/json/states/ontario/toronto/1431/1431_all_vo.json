@@ -1,0 +1,93 @@
+{
+    "success": true,
+    "location_id": 1431,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Toronto",
+            "state": "ON",
+            "price": null,
+            "address": {
+                "line1": "18 King Street East",
+                "suite": null,
+                "city": "Toronto",
+                "state": "ON",
+                "zip": "M5C 1C4",
+                "phone": "(647) 724-3804"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/1431-01-Building-e1709837845183.png",
+                    "/wp-content-mgr/wp-content/uploads/1431-conference2.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1431-conference.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1431-reception-2.png",
+                    "/wp-content-mgr/wp-content/uploads/1431-kitchen.png"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1431",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Toronto Virtual Office",
+            "body": "Considering a Toronto location to either kick-start your new business or amplify your existing operations, but anxious about the financial commitment of a conventional office? Your solution is Opus VO. Secure a spot for your business in one of our premium Toronto locales, enjoying the allure of an esteemed address without the fiscal burden. When you need the perfect backdrop for important meetings or engaging client discussions, our cutting-edge conference rooms are at your beck and call.  But there’s more to it than just a high-profile address. Selecting a virtual office at Opus VO in Toronto also provides you with the support of a live receptionist. Count on our skilled team to navigate your customer interactions with finesse, tackling the everyday admin work like electronic message management and streamlined call redirection. This leaves you free to hone in on advancing your enterprise. ",
+            "map": {
+                "lat": 43.6496485,
+                "lng": -79.3770895,
+                "zoom": 14,
+                "city": "Toronto"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Toronto, Ontario even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Toronto. You can also adapt to better meet your clients’ unique needs within Ontario. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Toronto virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Toronto? Why Opus VO?",
+                "body": "Toronto is not just a cosmopolitan city; it’s a vital business epicenter loaded with countless opportunities in diverse sectors. By establishing your virtual office with Opus VO in Toronto, you’re doing more than reducing operating costs; you’re plugging into an energized professional community rich with potential for growth and partnerships.  Choosing Opus VO in Toronto isn’t merely about cost efficiency; it’s a tactical decision that situates your business for future accomplishments. Your next big move could very well be a single virtual office arrangement away.  Opus VO Location in Toronto @ 18 King Street East, Toronto, ON M5C 1C4 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Toronto - 18 King Street East | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Ontario, Toronto virtual office located at 18 King Street East. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/ontario/toronto/location-1431/",
+            "og": {
+                "title": "Virtual Office in Toronto - 18 King Street East | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Ontario, Toronto virtual office located at 18 King Street East. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/ontario/toronto/location-1431/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/1431-01-Building-e1709837845183.png"
+            }
+        }
+    }
+}

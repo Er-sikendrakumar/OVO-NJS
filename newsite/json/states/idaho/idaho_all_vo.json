@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "state": "idaho",
+    "cities_virtual": [
+        {
+            "id": "530",
+            "name": "Boise",
+            "popular": "1"
+        },
+        {
+            "id": "905",
+            "name": "Coeur D Alene",
+            "popular": "0"
+        },
+        {
+            "id": "383",
+            "name": "Dalton Gardens",
+            "popular": "1"
+        }
+    ],
+    "cities_business": [
+        {
+            "id": "905",
+            "name": "Coeur D Alene",
+            "popular": "0"
+        }
+    ],
+    "cities_popular": [
+        {
+            "id": "530",
+            "name": "Boise"
+        },
+        {
+            "id": "383",
+            "name": "Dalton Gardens"
+        }
+    ],
+    "locations_virtual_office": [
+        {
+            "id": 1537,
+            "location_name": "1553 N Milwaukee Street, Boise, ID 83704",
+            "city": "Boise",
+            "state": "Idaho",
+            "state_abbr": "ID",
+            "address": "1553 N Milwaukee Street, Boise, ID 83704",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 43.618919299,
+            "point_y": -116.2851479,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/idaho/boise/location-1537/",
+            "phone": "2085153866"
+        },
+        {
+            "id": 1739,
+            "location_name": "311 E Coeur D Alene Ave, Coeur D Alene, ID 83815",
+            "city": "Coeur D Alene",
+            "state": "Idaho",
+            "state_abbr": "ID",
+            "address": "311 E Coeur D Alene Ave, Coeur D Alene, ID 83815",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 47.675363399,
+            "point_y": -116.782081,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1739-Exterior.jpg",
+                "alttext": "Exterior of building that houses Opus Virtual Offices located in Coeur D Alene, Idaho"
+            },
+            "url": "/virtual-office/idaho/coeur-d-alene/location-1739/",
+            "phone": "2085153859"
+        },
+        {
+            "id": 628,
+            "location_name": "6848 N Government Way, Dalton Gardens, ID 83815",
+            "city": "Dalton Gardens",
+            "state": "Idaho",
+            "state_abbr": "ID",
+            "address": "6848 N Government Way, Dalton Gardens, ID 83815",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 47.734063,
+            "point_y": -116.786556,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/idaho/dalton-gardens/location-628/",
+            "phone": "2085153867"
+        }
+    ],
+    "meta": {
+        "cities_virtual_count": 3,
+        "cities_business_count": 1,
+        "cities_popular_count": 2,
+        "locations_virtual_office_count": 3
+    },
+    "seo": {
+        "title": "Virtual Office in Idaho | Locations Statewide | Opus VO",
+        "meta_description": "Get a prestigious Idaho business address and professional phone answering services with Opus Virtual Offices, the perfect office solution for your business needs.",
+        "canonical": "https://www.opusvirtualoffices.com/virtual-office/idaho/",
+        "og": {
+            "title": "Virtual Office in Idaho | Locations Statewide | Opus VO",
+            "description": "Get a prestigious Idaho business address and professional phone answering services with Opus Virtual Offices, the perfect office solution for your business needs.",
+            "url": "https://www.opusvirtualoffices.com/virtual-office/idaho/",
+            "type": "website",
+            "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+        }
+    }
+}

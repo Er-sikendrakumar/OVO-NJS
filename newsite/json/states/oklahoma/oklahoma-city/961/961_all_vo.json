@@ -1,0 +1,92 @@
+{
+    "success": true,
+    "location_id": 961,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Oklahoma City",
+            "state": "OK",
+            "price": null,
+            "address": {
+                "line1": "10601 S. Western Avenue",
+                "suite": null,
+                "city": "Oklahoma City",
+                "state": "OK",
+                "zip": "73170",
+                "phone": "(405) 996-1683"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/961-Exterior.jpeg",
+                    "/wp-content-mgr/wp-content/uploads/961-Conference-Room-.jpg",
+                    "/wp-content-mgr/wp-content/uploads/961-Reception-1.jpg",
+                    "/wp-content-mgr/wp-content/uploads/961-Lobby-1.jpg"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=961",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": "This location does not offer mail forwarding"
+        },
+        "overview": {
+            "heading": "Oklahoma City Virtual office",
+            "body": "Unlock the benefits of an esteemed business address in Oklahoma City, without the complications and financial responsibilities associated with a traditional office space. Opus VO offers you the luxury of situating your business in a prime Oklahoma City location, all at a fraction of the cost of a physical office rental. Manage your professional communications, welcome clients, and host meetings in our state-of-the-art, fully-equipped conference rooms. Boost your brand’s profile with a prestigious address in one of Oklahoma City’s central business districts.  Choosing a virtual office in Oklahoma City via Opus VO gives you the unique advantage of a live receptionist, focused on delivering exceptional, personalized client service. Each client interaction is carefully adapted to align with your specific business objectives and is supported by our robust array of administrative offerings. These services range from digital mail handling to state-of-the-art call forwarding features, among others. Our experienced administrative staff will oversee your day-to-day activities, enabling you to home in on strategic business development and growth. ",
+            "map": {
+                "lat": 35.3622422,
+                "lng": -97.5318321,
+                "zoom": 14,
+                "city": "Oklahoma City"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Oklahoma City, Oklahoma even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Oklahoma City. You can also adapt to better meet your clients’ unique needs within Oklahoma. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Oklahoma City virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why opt for an Oklahoma City Virtual Office?",
+                "body": "Oklahoma City is not merely the capital of Oklahoma; it’s an emerging economic powerhouse with diverse industries such as energy, healthcare, and technology. Establish your business in this rapidly growing market to leverage local opportunities that can significantly impact your bottom line. Conveniently located near essential business hubs and networking events, our Oklahoma City location provides you with seamless access to vital industry connections and professional gatherings.  By selecting an Opus Virtual Office in Oklahoma City, you’re doing more than just cutting operational costs; you’re also endowing your business with a competitive edge. Elevate your enterprise by taking advantage of our top-tier virtual office solutions today.  Choose from two Opus VO Oklahoma City locations @ 629 W Main Street Oklahoma City, OK 73102, or @ 10601 S. Western Avenue, Oklahoma City, OK 73170   ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Oklahoma City - 10601 S. Western Avenue | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Oklahoma, Oklahoma City virtual office located at 10601 S. Western Avenue. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/oklahoma/oklahoma-city/location-961/",
+            "og": {
+                "title": "Virtual Office in Oklahoma City - 10601 S. Western Avenue | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Oklahoma, Oklahoma City virtual office located at 10601 S. Western Avenue. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/oklahoma/oklahoma-city/location-961/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/961-Exterior.jpeg"
+            }
+        }
+    }
+}

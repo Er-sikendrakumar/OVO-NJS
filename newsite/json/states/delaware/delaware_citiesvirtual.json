@@ -1,0 +1,17 @@
+{
+    "success": true,
+    "count": 2,
+    "state": "delaware",
+    "data": [
+        {
+            "id": "101",
+            "name": "Rehoboth Beach",
+            "popular": "0"
+        },
+        {
+            "id": "100",
+            "name": "Wilmington",
+            "popular": "1"
+        }
+    ]
+}

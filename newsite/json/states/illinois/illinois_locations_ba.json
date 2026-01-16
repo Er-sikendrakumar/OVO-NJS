@@ -1,0 +1,27 @@
+{
+    "success": true,
+    "count": 1,
+    "state": "illinois",
+    "mode": "business-address",
+    "data": [
+        {
+            "id": 1430,
+            "location_name": "122 South Michigan Avenue, Suite 1390, Chicago, IL 60603",
+            "city": "Chicago",
+            "state": "Illinois",
+            "state_abbr": "IL",
+            "address": "122 South Michigan Avenue, Suite 1390, Chicago, IL 60603",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 1,
+            "point_x": 41.879742,
+            "point_y": -87.624623,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1430-01.bldg_-2.jpg",
+                "alttext": null
+            },
+            "url": "/business-address/illinois/chicago/location-1430/",
+            "phone": "3128478160"
+        }
+    ]
+}

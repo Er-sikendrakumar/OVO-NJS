@@ -1,0 +1,92 @@
+{
+    "success": true,
+    "location_id": 1494,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "El Paso",
+            "state": "TX",
+            "price": null,
+            "address": {
+                "line1": "2300 George Dieter Drive",
+                "suite": null,
+                "city": "El Paso",
+                "state": "TX",
+                "zip": "79936",
+                "phone": "(915) 800-2149"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/1494-exterior.png",
+                    "/wp-content-mgr/wp-content/uploads/1494-conference2.png",
+                    "/wp-content-mgr/wp-content/uploads/1494-conference.png",
+                    "/wp-content-mgr/wp-content/uploads/1494-reception.png"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1494",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "El Paso Virtual Office",
+            "body": "Want an El Paso address for your startup or current business but can’t afford a full office? Opus VO is the answer. You get to list one of our high-quality El Paso spots as your business address without the heavy cost. Need to have a meeting with clients or your team? You can use our up-to-date conference rooms.  But there’s more. Choose a virtual office with Opus VO in El Paso and you also get a real person to handle your incoming calls. Our friendly team is trained to give your clients a positive experience when they call your business. We also take care of regular office tasks like sorting your mail and directing your calls, letting you focus on what you do best: growing your business. ",
+            "map": {
+                "lat": 31.7760375,
+                "lng": -106.303313,
+                "zoom": 14,
+                "city": "El Paso"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in El Paso, Texas even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of El Paso. You can also adapt to better meet your clients’ unique needs within Texas. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our El Paso virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Choose El Paso and Opus VO?",
+                "body": "El Paso is more than a great city to live in; it’s a fantastic place to do business. By choosing Opus VO in El Paso, you’re not only saving money but also joining an active business community. It’s a smart move for any business looking to level up.  Don’t wait any longer; your next big business move could be a simple decision away.  Choose from two Opus VO locations in El Paso @ 2300 George Dieter Drive, El Paso, TX 79936, or 7362 Remcon Circle, El Paso, TX 79912 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in El Paso - 2300 George Dieter Drive | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Texas, El Paso virtual office located at 2300 George Dieter Drive. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/texas/el-paso/location-1494/",
+            "og": {
+                "title": "Virtual Office in El Paso - 2300 George Dieter Drive | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Texas, El Paso virtual office located at 2300 George Dieter Drive. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/texas/el-paso/location-1494/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/1494-exterior.png"
+            }
+        }
+    }
+}

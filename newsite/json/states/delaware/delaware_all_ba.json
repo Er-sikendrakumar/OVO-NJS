@@ -1,0 +1,68 @@
+{
+    "success": true,
+    "state": "delaware",
+    "cities_virtual": [
+        {
+            "id": "101",
+            "name": "Rehoboth Beach",
+            "popular": "0"
+        },
+        {
+            "id": "100",
+            "name": "Wilmington",
+            "popular": "1"
+        }
+    ],
+    "cities_business": [
+        {
+            "id": "100",
+            "name": "Wilmington",
+            "popular": "1"
+        }
+    ],
+    "cities_popular": [
+        {
+            "id": "100",
+            "name": "Wilmington"
+        }
+    ],
+    "locations_business_address": [
+        {
+            "id": 942,
+            "location_name": "1201 North Market Street, Suite 111, Wilmington, DE 19801",
+            "city": "Wilmington",
+            "state": "Delaware",
+            "state_abbr": "DE",
+            "address": "1201 North Market Street, Suite 111, Wilmington, DE 19801",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 1,
+            "point_x": 39.7479883,
+            "point_y": -75.5469842,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/Opus-Virtual-Office-Wilmington-1201-North-Market-Street-Exterior.webp",
+                "alttext": "Exterior view of the modern office building at 1201 North Market Street, Wilmington, Delaware, home to Opus Virtual Office."
+            },
+            "url": "/business-address/delaware/wilmington/location-942/",
+            "phone": "3022980000"
+        }
+    ],
+    "meta": {
+        "cities_virtual_count": 2,
+        "cities_business_count": 1,
+        "cities_popular_count": 1,
+        "locations_business_address_count": 1
+    },
+    "seo": {
+        "title": "Virtual Business Address in Delaware | Opus Virtual Offices",
+        "meta_description": "Get a prestigious business address in Delaware with Opus. Multiple premium locations statewide mail handling privacy protection all for just $59/month.",
+        "canonical": "https://www.opusvirtualoffices.com/business-address/delaware/",
+        "og": {
+            "title": "Virtual Business Address in Delaware | Opus Virtual Offices",
+            "description": "Get a prestigious business address in Delaware with Opus. Multiple premium locations statewide mail handling privacy protection all for just $59/month.",
+            "url": "https://www.opusvirtualoffices.com/business-address/delaware/",
+            "type": "website",
+            "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+        }
+    }
+}

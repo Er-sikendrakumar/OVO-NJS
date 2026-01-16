@@ -1,0 +1,95 @@
+{
+    "success": true,
+    "location_id": 1533,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Plano",
+            "state": "TX",
+            "price": null,
+            "address": {
+                "line1": "5465 Legacy Drive",
+                "suite": null,
+                "city": "Plano",
+                "state": "TX",
+                "zip": "75024",
+                "phone": "(972) 512-0065"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/1533-exterior.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1533-conference.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1533-conference2.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1533-conference3.png",
+                    "/wp-content-mgr/wp-content/uploads/1533-reception.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1533-lobby.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1533-kitchen.jpg"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1533",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 1,
+            "nearbyPremiumUrl": "/virtual-office/texas/dallas/location-1255/",
+            "nearbyPremiumText": "to view the most POPULAR locations nearby for the same $99/mo",
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Plano Virtual Office",
+            "body": "In search of a prestigious Plano address to launch your startup or enhance your existing business, without the financial burden of a physical office? Opus VO has the perfect solution. Establish your business in one of our prime Plano locations and enjoy the prestige of a respected address without the financial strain. When you require a professional environment for important meetings or client interactions, our state-of-the-art conference rooms are at your service.  But the advantages go beyond just the address. With a virtual office at Opus VO in Plano, you also have access to a live receptionist. Our skilled team is here to manage your client communications and handle tasks such as digital mail organization and efficient call routing, freeing up your time to focus on growing your business. ",
+            "map": {
+                "lat": 33.0787046,
+                "lng": -96.8088781,
+                "zoom": 14,
+                "city": "Plano"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Plano, Texas even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Plano. You can also adapt to better meet your clients’ unique needs within Texas. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Plano virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Plano? Why Opus VO?",
+                "body": "Plano isn’t just a vibrant city; it’s a thriving business hub with diverse opportunities across various industries. By choosing Opus VO for your virtual office in Plano, you become part of a vibrant professional community, offering ample potential for networking and business development.  Opting for Opus VO in Plano isn’t just about cost savings; it’s a strategic move that positions your business for greater success. Your next significant achievement could be just one virtual office decision away.  Choose from two of our Opus VO locations in Plano, Texas @ 5465 Legacy Drive, Plano, TX 75024, or 3000 Custer Road, Plano, TX 75075 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Plano - 5465 Legacy Drive | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Texas, Plano virtual office located at 5465 Legacy Drive. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/texas/plano/location-1533/",
+            "og": {
+                "title": "Virtual Office in Plano - 5465 Legacy Drive | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Texas, Plano virtual office located at 5465 Legacy Drive. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/texas/plano/location-1533/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/1533-exterior.jpg"
+            }
+        }
+    }
+}

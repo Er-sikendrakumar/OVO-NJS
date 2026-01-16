@@ -1,0 +1,15 @@
+{
+    "success": true,
+    "count": 2,
+    "state": "wyoming",
+    "data": [
+        {
+            "id": "802",
+            "name": "Casper"
+        },
+        {
+            "id": "459",
+            "name": "Cheyenne"
+        }
+    ]
+}

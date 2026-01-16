@@ -1,0 +1,89 @@
+{
+    "success": true,
+    "location_id": 841,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Yuba City",
+            "state": "CA",
+            "price": null,
+            "address": {
+                "line1": "1000 Lincoln Road",
+                "suite": null,
+                "city": "Yuba City",
+                "state": "CA",
+                "zip": "95991",
+                "phone": "(530) 237-0508"
+            },
+            "images": {
+                "hero": [
+                    "/assets/mail-center.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=841",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 0,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Yuba City Virtual Office",
+            "body": "Score a killer business address in Yuba City without shelling out for an actual brick-and-mortar spot. With Opus VO, you can place your biz in the thick of Yuba City’s action, all without draining your budget. When it’s go-time for big-league meetings or client hangouts, our modern conference rooms have got your back. Plus, flaunting a Yuba City address? That’s a brand boost right there.  When you go virtual in Yuba City through Opus VO, you also snag a live receptionist as part of the deal. We’re all about making each client interaction a seamless extension of your unique business style. Toss the mundane admin chores our way and free yourself up to chase those entrepreneurial dreams.",
+            "map": {
+                "lat": 39.112674,
+                "lng": -121.627537,
+                "zoom": 14,
+                "city": "Yuba City"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Yuba City, California even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Yuba City. You can also adapt to better meet your clients’ unique needs within California. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Yuba City virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Yuba City?",
+                "body": "Think Yuba City is just another small-town vibe? Think bigger. It’s on the rise as a business-friendly community with diverse sectors like agriculture, healthcare, and tech. Our spot in Yuba City connects you to important industry peeps and networking events that matter.  By opting for Opus VO in Yuba City, you’re not just skimping on costs—you’re nabbing a competitive edge. Ready to level up? Tap into our top-tier virtual office services, ready and waiting for you.  Opus VO Yuba City @ 1000 Lincoln Road, Yuba City, CA 9599 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Yuba City - 1000 Lincoln Road | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our California, Yuba City virtual office located at 1000 Lincoln Road. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/california/yuba-city/location-841/",
+            "og": {
+                "title": "Virtual Office in Yuba City - 1000 Lincoln Road | $99/Month",
+                "description": "Get the ultimate office solution for your business with our California, Yuba City virtual office located at 1000 Lincoln Road. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/california/yuba-city/location-841/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+            }
+        }
+    }
+}

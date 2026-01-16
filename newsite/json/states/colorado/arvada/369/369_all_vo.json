@@ -1,0 +1,89 @@
+{
+    "success": true,
+    "location_id": 369,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Arvada",
+            "state": "CO",
+            "price": null,
+            "address": {
+                "line1": "8781 Sheridan Blvd.",
+                "suite": null,
+                "city": "Arvada",
+                "state": "CO",
+                "zip": "80003",
+                "phone": "(303) 968-1735"
+            },
+            "images": {
+                "hero": [
+                    "/assets/mail-center.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=369",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 0,
+            "nearbyPremium": 1,
+            "nearbyPremiumUrl": "/virtual-office/colorado/broomfield/location-1508/",
+            "nearbyPremiumText": "to view the nearby PREMIUM Locations for the same $99/mo",
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Arvada Virtual Office",
+            "body": "Get your hands on a prime Arvada business address without the high cost of a physical office. With Opus VO, you can situate your business right in the heart of Arvada’s bustling scene, all while keeping those finances in check. Need a spot for those big-deal meetings or client meet-ups? Our swanky conference rooms are at your service. And let’s be real—a distinguished Arvada address adds instant cred to your brand.  Opting for a virtual setup in Arvada via Opus VO also hooks you up with a live receptionist. We’re committed to ensuring every client interaction flows smoothly and reflects your unique business flair. Handoff those tedious admin tasks to us so you can focus on scaling those business heights. ",
+            "map": {
+                "lat": 39.853629,
+                "lng": -105.053128,
+                "zoom": 14,
+                "city": "Arvada"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Arvada, Colorado even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Arvada. You can also adapt to better meet your clients’ unique needs within Colorado. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Arvada virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Arvada?",
+                "body": "Think Arvada is just a sleepy suburb of Denver? Time to rethink. It’s quickly becoming a magnet for businesses, offering opportunities across multiple sectors like retail, technology, and services. Our location in Arvada gets you plugged into essential industry contacts and must-attend networking events.  Choosing Opus VO in Arvada isn’t just about cost-saving—it’s about gaining a legit advantage over the competition. Ready to make your move? Our top-notch virtual office services are just a click away.  Opus VO Arvada @ 8781 Sheridan Blvd., Arvada, CO 80003 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Arvada - 8781 Sheridan Blvd. | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Colorado, Arvada virtual office located at 8781 Sheridan Blvd.. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/colorado/arvada/location-369/",
+            "og": {
+                "title": "Virtual Office in Arvada - 8781 Sheridan Blvd. | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Colorado, Arvada virtual office located at 8781 Sheridan Blvd.. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/colorado/arvada/location-369/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+            }
+        }
+    }
+}

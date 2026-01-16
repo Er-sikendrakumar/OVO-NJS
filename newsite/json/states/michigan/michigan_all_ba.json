@@ -1,0 +1,159 @@
+{
+    "success": true,
+    "state": "michigan",
+    "cities_virtual": [
+        {
+            "id": "898",
+            "name": "Ada",
+            "popular": "0"
+        },
+        {
+            "id": "137",
+            "name": "Ann Arbor",
+            "popular": "1"
+        },
+        {
+            "id": "760",
+            "name": "Brighton",
+            "popular": "0"
+        },
+        {
+            "id": "564",
+            "name": "Clinton Township",
+            "popular": "0"
+        },
+        {
+            "id": "191",
+            "name": "Detroit",
+            "popular": "1"
+        },
+        {
+            "id": "466",
+            "name": "Fenton",
+            "popular": "0"
+        },
+        {
+            "id": "277",
+            "name": "Grand Rapids",
+            "popular": "1"
+        },
+        {
+            "id": "369",
+            "name": "Grandville",
+            "popular": "0"
+        },
+        {
+            "id": "673",
+            "name": "Hazel Park",
+            "popular": "0"
+        },
+        {
+            "id": "610",
+            "name": "Lansing",
+            "popular": "1"
+        },
+        {
+            "id": "561",
+            "name": "Livonia",
+            "popular": "1"
+        },
+        {
+            "id": "391",
+            "name": "Marine City",
+            "popular": "0"
+        },
+        {
+            "id": "275",
+            "name": "Rochester Hills",
+            "popular": "0"
+        },
+        {
+            "id": "692",
+            "name": "Sterling Heights",
+            "popular": "0"
+        },
+        {
+            "id": "625",
+            "name": "Troy",
+            "popular": "0"
+        },
+        {
+            "id": "131",
+            "name": "West Bloomfield",
+            "popular": "0"
+        },
+        {
+            "id": "756",
+            "name": "Ypsilanti",
+            "popular": "0"
+        }
+    ],
+    "cities_business": [
+        {
+            "id": "191",
+            "name": "Detroit",
+            "popular": "1"
+        }
+    ],
+    "cities_popular": [
+        {
+            "id": "137",
+            "name": "Ann Arbor"
+        },
+        {
+            "id": "191",
+            "name": "Detroit"
+        },
+        {
+            "id": "277",
+            "name": "Grand Rapids"
+        },
+        {
+            "id": "610",
+            "name": "Lansing"
+        },
+        {
+            "id": "561",
+            "name": "Livonia"
+        }
+    ],
+    "locations_business_address": [
+        {
+            "id": 1358,
+            "location_name": "607 Shelby Street, Detroit, MI 48226",
+            "city": "Detroit",
+            "state": "Michigan",
+            "state_abbr": "MI",
+            "address": "607 Shelby Street, Detroit, MI 48226",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 42.329286499,
+            "point_y": -83.04842959,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1358-001-Building.jpg",
+                "alttext": null
+            },
+            "url": "/business-address/michigan/detroit/location-1358/",
+            "phone": "3133050594"
+        }
+    ],
+    "meta": {
+        "cities_virtual_count": 17,
+        "cities_business_count": 1,
+        "cities_popular_count": 5,
+        "locations_business_address_count": 1
+    },
+    "seo": {
+        "title": "Virtual Business Address in Michigan | Opus Virtual Offices",
+        "meta_description": "Get a prestigious business address in Michigan with Opus. Multiple premium locations statewide mail handling privacy protection all for just $59/month.",
+        "canonical": "https://www.opusvirtualoffices.com/business-address/michigan/",
+        "og": {
+            "title": "Virtual Business Address in Michigan | Opus Virtual Offices",
+            "description": "Get a prestigious business address in Michigan with Opus. Multiple premium locations statewide mail handling privacy protection all for just $59/month.",
+            "url": "https://www.opusvirtualoffices.com/business-address/michigan/",
+            "type": "website",
+            "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+        }
+    }
+}

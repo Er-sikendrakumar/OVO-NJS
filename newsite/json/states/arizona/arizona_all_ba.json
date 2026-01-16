@@ -1,0 +1,138 @@
+{
+    "success": true,
+    "state": "arizona",
+    "cities_virtual": [
+        {
+            "id": "491",
+            "name": "Chandler",
+            "popular": "1"
+        },
+        {
+            "id": "921",
+            "name": "Flagstaff",
+            "popular": "0"
+        },
+        {
+            "id": "255",
+            "name": "Gilbert",
+            "popular": "0"
+        },
+        {
+            "id": "538",
+            "name": "Mesa",
+            "popular": "0"
+        },
+        {
+            "id": "214",
+            "name": "Phoenix",
+            "popular": "1"
+        },
+        {
+            "id": "185",
+            "name": "Scottsdale",
+            "popular": "1"
+        },
+        {
+            "id": "217",
+            "name": "Tempe",
+            "popular": "1"
+        },
+        {
+            "id": "649",
+            "name": "Tucson",
+            "popular": "1"
+        }
+    ],
+    "cities_business": [
+        {
+            "id": "214",
+            "name": "Phoenix",
+            "popular": "1"
+        },
+        {
+            "id": "649",
+            "name": "Tucson",
+            "popular": "1"
+        }
+    ],
+    "cities_popular": [
+        {
+            "id": "491",
+            "name": "Chandler"
+        },
+        {
+            "id": "214",
+            "name": "Phoenix"
+        },
+        {
+            "id": "185",
+            "name": "Scottsdale"
+        },
+        {
+            "id": "217",
+            "name": "Tempe"
+        },
+        {
+            "id": "649",
+            "name": "Tucson"
+        }
+    ],
+    "locations_business_address": [
+        {
+            "id": 862,
+            "location_name": "18444 N 25th Ave, Phoenix, AZ 85023",
+            "city": "Phoenix",
+            "state": "Arizona",
+            "state_abbr": "AZ",
+            "address": "18444 N 25th Ave, Phoenix, AZ 85023",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 33.653881,
+            "point_y": -112.111879,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/862-Exterior.png",
+                "alttext": "Exterior of building that houses Opus Virtual Offices located in Pheonix, Arizona"
+            },
+            "url": "/business-address/arizona/phoenix/location-862/",
+            "phone": "6026442508"
+        },
+        {
+            "id": 1722,
+            "location_name": "5151 E Broadway Blvd, Tucson, AZ 85711",
+            "city": "Tucson",
+            "state": "Arizona",
+            "state_abbr": "AZ",
+            "address": "5151 E Broadway Blvd, Tucson, AZ 85711",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 32.2228334,
+            "point_y": -110.8826734,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1722-exterior.png",
+                "alttext": "Exterior of building that houses Opus Virtual Offices locates in Tucson, Arizona"
+            },
+            "url": "/business-address/arizona/tucson/location-1722/",
+            "phone": "5202888528"
+        }
+    ],
+    "meta": {
+        "cities_virtual_count": 8,
+        "cities_business_count": 2,
+        "cities_popular_count": 5,
+        "locations_business_address_count": 2
+    },
+    "seo": {
+        "title": "Virtual Business Address in Arizona | Opus Virtual Offices",
+        "meta_description": "Get a prestigious business address in Arizona with Opus. Multiple premium locations statewide mail handling privacy protection all for just $59/month.",
+        "canonical": "https://www.opusvirtualoffices.com/business-address/arizona/",
+        "og": {
+            "title": "Virtual Business Address in Arizona | Opus Virtual Offices",
+            "description": "Get a prestigious business address in Arizona with Opus. Multiple premium locations statewide mail handling privacy protection all for just $59/month.",
+            "url": "https://www.opusvirtualoffices.com/business-address/arizona/",
+            "type": "website",
+            "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+        }
+    }
+}

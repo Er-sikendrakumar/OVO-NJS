@@ -1,0 +1,89 @@
+{
+    "success": true,
+    "location_id": 217,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Montclair",
+            "state": "VA",
+            "price": null,
+            "address": {
+                "line1": "4393 Kevin Walker Drive",
+                "suite": null,
+                "city": "Montclair",
+                "state": "VA",
+                "zip": "22025",
+                "phone": "(703) 348-5539"
+            },
+            "images": {
+                "hero": [
+                    "/assets/mail-center.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=217",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 0,
+            "nearbyPremium": 1,
+            "nearbyPremiumUrl": "/virtual-office/virginia/north-springfield/location-1378/",
+            "nearbyPremiumText": "to view the nearby PREMIUM Locations for the same $99/mo",
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Montclair Virtual Office",
+            "body": "Unlock the cachet of a premium Montclair business address without the hefty costs of a physical office. With Opus VO, anchor your startup or young enterprise in one of our upscale Montclair locations—all at a mere fraction of traditional office rental expenses. Leverage our high-tech meeting rooms for must-attend investor pitches and vital client relations while amplifying your brand’s digital footprint through a coveted Montclair address.  Selecting a Montclair virtual office with Opus VO isn’t just a choice—it’s a lifestyle statement. And you get the bonus of a dedicated, live receptionist. Passionate about delivering bespoke, elite customer service, our crew ensures each client touchpoint is optimized and perfectly aligned with your millennial-focused business objectives. Offload admin tasks like e-mail triaging and smart call forwarding to us, giving you the bandwidth to zero in on scaling your hustle. ",
+            "map": {
+                "lat": 38.603211,
+                "lng": -77.341301,
+                "zoom": 14,
+                "city": "Montclair"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Montclair, Virginia even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Montclair. You can also adapt to better meet your clients’ unique needs within Virginia. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Montclair virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Go Virtual in Montclair with Opus VOI?",
+                "body": "Montclair isn’t just a hip New Jersey enclave; it’s also an emerging hub for young professionals, freelancers, and entrepreneurs. With vibrant opportunities in verticals like tech, fashion, and the arts, our strategically placed Montclair spaces grant you easy swipe access to must-know industry contacts and Instagram-worthy networking events.  By signing up for an Opus Virtual Office Innovations package in Montclair, you’re not just trimming your startup’s overhead—you’re gearing up for next-level success. Scale your gig to 4K resolution by subscribing to our A-list virtual office amenities today.  Opus VO Montclair @ 4393 Kevin Walker Drive, Montclair, VA 22025 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Montclair - 4393 Kevin Walker Drive | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Virginia, Montclair virtual office located at 4393 Kevin Walker Drive. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/virginia/montclair/location-217/",
+            "og": {
+                "title": "Virtual Office in Montclair - 4393 Kevin Walker Drive | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Virginia, Montclair virtual office located at 4393 Kevin Walker Drive. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/virginia/montclair/location-217/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+            }
+        }
+    }
+}

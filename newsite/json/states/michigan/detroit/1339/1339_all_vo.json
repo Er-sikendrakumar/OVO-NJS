@@ -1,0 +1,93 @@
+{
+    "success": true,
+    "location_id": 1339,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Detroit",
+            "state": "MI",
+            "price": null,
+            "address": {
+                "line1": "2785 E Grand Blvd",
+                "suite": null,
+                "city": "Detroit",
+                "state": "MI",
+                "zip": "48211",
+                "phone": "(248) 973-6124"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/1339_Opus_Virtual_Office_Detroit_MI_Building_1-554x550.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1339_Detroit_MI_Opus_Virtual_Office_Coworking_2-733x550.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1339_Detroit_MI_Opus_Virtual_Office_Meeting_Room_3-733x550.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1339_Detroit_MI_Meeting_Room2_4-454x550.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1339_Detrot_MI_Kitchen_5-413x550.jpg"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1339",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Detroit Virtual Office",
+            "body": "Claim a prestigious Detroit business address without the financial strain of renting an actual office space. With Opus VO, position your venture in the energetic heart of Detroit, all while safeguarding your bottom line. Have a mission-critical meeting or a game-changing client proposal? Our state-of-the-art conference rooms are set to impress.  Choose a virtual presence in Detroit through Opus VO, and a dedicated live receptionist is part of the package. We ensure that each client engagement resonates with your unique brand essence. Assign your routine administrative duties to us, allowing you to concentrate on realizing your business dreams. ",
+            "map": {
+                "lat": 42.3737786,
+                "lng": -83.0626904,
+                "zoom": 14,
+                "city": "Detroit"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Detroit, Michigan even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Detroit. You can also adapt to better meet your clients’ unique needs within Michigan. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Detroit virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Detroit?",
+                "body": "Detroit is not just Motor City; it’s a burgeoning hub for a variety of enterprises, from the arts to technology. A Detroit address opens doors to a thriving community and invaluable networking opportunities.  Opting for Opus VO in Detroit isn’t just about cost-efficiency—it’s a decisive strategic advantage. Are you set to uplift your business profile? Our unmatched virtual office services are ready to serve you.  Choose from two of Opus VO locations in Detroit @ 607 Shelby Street, Detroit, MI 48226 or,   2785 E Grand Blvd, Detroit, MI 48211   ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Detroit - 2785 E Grand Blvd | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Michigan, Detroit virtual office located at 2785 E Grand Blvd. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/michigan/detroit/location-1339/",
+            "og": {
+                "title": "Virtual Office in Detroit - 2785 E Grand Blvd | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Michigan, Detroit virtual office located at 2785 E Grand Blvd. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/michigan/detroit/location-1339/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/1339_Opus_Virtual_Office_Detroit_MI_Building_1.jpg"
+            }
+        }
+    }
+}

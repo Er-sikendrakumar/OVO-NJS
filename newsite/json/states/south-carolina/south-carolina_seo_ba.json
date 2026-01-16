@@ -1,0 +1,22 @@
+{
+    "success": true,
+    "page": "business-address/south-carolina",
+    "page_type": "location_state",
+    "view": "state",
+    "seo": {
+        "title": "Virtual Business Address in South Carolina | Opus Virtual Offices",
+        "meta_description": "Get a prestigious business address in South Carolina with Opus. Multiple premium locations statewide mail handling privacy protection all for just $59/month.",
+        "canonical": "https://www.opusvirtualoffices.com/business-address/south-carolina/",
+        "og": {
+            "title": "Virtual Business Address in South Carolina | Opus Virtual Offices",
+            "description": "Get a prestigious business address in South Carolina with Opus. Multiple premium locations statewide mail handling privacy protection all for just $59/month.",
+            "url": "https://www.opusvirtualoffices.com/business-address/south-carolina/",
+            "type": "website",
+            "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+        }
+    },
+    "data": {
+        "state": "South Carolina",
+        "mode": "business-address"
+    }
+}

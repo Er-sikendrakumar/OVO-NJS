@@ -1,0 +1,89 @@
+{
+    "success": true,
+    "location_id": 675,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Issaquah",
+            "state": "WA",
+            "price": null,
+            "address": {
+                "line1": "1420 NW Gilman Blvd",
+                "suite": null,
+                "city": "Issaquah",
+                "state": "WA",
+                "zip": "98027",
+                "phone": "(425) 943-9516"
+            },
+            "images": {
+                "hero": [
+                    "/assets/mail-center.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=675",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 0,
+            "nearbyPremium": 1,
+            "nearbyPremiumUrl": "/virtual-office/washington/bellevue/location-1703/",
+            "nearbyPremiumText": "to view the nearby PREMIUM Locations for the same $99/mo",
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Issaquah Virtual Office",
+            "body": "Considering a premium Issaquah address to skyrocket your startup or scale your business, but the idea of a physical office is a no-go? Enter Opus VO. Anchor your brand in one of our select Issaquah sites, capturing all the prestige without financial strain. Our contemporary conference rooms are ready and waiting for those vital meetings and memorable client conversations that deserve nothing less than the best setting.  There’s more to the package. By opting for a virtual office at Opus VO in Issaquah, you also get the full support of a dedicated live receptionist. Trust us to be the front line of your client relationships, interacting with your customers in a way that faithfully represents your unique brand voice. What about administrative tasks like email sorting and streamlined call-forwarding? We’ve got that handled, giving you the space to focus on what you do best: growing your venture. ",
+            "map": {
+                "lat": 47.54572,
+                "lng": -122.05878,
+                "zoom": 14,
+                "city": "Issaquah"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Issaquah, Washington even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Issaquah. You can also adapt to better meet your clients’ unique needs within Washington. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Issaquah virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Set Up Shop Virtually in Issaquah with Opus VO?",
+                "body": "Issaquah is more than its natural beauty and rich history; it’s a burgeoning business locale full of potential. By establishing your Opus VO virtual office in Issaquah, you’ll get insider access to a vibrant professional community, as well as events and opportunities that could be pivotal for your growth trajectory.  With Opus VO in Issaquah, you’re not just pinching pennies—you’re setting the stage for your brand’s future success stories. The next leap in your business journey? It might just be a virtual office away.  Opus VO in Issaquah @ 1420 NW Gilman Blvd, Issaquah, WA 98027 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Issaquah - 1420 NW Gilman Blvd | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Washington, Issaquah virtual office located at 1420 NW Gilman Blvd. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/washington/issaquah/location-675/",
+            "og": {
+                "title": "Virtual Office in Issaquah - 1420 NW Gilman Blvd | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Washington, Issaquah virtual office located at 1420 NW Gilman Blvd. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/washington/issaquah/location-675/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+            }
+        }
+    }
+}

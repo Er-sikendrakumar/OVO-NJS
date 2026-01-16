@@ -1,0 +1,12 @@
+{
+    "success": true,
+    "count": 1,
+    "state": "mississippi",
+    "data": [
+        {
+            "id": "695",
+            "name": "Jackson",
+            "popular": "1"
+        }
+    ]
+}

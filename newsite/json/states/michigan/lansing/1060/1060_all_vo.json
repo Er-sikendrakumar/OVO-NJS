@@ -1,0 +1,89 @@
+{
+    "success": true,
+    "location_id": 1060,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Lansing",
+            "state": "MI",
+            "price": null,
+            "address": {
+                "line1": "3105 S Martin Luther King Blvd.",
+                "suite": null,
+                "city": "Lansing",
+                "state": "MI",
+                "zip": "48910",
+                "phone": "(517) 318-1409"
+            },
+            "images": {
+                "hero": [
+                    "/assets/mail-center.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1060",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 0,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Lansing Virtual Office",
+            "body": "Obtain a prestigious Lansing business address without the high costs of maintaining a physical location. With Opus VO, establish your business amidst Lansing’s vibrant commercial hub, while still retaining financial flexibility. Have an urgent meeting or a client you must impress? Our state-of-the-art conference rooms are here to meet your needs.  When you opt for a virtual office in Lansing through Opus VO, you gain the services of a dedicated live receptionist. We ensure that every client interaction seamlessly integrates with your own brand values. Leave the day-to-day administrative tasks to us, allowing you to focus on achieving your business goals. ",
+            "map": {
+                "lat": 42.701378,
+                "lng": -84.566959,
+                "zoom": 14,
+                "city": "Lansing"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Lansing, Michigan even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Lansing. You can also adapt to better meet your clients’ unique needs within Michigan. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Lansing virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Lansing?",
+                "body": "Lansing is not merely a political center—it’s a burgeoning marketplace for a diverse array of industries, from healthcare to technology. Operating in Lansing gives you access to invaluable networking opportunities and events that can help propel your business forward.  Making the choice for Opus VO in Lansing is not just a cost-effective decision—it’s a strategic game-changer. Are you ready to take your business to the next level? Our exceptional virtual office services are designed to help you do just that.  Opus VO, Lansing @ 3105 S Martin Luther King Blvd., Lansing, MI 48910 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Lansing - 3105 S Martin Luther King Blvd. | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Michigan, Lansing virtual office located at 3105 S Martin Luther King Blvd.. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/michigan/lansing/location-1060/",
+            "og": {
+                "title": "Virtual Office in Lansing - 3105 S Martin Luther King Blvd. | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Michigan, Lansing virtual office located at 3105 S Martin Luther King Blvd.. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/michigan/lansing/location-1060/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+            }
+        }
+    }
+}

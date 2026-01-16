@@ -1,0 +1,89 @@
+{
+    "success": true,
+    "location_id": 388,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Huntington Beach",
+            "state": "CA",
+            "price": null,
+            "address": {
+                "line1": "5904-A Warner Ave.",
+                "suite": null,
+                "city": "Huntington Beach",
+                "state": "CA",
+                "zip": "92649",
+                "phone": "(714) 242-3822"
+            },
+            "images": {
+                "hero": [
+                    "/assets/mail-center.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=388",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 0,
+            "nearbyPremium": 1,
+            "nearbyPremiumUrl": "/virtual-office/california/los-angeles/location-1362/",
+            "nearbyPremiumText": "to view nearby PREMIUM Locations that offer Meeting Rooms for the same $99/mo",
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Huntington Beach Virtual Office",
+            "body": "Looking for a prestigious business address in Huntington Beach, without the financial obligations of a physical workspace? Opus VO extends an exclusive opportunity for you to situate your business in Huntington Beach, all while sidestepping the hefty costs associated with a conventional office lease. Use our contemporary conference rooms for pivotal business meetings and client encounters, all while elevating your brand’s reputation with a distinguished address.  With Opus VO you’ll get the specialized service of a live receptionist dedicated to delivering personalized, top-tier customer service. Our team ensures that each client conversation is in perfect accord with your unique business vision. Delegate the routine tasks of digital mail coordination and advanced call routing to us, affording you the freedom to concentrate on advancing your business. ",
+            "map": {
+                "lat": 33.7143519,
+                "lng": -118.0256271,
+                "zoom": 14,
+                "city": "Huntington Beach"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Huntington Beach, California even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Huntington Beach. You can also adapt to better meet your clients’ unique needs within California. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Huntington Beach virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Choose a Huntington Beach Virtual Office?",
+                "body": "Huntington Beach is far more than a renowned surf city; it is a flourishing commercial center with rich prospects in sectors like tourism, technology, and healthcare. Advantageously located near essential business corridors, our Huntington Beach facility offers you effortless access to invaluable industry connections and energizing networking events.  By choosing Opus Virtual Offices in Huntington Beach, you’re achieving more than simply lowering your operational overhead; you’re gaining an invaluable competitive advantage. Catapult your business to new pinnacles of success by leveraging our exceptional virtual office services today.  Opus VO, Huntington Beach @ 5904-A Warner Ave., Huntington Beach, CA 92649 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Huntington Beach - 5904-A Warner Ave. | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our California, Huntington Beach virtual office located at 5904-A Warner Ave.. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/california/huntington-beach/location-388/",
+            "og": {
+                "title": "Virtual Office in Huntington Beach - 5904-A Warner Ave. | $99/Month",
+                "description": "Get the ultimate office solution for your business with our California, Huntington Beach virtual office located at 5904-A Warner Ave.. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/california/huntington-beach/location-388/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+            }
+        }
+    }
+}

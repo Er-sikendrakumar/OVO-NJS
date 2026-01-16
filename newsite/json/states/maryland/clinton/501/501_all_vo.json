@@ -1,0 +1,89 @@
+{
+    "success": true,
+    "location_id": 501,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Clinton",
+            "state": "MD",
+            "price": null,
+            "address": {
+                "line1": "8787 Branch Avenue",
+                "suite": null,
+                "city": "Clinton",
+                "state": "MD",
+                "zip": "20735",
+                "phone": "(301) 968-0569"
+            },
+            "images": {
+                "hero": [
+                    "/assets/mail-center.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=501",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 0,
+            "nearbyPremium": 1,
+            "nearbyPremiumUrl": "/virtual-office/maryland/fort-washington/location-1620/",
+            "nearbyPremiumText": "to view the nearby PREMIUM Locations for the same $99/mo",
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Clinton Virtual Office",
+            "body": "Acquire a prestigious Clinton address for your enterprise without the expenses of a brick-and-mortar setup. At Opus VO, you can solidify your business footprint in Clinton’s bustling commerce scene. Got a high-stakes client meeting or a vital presentation? Our modern conference facilities are designed to impress.  By going virtual with Opus VO in Clinton, you get a dedicated live receptionist as part of your package. We ensure each client interaction effortlessly embodies the spirit of your brand. Delegate your everyday admin tasks to us and focus on what truly matters—achieving your business aspirations. ",
+            "map": {
+                "lat": 38.771111,
+                "lng": -76.887694,
+                "zoom": 14,
+                "city": "Clinton"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Clinton, Maryland even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Clinton. You can also adapt to better meet your clients’ unique needs within Maryland. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Clinton virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Clinton?",
+                "body": "Clinton is not just another town—it’s an emerging nexus for a range of businesses, from tech startups to healthcare. Having your business based in Clinton grants you valuable access to a plethora of networking events and growth opportunities.  Choosing Opus VO in Clinton is more than just a financial win—it’s a powerful tactical move. Are you prepared to elevate your business to new heights? Our premium virtual office services are ready for you.  Opus VO, Clinton @ 8787 Branch Avenue, Clinton, MD 20735 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Clinton - 8787 Branch Avenue | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Maryland, Clinton virtual office located at 8787 Branch Avenue. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/maryland/clinton/location-501/",
+            "og": {
+                "title": "Virtual Office in Clinton - 8787 Branch Avenue | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Maryland, Clinton virtual office located at 8787 Branch Avenue. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/maryland/clinton/location-501/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+            }
+        }
+    }
+}

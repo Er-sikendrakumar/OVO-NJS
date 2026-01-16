@@ -1,0 +1,93 @@
+{
+    "success": true,
+    "location_id": 1112,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Portland",
+            "state": "ME",
+            "price": null,
+            "address": {
+                "line1": "6 City Center",
+                "suite": null,
+                "city": "Portland",
+                "state": "ME",
+                "zip": "04101",
+                "phone": "(207) 509-3225"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/01_Building3-600x550.jpg",
+                    "/wp-content-mgr/wp-content/uploads/02_Reception-733x550.jpg",
+                    "/wp-content-mgr/wp-content/uploads/03_BoardRoom-733x550.jpg",
+                    "/wp-content-mgr/wp-content/uploads/04_Sharedspace-733x550.jpg",
+                    "/wp-content-mgr/wp-content/uploads/05_Reception-2-733x550.jpg"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 1,
+            "addressOnlyUrl": "/business-address/maine/portland/location-1112/",
+            "signupUrl": "/signup/?locid=1112",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 1,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Portland Virtual Office",
+            "body": "Get your startup or freelance gig an A-list Portland address without the sky-high rent of a physical office. With Opus VO, you’re not just working remotely—you’re making a statement. Our trendy conference rooms have the tech and vibe to make your client pitches or brainstorming sessions an absolute win.  When you opt for a virtual office in Portland through Opus VO, you’re not just another customer; you’re part of a community. A dedicated live receptionist comes with the deal, giving your brand that touch of class and authenticity it deserves. Let us handle the day-to-day, while you’re free to hustle and make those dreams a reality. ",
+            "map": {
+                "lat": 43.6570753,
+                "lng": -70.2567033,
+                "zoom": 14,
+                "city": "Portland"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Portland, Maine even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Portland. You can also adapt to better meet your clients’ unique needs within Maine. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Portland virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Portland?",
+                "body": "Don’t sleep on Portland. It’s not just about the coffee shops and food trucks—though they’re awesome. It’s a powerhouse of young entrepreneurs, tech savvies, and social influencers. Set up here and you’re not just working in a city; you’re working in a city that gets it.  Going with Opus VO in Portland is more than just a budget-smart move; it’s about leveling up. Ready to kick some serious career goals? We’ve got the virtual office services that’ll get you there.  Opus VO, Portland @ 6 City Center, Portland, ME 04101 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Portland - 6 City Center | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Maine, Portland virtual office located at 6 City Center. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/maine/portland/location-1112/",
+            "og": {
+                "title": "Virtual Office in Portland - 6 City Center | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Maine, Portland virtual office located at 6 City Center. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/maine/portland/location-1112/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/01_Building3.jpg"
+            }
+        }
+    }
+}

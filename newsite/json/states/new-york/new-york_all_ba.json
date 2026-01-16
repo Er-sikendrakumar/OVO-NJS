@@ -1,0 +1,255 @@
+{
+    "success": true,
+    "state": "new york",
+    "cities_virtual": [
+        {
+            "id": "403",
+            "name": "Albany",
+            "popular": "1"
+        },
+        {
+            "id": "851",
+            "name": "Amherst",
+            "popular": "0"
+        },
+        {
+            "id": "327",
+            "name": "Binghamton",
+            "popular": "0"
+        },
+        {
+            "id": "212",
+            "name": "Bronx",
+            "popular": "1"
+        },
+        {
+            "id": "98",
+            "name": "Brooklyn",
+            "popular": "1"
+        },
+        {
+            "id": "194",
+            "name": "Buffalo",
+            "popular": "1"
+        },
+        {
+            "id": "347",
+            "name": "East Setauket",
+            "popular": "0"
+        },
+        {
+            "id": "794",
+            "name": "Forest Hills",
+            "popular": "0"
+        },
+        {
+            "id": "453",
+            "name": "Glen Cove",
+            "popular": "0"
+        },
+        {
+            "id": "99",
+            "name": "Great Neck",
+            "popular": "0"
+        },
+        {
+            "id": "873",
+            "name": "Huntington",
+            "popular": "0"
+        },
+        {
+            "id": "346",
+            "name": "Kings Park",
+            "popular": "0"
+        },
+        {
+            "id": "305",
+            "name": "Larchmont",
+            "popular": "0"
+        },
+        {
+            "id": "786",
+            "name": "Long Beach",
+            "popular": "0"
+        },
+        {
+            "id": "712",
+            "name": "Long Island City",
+            "popular": "0"
+        },
+        {
+            "id": "606",
+            "name": "Melville",
+            "popular": "0"
+        },
+        {
+            "id": "884",
+            "name": "Mooers",
+            "popular": "0"
+        },
+        {
+            "id": "701",
+            "name": "New City",
+            "popular": "1"
+        },
+        {
+            "id": "681",
+            "name": "New York",
+            "popular": "0"
+        },
+        {
+            "id": "641",
+            "name": "Plainview",
+            "popular": "0"
+        },
+        {
+            "id": "741",
+            "name": "Poughkeepsie",
+            "popular": "0"
+        },
+        {
+            "id": "278",
+            "name": "Queens Village",
+            "popular": "0"
+        },
+        {
+            "id": "192",
+            "name": "Rochester",
+            "popular": "1"
+        },
+        {
+            "id": "735",
+            "name": "Scarsdale",
+            "popular": "0"
+        },
+        {
+            "id": "911",
+            "name": "Skaneateles",
+            "popular": "0"
+        },
+        {
+            "id": "337",
+            "name": "Slingerlands",
+            "popular": "0"
+        },
+        {
+            "id": "195",
+            "name": "Syracuse",
+            "popular": "1"
+        },
+        {
+            "id": "601",
+            "name": "Uniondale",
+            "popular": "0"
+        },
+        {
+            "id": "532",
+            "name": "White Plains",
+            "popular": "1"
+        }
+    ],
+    "cities_business": [
+        {
+            "id": "98",
+            "name": "Brooklyn",
+            "popular": "1"
+        },
+        {
+            "id": "681",
+            "name": "New York",
+            "popular": "0"
+        }
+    ],
+    "cities_popular": [
+        {
+            "id": "403",
+            "name": "Albany"
+        },
+        {
+            "id": "212",
+            "name": "Bronx"
+        },
+        {
+            "id": "98",
+            "name": "Brooklyn"
+        },
+        {
+            "id": "194",
+            "name": "Buffalo"
+        },
+        {
+            "id": "701",
+            "name": "New City"
+        },
+        {
+            "id": "192",
+            "name": "Rochester"
+        },
+        {
+            "id": "195",
+            "name": "Syracuse"
+        },
+        {
+            "id": "532",
+            "name": "White Plains"
+        }
+    ],
+    "locations_business_address": [
+        {
+            "id": 1477,
+            "location_name": "32 Court Street, Suite 904, Brooklyn, NY 11201",
+            "city": "Brooklyn",
+            "state": "New York",
+            "state_abbr": "NY",
+            "address": "32 Court Street, Suite 904, Brooklyn, NY 11201",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 1,
+            "point_x": 40.6929538,
+            "point_y": -73.9910393,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/32-Court-St-Brooklyn-NY-Building-Photo-1-HighDefinition.webp",
+                "alttext": "Street view of Opus Virtual Office’s Brooklyn, NY building located at 32 Court Street."
+            },
+            "url": "/business-address/new-york/brooklyn/location-1477/",
+            "phone": "7189571040"
+        },
+        {
+            "id": 1450,
+            "location_name": "26 Broadway, Suite 934, New York, NY 10004",
+            "city": "New York",
+            "state": "New York",
+            "state_abbr": "NY",
+            "address": "26 Broadway, Suite 934, New York, NY 10004",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 1,
+            "point_x": 40.7054596,
+            "point_y": -74.0132303,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1450-building-1746036916361.jpg",
+                "alttext": "Exterior of the Standard Oil Building that houses Opus Virtual Offices located in New York, New York"
+            },
+            "url": "/business-address/new-york/new-york/location-1450/",
+            "phone": "2123761810"
+        }
+    ],
+    "meta": {
+        "cities_virtual_count": 29,
+        "cities_business_count": 2,
+        "cities_popular_count": 8,
+        "locations_business_address_count": 2
+    },
+    "seo": {
+        "title": "Virtual Business Address in New York | Opus Virtual Offices",
+        "meta_description": "Get a prestigious business address in New York with Opus. Multiple premium locations statewide mail handling privacy protection all for just $59/month.",
+        "canonical": "https://www.opusvirtualoffices.com/business-address/new-york/",
+        "og": {
+            "title": "Virtual Business Address in New York | Opus Virtual Offices",
+            "description": "Get a prestigious business address in New York with Opus. Multiple premium locations statewide mail handling privacy protection all for just $59/month.",
+            "url": "https://www.opusvirtualoffices.com/business-address/new-york/",
+            "type": "website",
+            "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+        }
+    }
+}

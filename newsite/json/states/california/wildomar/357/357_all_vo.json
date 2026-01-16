@@ -1,0 +1,89 @@
+{
+    "success": true,
+    "location_id": 357,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Wildomar",
+            "state": "CA",
+            "price": null,
+            "address": {
+                "line1": "36068 Hidden Springs Rd.",
+                "suite": null,
+                "city": "Wildomar",
+                "state": "CA",
+                "zip": "92595",
+                "phone": "(951) 346-1619"
+            },
+            "images": {
+                "hero": [
+                    "/assets/mail-center.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=357",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 0,
+            "nearbyPremium": 1,
+            "nearbyPremiumUrl": "/virtual-office/california/riverside/location-934/",
+            "nearbyPremiumText": "to view the nearby PREMIUM Locations for the same $99/mo",
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Wildomar Virtual Office",
+            "body": "Score a rad business address in Wildomar without the hassle and cost of a brick-and-mortar spot. With Opus VO, you can plant your startup or side hustle in an awesome Wildomar location, and do it all without draining your budget. Need to meet with clients or collaborators? Our conference rooms have got you covered, and having a legit Wildomar address can only level up your brand’s game.  When you roll with a virtual office in Wildomar through Opus VO, you’re not just getting a mailbox—you’re getting a live receptionist, too. Our team is all about delivering that premium, personalized customer service, making sure every client convo is totally in sync with your business goals. Delegate all that boring admin stuff like sorting emails and handling calls to us. That frees you up to focus on the big picture and growing your brand. ",
+            "map": {
+                "lat": 33.596675,
+                "lng": -117.248153,
+                "zoom": 14,
+                "city": "Wildomar"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Wildomar, California even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Wildomar. You can also adapt to better meet your clients’ unique needs within California. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Wildomar virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Go Virtual in Wildomar?",
+                "body": "Wildomar isn’t just another spot on the map; it’s an up-and-coming hub for young professionals and small businesses. Super conveniently located, our Wildomar digs give you easy access to essential business contacts and some seriously great networking opportunities.  Choosing Opus VO in Wildomar isn’t just a money-saver; it’s a game-changer. Take your business to new heights with our top-tier virtual office solutions and start crushing those goals.  Opus VO Wildomar @ 36068 Hidden Springs Rd., Wildomar, CA 92595 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Wildomar - 36068 Hidden Springs Rd. | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our California, Wildomar virtual office located at 36068 Hidden Springs Rd.. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/california/wildomar/location-357/",
+            "og": {
+                "title": "Virtual Office in Wildomar - 36068 Hidden Springs Rd. | $99/Month",
+                "description": "Get the ultimate office solution for your business with our California, Wildomar virtual office located at 36068 Hidden Springs Rd.. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/california/wildomar/location-357/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+            }
+        }
+    }
+}

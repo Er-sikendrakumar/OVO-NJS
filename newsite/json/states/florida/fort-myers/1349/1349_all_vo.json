@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "location_id": 1349,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Fort Myers",
+            "state": "FL",
+            "price": null,
+            "address": {
+                "line1": "12557 New Brittany Boulevard",
+                "suite": null,
+                "city": "Fort Myers",
+                "state": "FL",
+                "zip": "33907",
+                "phone": "(239) 497-0866"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/1349-001-Building.png",
+                    "/wp-content-mgr/wp-content/uploads/1349-02.lobby_-683x550.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1349-03.meeting-649x550.jpg"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1349",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Fort Meyers Virtual Office",
+            "body": "Level up your business game with an esteemed Fort Myers address—no need for a physical office space. With Opus VO, you get the prestige of a Fort Myers location while keeping your overhead low. When face-to-face meetings are in order, you’re covered with our top-notch conference rooms.  When you opt for a virtual setup in Fort Myers through Opus VO, a live receptionist is part of your package. Our goal is to make every client engagement seamlessly echo your brand’s unique vibe. Hand over the day-to-day admin tasks like mail sorting and call screening to us, and liberate yourself to focus on what truly matters: business growth. ",
+            "map": {
+                "lat": 26.5596481,
+                "lng": -81.8797072,
+                "zoom": 14,
+                "city": "Fort Myers"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Fort Myers, Florida even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Fort Myers. You can also adapt to better meet your clients’ unique needs within Florida. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Fort Myers virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Fort Myers?",
+                "body": "Fort Myers is more than a popular tourist destination; it’s an emerging center for businesses in areas like healthcare, tourism, and tech. Our Fort Myers location offers you direct access to valuable industry contacts and a wide range of networking events.  By going virtual with Opus VO in Fort Myers, you’re doing more than reducing costs—you’re capturing a competitive advantage. So why wait? Dive into our first-class virtual office services today.  Choose from two of our Opus VO locations in Fort Myers 12557 New Brittany Boulevard, Fort Myers, FL 33907, or 15050 Elderberry Lane, Fort Myers, FL 33907 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Fort Myers - 12557 New Brittany Boulevard | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Florida, Fort Myers virtual office located at 12557 New Brittany Boulevard. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/florida/fort-myers/location-1349/",
+            "og": {
+                "title": "Virtual Office in Fort Myers - 12557 New Brittany Boulevard | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Florida, Fort Myers virtual office located at 12557 New Brittany Boulevard. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/florida/fort-myers/location-1349/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/1349-001-Building.png"
+            }
+        }
+    }
+}

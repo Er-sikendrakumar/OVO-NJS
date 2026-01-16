@@ -1,0 +1,93 @@
+{
+    "success": true,
+    "location_id": 1320,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Denver",
+            "state": "CO",
+            "price": null,
+            "address": {
+                "line1": "8400 E Prentice Avenue (Greenwood Village)",
+                "suite": null,
+                "city": "Denver",
+                "state": "CO",
+                "zip": "80111",
+                "phone": "(303) 997-2959"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/1320-01.Building.webp",
+                    "/wp-content-mgr/wp-content/uploads/1320-02.Meeting.webp",
+                    "/wp-content-mgr/wp-content/uploads/1320-03.Meeting.webp",
+                    "/wp-content-mgr/wp-content/uploads/1320-04.Meeting.webp",
+                    "/wp-content-mgr/wp-content/uploads/1320-05.Front_.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1320",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "DENVER VIRTUAL OFFICE",
+            "body": "You can start a business just about anywhere in Colorado, but some cities offer more benefits for your company’s goals. At Opus, we have compiled a list of the most popular cities to start a business, for any type of business. Growth is important for a business, not only when you are in the early stages of starting your business but also when you are looking to expand. Check out each one to see which one could benefit your business long-term prospects. Considering the increase in leasing fees, having a virtual office and business presence in these locations could save you a fortune and help you profit immensely. Take advantage of a virtual office in Colorado today.”",
+            "map": {
+                "lat": 39.6193035,
+                "lng": -104.8911407,
+                "zoom": 14,
+                "city": "Denver"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Denver, Colorado even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Denver. You can also adapt to better meet your clients’ unique needs within Colorado. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Denver virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "DENVER VIRTUAL OFFICE",
+                "body": "",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Denver - 8400 E Prentice Avenue (Greenwood Village) | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Colorado, Denver virtual office located at 8400 E Prentice Avenue (Greenwood Village). Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/colorado/denver/location-1320/",
+            "og": {
+                "title": "Virtual Office in Denver - 8400 E Prentice Avenue (Greenwood Village) | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Colorado, Denver virtual office located at 8400 E Prentice Avenue (Greenwood Village). Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/colorado/denver/location-1320/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/1320-01.Building.webp"
+            }
+        }
+    }
+}

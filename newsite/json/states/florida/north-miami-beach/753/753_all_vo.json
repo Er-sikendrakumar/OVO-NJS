@@ -1,0 +1,89 @@
+{
+    "success": true,
+    "location_id": 753,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "North Miami Beach",
+            "state": "FL",
+            "price": null,
+            "address": {
+                "line1": "1835 NE Miami Gardens Drive",
+                "suite": null,
+                "city": "North Miami Beach",
+                "state": "FL",
+                "zip": "33179",
+                "phone": "(305) 717-7621"
+            },
+            "images": {
+                "hero": [
+                    "/assets/mail-center.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=753",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 0,
+            "nearbyPremium": 1,
+            "nearbyPremiumUrl": "/virtual-office/florida/fort-lauderdale/location-803/",
+            "nearbyPremiumText": "to view nearby PREMIUM Locations that offer Meeting Rooms for the same $99/mo",
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "North Miami Beach Virtual Office",
+            "body": "Secure a prestigious North Miami Beach business address without the price tag of a physical location. With Opus VO, situate your enterprise in the bustling heart of North Miami Beach while keeping your budget intact. Need a polished setting for those critical client interactions or team meetings? Our state-of-the-art conference rooms have got you covered.  Opt for our virtual office package in North Miami Beach and you’ll also benefit from a professional live receptionist service. We’re laser-focused on ensuring that each client encounter is a natural extension of your brand’s persona. Hand off those everyday administrative tasks to us, freeing you to focus on what truly matters—your business ambitions. ",
+            "map": {
+                "lat": 25.94609,
+                "lng": -80.164131,
+                "zoom": 14,
+                "city": "North Miami Beach"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in North Miami Beach, Florida even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of North Miami Beach. You can also adapt to better meet your clients’ unique needs within Florida. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our North Miami Beach virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why North Miami Beach?",
+                "body": "North Miami Beach isn’t just a tourist hotspot; it’s an emerging hub for industries from retail to tech. Our strategically placed locale in North Miami Beach connects you to essential business contacts and networking occasions you won’t want to miss.  Choosing Opus VO in North Miami Beach doesn’t just reduce your overheads—it gives you a competitive advantage. Ready to make your next big move? Our premium virtual office services are here to facilitate it.  Opus VO, North Miami Beach @ 1835 NE Miami Gardens Drive, North Miami Beach, FL 33179 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in North Miami Beach - 1835 NE Miami Gardens Drive | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Florida, North Miami Beach virtual office located at 1835 NE Miami Gardens Drive. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/florida/north-miami-beach/location-753/",
+            "og": {
+                "title": "Virtual Office in North Miami Beach - 1835 NE Miami Gardens Drive | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Florida, North Miami Beach virtual office located at 1835 NE Miami Gardens Drive. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/florida/north-miami-beach/location-753/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+            }
+        }
+    }
+}

@@ -1,0 +1,89 @@
+{
+    "success": true,
+    "location_id": 1422,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Oak Hills",
+            "state": "CA",
+            "price": null,
+            "address": {
+                "line1": "6562 Caliente Road",
+                "suite": null,
+                "city": "Oak Hills",
+                "state": "CA",
+                "zip": "92344",
+                "phone": "(760) 507-2074"
+            },
+            "images": {
+                "hero": [
+                    "/assets/mail-center.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1422",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 0,
+            "nearbyPremium": 1,
+            "nearbyPremiumUrl": "/virtual-office/california/san-bernardino/location-1200/",
+            "nearbyPremiumText": "to view the nearby PREMIUM Locations for the same $99/mo",
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Oak Hills Virtual Office",
+            "body": "Enjoy the prestige of a distinguished business address in Oak Hills without the financial obligations tied to a physical workspace. Opus VO affords you the exclusive opportunity to establish your business in a choice Oak Hills location, without the hefty financial burden of a traditional office lease. Utilize our state-of-the-art conference rooms for business negotiations and client interaction while increasing your brand’s status with an exclusive business address in Oak Hills.   Choosing a virtual office in Oak Hills through Opus VO bestows the unique advantage of a live receptionist. Committed to delivering personalized, top-tier customer service, our team ensures that each client communication is flawlessly aligned with your specific business vision. Offload routine administrative duties such as digital mail management and intricate call-forwarding to us, providing you the latitude to concentrate fully on advancing your business. ",
+            "map": {
+                "lat": 34.3729182,
+                "lng": -117.4241403,
+                "zoom": 14,
+                "city": "Oak Hills"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Oak Hills, California even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Oak Hills. You can also adapt to better meet your clients’ unique needs within California. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Oak Hills virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why opt for an Oak Hills Virtual Office?",
+                "body": "Oak Hills is more than a serene, rural setting; it’s an emerging market ripe with potential in areas like real estate, agriculture, and local services. Situated near key commercial zones, our Oak Hills locations offer you unfettered access to vital industry connections and emerging networking opportunities.  By selecting an Opus Virtual Office in Oak Hills, you’re achieving far more than merely slashing your operational costs; you’re obtaining a crucial competitive edge. Propel your business to extraordinary levels of success by capitalizing on our premium virtual office services today.  Opus VO Oak Hills @ 6562 Caliente Road, Oak Hills, CA 92344 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Oak Hills - 6562 Caliente Road | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our California, Oak Hills virtual office located at 6562 Caliente Road. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/california/oak-hills/location-1422/",
+            "og": {
+                "title": "Virtual Office in Oak Hills - 6562 Caliente Road | $99/Month",
+                "description": "Get the ultimate office solution for your business with our California, Oak Hills virtual office located at 6562 Caliente Road. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/california/oak-hills/location-1422/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+            }
+        }
+    }
+}

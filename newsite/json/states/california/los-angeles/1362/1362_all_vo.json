@@ -1,0 +1,108 @@
+{
+    "success": true,
+    "location_id": 1362,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Los Angeles",
+            "state": "CA",
+            "price": null,
+            "address": {
+                "line1": "626 Wilshire Blvd",
+                "suite": "Suite 410",
+                "city": "Los Angeles",
+                "state": "CA",
+                "zip": "90017",
+                "phone": "(213) 973-1030"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/Opus-Virtual-Office-Los-Angeles-626-Wilshire-Blvd-Modern-Office-Building.webp",
+                    "/wp-content-mgr/wp-content/uploads/Opus-Virtual-Office-Los-Angeles-626-Wilshire-Blvd-Executive-Conference-Room.webp",
+                    "/wp-content-mgr/wp-content/uploads/Opus-Virtual-Office-Los-Angeles-626-Wilshire-Blvd-Artistic-Meeting-Room.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 1
+            },
+            "addressOnlyOptionAvailable": 1,
+            "addressOnlyUrl": "/business-address/california/los-angeles/location-1362/",
+            "signupUrl": "/signup/?locid=1362",
+            "openingHours": {
+                "opens": "08:00:00",
+                "closes": "17:00:00",
+                "daysOfWeek": [
+                    "Monday",
+                    "Tuesday",
+                    "Wednesday",
+                    "Thursday",
+                    "Friday"
+                ]
+            },
+            "opusowned": 1,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "LOS ANGELES VIRTUAL OFFICE",
+            "body": "In Los Angeles, everyone is a star, and with Opus Virtual Office’s Wilshire location, you’ll join the ranks of LA’s best. Centrally located in Downtown Los Angeles, and across the street from the 7th street metro center station, Opus VO’s Wilshire location is the ideal location to register your business address, receive mail, and hold meetings. 626 Wilshire features 24/7 onsite security, an underground parking garage, storage units, and a tire inflation service, providing the ultimate peace of mind for your business and clients. 626 Wilshire is at the crossroads of innovation and style, and you’ll be glad to call this address your home.",
+            "map": {
+                "lat": 34.0482582,
+                "lng": -118.2570021,
+                "zoom": 14,
+                "city": "Los Angeles"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Los Angeles, California even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Los Angeles. You can also adapt to better meet your clients’ unique needs within California. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Los Angeles virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "WHY OPUS?",
+                "body": "Opting for a virtual office in Los Angeles through Opus VO gives you the exclusive advantage of a live receptionist committed to offering personalized, top-tier client service. Every point of client contact is carefully designed to resonate with your unique business objectives, supported by our wide range of administrative services. These amenities include a corporate mailing address, digital mail sorting, company phone and fax number, state-of-the-art call-forwarding options, and beyond. Our efficient administrative staff will manage your day-to-day tasks, freeing you to concentrate on your company’s strategic growth and success. Opus VO L.A. @ 626 Wilshire Blvd, Suite 410 Los Angeles, CA 90017",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            },
+            {
+                "title": "CHOOSE LOS ANGELES",
+                "body": "Los Angeles is a shimmering canvas that constantly reinvents itself to fit the needs of the people. Home to championship sports teams and legendary film production companies, LA truly is the city of stars. It’s a city that never ceases to amaze, offering endless discoveries and moments of wonder to all who explore its vast expanse. From the Santa Monica Mountains to Venice Beach, Los Angeles truly is the land of opportunity. For the eagle-eyed movie fan, films such as Inception and The Dark Knight Rises had scenes filmed at your 626 Wilshire location. Everything is bright in the City of Angels, and it will only get brighter with Opus Virtual Offices.",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/botaraton-covered.png",
+                "layout": "image_text",
+                "imageAlignment": "left"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Los Angeles | $99 All Inclusive | Opus Virtual Office",
+            "meta_description": "Get the ultimate office solution for your business with our California, Los Angeles virtual office located at 626 Wilshire Blvd. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/california/los-angeles/location-1362/",
+            "og": {
+                "title": "Virtual Office in Los Angeles | $99 All Inclusive | Opus Virtual Office",
+                "description": "Get the ultimate office solution for your business with our California, Los Angeles virtual office located at 626 Wilshire Blvd. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/california/los-angeles/location-1362/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/Opus-Virtual-Office-Los-Angeles-626-Wilshire-Blvd-Modern-Office-Building.webp"
+            }
+        }
+    }
+}

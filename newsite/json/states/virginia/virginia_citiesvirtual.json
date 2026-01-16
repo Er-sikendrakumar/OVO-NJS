@@ -1,0 +1,87 @@
+{
+    "success": true,
+    "count": 16,
+    "state": "virginia",
+    "data": [
+        {
+            "id": "49",
+            "name": "Alexandria",
+            "popular": "1"
+        },
+        {
+            "id": "50",
+            "name": "Arlington",
+            "popular": "0"
+        },
+        {
+            "id": "913",
+            "name": "Ashburn",
+            "popular": "0"
+        },
+        {
+            "id": "743",
+            "name": "Charlottesville",
+            "popular": "0"
+        },
+        {
+            "id": "745",
+            "name": "Culpeper",
+            "popular": "0"
+        },
+        {
+            "id": "915",
+            "name": "Fairfax",
+            "popular": "0"
+        },
+        {
+            "id": "504",
+            "name": "Fredericksburg",
+            "popular": "0"
+        },
+        {
+            "id": "425",
+            "name": "Herndon",
+            "popular": "0"
+        },
+        {
+            "id": "639",
+            "name": "Leesburg",
+            "popular": "1"
+        },
+        {
+            "id": "109",
+            "name": "McLean",
+            "popular": "1"
+        },
+        {
+            "id": "744",
+            "name": "North Springfield",
+            "popular": "0"
+        },
+        {
+            "id": "847",
+            "name": "Portsmouth",
+            "popular": "0"
+        },
+        {
+            "id": "416",
+            "name": "Richmond",
+            "popular": "1"
+        },
+        {
+            "id": "801",
+            "name": "Tysons",
+            "popular": "0"
+        },
+        {
+            "id": "500",
+            "name": "Virginia Beach",
+            "popular": "1"
+        },
+        {
+            "id": "651",
+            "name": "Yorktown",
+            "popular": "0"
+        }
+    ]
+}

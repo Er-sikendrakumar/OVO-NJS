@@ -1,0 +1,92 @@
+{
+    "success": true,
+    "location_id": 1379,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Culpeper",
+            "state": "VA",
+            "price": null,
+            "address": {
+                "line1": "107B East Davis Street",
+                "suite": null,
+                "city": "Culpeper",
+                "state": "VA",
+                "zip": "22701",
+                "phone": "(571) 443-8901"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/1379-01.bldg_-604x550.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1379-02.bldg_-800x530.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1379-03.conf_-763x550.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1379-04.entry_-800x503.jpg"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1379",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Culpeper Virtual Office",
+            "body": "Enjoy the advantage of an esteemed business address in Culpeper, without the economic strain of a permanent physical office. Via Opus VO, your firm can secure its footing in one of our selected Culpeper locations, all for a mere fraction of what a standard office space would cost. Make use of our modern conference facilities for key client meetings and vital collaborations, while simultaneously boosting your brand via a well-regarded Culpeper address.  By choosing a virtual business center in Culpeper through Opus VO, you also gain the valuable service of a committed receptionist. With a steadfast commitment to offering tailored, quality customer relations, our team ensures that each client interaction is aligned with your exclusive business objectives. Let us handle backend operations like digital mail sorting and advanced call forwarding, allowing you the freedom to focus on growing your enterprise. ",
+            "map": {
+                "lat": 38.4731975,
+                "lng": -77.99588229,
+                "zoom": 14,
+                "city": "Culpeper"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Culpeper, Virginia even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Culpeper. You can also adapt to better meet your clients’ unique needs within Virginia. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Culpeper virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Opt for a Virtual Office in Culpeper?",
+                "body": "Culpeper is more than just a quaint Virginian town; it’s also a rising hub for business activities, offering opportunities in areas such as healthcare, agriculture, and local commerce. Conveniently located near major commercial points, our Culpeper locations afford you quick access to crucial industry connections and networking events.  By utilizing an Opus Virtual Office in Culpeper, you’re doing more than just cutting costs; you’re achieving a considerable competitive advantage. Push your business beyond conventional limits by leveraging our exceptional virtual office services today.  Opus VO Culpeper @ 107B East Davis Street, Culpeper, VA 22701 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Culpeper - 107B East Davis Street | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Virginia, Culpeper virtual office located at 107B East Davis Street. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/virginia/culpeper/location-1379/",
+            "og": {
+                "title": "Virtual Office in Culpeper - 107B East Davis Street | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Virginia, Culpeper virtual office located at 107B East Davis Street. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/virginia/culpeper/location-1379/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/1379-01.bldg_.jpg"
+            }
+        }
+    }
+}

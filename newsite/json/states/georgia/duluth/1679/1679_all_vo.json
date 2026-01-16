@@ -1,0 +1,98 @@
+{
+    "success": true,
+    "location_id": 1679,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Duluth",
+            "state": "GA",
+            "price": null,
+            "address": {
+                "line1": "3509 Duluth Hwy",
+                "suite": null,
+                "city": "Duluth",
+                "state": "GA",
+                "zip": "30096",
+                "phone": "(678) 968-4591"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/Duluth-GA-Virtual-Office-Exterior-at-3509-Duluth-Hwy.webp",
+                    "/wp-content-mgr/wp-content/uploads/Duluth-Coworking-Room.webp",
+                    "/wp-content-mgr/wp-content/uploads/Duluth-Mid-Sized-Meeting-Room.webp",
+                    "/wp-content-mgr/wp-content/uploads/Mid-Sized-Duluth-GA-Conference-Room-With-Outside-View.webp",
+                    "/wp-content-mgr/wp-content/uploads/Small-Duluth-GA-Meeting-Room-With-TV-Monitor.webp",
+                    "/wp-content-mgr/wp-content/uploads/Small-Meeting-Room-in-Duluth-Virtual-Office.webp",
+                    "/wp-content-mgr/wp-content/uploads/Coworking-Space-in-Duluth-GA-Virtual-Office.webp",
+                    "/wp-content-mgr/wp-content/uploads/Mid-Sized-Duluth-GA-Conference-Room-With-Outside-View.webp",
+                    "/wp-content-mgr/wp-content/uploads/Duluth-GA-Virtual-Office-Patio-with-Canopy.webp",
+                    "/wp-content-mgr/wp-content/uploads/Duluth-GA-Virtual-Office-Outdoor-Patio.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1679",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 1,
+            "nearbyPremiumUrl": "/virtual-office/georgia/atlanta/location-684/",
+            "nearbyPremiumText": "to view the most POPULAR locations nearby for the same $99/mo",
+            "locationDescription": "This location does not offer mail forwarding"
+        },
+        "overview": {
+            "heading": "DULUTH VIRTUAL OFFICE",
+            "body": "You can start a business just about anywhere in Georgia, but some cities offer more benefits for your company’s goals. At Opus, we have compiled a list of the most popular cities to start a business, for any type of business. Growth is important for a business, not only when you are in the early stages of starting your business but also when you are looking to expand. Check out each one to see which one could benefit your business long-term prospects. Considering the increase in leasing fees, having a virtual office and business presence in these locations could save you a fortune and help you profit immensely. Take advantage of a virtual office in Georgia today.”",
+            "map": {
+                "lat": 34.0021285,
+                "lng": -84.1441826,
+                "zoom": 14,
+                "city": "Duluth"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Duluth, Georgia even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Duluth. You can also adapt to better meet your clients’ unique needs within Georgia. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Duluth virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "DULUTH VIRTUAL OFFICE",
+                "body": "",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Duluth - 3509 Duluth Hwy | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Georgia, Duluth virtual office located at 3509 Duluth Hwy. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/georgia/duluth/location-1679/",
+            "og": {
+                "title": "Virtual Office in Duluth - 3509 Duluth Hwy | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Georgia, Duluth virtual office located at 3509 Duluth Hwy. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/georgia/duluth/location-1679/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/Duluth-GA-Virtual-Office-Exterior-at-3509-Duluth-Hwy.webp"
+            }
+        }
+    }
+}

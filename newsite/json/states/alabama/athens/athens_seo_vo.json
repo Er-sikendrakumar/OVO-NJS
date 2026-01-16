@@ -1,0 +1,23 @@
+{
+    "success": true,
+    "page": "virtual-office/alabama/athens",
+    "page_type": "location_city",
+    "view": "city",
+    "seo": {
+        "title": "Virtual Office in Athens, AL | Multiple Locations Available",
+        "meta_description": "Find the ultimate office solution with Opus Virtual Offices in Athens, Alabama. Our all-inclusive virtual offices cater to your business needs. Sign up today!",
+        "canonical": "https://www.opusvirtualoffices.com/virtual-office/alabama/athens/",
+        "og": {
+            "title": "Virtual Office in Athens, AL | Multiple Locations Available",
+            "description": "Find the ultimate office solution with Opus Virtual Offices in Athens, Alabama. Our all-inclusive virtual offices cater to your business needs. Sign up today!",
+            "url": "https://www.opusvirtualoffices.com/virtual-office/alabama/athens/",
+            "type": "website",
+            "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+        }
+    },
+    "data": {
+        "state": "Alabama",
+        "city": "Athens",
+        "mode": "virtual-office"
+    }
+}

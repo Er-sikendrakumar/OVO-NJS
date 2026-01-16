@@ -1,0 +1,92 @@
+{
+    "success": true,
+    "location_id": 1395,
+    "mode": "business-address",
+    "data": {
+        "header": {
+            "city": "Louisville",
+            "state": "KY",
+            "price": null,
+            "address": {
+                "line1": "101 North Seventh Street",
+                "suite": null,
+                "city": "Louisville",
+                "state": "KY",
+                "zip": "40202",
+                "phone": "(502) 785-9868"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/1395-01.bldg_-1-609x550.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1395-conference.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1395-reception2.png",
+                    "/wp-content-mgr/wp-content/uploads/1395-reception.jpg"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 1,
+            "addressOnlyUrl": "/business-address/kentucky/louisville/location-1395/",
+            "signupUrl": "/signup/?locid=1395",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 1,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Louisville Virtual Office",
+            "body": "Unlock the benefits of a prestigious business address in Louisville without the logistical headaches or financial burden of a traditional office setup. Opus VO grants you the latitude to situate your business in a sought-after Louisville location, all at a fraction of the cost of a typical office lease. Conduct your professional communications, engage with clients and host events in our advanced meeting rooms. Boost your brand’s reputation with a distinguished address in one of Louisville’s key business districts.  Choosing a virtual office in Louisville via Opus VO furnishes you with the exceptional features of a live receptionist committed to delivering personalized, high-quality client service. Every client encounter is meticulously adapted to align with your distinct business goals, backed by our comprehensive array of administrative services. These include complete mail sorting, advanced call-forwarding features, and more. Our highly experienced administrative staff will take charge of your day-to-day activities, enabling you to zero in on strategic business development and growth. ",
+            "map": {
+                "lat": 38.2576569,
+                "lng": -85.7612575,
+                "zoom": 14,
+                "city": "Louisville"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Louisville, Kentucky even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Louisville. You can also adapt to better meet your clients’ unique needs within Kentucky. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Louisville virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why choose a Louisville Virtual Office?",
+                "body": "Louisville is more than just the home of the Kentucky Derby; it’s a vibrant economic center with diverse industries like healthcare, logistics, and manufacturing. By situating your business in this energetic marketplace, you can capitalize on local opportunities that may significantly elevate your revenue. Strategically located near crucial business hubs and professional gatherings, our Louisville location ensures that you have effortless access to key industry events and invaluable networking prospects.  By opting for an Opus Virtual Office in Louisville, you’re doing more than merely cutting overhead expenses; you’re also equipping your business with a significant competitive advantage. Elevate your enterprise to new levels of success by utilizing our top-tier virtual office services today.  Opus VO, Louisville @ 101 North Seventh Street Louisville, KY 40202 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Prestigious Business Address 101 North Seventh Street Louisville | $59/month",
+            "meta_description": "Impress clients with a virtual office at 101 North Seventh Street Louisville enjoy a prime location mail handling digital alerts and privacy for only $59/month",
+            "canonical": "https://www.opusvirtualoffices.com/business-address/kentucky/louisville/location-1395/",
+            "og": {
+                "title": "Prestigious Business Address 101 North Seventh Street Louisville | $59/month",
+                "description": "Impress clients with a virtual office at 101 North Seventh Street Louisville enjoy a prime location mail handling digital alerts and privacy for only $59/month",
+                "url": "https://www.opusvirtualoffices.com/business-address/kentucky/louisville/location-1395/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/1395-01.bldg_-1.jpg"
+            }
+        }
+    }
+}

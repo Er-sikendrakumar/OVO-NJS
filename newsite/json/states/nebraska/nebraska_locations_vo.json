@@ -1,0 +1,46 @@
+{
+    "success": true,
+    "count": 2,
+    "state": "nebraska",
+    "mode": "virtual-office",
+    "data": [
+        {
+            "id": 1328,
+            "location_name": "151 N. 8th Street, Lincoln, NE 68508",
+            "city": "Lincoln",
+            "state": "Nebraska",
+            "state_abbr": "NE",
+            "address": "151 N. 8th Street, Lincoln, NE 68508",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 40.8144018,
+            "point_y": -96.7102224,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1328-01.Building-Virtual-Office-Lincoln-Nebraska.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/nebraska/lincoln/location-1328/",
+            "phone": "4028813875"
+        },
+        {
+            "id": 1731,
+            "location_name": "2916 S 132nd Street, Omaha, NE 68144",
+            "city": "Omaha",
+            "state": "Nebraska",
+            "state_abbr": "NE",
+            "address": "2916 S 132nd Street, Omaha, NE 68144",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 41.2326358,
+            "point_y": -96.1202509,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/nebraska/omaha/location-1731/",
+            "phone": "4028813873"
+        }
+    ]
+}

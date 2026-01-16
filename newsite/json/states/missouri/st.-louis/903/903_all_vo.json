@@ -1,0 +1,87 @@
+{
+    "success": true,
+    "location_id": 903,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "St. Louis",
+            "state": "MO",
+            "price": null,
+            "address": {
+                "line1": "12747 Olive Boulevard",
+                "suite": null,
+                "city": "St. Louis",
+                "state": "MO",
+                "zip": "63141",
+                "phone": "(314) 297-0137"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/903-1.12747-Olive-Boulevard-St.-Louis-MO-63141.Building.jpg",
+                    "/wp-content-mgr/wp-content/uploads/903-2.Virtual-office-St.-Louis.Entrance-800x450.jpg",
+                    "/wp-content-mgr/wp-content/uploads/903-3.Lobby-of-12747-Olive-Boulevard-St.-Louis-MO--800x450.jpg",
+                    "/wp-content-mgr/wp-content/uploads/903-4.Meeting-Room-St.-Louis-MO-800x450.jpg",
+                    "/wp-content-mgr/wp-content/uploads/903-5.Training-room-of-Virtual-Office-St.-Louis-800x450.jpg"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 1,
+            "addressOnlyUrl": "/business-address/missouri/st.-louis/location-903/",
+            "signupUrl": "/signup/?locid=903",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 1,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "St. Louis Virtual Office",
+            "body": "Experience the perks of a premium business address in St. Louis without the logistical challenges and costs associated with a traditional brick-and-mortar office. Opus VO offers you an upscale St. Louis business address at a fraction of the price of a physical office space. Manage your business communications, welcome clients, and conduct meetings in our contemporary, fully outfitted conference rooms. Enhance your corporate image with an esteemed address in one of St. Louis’s key business districts.  Opting for a virtual office in St. Louis via Opus VO furnishes you with the added advantage of a live receptionist, ensuring a personalized, high-caliber service experience for your clientele. Every interaction is carefully crafted to align with your specific business goals, supported by our comprehensive suite of administrative offerings, such as digital mail handling, advanced call forwarding options, and beyond. Our seasoned administrative team will oversee your day-to-day tasks, allowing you to zero in on strategic business growth and innovation. ",
+            "map": {
+                "lat": 38.6806214,
+                "lng": -90.4716907,
+                "zoom": 14,
+                "city": "St. Louis"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in St. Louis, Missouri even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of St. Louis. You can also adapt to better meet your clients’ unique needs within Missouri. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our St. Louis virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Choose a St. Louis Virtual Office?",
+                "body": "St. Louis is not simply a historical landmark; it’s a vibrant economic epicenter with a diverse array of industries, including healthcare, finance, and manufacturing. Situate your business in this burgeoning market to capitalize on local prospects that can meaningfully enhance your revenue stream. Our St. Louis location is strategically located near essential commercial hubs and social events, granting you seamless access to pivotal networking occasions and industry forums.  By choosing an Opus Virtual Office in St. Louis, you do more than just cut costs related to traditional office setups; you equip your business with a competitive edge. Elevate your company by taking advantage of our state-of-the-art virtual office solutions today.  Opus VO, St. Louis @ Chesterfield Center, Chesterfield, MO 63017 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "success": false,
+            "message": "Invalid page path format. Only alphanumeric characters, hyphens, underscores, and slashes allowed.",
+            "page": "virtual-office/missouri/st.-louis/location-903",
+            "data": []
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "success": true,
+    "page": "virtual-office",
+    "page_type": "location_main",
+    "view": "all",
+    "seo": {
+        "title": "Professional Virtual Office Services in 650+ Locations",
+        "meta_description": "Search our nationwide directory of virtual office locations. Choose from over 650 cities starting at just $99/month.",
+        "canonical": "https://www.opusvirtualoffices.com/virtual-office/",
+        "og": {
+            "title": "Professional Virtual Office Services in 650+ Locations",
+            "description": "Search our nationwide directory of virtual office locations. Choose from over 650 cities starting at just $99/month.",
+            "url": "https://www.opusvirtualoffices.com/virtual-office/",
+            "type": "website",
+            "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+        }
+    },
+    "data": {
+        "mode": "virtual-office"
+    }
+}

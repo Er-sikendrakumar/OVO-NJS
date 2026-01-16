@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "location_id": 1171,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Windsor Heights",
+            "state": "IA",
+            "price": null,
+            "address": {
+                "line1": "6500 University Avenue",
+                "suite": null,
+                "city": "Windsor Heights",
+                "state": "IA",
+                "zip": "50324",
+                "phone": "(515) 221-2969"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/1Building68-422x550.jpg",
+                    "/wp-content-mgr/wp-content/uploads/2-6thFloorConference-656x550.jpg",
+                    "/wp-content-mgr/wp-content/uploads/3MeetingRoom18.jpg"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1171",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Windsor Heights Virtual Office",
+            "body": "Acquire an elegant business address in Windsor Heights without the financial burden of maintaining a physical space. Through Opus VO, place your venture at the heart of Windsor Heights’ vibrant community, all the while safeguarding your valuable resources. If crucial meetings or decisive client engagements are on the horizon, our state-of-the-art conference rooms are primed to make a lasting impression.  Embrace virtuality in Windsor Heights via Opus VO and gain the service of an attentive live receptionist as part of your regal package. We focus on ensuring every client interaction is a flawless extension of your own distinctive brand. Entrust us with your day-to-day administrative concerns, allowing you to set your sights on your lofty business goals. ",
+            "map": {
+                "lat": 41.6001508,
+                "lng": -93.7073798,
+                "zoom": 14,
+                "city": "Windsor Heights"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Windsor Heights, Iowa even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Windsor Heights. You can also adapt to better meet your clients’ unique needs within Iowa. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Windsor Heights virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Windsor Heights?",
+                "body": "Don’t underestimate Windsor Heights—this locale offers much more than just suburban tranquility. It’s an emerging hotspot for businesses across a spectrum of industries, providing fertile ground for network expansion and business growth. By establishing your base in Windsor Heights, you’re tapping into a wealth of industry connections and influential events that could propel your venture to greater heights.  Choosing Opus VO in Windsor Heights isn’t merely an economic decision; it’s a strategic triumph. Are you ready to amplify your business standing? Our top-tier virtual office services are eagerly awaiting your royal command.  Opus VO, Windsor Heights @ 6500 University Avenue, Windsor Heights, IA 50324 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Windsor Heights - 6500 University Avenue | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Iowa, Windsor Heights virtual office located at 6500 University Avenue. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/iowa/windsor-heights/location-1171/",
+            "og": {
+                "title": "Virtual Office in Windsor Heights - 6500 University Avenue | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Iowa, Windsor Heights virtual office located at 6500 University Avenue. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/iowa/windsor-heights/location-1171/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/1Building68.jpg"
+            }
+        }
+    }
+}

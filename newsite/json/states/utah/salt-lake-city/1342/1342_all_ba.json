@@ -1,0 +1,96 @@
+{
+    "success": true,
+    "location_id": 1342,
+    "mode": "business-address",
+    "data": {
+        "header": {
+            "city": "Salt Lake City",
+            "state": "UT",
+            "price": null,
+            "address": {
+                "line1": "159 West Broadway",
+                "suite": null,
+                "city": "Salt Lake City",
+                "state": "UT",
+                "zip": "84101",
+                "phone": "(801) 449-8232"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/1342_Salt_Lake_City_Utah_Opus_Virtual_Office_Building_1-800x534.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1342_Opus_Virtual_Office_Salt_Lake_City_UT_Building_-2_2-800x534.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1342_UT_Salt_Lake_City_Opus_Virtual_Office_Entry_3-550x550.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1342_Salt_Lake_City_Meeting_1_4-550x550.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1342_Salt_Lake_City_UT_Meeting2_5-550x550.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1342_Opus_Virtual_Office_Salt_Lake_City_Meeting3_6-550x550.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1342_Salt_Lake-_City_Reception_7-550x550.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1342_UT_Salt_Lake_City_Shared_8-494x550.jpg"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 1,
+            "addressOnlyUrl": "/business-address/utah/salt-lake-city/location-1342/",
+            "signupUrl": "/signup/?locid=1342",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 1,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Salt Lake City Virtual Office",
+            "body": "Enjoy the advantages of an esteemed business location in Salt Lake City without the economic weight of an actual physical workspace. Via our Opus VO platform, your business can have a presence in one of our exclusive Salt Lake City locales, all for a fraction of the expense of a conventional office lease. Leverage our state-of-the-art meeting spaces for vital client gatherings and team collaborations, all while elevating your brand with a distinguished Salt Lake City address.  When you opt for a virtual workspace in Salt Lake City through Opus VO, you also receive the exclusive benefit of a dedicated live receptionist. Our team, committed to delivering tailored, premium client service, ensures that every client engagement aligns with your individual business objectives. Delegate backend responsibilities such as electronic mail management and advanced call routing to us, allowing you to concentrate on scaling your business.   ",
+            "map": {
+                "lat": 40.7626543,
+                "lng": -111.8958533,
+                "zoom": 14,
+                "city": "Salt Lake City"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Salt Lake City, Utah even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Salt Lake City. You can also adapt to better meet your clients’ unique needs within Utah. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Salt Lake City virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Opt for a Virtual Office in Salt Lake City? ",
+                "body": "Salt Lake City is more than a picturesque locale in Utah; it’s a vibrant commercial nucleus with plentiful opportunities in industries like tech, healthcare, and retail. Situated in proximity to vital business hubs, our Salt Lake City locations provide you with quick access to essential industry connections and professional development events.  By selecting an Opus Virtual Office in Salt Lake City, you’re not just reducing your overhead; you’re gaining a significant edge over your competitors. Catapult your enterprise to unparalleled success by taking advantage of our first-class virtual workspace offerings today.  Opus VW Salt Lake City @ 159 West Broadway, Salt Lake City, UT 84101   ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Prestigious Business Address 159 West Broadway Salt Lake City | $59/month",
+            "meta_description": "Impress clients with a virtual office at 159 West Broadway Salt Lake City enjoy a prime location mail handling digital alerts and privacy for only $59/month",
+            "canonical": "https://www.opusvirtualoffices.com/business-address/utah/salt-lake-city/location-1342/",
+            "og": {
+                "title": "Prestigious Business Address 159 West Broadway Salt Lake City | $59/month",
+                "description": "Impress clients with a virtual office at 159 West Broadway Salt Lake City enjoy a prime location mail handling digital alerts and privacy for only $59/month",
+                "url": "https://www.opusvirtualoffices.com/business-address/utah/salt-lake-city/location-1342/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/1342_Salt_Lake_City_Utah_Opus_Virtual_Office_Building_1.jpg"
+            }
+        }
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "success": true,
+    "count": 6,
+    "state": "ontario",
+    "data": [
+        {
+            "id": "837",
+            "name": "Hamilton",
+            "popular": "0"
+        },
+        {
+            "id": "772",
+            "name": "Kitchener",
+            "popular": "0"
+        },
+        {
+            "id": "835",
+            "name": "London",
+            "popular": "0"
+        },
+        {
+            "id": "826",
+            "name": "Oakville",
+            "popular": "0"
+        },
+        {
+            "id": "605",
+            "name": "Ottawa",
+            "popular": "0"
+        },
+        {
+            "id": "580",
+            "name": "Toronto",
+            "popular": "0"
+        }
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "success": true,
+    "state": "hawaii",
+    "cities_virtual": [
+        {
+            "id": "813",
+            "name": "Honolulu",
+            "popular": "1"
+        },
+        {
+            "id": "754",
+            "name": "Kailua",
+            "popular": "1"
+        },
+        {
+            "id": "854",
+            "name": "Kailua Kona",
+            "popular": "1"
+        }
+    ],
+    "cities_business": [
+        {
+            "id": "754",
+            "name": "Kailua",
+            "popular": "1"
+        }
+    ],
+    "cities_popular": [
+        {
+            "id": "813",
+            "name": "Honolulu"
+        },
+        {
+            "id": "754",
+            "name": "Kailua"
+        },
+        {
+            "id": "854",
+            "name": "Kailua Kona"
+        }
+    ],
+    "locations_business_address": [
+        {
+            "id": 1397,
+            "location_name": "74 Kihapai Street, Kailua, HI 96734",
+            "city": "Kailua",
+            "state": "Hawaii",
+            "state_abbr": "HI",
+            "address": "74 Kihapai Street, Kailua, HI 96734",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 21.3948345,
+            "point_y": -157.7466723,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1397-01.bldg_.jpg",
+                "alttext": null
+            },
+            "url": "/business-address/hawaii/kailua/location-1397/",
+            "phone": "8083783266"
+        }
+    ],
+    "meta": {
+        "cities_virtual_count": 3,
+        "cities_business_count": 1,
+        "cities_popular_count": 3,
+        "locations_business_address_count": 1
+    },
+    "seo": {
+        "title": "Virtual Business Address in Hawaii | Opus Virtual Offices",
+        "meta_description": "Get a prestigious business address in Hawaii with Opus. Multiple premium locations statewide mail handling privacy protection all for just $59/month.",
+        "canonical": "https://www.opusvirtualoffices.com/business-address/hawaii/",
+        "og": {
+            "title": "Virtual Business Address in Hawaii | Opus Virtual Offices",
+            "description": "Get a prestigious business address in Hawaii with Opus. Multiple premium locations statewide mail handling privacy protection all for just $59/month.",
+            "url": "https://www.opusvirtualoffices.com/business-address/hawaii/",
+            "type": "website",
+            "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+        }
+    }
+}

@@ -1,0 +1,213 @@
+{
+    "success": true,
+    "state": "oklahoma",
+    "cities_virtual": [
+        {
+            "id": "472",
+            "name": "Edmond",
+            "popular": "1"
+        },
+        {
+            "id": "387",
+            "name": "Elk City",
+            "popular": "1"
+        },
+        {
+            "id": "246",
+            "name": "Oklahoma City",
+            "popular": "1"
+        },
+        {
+            "id": "410",
+            "name": "Owasso",
+            "popular": "1"
+        },
+        {
+            "id": "587",
+            "name": "Tulsa",
+            "popular": "1"
+        }
+    ],
+    "cities_business": [
+        {
+            "id": "246",
+            "name": "Oklahoma City",
+            "popular": "1"
+        }
+    ],
+    "cities_popular": [
+        {
+            "id": "472",
+            "name": "Edmond"
+        },
+        {
+            "id": "387",
+            "name": "Elk City"
+        },
+        {
+            "id": "246",
+            "name": "Oklahoma City"
+        },
+        {
+            "id": "410",
+            "name": "Owasso"
+        },
+        {
+            "id": "587",
+            "name": "Tulsa"
+        }
+    ],
+    "locations_virtual_office": [
+        {
+            "id": 741,
+            "location_name": "820 W. Danforth Rd., Edmond, OK 73003",
+            "city": "Edmond",
+            "state": "Oklahoma",
+            "state_abbr": "OK",
+            "address": "820 W. Danforth Rd., Edmond, OK 73003",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 35.667462,
+            "point_y": -97.494823,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/oklahoma/edmond/location-741/",
+            "phone": "4059961497"
+        },
+        {
+            "id": 632,
+            "location_name": "105 Janets Way, Elk City, OK 73644",
+            "city": "Elk City",
+            "state": "Oklahoma",
+            "state_abbr": "OK",
+            "address": "105 Janets Way, Elk City, OK 73644",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 35.410662,
+            "point_y": -99.439474,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/oklahoma/elk-city/location-632/",
+            "phone": "5803547429"
+        },
+        {
+            "id": 961,
+            "location_name": "10601 S. Western Avenue, Oklahoma City, OK 73170",
+            "city": "Oklahoma City",
+            "state": "Oklahoma",
+            "state_abbr": "OK",
+            "address": "10601 S. Western Avenue, Oklahoma City, OK 73170",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 35.3622422,
+            "point_y": -97.5318321,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/961-Exterior.jpeg",
+                "alttext": "Exterior of building that houses Opus Virtual Offices located in Oklahoma City, Oklahoma"
+            },
+            "url": "/virtual-office/oklahoma/oklahoma-city/location-961/",
+            "phone": "4059961683"
+        },
+        {
+            "id": 1555,
+            "location_name": "629 W Main Street, Oklahoma City, OK 73102",
+            "city": "Oklahoma City",
+            "state": "Oklahoma",
+            "state_abbr": "OK",
+            "address": "629 W Main Street, Oklahoma City, OK 73102",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 35.4679932,
+            "point_y": -97.52380219,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1555-01.bldg_.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/oklahoma/oklahoma-city/location-1555/",
+            "phone": "4056983506"
+        },
+        {
+            "id": 661,
+            "location_name": "8703-R N. Owasso Expwy., Owasso, OK 74055",
+            "city": "Owasso",
+            "state": "Oklahoma",
+            "state_abbr": "OK",
+            "address": "8703-R N. Owasso Expwy., Owasso, OK 74055",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 36.278661,
+            "point_y": -95.845655,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/oklahoma/owasso/location-661/",
+            "phone": "9184011352"
+        },
+        {
+            "id": 1088,
+            "location_name": "1408 S. Denver Avenue, Tulsa, OK 74119",
+            "city": "Tulsa",
+            "state": "Oklahoma",
+            "state_abbr": "OK",
+            "address": "1408 S. Denver Avenue, Tulsa, OK 74119",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 36.1422283,
+            "point_y": -95.9926607,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1088-001-Building.png",
+                "alttext": null
+            },
+            "url": "/virtual-office/oklahoma/tulsa/location-1088/",
+            "phone": "9189283227"
+        },
+        {
+            "id": 1264,
+            "location_name": "7122 S Sheridan Rd, Tulsa, OK 74133",
+            "city": "Tulsa",
+            "state": "Oklahoma",
+            "state_abbr": "OK",
+            "address": "7122 S Sheridan Rd, Tulsa, OK 74133",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 36.0601854,
+            "point_y": -95.90429519,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/oklahoma/tulsa/location-1264/",
+            "phone": "9189739082"
+        }
+    ],
+    "meta": {
+        "cities_virtual_count": 5,
+        "cities_business_count": 1,
+        "cities_popular_count": 5,
+        "locations_virtual_office_count": 7
+    },
+    "seo": {
+        "title": "Virtual Office in Oklahoma | Locations Statewide | Opus VO",
+        "meta_description": "Get a prestigious Oklahoma business address and professional phone answering services with Opus Virtual Offices, the perfect office solution for your business needs.",
+        "canonical": "https://www.opusvirtualoffices.com/virtual-office/oklahoma/",
+        "og": {
+            "title": "Virtual Office in Oklahoma | Locations Statewide | Opus VO",
+            "description": "Get a prestigious Oklahoma business address and professional phone answering services with Opus Virtual Offices, the perfect office solution for your business needs.",
+            "url": "https://www.opusvirtualoffices.com/virtual-office/oklahoma/",
+            "type": "website",
+            "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+        }
+    }
+}

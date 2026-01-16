@@ -1,0 +1,93 @@
+{
+    "success": true,
+    "location_id": 861,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Shelburne",
+            "state": "VT",
+            "price": null,
+            "address": {
+                "line1": "145 Pine Haven Shores",
+                "suite": null,
+                "city": "Shelburne",
+                "state": "VT",
+                "zip": "05482",
+                "phone": "(802) 922-9887"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/861-001-Building.jpg",
+                    "/wp-content-mgr/wp-content/uploads/Reception.jpg",
+                    "/wp-content-mgr/wp-content/uploads/Conference-Room.jpg",
+                    "/wp-content-mgr/wp-content/uploads/861-Reception.jpg",
+                    "/wp-content-mgr/wp-content/uploads/861-Conference-Room.jpg"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 1,
+            "addressOnlyUrl": "/business-address/vermont/shelburne/location-861/",
+            "signupUrl": "/signup/?locid=861",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 1,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Shelburne Virtual Office",
+            "body": "Reap the rewards of an illustrious business address in Shelburne without the financial toll of maintaining a physical office space. Through our Opus VO, your organization can gain a foothold in one of our premier Shelburne locations, all without the hefty price tag of a traditional office lease. Take advantage of our leading-edge meeting chambers for pivotal conversations and client rendezvous, while simultaneously elevating your brand via an esteemed Shelburne address.  Securing a virtual executive hub in Shelburne with Opus VO also entitles you to the unparalleled service of a devoted receptionist. Focused on rendering specialized, top-tier customer interactions, our team ensures each client engagement is perfectly tailored to align with your exclusive business objectives. Pass along administrative functions like virtual mail administration and adept call direction to us, liberating you to devote your energies to enlarging your enterprise. ",
+            "map": {
+                "lat": 44.4189163,
+                "lng": -73.2153202,
+                "zoom": 14,
+                "city": "Shelburne"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Shelburne, Vermont even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Shelburne. You can also adapt to better meet your clients’ unique needs within Vermont. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Shelburne virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Choose a Virtual Office in Shelburne?",
+                "body": "Shelburne is not merely a quaint New England town; it’s also an emerging entrepreneurial stage with ample opportunities in areas like tech, healthcare, and local commerce. Centrally positioned near key commercial arenas, our Shelburne venues provide you with swift access to vital industry stakeholders and career development occasions.  By opting for an Opus Virtual Office in Shelburne, you’re doing more than paring down your overhead; you’re seizing a distinct competitive edge. Propel your business to unforeseen peaks by leveraging our top-of-the-line virtual executive services today.  Opus VO Shelburne @ 145 Pine Haven Shores, Shelburne, VT 05482 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Shelburne - 145 Pine Haven Shores | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Vermont, Shelburne virtual office located at 145 Pine Haven Shores. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/vermont/shelburne/location-861/",
+            "og": {
+                "title": "Virtual Office in Shelburne - 145 Pine Haven Shores | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Vermont, Shelburne virtual office located at 145 Pine Haven Shores. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/vermont/shelburne/location-861/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/861-001-Building.jpg"
+            }
+        }
+    }
+}

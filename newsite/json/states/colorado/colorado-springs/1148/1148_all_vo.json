@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "location_id": 1148,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Colorado Springs",
+            "state": "CO",
+            "price": null,
+            "address": {
+                "line1": "985 Pico Point",
+                "suite": null,
+                "city": "Colorado Springs",
+                "state": "CO",
+                "zip": "80905",
+                "phone": "(719) 302-7967"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/1Building48-461x550.jpg",
+                    "/wp-content-mgr/wp-content/uploads/2Reception22-550x550.jpg",
+                    "/wp-content-mgr/wp-content/uploads/3Meeting-Room2-550x550.jpg"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1148",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Colorado Springs Virtual Office",
+            "body": "Get your hands on an impressive business address in Colorado Springs without the expense of a physical office. With Opus VO, you can anchor your enterprise in the heart of this dynamic city, all while saving those precious resources. Need a place for key client meetings or team collaborations? Our state-of-the-art conference rooms are at your disposal. And let’s be real, a Colorado Springs address adds a little extra zing to your business identity.  Choose to go virtual in Colorado Springs via Opus VO, and you’ll also be teamed up with a live receptionist committed to ensuring that every client interaction aligns seamlessly with your business brand and objectives. Leave the tedious admin stuff to us, freeing your focus for what really matters: scaling your business. ",
+            "map": {
+                "lat": 38.8188834,
+                "lng": -104.8413642,
+                "zoom": 14,
+                "city": "Colorado Springs"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Colorado Springs, Colorado even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Colorado Springs. You can also adapt to better meet your clients’ unique needs within Colorado. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Colorado Springs virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Colorado Springs?",
+                "body": "Don’t underestimate Colorado Springs—it’s far more than just a gateway to the Rockies. With a diverse economic landscape including military, tech, and healthcare sectors, Colorado Springs is a city on the move. Being located here means convenient access to essential industry contacts and not-to-be-missed networking events.  By picking Opus VO in Colorado Springs, you’re not merely slashing your operating expenses—you’re acquiring a significant edge over the competition. Ready to take things to the next level? We’re here with top-notch virtual office solutions to help you make it happen.  Opus VO Colorado Springs @ 985 Pico Point, Colorado Springs, CO 80905 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Colorado Springs - 985 Pico Point | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Colorado, Colorado Springs virtual office located at 985 Pico Point. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/colorado/colorado-springs/location-1148/",
+            "og": {
+                "title": "Virtual Office in Colorado Springs - 985 Pico Point | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Colorado, Colorado Springs virtual office located at 985 Pico Point. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/colorado/colorado-springs/location-1148/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/1Building48.jpg"
+            }
+        }
+    }
+}

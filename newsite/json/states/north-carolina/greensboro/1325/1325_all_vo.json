@@ -1,0 +1,94 @@
+{
+    "success": true,
+    "location_id": 1325,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Greensboro",
+            "state": "NC",
+            "price": null,
+            "address": {
+                "line1": "806 Green Valley Road",
+                "suite": null,
+                "city": "Greensboro",
+                "state": "NC",
+                "zip": "27408",
+                "phone": "(336) 603-5413"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/1325-01.Building-Virtual-Office-Greensboro-North-Carolina-800x523.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1325-02.Large-Meeting-Room-Greensboro-763x550.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1325-03.Mailboxes-Greensboro-387x550.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1325-04.Meeting-Room-Greensboro-800x500.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1325-05.Reception-Virtual-Office-Greensboro-North-Carolina.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1325-06.Shared-Space-Greensboro-740x550.jpg"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1325",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Greensboro Virtual Office",
+            "body": "Interested in having a prestigious Greensboro address without the commitments of a traditional office? Opus VO has the solution. Position your business in the heart of Greensboro’s dynamic business community while managing your expenses wisely. Our modern conference rooms are at your disposal for crucial meetings and collaborative sessions.  When you choose our virtual workspace in Greensboro, you’re not just securing a sought-after address. You’re also gaining access to a professional live receptionist who seamlessly integrates with your team. They ensure that every client interaction aligns with your unique brand identity, allowing us to manage routine administrative tasks while you focus on your core business objectives. ",
+            "map": {
+                "lat": 36.0909522,
+                "lng": -79.81592719,
+                "zoom": 14,
+                "city": "Greensboro"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Greensboro, North Carolina even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Greensboro. You can also adapt to better meet your clients’ unique needs within North Carolina. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Greensboro virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Greensboro?",
+                "body": "Greensboro is not just a thriving city; it’s a bustling business hub with opportunities spanning various sectors, including finance, healthcare, and technology. Having a Greensboro address not only elevates your business reputation but also provides access to valuable networking events and industry connections.  Opting for Opus VO for your virtual office in Greensboro is more than a practical choice; it’s a strategic advantage. Are you ready to elevate your business presence? Explore our exceptional virtual office solutions today.  Opus VO, Greensboro @ 806 Green Valley Road, Greensboro, NC 27408   ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Greensboro - 806 Green Valley Road | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our North Carolina, Greensboro virtual office located at 806 Green Valley Road. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/north-carolina/greensboro/location-1325/",
+            "og": {
+                "title": "Virtual Office in Greensboro - 806 Green Valley Road | $99/Month",
+                "description": "Get the ultimate office solution for your business with our North Carolina, Greensboro virtual office located at 806 Green Valley Road. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/north-carolina/greensboro/location-1325/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/1325-01.Building-Virtual-Office-Greensboro-North-Carolina.jpg"
+            }
+        }
+    }
+}

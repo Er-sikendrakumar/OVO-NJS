@@ -1,0 +1,89 @@
+{
+    "success": true,
+    "location_id": 542,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Key Biscayne",
+            "state": "FL",
+            "price": null,
+            "address": {
+                "line1": "77 Harbor Drive",
+                "suite": null,
+                "city": "Key Biscayne",
+                "state": "FL",
+                "zip": "33149",
+                "phone": "(305) 717-7623"
+            },
+            "images": {
+                "hero": [
+                    "/assets/mail-center.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=542",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 0,
+            "nearbyPremium": 1,
+            "nearbyPremiumUrl": "/virtual-office/florida/miami/location-1285/",
+            "nearbyPremiumText": "to view nearby PREMIUM Locations that offer Meeting Rooms for the same $99/mo",
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Key Biscayne Virtual Office",
+            "body": "Acquire a prime business address in Key Biscayne without having to pay top dollar for a physical office. With Opus VO, you can integrate your venture into this upscale community without draining your budget. Whenever you need to host high-stakes meetings or client consultations, you’ll have access to our modern and well-appointed conference rooms.  Selecting a virtual office in Key Biscayne via Opus VO comes with an additional benefit—a dedicated live receptionist who becomes a valuable team member of your company and ensures each client interaction is a seamless extension of your brand’s ethos, all the while delivering stellar customer service. Delegate the routine administrative duties to us, liberating you to concentrate on your business growth. ",
+            "map": {
+                "lat": 25.699191,
+                "lng": -80.162908,
+                "zoom": 14,
+                "city": "Key Biscayne"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Key Biscayne, Florida even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Key Biscayne. You can also adapt to better meet your clients’ unique needs within Florida. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Key Biscayne virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Key Biscayne?",
+                "body": "Key Biscayne isn’t just a picturesque locale; it’s a thriving hub for businesses across diverse sectors like tourism, real estate, and professional services. Our Key Biscayne setting offers you convenient proximity to key industry players and can’t-miss networking opportunities.  By opting for Opus VO in Key Biscayne, you’re doing more than reducing expenses—you’re gaining a competitive leg up. Ready to elevate your business? Our high-quality virtual office solutions are standing by for you.  Opus VO, Key Biscayne @ 77 Harbor Drive, Key Biscayne, FL 33149 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Key Biscayne - 77 Harbor Drive | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Florida, Key Biscayne virtual office located at 77 Harbor Drive. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/florida/key-biscayne/location-542/",
+            "og": {
+                "title": "Virtual Office in Key Biscayne - 77 Harbor Drive | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Florida, Key Biscayne virtual office located at 77 Harbor Drive. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/florida/key-biscayne/location-542/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+            }
+        }
+    }
+}

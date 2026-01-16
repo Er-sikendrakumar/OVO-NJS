@@ -1,0 +1,172 @@
+{
+    "success": true,
+    "state": "ontario",
+    "cities_virtual": [
+        {
+            "id": "837",
+            "name": "Hamilton",
+            "popular": "0"
+        },
+        {
+            "id": "772",
+            "name": "Kitchener",
+            "popular": "0"
+        },
+        {
+            "id": "835",
+            "name": "London",
+            "popular": "0"
+        },
+        {
+            "id": "826",
+            "name": "Oakville",
+            "popular": "0"
+        },
+        {
+            "id": "605",
+            "name": "Ottawa",
+            "popular": "0"
+        },
+        {
+            "id": "580",
+            "name": "Toronto",
+            "popular": "0"
+        }
+    ],
+    "cities_business": [],
+    "cities_popular": [],
+    "locations_virtual_office": [
+        {
+            "id": 1574,
+            "location_name": "2-558 Upper Gage Avenue, Hamilton, ON N6A 1A8",
+            "city": "Hamilton",
+            "state": "Ontario",
+            "state_abbr": "ON",
+            "address": "2-558 Upper Gage Avenue, Hamilton, ON N6A 1A8",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 43.2284714,
+            "point_y": -79.8393285,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/ontario/hamilton/location-1574/",
+            "phone": "9054720198"
+        },
+        {
+            "id": 1438,
+            "location_name": "290 King Street East, Kitchener, ON N2G 2L3",
+            "city": "Kitchener",
+            "state": "Ontario",
+            "state_abbr": "ON",
+            "address": "290 King Street East, Kitchener, ON N2G 2L3",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 43.4478784,
+            "point_y": -80.48414269,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1438-01.bldg_.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/ontario/kitchener/location-1438/",
+            "phone": "5484908035"
+        },
+        {
+            "id": 1572,
+            "location_name": "151 York Street, London, ON N6A 1A8",
+            "city": "London",
+            "state": "Ontario",
+            "state_abbr": "ON",
+            "address": "151 York Street, London, ON N6A 1A8",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 42.98095,
+            "point_y": -81.24924,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1572-01.bldg_.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/ontario/london/location-1572/",
+            "phone": "5484909031"
+        },
+        {
+            "id": 1557,
+            "location_name": "2275 Upper Middle Road East, Oakville, ON L6H0C3",
+            "city": "Oakville",
+            "state": "Ontario",
+            "state_abbr": "ON",
+            "address": "2275 Upper Middle Road East, Oakville, ON L6H0C3",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 43.504436299,
+            "point_y": -79.671928,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1557-001-Building-e1709935879169.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/ontario/oakville/location-1557/",
+            "phone": "9053670218"
+        },
+        {
+            "id": 1039,
+            "location_name": "78 George Street, Ottawa, ON K1N 5W1",
+            "city": "Ottawa",
+            "state": "Ontario",
+            "state_abbr": "ON",
+            "address": "78 George Street, Ottawa, ON K1N 5W1",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 45.4272311,
+            "point_y": -75.69136979,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1039-01.Building-2.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/ontario/ottawa/location-1039/",
+            "phone": "6137029267"
+        },
+        {
+            "id": 1431,
+            "location_name": "18 King Street East, Toronto, ON M5C 1C4",
+            "city": "Toronto",
+            "state": "Ontario",
+            "state_abbr": "ON",
+            "address": "18 King Street East, Toronto, ON M5C 1C4",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 43.6496485,
+            "point_y": -79.3770895,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1431-01-Building-e1709837845183.png",
+                "alttext": null
+            },
+            "url": "/virtual-office/ontario/toronto/location-1431/",
+            "phone": "6477243804"
+        }
+    ],
+    "meta": {
+        "cities_virtual_count": 6,
+        "cities_business_count": 0,
+        "cities_popular_count": 0,
+        "locations_virtual_office_count": 6
+    },
+    "seo": {
+        "title": "Virtual Office in Ontario | Locations Statewide | Opus VO",
+        "meta_description": "Get a prestigious Ontario business address and professional phone answering services with Opus Virtual Offices, the perfect office solution for your business needs.",
+        "canonical": "https://www.opusvirtualoffices.com/virtual-office/ontario/",
+        "og": {
+            "title": "Virtual Office in Ontario | Locations Statewide | Opus VO",
+            "description": "Get a prestigious Ontario business address and professional phone answering services with Opus Virtual Offices, the perfect office solution for your business needs.",
+            "url": "https://www.opusvirtualoffices.com/virtual-office/ontario/",
+            "type": "website",
+            "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+        }
+    }
+}

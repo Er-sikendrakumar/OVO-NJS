@@ -1,0 +1,65 @@
+{
+    "success": true,
+    "count": 3,
+    "state": "utah",
+    "mode": "virtual-office",
+    "data": [
+        {
+            "id": 1764,
+            "location_name": "1145 S 800 East, Orem, UT 84097",
+            "city": "Orem",
+            "state": "Utah",
+            "state_abbr": "UT",
+            "address": "1145 S 800 East, Orem, UT 84097",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 40.2760666,
+            "point_y": -111.6753883,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1764-Exterior.jpg",
+                "alttext": "Exterior of building that houses Opus Virtual Offices located in Orem, Utah"
+            },
+            "url": "/virtual-office/utah/orem/location-1764/",
+            "phone": "8014498236"
+        },
+        {
+            "id": 1342,
+            "location_name": "159 West Broadway, Salt Lake City, UT 84101",
+            "city": "Salt Lake City",
+            "state": "Utah",
+            "state_abbr": "UT",
+            "address": "159 West Broadway, Salt Lake City, UT 84101",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 40.7626543,
+            "point_y": -111.8958533,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1342_Salt_Lake_City_Utah_Opus_Virtual_Office_Building_1.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/utah/salt-lake-city/location-1342/",
+            "phone": "8014498232"
+        },
+        {
+            "id": 423,
+            "location_name": "3556 South 5600 West, West Valley City, UT 84120",
+            "city": "West Valley City",
+            "state": "Utah",
+            "state_abbr": "UT",
+            "address": "3556 South 5600 West, West Valley City, UT 84120",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 40.695203,
+            "point_y": -112.024861,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/utah/west-valley-city/location-423/",
+            "phone": "8014498233"
+        }
+    ]
+}

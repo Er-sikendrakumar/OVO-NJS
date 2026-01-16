@@ -1,0 +1,99 @@
+{
+    "success": true,
+    "state": "oklahoma",
+    "cities_virtual": [
+        {
+            "id": "472",
+            "name": "Edmond",
+            "popular": "1"
+        },
+        {
+            "id": "387",
+            "name": "Elk City",
+            "popular": "1"
+        },
+        {
+            "id": "246",
+            "name": "Oklahoma City",
+            "popular": "1"
+        },
+        {
+            "id": "410",
+            "name": "Owasso",
+            "popular": "1"
+        },
+        {
+            "id": "587",
+            "name": "Tulsa",
+            "popular": "1"
+        }
+    ],
+    "cities_business": [
+        {
+            "id": "246",
+            "name": "Oklahoma City",
+            "popular": "1"
+        }
+    ],
+    "cities_popular": [
+        {
+            "id": "472",
+            "name": "Edmond"
+        },
+        {
+            "id": "387",
+            "name": "Elk City"
+        },
+        {
+            "id": "246",
+            "name": "Oklahoma City"
+        },
+        {
+            "id": "410",
+            "name": "Owasso"
+        },
+        {
+            "id": "587",
+            "name": "Tulsa"
+        }
+    ],
+    "locations_business_address": [
+        {
+            "id": 1555,
+            "location_name": "629 W Main Street, Oklahoma City, OK 73102",
+            "city": "Oklahoma City",
+            "state": "Oklahoma",
+            "state_abbr": "OK",
+            "address": "629 W Main Street, Oklahoma City, OK 73102",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 35.4679932,
+            "point_y": -97.52380219,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1555-01.bldg_.jpg",
+                "alttext": null
+            },
+            "url": "/business-address/oklahoma/oklahoma-city/location-1555/",
+            "phone": "4056983506"
+        }
+    ],
+    "meta": {
+        "cities_virtual_count": 5,
+        "cities_business_count": 1,
+        "cities_popular_count": 5,
+        "locations_business_address_count": 1
+    },
+    "seo": {
+        "title": "Virtual Business Address in Oklahoma | Opus Virtual Offices",
+        "meta_description": "Get a prestigious business address in Oklahoma with Opus. Multiple premium locations statewide mail handling privacy protection all for just $59/month.",
+        "canonical": "https://www.opusvirtualoffices.com/business-address/oklahoma/",
+        "og": {
+            "title": "Virtual Business Address in Oklahoma | Opus Virtual Offices",
+            "description": "Get a prestigious business address in Oklahoma with Opus. Multiple premium locations statewide mail handling privacy protection all for just $59/month.",
+            "url": "https://www.opusvirtualoffices.com/business-address/oklahoma/",
+            "type": "website",
+            "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+        }
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "success": true,
+    "count": 11,
+    "state": "colorado",
+    "data": [
+        {
+            "id": "189",
+            "name": "Arvada",
+            "popular": "0"
+        },
+        {
+            "id": "507",
+            "name": "Boulder",
+            "popular": "1"
+        },
+        {
+            "id": "508",
+            "name": "Brighton",
+            "popular": "0"
+        },
+        {
+            "id": "510",
+            "name": "Broomfield",
+            "popular": "0"
+        },
+        {
+            "id": "379",
+            "name": "Colorado Springs",
+            "popular": "1"
+        },
+        {
+            "id": "211",
+            "name": "Denver",
+            "popular": "1"
+        },
+        {
+            "id": "520",
+            "name": "Fort Collins",
+            "popular": "0"
+        },
+        {
+            "id": "807",
+            "name": "Golden",
+            "popular": "0"
+        },
+        {
+            "id": "899",
+            "name": "Littleton",
+            "popular": "0"
+        },
+        {
+            "id": "808",
+            "name": "Longmont",
+            "popular": "0"
+        },
+        {
+            "id": "806",
+            "name": "Louisville",
+            "popular": "0"
+        }
+    ]
+}

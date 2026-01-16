@@ -1,0 +1,111 @@
+{
+    "success": true,
+    "state": "louisiana",
+    "cities_virtual": [
+        {
+            "id": "208",
+            "name": "Baton Rouge",
+            "popular": "1"
+        },
+        {
+            "id": "788",
+            "name": "Carencro",
+            "popular": "0"
+        },
+        {
+            "id": "815",
+            "name": "Gretna",
+            "popular": "0"
+        },
+        {
+            "id": "777",
+            "name": "Hammond",
+            "popular": "0"
+        },
+        {
+            "id": "118",
+            "name": "Houma",
+            "popular": "0"
+        },
+        {
+            "id": "206",
+            "name": "Lafayette",
+            "popular": "1"
+        },
+        {
+            "id": "871",
+            "name": "Marrero",
+            "popular": "0"
+        },
+        {
+            "id": "126",
+            "name": "New Orleans",
+            "popular": "1"
+        },
+        {
+            "id": "696",
+            "name": "Shreveport",
+            "popular": "0"
+        }
+    ],
+    "cities_business": [
+        {
+            "id": "126",
+            "name": "New Orleans",
+            "popular": "1"
+        }
+    ],
+    "cities_popular": [
+        {
+            "id": "208",
+            "name": "Baton Rouge"
+        },
+        {
+            "id": "206",
+            "name": "Lafayette"
+        },
+        {
+            "id": "126",
+            "name": "New Orleans"
+        }
+    ],
+    "locations_business_address": [
+        {
+            "id": 1381,
+            "location_name": "3205 Orleans Avenue, New Orleans, LA 70119",
+            "city": "New Orleans",
+            "state": "Louisiana",
+            "state_abbr": "LA",
+            "address": "3205 Orleans Avenue, New Orleans, LA 70119",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 29.9747445,
+            "point_y": -90.0883448,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1381-01.building.jpg",
+                "alttext": null
+            },
+            "url": "/business-address/louisiana/new-orleans/location-1381/",
+            "phone": "5048723853"
+        }
+    ],
+    "meta": {
+        "cities_virtual_count": 9,
+        "cities_business_count": 1,
+        "cities_popular_count": 3,
+        "locations_business_address_count": 1
+    },
+    "seo": {
+        "title": "Virtual Business Address in Louisiana | Opus Virtual Offices",
+        "meta_description": "Get a prestigious business address in Louisiana with Opus. Multiple premium locations statewide mail handling privacy protection all for just $59/month.",
+        "canonical": "https://www.opusvirtualoffices.com/business-address/louisiana/",
+        "og": {
+            "title": "Virtual Business Address in Louisiana | Opus Virtual Offices",
+            "description": "Get a prestigious business address in Louisiana with Opus. Multiple premium locations statewide mail handling privacy protection all for just $59/month.",
+            "url": "https://www.opusvirtualoffices.com/business-address/louisiana/",
+            "type": "website",
+            "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+        }
+    }
+}

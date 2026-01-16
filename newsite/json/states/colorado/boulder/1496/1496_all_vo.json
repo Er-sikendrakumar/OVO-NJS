@@ -1,0 +1,94 @@
+{
+    "success": true,
+    "location_id": 1496,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Boulder",
+            "state": "CO",
+            "price": null,
+            "address": {
+                "line1": "4845 Pearl East Circle",
+                "suite": null,
+                "city": "Boulder",
+                "state": "CO",
+                "zip": "80301",
+                "phone": "(303) 997-3327"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/1496-exterior.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1496-conference.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1496-conference2.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1496-conference3.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1496-reception.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1496-kitchen.jpg"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1496",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Boulder Virtual Office",
+            "body": "Score a top-notch Boulder address without breaking the bank on a physical workspace. With Opus VO, you can park your business in the center of Boulder’s vibrant commercial scene, all without tapping into your savings. Got a high-stakes meeting or a client catch-up on the books? Our cutting-edge conference rooms have you covered. Plus, a Boulder address is a surefire way to amp up your brand’s credibility.  When you go virtual in Boulder through Opus VO, a live receptionist is part of the package. Our goal is to make every client interaction smooth and in line with your distinct business vibe. Send those humdrum admin jobs our way, and free up your time for what really matters—like scaling your business to new heights. ",
+            "map": {
+                "lat": 40.0217348,
+                "lng": -105.2407187,
+                "zoom": 14,
+                "city": "Boulder"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Boulder, Colorado even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Boulder. You can also adapt to better meet your clients’ unique needs within Colorado. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Boulder virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Boulder?",
+                "body": "Boulder isn’t just a haven for outdoor enthusiasts; it’s a thriving business community with diverse sectors such as tech, sustainability, and retail. Our strategic Boulder location plugs you into vital industry connections and networking events that you won’t want to miss.  By opting for Opus VO in Boulder, you’re doing more than just saving on overhead—you’re snagging a competitive edge. Ready to kick things up a notch? Our top-tier virtual office services are at your fingertips.  Opus VO Boulder @ 4845 Pearl East Circle, Boulder, CO 80301 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Boulder - 4845 Pearl East Circle | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Colorado, Boulder virtual office located at 4845 Pearl East Circle. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/colorado/boulder/location-1496/",
+            "og": {
+                "title": "Virtual Office in Boulder - 4845 Pearl East Circle | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Colorado, Boulder virtual office located at 4845 Pearl East Circle. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/colorado/boulder/location-1496/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/1496-exterior.jpg"
+            }
+        }
+    }
+}

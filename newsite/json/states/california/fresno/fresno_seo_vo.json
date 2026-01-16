@@ -1,0 +1,23 @@
+{
+    "success": true,
+    "page": "virtual-office/california/fresno",
+    "page_type": "location_city",
+    "view": "city",
+    "seo": {
+        "title": "Virtual Office in Fresno, CA | Multiple Locations Available",
+        "meta_description": "Find the ultimate office solution with Opus Virtual Offices in Fresno, California. Our all-inclusive virtual offices cater to your business needs. Sign up today!",
+        "canonical": "https://www.opusvirtualoffices.com/virtual-office/california/fresno/",
+        "og": {
+            "title": "Virtual Office in Fresno, CA | Multiple Locations Available",
+            "description": "Find the ultimate office solution with Opus Virtual Offices in Fresno, California. Our all-inclusive virtual offices cater to your business needs. Sign up today!",
+            "url": "https://www.opusvirtualoffices.com/virtual-office/california/fresno/",
+            "type": "website",
+            "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+        }
+    },
+    "data": {
+        "state": "California",
+        "city": "Fresno",
+        "mode": "virtual-office"
+    }
+}

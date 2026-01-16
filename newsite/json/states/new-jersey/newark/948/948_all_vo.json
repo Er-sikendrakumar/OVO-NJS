@@ -1,0 +1,89 @@
+{
+    "success": true,
+    "location_id": 948,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Newark",
+            "state": "NJ",
+            "price": null,
+            "address": {
+                "line1": "110 Jabez Street",
+                "suite": null,
+                "city": "Newark",
+                "state": "NJ",
+                "zip": "07105",
+                "phone": "(973) 735-9276"
+            },
+            "images": {
+                "hero": [
+                    "/assets/mail-center.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=948",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 0,
+            "nearbyPremium": 1,
+            "nearbyPremiumUrl": "/virtual-office/new-york/new-york/location-1450/",
+            "nearbyPremiumText": "to view nearby PREMIUM Locations that offer Meeting Rooms for the same $99/mo",
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Newark Virtual Office",
+            "body": "Interested in claiming a high-profile Newark address but want to skip the burden of an actual office? Opus VO is your golden ticket. Place your business within Newark’s bustling commercial center while keeping your expenditures lean. For those must-attend meetings or strategy sessions, our advanced conference rooms are available for booking.  By going with our virtual workspace in Newark, you secure more than just a prestigious address. You also get a live receptionist who will merge seamlessly with your team. They’ll ensure each client engagement reflects your brand’s unique character, enabling us to handle day-to-day admin work while you steer your primary business goals. ",
+            "map": {
+                "lat": 40.72161,
+                "lng": -74.1507746,
+                "zoom": 14,
+                "city": "Newark"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Newark, New Jersey even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Newark. You can also adapt to better meet your clients’ unique needs within New Jersey. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Newark virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Newark?",
+                "body": "Newark is not just a city near New York; it’s a thriving business hub in its own right, with sectors ranging from tech to finance to healthcare. A Newark address lends added weight to your business and grants you access to high-value networking events and influential industry figures.  Opting for Opus VO for your virtual workspace in Newark isn’t just smart logistics; it’s a bona fide competitive edge. Are you set to uplift your business profile? Check out our array of versatile virtual workspace options today.  Choose from two Opus VO locations in Newark @ 110 Jabez Street, Newark, NJ 07105, or 188 Jefferson Street, Newark, NJ 07105 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Newark - 110 Jabez Street | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our New Jersey, Newark virtual office located at 110 Jabez Street. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/new-jersey/newark/location-948/",
+            "og": {
+                "title": "Virtual Office in Newark - 110 Jabez Street | $99/Month",
+                "description": "Get the ultimate office solution for your business with our New Jersey, Newark virtual office located at 110 Jabez Street. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/new-jersey/newark/location-948/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+            }
+        }
+    }
+}

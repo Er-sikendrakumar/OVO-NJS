@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "location_id": 1078,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Harrisburg",
+            "state": "PA",
+            "price": null,
+            "address": {
+                "line1": "2225 Sycamore Street",
+                "suite": null,
+                "city": "Harrisburg",
+                "state": "PA",
+                "zip": "17111",
+                "phone": "(717) 553-0683"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/11111111Reception-800x534.jpg",
+                    "/wp-content-mgr/wp-content/uploads/Board-Room16-754x550.jpg",
+                    "/wp-content-mgr/wp-content/uploads/Conference-Room12-769x550.jpg"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1078",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Harrisburg Virtual Office",
+            "body": "Enjoy the benefits of a prestigious business address in Harrisburg without the complications or financial obligations associated with a traditional office setup. Opus VO enables you to position your business in an exclusive Harrisburg locale at a fraction of the cost of a standard office lease. Coordinate business affairs, meet with clients, and host corporate events in our modern, fully-equipped conference rooms. Enhance your brand’s reputation with a distinguished address in one of Harrisburg’s prime business areas.  Selecting a virtual office in Harrisburg through Opus VO grants you the distinct advantage of a live receptionist committed to delivering individualized, top-notch client service. Each customer interaction is carefully calibrated to align with your unique business goals, fortified by our wide array of administrative offerings. These services extend from complete mail handling to advanced call-forwarding capabilities, amongst other services. Our expert administrative team will oversee your day-to-day tasks, giving you the freedom to focus on your company’s strategic development and growth. ",
+            "map": {
+                "lat": 40.254261,
+                "lng": -76.8480417,
+                "zoom": 14,
+                "city": "Harrisburg"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Harrisburg, Pennsylvania even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Harrisburg. You can also adapt to better meet your clients’ unique needs within Pennsylvania. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Harrisburg virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why choose for a Harrisburg Virtual Office?",
+                "body": "Harrisburg is more than just the capital of Pennsylvania; it’s an emerging center for various industries such as government, healthcare, and technology. By establishing your business in this vibrant marketplace, you can take advantage of local opportunities that have the potential to significantly boost your revenue. Strategically situated near essential business hubs and specialized networking events, our Harrisburg location affords you effortless access to key industry contacts and valuable networking opportunities.  By choosing an Opus Virtual Office in Harrisburg, you’re doing more than simply cutting costs; you’re also growing your business with a competitive edge. Take your business to unprecedented heights by leveraging our first-class virtual office solutions today.  Opus VO, Harrisburg @ 2225 Sycamore Street Harrisburg, PA 17111   ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Harrisburg - 2225 Sycamore Street | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Pennsylvania, Harrisburg virtual office located at 2225 Sycamore Street. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/pennsylvania/harrisburg/location-1078/",
+            "og": {
+                "title": "Virtual Office in Harrisburg - 2225 Sycamore Street | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Pennsylvania, Harrisburg virtual office located at 2225 Sycamore Street. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/pennsylvania/harrisburg/location-1078/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/11111111Reception.jpg"
+            }
+        }
+    }
+}

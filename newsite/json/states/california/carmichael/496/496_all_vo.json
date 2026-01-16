@@ -1,0 +1,89 @@
+{
+    "success": true,
+    "location_id": 496,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Carmichael",
+            "state": "CA",
+            "price": null,
+            "address": {
+                "line1": "4005 Manzanita Avenue",
+                "suite": null,
+                "city": "Carmichael",
+                "state": "CA",
+                "zip": "95608",
+                "phone": "(916) 282-2138"
+            },
+            "images": {
+                "hero": [
+                    "/assets/mail-center.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=496",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 0,
+            "nearbyPremium": 1,
+            "nearbyPremiumUrl": "/virtual-office/california/sacramento/location-815/",
+            "nearbyPremiumText": "to view the nearby PREMIUM Locations for the same $99/mo",
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Carmichael Virtual Office",
+            "body": "Enjoy the distinction of an illustrious business address in Carmichael without the financial constraints of maintaining a physical office. Opus VO presents you with the exclusive opportunity to locate your business in a prime Carmichael setting, all for a fraction of the cost of a standard office lease. Utilize our state-of-the-art conference rooms for business meetings and client engagements while enhancing your brand’s prestige through a prestigious Carmichael address.  Choosing a virtual office in Carmichael via Opus VO gives you a live receptionist and exceptional customer service. Our team ensures each client interaction resonates perfectly with your particular business goals. Offload mundane administrative tasks like digital mail management and complete call-forwarding to us, giving you the freedom to focus on your business growth. ",
+            "map": {
+                "lat": 38.6378121,
+                "lng": -121.3295125,
+                "zoom": 14,
+                "city": "Carmichael"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Carmichael, California even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Carmichael. You can also adapt to better meet your clients’ unique needs within California. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Carmichael virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why opt for a Carmichael Virtual Office?",
+                "body": "Carmichael is not simply a suburb of Sacramento; it’s a blossoming center of commerce, abundant in opportunities, particularly in industries like healthcare, technology, and professional services. Conveniently located near key commercial areas, our Carmichael offices give you effortless access to business associates and networking events.  By selecting an Opus Virtual Office in Carmichael, you’re doing more than lowering your operating expenses; you’re gaining an invaluable competitive advantage. Lift your business to new heights by leveraging our outstanding virtual office services today.  Opus VO Carmichael @ 4005 Manzanita Avenue, Carmichael, CA 95608  ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Carmichael - 4005 Manzanita Avenue | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our California, Carmichael virtual office located at 4005 Manzanita Avenue. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/california/carmichael/location-496/",
+            "og": {
+                "title": "Virtual Office in Carmichael - 4005 Manzanita Avenue | $99/Month",
+                "description": "Get the ultimate office solution for your business with our California, Carmichael virtual office located at 4005 Manzanita Avenue. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/california/carmichael/location-496/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+            }
+        }
+    }
+}

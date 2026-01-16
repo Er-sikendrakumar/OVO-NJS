@@ -1,0 +1,95 @@
+{
+    "success": true,
+    "location_id": 1037,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Pembroke Pines",
+            "state": "FL",
+            "price": null,
+            "address": {
+                "line1": "18503 Pines Boulevard",
+                "suite": null,
+                "city": "Pembroke Pines",
+                "state": "FL",
+                "zip": "33029",
+                "phone": "(954) 691-9362"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/1037-building-5.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1037-building-2.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1037-building-4-800x464.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1037-entry-800x533.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1037-meeting-room-800x533.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1037-reception-800x450.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1037-shared-space-800x533.jpg"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1037",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 1,
+            "nearbyPremiumUrl": "/virtual-office/florida/fort-lauderdale/location-803/",
+            "nearbyPremiumText": "to view the most POPULAR locations nearby for the same $99/mo",
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Pembroke Pines Virtual Office",
+            "body": "Land an impressive business address in Pembroke Pines without breaking the bank on a physical office. With Opus VO, you can situate your venture in the heart of Pembroke Pines, all the while conserving your financial assets. Have a crucial meeting or a client pitch that needs to wow? Our state-of-the-art conference rooms are your backdrop for success.  Go virtual in Pembroke Pines via Opus VO, and a devoted live receptionist is part of your deal. They will ensure each interaction with your clients resonates with your distinct brand personality. Hand over your regular admin duties to us, letting you focus on achieving your entrepreneurial goals. ",
+            "map": {
+                "lat": 26.0108091,
+                "lng": -80.396025,
+                "zoom": 14,
+                "city": "Pembroke Pines"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Pembroke Pines, Florida even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Pembroke Pines. You can also adapt to better meet your clients’ unique needs within Florida. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Pembroke Pines virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Pembroke Pines?",
+                "body": "Pembroke Pines is more than a pleasant community; it’s an emerging nexus for various industries from healthcare to technology. By claiming a business address in Pembroke Pines, you tap into a network rich in industry influencers and dynamic events.  Choosing Opus VO in Pembroke Pines is not merely a cost-saving measure—it’s a strategic advantage. Ready to catapult your business into the big league? Our exceptional virtual office services are standing by to elevate your operations.  Choose from two of our Opus VO locations in Pembroke Pines @ 18503 Pines Boulevard, Pembroke Pines, FL 33029 or 1931 NW 150th Avenue, Pembroke Pines, FL 33028 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Pembroke Pines - 18503 Pines Boulevard | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Florida, Pembroke Pines virtual office located at 18503 Pines Boulevard. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/florida/pembroke-pines/location-1037/",
+            "og": {
+                "title": "Virtual Office in Pembroke Pines - 18503 Pines Boulevard | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Florida, Pembroke Pines virtual office located at 18503 Pines Boulevard. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/florida/pembroke-pines/location-1037/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/1037-building-5.jpg"
+            }
+        }
+    }
+}

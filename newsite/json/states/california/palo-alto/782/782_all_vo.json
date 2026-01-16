@@ -1,0 +1,89 @@
+{
+    "success": true,
+    "location_id": 782,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Palo Alto",
+            "state": "CA",
+            "price": null,
+            "address": {
+                "line1": "3790 El Camino Real",
+                "suite": null,
+                "city": "Palo Alto",
+                "state": "CA",
+                "zip": "94306",
+                "phone": "(650) 240-8486"
+            },
+            "images": {
+                "hero": [
+                    "/assets/mail-center.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=782",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 0,
+            "nearbyPremium": 1,
+            "nearbyPremiumUrl": "/virtual-office/california/san-jose/location-1447/",
+            "nearbyPremiumText": "to view the nearby PREMIUM Locations for the same $99/mo",
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Palo Alto Virtual Office",
+            "body": "Savor the distinction of a prominent business address in Palo Alto, all without the financial burden of a physical office. Opus VO extends to you the exclusive chance to base your business in a first-rate Palo Alto location, at a cost significantly lower than a traditional office lease. Access our modern conference rooms for business meetings and client interactions, while elevating your brand with an esteemed Palo Alto address.  Selecting a virtual office in Palo Alto via Opus VO bestows upon you the special service of a live receptionist. Committed to delivering personalized, top-tier customer service, our team works diligently to ensure each client engagement is perfectly in tune with your unique business ambitions. Relieve yourself of mundane administrative responsibilities like complete mail management and enhanced call handling by delegating them to us, allowing you the freedom to focus on advancing your business. ",
+            "map": {
+                "lat": 37.417618,
+                "lng": -122.131775,
+                "zoom": 14,
+                "city": "Palo Alto"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Palo Alto, California even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Palo Alto. You can also adapt to better meet your clients’ unique needs within California. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Palo Alto virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Choose a Palo Alto Virtual Office?",
+                "body": "Palo Alto is not merely a hub of technological innovation; it’s a thriving business community with ample opportunities in areas like technology, healthcare, and education. Strategically situated near key business areas, our Palo Alto location grants you effortless access to invaluable industry contacts and enriching networking events.  By choosing an Opus Virtual Office in Palo Alto, you’re doing more than just trimming operational expenses; you’re acquiring a substantial competitive advantage. Propel your business to new heights of success by utilizing our superior virtual office services today.  Opus VO Palo Alto @ 3790 El Camino Real, Palo Alto, CA 94306 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Palo Alto - 3790 El Camino Real | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our California, Palo Alto virtual office located at 3790 El Camino Real. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/california/palo-alto/location-782/",
+            "og": {
+                "title": "Virtual Office in Palo Alto - 3790 El Camino Real | $99/Month",
+                "description": "Get the ultimate office solution for your business with our California, Palo Alto virtual office located at 3790 El Camino Real. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/california/palo-alto/location-782/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+            }
+        }
+    }
+}

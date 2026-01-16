@@ -1,0 +1,65 @@
+{
+    "success": true,
+    "count": 3,
+    "state": "mississippi",
+    "mode": "virtual-office",
+    "data": [
+        {
+            "id": 1127,
+            "location_name": "296 Beauvoir Road, Biloxi, MS 39531",
+            "city": "Biloxi",
+            "state": "Mississippi",
+            "state_abbr": "MS",
+            "address": "296 Beauvoir Road, Biloxi, MS 39531",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 30.4018868,
+            "point_y": -88.9724133,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/mississippi/biloxi/location-1127/",
+            "phone": "2282803312"
+        },
+        {
+            "id": 1610,
+            "location_name": "1822 15th Street, Gulfport, MS 39501",
+            "city": "Gulfport",
+            "state": "Mississippi",
+            "state_abbr": "MS",
+            "address": "1822 15th Street, Gulfport, MS 39501",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 30.369532499,
+            "point_y": -89.08465369,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1610-01.bldg_.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/mississippi/gulfport/location-1610/",
+            "phone": "2282269181"
+        },
+        {
+            "id": 1258,
+            "location_name": "4780 I-55 N, Jackson, MS 39211",
+            "city": "Jackson",
+            "state": "Mississippi",
+            "state_abbr": "MS",
+            "address": "4780 I-55 N, Jackson, MS 39211",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 32.3598283,
+            "point_y": -90.1493821,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1258-001-Building.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/mississippi/jackson/location-1258/",
+            "phone": "6017249582"
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "success": true,
+    "location_id": 1540,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Asbury Park",
+            "state": "NJ",
+            "price": null,
+            "address": {
+                "line1": "808 Springwood Avenue",
+                "suite": null,
+                "city": "Asbury Park",
+                "state": "NJ",
+                "zip": "07712",
+                "phone": "(732) 913-0602"
+            },
+            "images": {
+                "hero": [
+                    "/assets/mail-center.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1540",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 0,
+            "nearbyPremium": 1,
+            "nearbyPremiumUrl": "/virtual-office/new-jersey/middletown/location-1115/",
+            "nearbyPremiumText": "to view the nearby PREMIUM Locations for the same $99/mo",
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Asbury Park Virtual Office",
+            "body": "Want to secure an impressive Asbury Park address without dealing with the overhead of an actual office? Opus VO has you covered. Place your business in the dynamic commercial landscape of Asbury Park while keeping your expenses manageable. Our cutting-edge conference rooms are available for those pivotal meetings and collaborations.  When you opt for our virtual workspace in Asbury Park, you’re getting more than just a coveted address. You’ll also have a professional live receptionist who integrates effortlessly with your team. They’ll make sure each interaction with your clients maintains the unique essence of your brand, freeing you to focus on achieving your primary business objectives. ",
+            "map": {
+                "lat": 40.2149349,
+                "lng": -74.0143335,
+                "zoom": 14,
+                "city": "Asbury Park"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Asbury Park, New Jersey even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Asbury Park. You can also adapt to better meet your clients’ unique needs within New Jersey. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Asbury Park virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Asbury Park?",
+                "body": "Asbury Park isn’t just a cool beachside locale; it’s a burgeoning business community spanning industries like tech, arts, and hospitality. An Asbury Park address doesn’t just look good on your business card—it also connects you to great networking opportunities and industry influencers.  Choosing Opus VO for your virtual workspace in Asbury Park is more than a convenient option; it’s a tactical advantage. Are you ready to up your business game? Discover our top-quality virtual workspace packages today.  Opus VO, Asbury Park @ 808 Springwood Avenue, Asbury Park, NJ 07712 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Asbury Park - 808 Springwood Avenue | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our New Jersey, Asbury Park virtual office located at 808 Springwood Avenue. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/new-jersey/asbury-park/location-1540/",
+            "og": {
+                "title": "Virtual Office in Asbury Park - 808 Springwood Avenue | $99/Month",
+                "description": "Get the ultimate office solution for your business with our New Jersey, Asbury Park virtual office located at 808 Springwood Avenue. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/new-jersey/asbury-park/location-1540/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+            }
+        }
+    }
+}

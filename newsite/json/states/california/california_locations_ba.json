@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "count": 5,
+    "state": "california",
+    "mode": "business-address",
+    "data": [
+        {
+            "id": 1362,
+            "location_name": "626 Wilshire Blvd, Suite 410, Los Angeles, CA 90017",
+            "city": "Los Angeles",
+            "state": "California",
+            "state_abbr": "CA",
+            "address": "626 Wilshire Blvd, Suite 410, Los Angeles, CA 90017",
+            "premium": 1,
+            "showpopular": 1,
+            "opusowned": 1,
+            "point_x": 34.0482582,
+            "point_y": -118.2570021,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/Opus-Virtual-Office-Los-Angeles-626-Wilshire-Blvd-Modern-Office-Building.webp",
+                "alttext": "Exterior street view of Opus' modern Los Angeles location at 626 Wilshire Blvd, Los Angeles."
+            },
+            "url": "/business-address/california/los-angeles/location-1362/",
+            "phone": "2139731030"
+        },
+        {
+            "id": 936,
+            "location_name": "9350 Wilshire Blvd, Suite 203, Beverly Hills, CA 90212",
+            "city": "Beverly Hills",
+            "state": "California",
+            "state_abbr": "CA",
+            "address": "9350 Wilshire Blvd, Suite 203, Beverly Hills, CA 90212",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 1,
+            "point_x": 34.06679,
+            "point_y": -118.395504,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/Opus-Virtual-Office-Beverly-Hills-9350-Wilshire-Blvd-Classic-Office-Building.webp",
+                "alttext": "Classic office building exterior of Opus Virtual Office in Beverly Hills, showcasing a prestigious location for businesses."
+            },
+            "url": "/business-address/california/beverly-hills/location-936/",
+            "phone": "3107342666"
+        },
+        {
+            "id": 1567,
+            "location_name": "1440 N Harbor Blvd, Fullerton, CA 92835",
+            "city": "Fullerton",
+            "state": "California",
+            "state_abbr": "CA",
+            "address": "1440 N Harbor Blvd, Fullerton, CA 92835",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 33.8854227,
+            "point_y": -117.9252703,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1567-001-Building.jpg",
+                "alttext": null
+            },
+            "url": "/business-address/california/fullerton/location-1567/",
+            "phone": "7144098472"
+        },
+        {
+            "id": 1616,
+            "location_name": "2014 Capitol Ave, Sacramento, CA 95811",
+            "city": "Sacramento",
+            "state": "California",
+            "state_abbr": "CA",
+            "address": "2014 Capitol Ave, Sacramento, CA 95811",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 38.5729581,
+            "point_y": -121.4808319,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1616-001-Building.jpg",
+                "alttext": null
+            },
+            "url": "/business-address/california/sacramento/location-1616/",
+            "phone": "0"
+        },
+        {
+            "id": 1725,
+            "location_name": "28 Geary Street, San Francisco, CA 94108",
+            "city": "San Francisco",
+            "state": "California",
+            "state_abbr": "CA",
+            "address": "28 Geary Street, San Francisco, CA 94108",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 37.7880139,
+            "point_y": -122.4040665,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1725exterior2.jpg",
+                "alttext": "Exterior of building that houses Opus Virtual Offices located in San Francisco, California"
+            },
+            "url": "/business-address/california/san-francisco/location-1725/",
+            "phone": "4156331254"
+        }
+    ]
+}

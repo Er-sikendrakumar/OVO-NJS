@@ -1,0 +1,93 @@
+{
+    "success": true,
+    "location_id": 1464,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Goodlettsville",
+            "state": "TN",
+            "price": null,
+            "address": {
+                "line1": "740C Conference Drive",
+                "suite": null,
+                "city": "Goodlettsville",
+                "state": "TN",
+                "zip": "37072",
+                "phone": "(615) 465-4842"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/1464-03.meeting-.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1464-04.training.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1464-05.meeting2-.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1464-01.building.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1464-02.lobby-.jpg"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1464",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 1,
+            "nearbyPremiumUrl": "/virtual-office/tennessee/nashville/location-1476/",
+            "nearbyPremiumText": "to view the most POPULAR locations nearby for the same $99/mo",
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Goodlettsville Virtual Office",
+            "body": "Unlock the benefits of securing a prestigious business address in Goodlettsville, Tennessee, without the need for a physical office space. At Opus VO, we provide you with the opportunity to position your business in the heart of Goodlettsville’s dynamic business community while optimizing operational efficiency. Our state-of-the-art conference rooms are readily available for important meetings and collaborative endeavors.  When you choose Opus VO’s virtual office in Goodlettsville, you also gain access to a skilled live receptionist who seamlessly integrates with your team. We ensure that every client interaction embodies your unique brand identity. Delegate routine administrative tasks to us, allowing you to concentrate on your core business objectives. ",
+            "map": {
+                "lat": 36.3112387,
+                "lng": -86.69881389,
+                "zoom": 14,
+                "city": "Goodlettsville"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Goodlettsville, Tennessee even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Goodlettsville. You can also adapt to better meet your clients’ unique needs within Tennessee. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Goodlettsville virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Goodlettsville? Why Opus VO?",
+                "body": "Goodlettsville is more than just a charming town; it’s a thriving business hub with opportunities spanning various sectors, including retail, technology, and healthcare. Having a Goodlettsville address not only enhances your business reputation but also provides access to valuable networking events and industry connections.  Opting for Opus VO for your virtual office in Goodlettsville is more than a practical choice; it’s a strategic advantage. Are you ready to elevate your business presence? Explore our exceptional virtual office solutions today.  Opus VO, Goodlettsville @ 740C Conference Drive, Goodlettsville, TN 37072 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Goodlettsville - 740C Conference Drive | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Tennessee, Goodlettsville virtual office located at 740C Conference Drive. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/tennessee/goodlettsville/location-1464/",
+            "og": {
+                "title": "Virtual Office in Goodlettsville - 740C Conference Drive | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Tennessee, Goodlettsville virtual office located at 740C Conference Drive. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/tennessee/goodlettsville/location-1464/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/1464-03.meeting-.jpg"
+            }
+        }
+    }
+}

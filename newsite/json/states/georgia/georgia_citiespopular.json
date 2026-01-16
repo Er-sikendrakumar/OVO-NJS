@@ -1,0 +1,35 @@
+{
+    "success": true,
+    "count": 7,
+    "state": "georgia",
+    "data": [
+        {
+            "id": "78",
+            "name": "Atlanta"
+        },
+        {
+            "id": "667",
+            "name": "Columbus"
+        },
+        {
+            "id": "95",
+            "name": "Dacula"
+        },
+        {
+            "id": "28",
+            "name": "Kennesaw"
+        },
+        {
+            "id": "614",
+            "name": "Roswell"
+        },
+        {
+            "id": "37",
+            "name": "Savannah"
+        },
+        {
+            "id": "675",
+            "name": "Stone Mountain"
+        }
+    ]
+}

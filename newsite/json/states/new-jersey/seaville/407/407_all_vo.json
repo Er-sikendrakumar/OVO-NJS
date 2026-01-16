@@ -1,0 +1,89 @@
+{
+    "success": true,
+    "location_id": 407,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Seaville",
+            "state": "NJ",
+            "price": null,
+            "address": {
+                "line1": "12 Route 50",
+                "suite": null,
+                "city": "Seaville",
+                "state": "NJ",
+                "zip": "08230",
+                "phone": "(609) 336-3114"
+            },
+            "images": {
+                "hero": [
+                    "/assets/mail-center.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=407",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 0,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Seaville Virtual Office",
+            "body": "Intrigued by the allure of a premium Seaville address but want to dodge the hassle of a traditional office setup? Opus VO offers just the solution. Plant your business in Seaville’s dynamic commercial environment while keeping a watchful eye on your budget. When it comes to vital in-person meetings or team huddles, our up-to-date conference rooms have got you covered.  By selecting our virtual workspace in Seaville, you don’t just secure a prestigious address. You also gain access to an adept live receptionist who will harmonize effortlessly with your team. They’ll guarantee that every client interaction aligns with your distinct brand ethos, enabling us to manage everyday admin tasks so you can focus on what truly matters: your core business goals. ",
+            "map": {
+                "lat": 39.2098069,
+                "lng": -74.7056772,
+                "zoom": 14,
+                "city": "Seaville"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Seaville, New Jersey even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Seaville. You can also adapt to better meet your clients’ unique needs within New Jersey. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Seaville virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Seaville?",
+                "body": "Seaville isn’t just a beautiful locale; it’s a burgeoning hub for various industries including technology, healthcare, and tourism. A Seaville address doesn’t just beef up your business reputation but also offers opportunities for networking events and meaningful industry connections.  Choosing Opus VO for your virtual workspace in Seaville isn’t just about pragmatism; it’s a calculated edge. Are you poised to take your business to new heights? Browse our array of customized virtual workspace solutions today.  Opus VO, Seaville @ 12 Route 50, Seaville, NJ 08230   ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Seaville - 12 Route 50 | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our New Jersey, Seaville virtual office located at 12 Route 50. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/new-jersey/seaville/location-407/",
+            "og": {
+                "title": "Virtual Office in Seaville - 12 Route 50 | $99/Month",
+                "description": "Get the ultimate office solution for your business with our New Jersey, Seaville virtual office located at 12 Route 50. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/new-jersey/seaville/location-407/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+            }
+        }
+    }
+}

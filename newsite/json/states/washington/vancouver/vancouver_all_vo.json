@@ -1,0 +1,172 @@
+{
+    "success": true,
+    "state": "washington",
+    "city": "vancouver",
+    "wp_city_post_id": null,
+    "locations": [
+        {
+            "id": "1160",
+            "name": "Vancouver",
+            "locname": "9407 NE Vancouver Mall Drive, Vancouver, WA 98662",
+            "address": "9407 NE Vancouver Mall Drive, Vancouver, WA 98662",
+            "city": "vancouver",
+            "state": "washington",
+            "state_english": "Washington",
+            "abbr": "WA",
+            "phone": "3605587386",
+            "premium": "1",
+            "opusowned": "0",
+            "showpopular": "0",
+            "point_x": "45.6574727",
+            "point_y": "-122.5761802",
+            "url": "/virtual-office/washington/vancouver/location-1160/",
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1Building55.jpg",
+                "alttext": ""
+            }
+        },
+        {
+            "id": "538",
+            "name": "Vancouver",
+            "locname": "15640 NE Fourth Plain Blvd., Vancouver, WA 98682",
+            "address": "15640 NE Fourth Plain Blvd., Vancouver, WA 98682",
+            "city": "vancouver",
+            "state": "washington",
+            "state_english": "Washington",
+            "abbr": "WA",
+            "phone": "3605587387",
+            "premium": "0",
+            "opusowned": "0",
+            "showpopular": "0",
+            "point_x": "45.6722152",
+            "point_y": "-122.5114249",
+            "url": "/virtual-office/washington/vancouver/location-538/",
+            "image": "/assets/mail-center.webp"
+        },
+        {
+            "id": "536",
+            "name": "Vancouver",
+            "locname": "9208 NE Highway 99, Vancouver, WA 98665",
+            "address": "9208 NE Highway 99, Vancouver, WA 98665",
+            "city": "vancouver",
+            "state": "washington",
+            "state_english": "Washington",
+            "abbr": "WA",
+            "phone": "3607183643",
+            "premium": "0",
+            "opusowned": "0",
+            "showpopular": "0",
+            "point_x": "45.6887062",
+            "point_y": "-122.6594819",
+            "url": "/virtual-office/washington/vancouver/location-536/",
+            "image": "/assets/mail-center.webp"
+        }
+    ],
+    "popular_locations": [],
+    "premium_locations": [
+        {
+            "id": "1160",
+            "name": "Vancouver",
+            "locname": "9407 NE Vancouver Mall Drive, Vancouver, WA 98662",
+            "address": "9407 NE Vancouver Mall Drive, Vancouver, WA 98662",
+            "city": "vancouver",
+            "state": "washington",
+            "state_english": "Washington",
+            "abbr": "WA",
+            "phone": "3605587386",
+            "premium": "1",
+            "opusowned": "0",
+            "showpopular": "0",
+            "point_x": "45.6574727",
+            "point_y": "-122.5761802",
+            "url": "/virtual-office/washington/vancouver/location-1160/",
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1Building55.jpg",
+                "alttext": ""
+            }
+        }
+    ],
+    "regular_locations": [
+        {
+            "id": "538",
+            "name": "Vancouver",
+            "locname": "15640 NE Fourth Plain Blvd., Vancouver, WA 98682",
+            "address": "15640 NE Fourth Plain Blvd., Vancouver, WA 98682",
+            "city": "vancouver",
+            "state": "washington",
+            "state_english": "Washington",
+            "abbr": "WA",
+            "phone": "3605587387",
+            "premium": "0",
+            "opusowned": "0",
+            "showpopular": "0",
+            "point_x": "45.6722152",
+            "point_y": "-122.5114249",
+            "url": "/virtual-office/washington/vancouver/location-538/",
+            "image": "/assets/mail-center.webp"
+        },
+        {
+            "id": "536",
+            "name": "Vancouver",
+            "locname": "9208 NE Highway 99, Vancouver, WA 98665",
+            "address": "9208 NE Highway 99, Vancouver, WA 98665",
+            "city": "vancouver",
+            "state": "washington",
+            "state_english": "Washington",
+            "abbr": "WA",
+            "phone": "3607183643",
+            "premium": "0",
+            "opusowned": "0",
+            "showpopular": "0",
+            "point_x": "45.6887062",
+            "point_y": "-122.6594819",
+            "url": "/virtual-office/washington/vancouver/location-536/",
+            "image": "/assets/mail-center.webp"
+        }
+    ],
+    "sections": [
+        {
+            "title": "OUR VANCOUVER\nVIRTUAL OFFICES",
+            "body": "<h2></h2>\n<p>Enjoy the benefits of having a business address in Vancouver Washington without the stress and expense surrounding a “traditional office environment”. OpusVO gives you the prestige of having an office with the budget of working from home. Receive all your business mail at a professional office building. No post office box number, just a great business address to use on your business cards and other marketing material.</p>\n<p>You don’t just get a business phone number with your Vancouver virtual office, but also a live receptionist answering your calls the way you want them to be. Stop choosing between capturing new leads for your business and working on current clients. Do both. Get someone who looks out for you while you’re unable to break away.</p>\n",
+            "image": {
+                "url": "/newsite/wp-content/themes/ThemeDec23/assets/images/califonia-v-office.jpg",
+                "alt": "OUR VANCOUVER\nVIRTUAL OFFICES",
+                "title": "OUR VANCOUVER\nVIRTUAL OFFICES"
+            },
+            "layout": "image_text",
+            "imageAlignment": "right"
+        },
+        {
+            "title": "GET A VIRTUAL OFFICE\nIN VANCOUVER",
+            "body": "<h2></h2>\n<p>Whether you choose to work out of your home or on the road, a Vancouver virtual office will give you the freedom and flexibility to get the job done in the place and style of your choosing. With a local company phone number, live receptionist, premium call transferring, and a professional business address, Opus VO provides a cost-effective way for your company to grow or establish a presence in a new market without any long-term commitments.</p>\n",
+            "image": {
+                "url": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "alt": "GET A VIRTUAL OFFICE\nIN VANCOUVER",
+                "title": "GET A VIRTUAL OFFICE\nIN VANCOUVER"
+            },
+            "layout": "image_text",
+            "imageAlignment": "left"
+        }
+    ],
+    "faqs": [],
+    "meta": {
+        "locations_count": 3,
+        "popular_locations_count": 0,
+        "premium_locations_count": 1,
+        "regular_locations_count": 2,
+        "sections_count": 2,
+        "faqs_count": 0
+    },
+    "seo": {
+        "title": "Virtual Office in Vancouver, WA | Multiple Locations Available",
+        "meta_description": "Find the ultimate office solution with Opus Virtual Offices in Vancouver, Washington. Our all-inclusive virtual offices cater to your business needs. Sign up today!",
+        "canonical": "https://www.opusvirtualoffices.com/virtual-office/washington/vancouver/",
+        "og": {
+            "title": "Virtual Office in Vancouver, WA | Multiple Locations Available",
+            "description": "Find the ultimate office solution with Opus Virtual Offices in Vancouver, Washington. Our all-inclusive virtual offices cater to your business needs. Sign up today!",
+            "url": "https://www.opusvirtualoffices.com/virtual-office/washington/vancouver/",
+            "type": "website",
+            "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+        }
+    }
+}

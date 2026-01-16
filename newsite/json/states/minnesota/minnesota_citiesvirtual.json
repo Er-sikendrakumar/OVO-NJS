@@ -1,0 +1,47 @@
+{
+    "success": true,
+    "count": 8,
+    "state": "minnesota",
+    "data": [
+        {
+            "id": "389",
+            "name": "Apple Valley",
+            "popular": "0"
+        },
+        {
+            "id": "752",
+            "name": "Bloomington",
+            "popular": "0"
+        },
+        {
+            "id": "596",
+            "name": "Edina",
+            "popular": "1"
+        },
+        {
+            "id": "554",
+            "name": "Minneapolis",
+            "popular": "1"
+        },
+        {
+            "id": "753",
+            "name": "Minnetonka",
+            "popular": "0"
+        },
+        {
+            "id": "226",
+            "name": "Saint Paul",
+            "popular": "1"
+        },
+        {
+            "id": "595",
+            "name": "St. Louis Park",
+            "popular": "1"
+        },
+        {
+            "id": "227",
+            "name": "Woodbury",
+            "popular": "0"
+        }
+    ]
+}

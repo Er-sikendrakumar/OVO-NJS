@@ -1,0 +1,89 @@
+{
+    "success": true,
+    "location_id": 606,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Hiram",
+            "state": "GA",
+            "price": null,
+            "address": {
+                "line1": "4215 Jimmy Lee Smith Pkwy",
+                "suite": null,
+                "city": "Hiram",
+                "state": "GA",
+                "zip": "30141",
+                "phone": "(770) 229-7121"
+            },
+            "images": {
+                "hero": [
+                    "/assets/mail-center.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=606",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 0,
+            "nearbyPremium": 1,
+            "nearbyPremiumUrl": "/virtual-office/georgia/atlanta/location-684/",
+            "nearbyPremiumText": "to view nearby PREMIUM Locations that offer Meeting Rooms for the same $99/mo",
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Hiram Virtual Office",
+            "body": "Secure an impressive business address in Hiram without the hefty price tag of a physical office space. With Opus VO, your business can take center stage in the heart of Hiram, all while keeping your finances in check. Need to host an important meeting or wow a prospective client? Our contemporary conference rooms are geared up for impact.  When you opt for a virtual office in Hiram via Opus VO, a live receptionist who’s devoted to ensuring that every interaction with your clients seamlessly blends with the spirit of your brand is part and parcel of the package. Pass the mundane administrative work our way, allowing you to zero in on your business goals. ",
+            "map": {
+                "lat": 33.893436,
+                "lng": -84.75554869,
+                "zoom": 14,
+                "city": "Hiram"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Hiram, Georgia even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Hiram. You can also adapt to better meet your clients’ unique needs within Georgia. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Hiram virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "HIRAM VIRTUAL OFFICE",
+                "body": "",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Hiram - 4215 Jimmy Lee Smith Pkwy | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Georgia, Hiram virtual office located at 4215 Jimmy Lee Smith Pkwy. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/georgia/hiram/location-606/",
+            "og": {
+                "title": "Virtual Office in Hiram - 4215 Jimmy Lee Smith Pkwy | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Georgia, Hiram virtual office located at 4215 Jimmy Lee Smith Pkwy. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/georgia/hiram/location-606/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+            }
+        }
+    }
+}

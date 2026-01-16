@@ -1,0 +1,89 @@
+{
+    "success": true,
+    "location_id": 294,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Ann Arbor",
+            "state": "MI",
+            "price": null,
+            "address": {
+                "line1": "4860 Washtenaw Ave",
+                "suite": null,
+                "city": "Ann Arbor",
+                "state": "MI",
+                "zip": "48108",
+                "phone": "(734) 585-7503"
+            },
+            "images": {
+                "hero": [
+                    "/assets/mail-center.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=294",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 0,
+            "nearbyPremium": 1,
+            "nearbyPremiumUrl": "/virtual-office/michigan/ypsilanti/location-1398/",
+            "nearbyPremiumText": "to view the nearby PREMIUM Locations for the same $99/mo",
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Ann Arbor Virtual Office",
+            "body": "Obtain an impressive business address in Ann Arbor without the financial strain of a brick-and-mortar setup. With Opus VO, you have the privilege to establish your enterprise amidst Ann Arbor’s bustling atmosphere while maintaining budgetary freedom. Should you require an elegant setting for an essential business gathering or a key client pitch, our sophisticated conference rooms are built to leave an indelible impression.  Enroll in the virtual realm of Opus VO in Ann Arbor and enjoy the benefit of a professional live receptionist as part of your service bundle. We aim to make every client interaction feel as if it’s a seamless extension of your brand identity, allowing you to delegate regular administrative tasks to us while you venture toward achieving your entrepreneurial dreams. ",
+            "map": {
+                "lat": 42.250613,
+                "lng": -83.664347,
+                "zoom": 14,
+                "city": "Ann Arbor"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Ann Arbor, Michigan even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Ann Arbor. You can also adapt to better meet your clients’ unique needs within Michigan. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Ann Arbor virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Choose Ann Arbor?",
+                "body": "Ann Arbor isn’t just a haven for academia; it’s an emerging epicenter for businesses of every kind, from innovation hubs to commercial giants. Having an Ann Arbor-based business means accessing an array of networking possibilities and business-growing events.  Opting for virtual office space through Opus VO in Ann Arbor is not merely a prudent financial decision but a tactical advantage. Are you geared up to upscale your business? Our first-class virtual office solutions are available for you.  Opus VO Ann Arbor @ 4860 Washtenaw Ave, Ann Arbor, MI 48108 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Ann Arbor - 4860 Washtenaw Ave | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Michigan, Ann Arbor virtual office located at 4860 Washtenaw Ave. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/michigan/ann-arbor/location-294/",
+            "og": {
+                "title": "Virtual Office in Ann Arbor - 4860 Washtenaw Ave | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Michigan, Ann Arbor virtual office located at 4860 Washtenaw Ave. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/michigan/ann-arbor/location-294/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+            }
+        }
+    }
+}

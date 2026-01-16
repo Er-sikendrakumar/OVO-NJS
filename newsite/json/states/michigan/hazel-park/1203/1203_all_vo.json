@@ -1,0 +1,89 @@
+{
+    "success": true,
+    "location_id": 1203,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Hazel Park",
+            "state": "MI",
+            "price": null,
+            "address": {
+                "line1": "24330 John R Road",
+                "suite": null,
+                "city": "Hazel Park",
+                "state": "MI",
+                "zip": "48030",
+                "phone": "(248) 480-7325"
+            },
+            "images": {
+                "hero": [
+                    "/assets/mail-center.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1203",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 0,
+            "nearbyPremium": 1,
+            "nearbyPremiumUrl": "/virtual-office/michigan/detroit/location-1339/",
+            "nearbyPremiumText": "to view the nearby PREMIUM Locations for the same $99/mo",
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Hazel Park Virtual Office",
+            "body": "Acquire a prestigious Hazel Park address without the expense of leasing physical office space. Opus VO allows you to firmly establish your business in Hazel Park’s lively environment, all the while being economically wise. Should you need to conduct an essential meeting or clinch a deal, our state-of-the-art conference rooms are at your service.  With Opus VO in Hazel Park, a specialized live receptionist is part of your comprehensive package. We ensure each client interaction mirrors the quality and standards of your own brand. Free yourself from routine administrative tasks by delegating them to us, allowing you to focus on business expansion. ",
+            "map": {
+                "lat": 42.4711081,
+                "lng": -83.10402829,
+                "zoom": 14,
+                "city": "Hazel Park"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Hazel Park, Michigan even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Hazel Park. You can also adapt to better meet your clients’ unique needs within Michigan. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Hazel Park virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Hazel Park?",
+                "body": "Hazel Park is more than just a suburban idyll—it’s an evolving hub for businesses in various sectors, from healthcare to emerging technologies. Having your business located in Hazel Park offers you a gateway to vital networking opportunities and industry events.  Opting for Opus VO in Hazel Park gives you more than just financial benefits—it lends you a strategic edge. Ready to amplify your business? Our unparalleled virtual office services are ready to help you succeed.  Opus VO Hazel Park @ 24330 John R Road, Hazel Park, MI 48030 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Hazel Park - 24330 John R Road | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Michigan, Hazel Park virtual office located at 24330 John R Road. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/michigan/hazel-park/location-1203/",
+            "og": {
+                "title": "Virtual Office in Hazel Park - 24330 John R Road | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Michigan, Hazel Park virtual office located at 24330 John R Road. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/michigan/hazel-park/location-1203/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+            }
+        }
+    }
+}

@@ -1,0 +1,93 @@
+{
+    "success": true,
+    "location_id": 1436,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Manchester",
+            "state": "NH",
+            "price": null,
+            "address": {
+                "line1": "500 North Commercial Street",
+                "suite": null,
+                "city": "Manchester",
+                "state": "NH",
+                "zip": "03101",
+                "phone": "(603) 570-9476"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/1436-building-1743095652121.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1436-conference-1743095652709.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1436-reception-1743095652565.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1436-Open-Office-1743095652925.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1436-Kitchen-Area-1743095652155.jpg"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 1,
+            "addressOnlyUrl": "/business-address/new-hampshire/manchester/location-1436/",
+            "signupUrl": "/signup/?locid=1436",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 1,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Manchester Virtual Office",
+            "body": "Hey there! Looking to give your business a cool address in Manchester, NH, but not jazzed about the idea of renting an actual office? Opus VO has got you covered. You can have your biz right in the heart of Manchester’s booming scene without breaking the bank. Plus, we’ve got top-notch meeting rooms for when you need to impress clients or nail a presentation.  Choose our virtual workspace, and you’re not just getting a swanky Manchester address. You’re also getting a live receptionist who fits right into your team vibe. They’ll help make sure every chat or call with your clients feels just like you—tailored to your unique brand. We’ll take care of the routine stuff so you can focus on your big goals. ",
+            "map": {
+                "lat": 42.9946496,
+                "lng": -71.4679316,
+                "zoom": 14,
+                "city": "Manchester"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Manchester, New Hampshire even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Manchester. You can also adapt to better meet your clients’ unique needs within New Hampshire. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Manchester virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Manchester, though?",
+                "body": "Don’t sleep on Manchester—it’s not just a pretty place. We’re talking a buzzing economy with everything from tech to healthcare to retail. Having a Manchester address also means you can tap into some really cool networking events and make some key connections.  So, picking Opus VO for your virtual workspace in Manchester is more than just practical; it’s smart play. Ready to level up your business game? Check out what we’ve got to offer today.  Choose from two Opus VO locations in Manchester @ 500 North Commercial Street, Manchester, NH 03101.  or 855 Hanover Street East Side Plaza, Manchester, NH 03104 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Manchester - 500 North Commercial Street | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our New Hampshire, Manchester virtual office located at 500 North Commercial Street. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/new-hampshire/manchester/location-1436/",
+            "og": {
+                "title": "Virtual Office in Manchester - 500 North Commercial Street | $99/Month",
+                "description": "Get the ultimate office solution for your business with our New Hampshire, Manchester virtual office located at 500 North Commercial Street. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/new-hampshire/manchester/location-1436/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/1436-building-1743095652121.jpg"
+            }
+        }
+    }
+}

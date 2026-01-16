@@ -1,0 +1,88 @@
+{
+    "success": true,
+    "data": {
+        "affiliates": [
+            {
+                "acode": "beach1453",
+                "company_name": "Beachside Workplace",
+                "company_logo": "",
+                "locid": "1453",
+                "signup_link": "/signup/?locid=1453&sutype=phone&acode=beach1453",
+                "page_url": "/live-receptionist-2/?mcode=beach1453"
+            },
+            {
+                "acode": "oak1454",
+                "company_name": "Big Oakland",
+                "company_logo": "/newsite/wp-content/uploads/2024/04/Big-Oakland-logo.png",
+                "locid": "1454",
+                "signup_link": "/signup/?locid=1454&sutype=phone&acode=oak1454",
+                "page_url": "/live-receptionist-2/?mcode=oak1454"
+            },
+            {
+                "acode": "bocaexec",
+                "company_name": "Boca Exec",
+                "company_logo": "",
+                "locid": "776",
+                "signup_link": "/signup/?locid=776&sutype=phone&acode=bocaexec",
+                "page_url": "/live-receptionist-2/?mcode=bocaexec"
+            },
+            {
+                "acode": "bridge1300",
+                "company_name": "Bridge Space",
+                "company_logo": "/newsite/wp-content/uploads/2025/01/bridge-space-logo-simplified-1920w.webp",
+                "locid": "1300",
+                "signup_link": "/signup/?locid=1300&sutype=phone&acode=bridge1300",
+                "page_url": "/live-receptionist-2/?mcode=bridge1300"
+            },
+            {
+                "acode": "bwise1426",
+                "company_name": "Business Wise",
+                "company_logo": "",
+                "locid": "1426",
+                "signup_link": "/signup/?locid=1426&sutype=phone&acode=bwise1426",
+                "page_url": "/live-receptionist-2/?mcode=bwise1426"
+            },
+            {
+                "acode": "ez1066",
+                "company_name": "EZ Spaces",
+                "company_logo": "/newsite/wp-content/uploads/2025/01/EZSpaces-logo.png",
+                "locid": "1066",
+                "signup_link": "/signup/?locid=1066&sutype=phone&acode=ez1066",
+                "page_url": "/live-receptionist-2/?mcode=ez1066"
+            },
+            {
+                "acode": "itct1361",
+                "company_name": "ITC Technologies Inc",
+                "company_logo": "",
+                "locid": "1361",
+                "signup_link": "/signup/?locid=1361&sutype=phone&acode=itct1361",
+                "page_url": "/live-receptionist-2/?mcode=itct1361"
+            },
+            {
+                "acode": "kuna1266",
+                "company_name": "Kuna Co-Working",
+                "company_logo": "",
+                "locid": "1266",
+                "signup_link": "/signup/?locid=1266&sutype=phone&acode=kuna1266",
+                "page_url": "/live-receptionist-2/?mcode=kuna1266"
+            },
+            {
+                "acode": "modw1636",
+                "company_name": "Modern Well",
+                "company_logo": "/newsite/wp-content/uploads/2025/04/ModernWell-Logo.jpg",
+                "locid": "1636",
+                "signup_link": "/signup/?locid=1636&sutype=phone&acode=modw1636",
+                "page_url": "/live-receptionist-2/?mcode=modw1636"
+            },
+            {
+                "acode": "mbcfl871",
+                "company_name": "Opus VO",
+                "company_logo": "",
+                "locid": "871",
+                "signup_link": "/signup/?locid=871&sutype=phone&acode=mbcfl871",
+                "page_url": "/live-receptionist-2/?mcode=mbcfl871"
+            }
+        ],
+        "total_affiliates": 10
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "success": true,
+    "page": "business-address/nevada",
+    "page_type": "location_state",
+    "view": "state",
+    "seo": {
+        "title": "Virtual Business Address in Nevada | Opus Virtual Offices",
+        "meta_description": "Get a prestigious business address in Nevada with Opus. Multiple premium locations statewide mail handling privacy protection all for just $59/month.",
+        "canonical": "https://www.opusvirtualoffices.com/business-address/nevada/",
+        "og": {
+            "title": "Virtual Business Address in Nevada | Opus Virtual Offices",
+            "description": "Get a prestigious business address in Nevada with Opus. Multiple premium locations statewide mail handling privacy protection all for just $59/month.",
+            "url": "https://www.opusvirtualoffices.com/business-address/nevada/",
+            "type": "website",
+            "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+        }
+    },
+    "data": {
+        "state": "Nevada",
+        "mode": "business-address"
+    }
+}

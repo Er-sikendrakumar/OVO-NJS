@@ -1,0 +1,27 @@
+{
+    "success": true,
+    "count": 1,
+    "state": "north dakota",
+    "mode": "business-address",
+    "data": [
+        {
+            "id": 1502,
+            "location_name": "33 S 3rd Street, Grand Forks, ND 58201",
+            "city": "Grand Forks",
+            "state": "North Dakota",
+            "state_abbr": "ND",
+            "address": "33 S 3rd Street, Grand Forks, ND 58201",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 47.9250183,
+            "point_y": -97.0295381,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1502-01.building-2.jpg",
+                "alttext": null
+            },
+            "url": "/business-address/north-dakota/grand-forks/location-1502/",
+            "phone": "7016701108"
+        }
+    ]
+}

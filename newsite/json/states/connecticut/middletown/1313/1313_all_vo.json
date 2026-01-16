@@ -1,0 +1,95 @@
+{
+    "success": true,
+    "location_id": 1313,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Middletown",
+            "state": "CT",
+            "price": null,
+            "address": {
+                "line1": "515 Centerpoint Drive",
+                "suite": null,
+                "city": "Middletown",
+                "state": "CT",
+                "zip": "06457",
+                "phone": "(860) 327-0469"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/1313-01.bldg_.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1313-02.mailboxes.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1313-03.meeting.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1313-04.meeting.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1313-05.meeting.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1313-06.meeting.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1313-07.mail_.jpg"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1313",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Middleton Virtual Office",
+            "body": "Get a standout business address in Middleton without the hefty costs of a physical office space. Opus VO enables you to strategically position your enterprise in a prime Middleton locale, all for a fraction of traditional lease prices. When face-to-face meetings are on the agenda, our state-of-the-art conference rooms have you covered. Having a Middleton address is an instant way to elevate your brand’s credibility.  Choose a virtual office in Middleton with Opus VO and benefit from a live receptionist. Committed to providing tailored, first-class customer service, our team ensures that every client interaction reflects your unique business objectives. Let us handle the day-to-day admin tasks like email sorting and call forwarding, freeing you to focus on scaling your venture. ",
+            "map": {
+                "lat": 41.5916005,
+                "lng": -72.711715,
+                "zoom": 14,
+                "city": "Middletown"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Middletown, Connecticut even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Middletown. You can also adapt to better meet your clients’ unique needs within Connecticut. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Middletown virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Middleton?",
+                "body": "Middleton is more than just a suburban area; it’s an emerging business ecosystem with varied sectors from tech to retail. Our Middleton location offers the advantage of being close to essential business contacts and prime networking events.  By selecting an Opus Virtual Office in Middleton, you’re not just slashing your overhead—you’re securing a valuable edge over your competitors. Are you ready to take your business to the next level? Leverage our premium virtual office services today.  Opus VO Middleton @ 515 Centerpoint Drive, Middletown, CT 06457",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Middletown - 515 Centerpoint Drive | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Connecticut, Middletown virtual office located at 515 Centerpoint Drive. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/connecticut/middletown/location-1313/",
+            "og": {
+                "title": "Virtual Office in Middletown - 515 Centerpoint Drive | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Connecticut, Middletown virtual office located at 515 Centerpoint Drive. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/connecticut/middletown/location-1313/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/1313-01.bldg_.jpg"
+            }
+        }
+    }
+}

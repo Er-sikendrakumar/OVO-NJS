@@ -1,0 +1,27 @@
+{
+    "success": true,
+    "count": 1,
+    "state": "hawaii",
+    "mode": "business-address",
+    "data": [
+        {
+            "id": 1397,
+            "location_name": "74 Kihapai Street, Kailua, HI 96734",
+            "city": "Kailua",
+            "state": "Hawaii",
+            "state_abbr": "HI",
+            "address": "74 Kihapai Street, Kailua, HI 96734",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 21.3948345,
+            "point_y": -157.7466723,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1397-01.bldg_.jpg",
+                "alttext": null
+            },
+            "url": "/business-address/hawaii/kailua/location-1397/",
+            "phone": "8083783266"
+        }
+    ]
+}

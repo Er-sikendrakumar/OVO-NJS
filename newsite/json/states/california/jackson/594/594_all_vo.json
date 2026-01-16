@@ -1,0 +1,89 @@
+{
+    "success": true,
+    "location_id": 594,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Jackson",
+            "state": "CA",
+            "price": null,
+            "address": {
+                "line1": "603 S State Hwy 49",
+                "suite": null,
+                "city": "Jackson",
+                "state": "CA",
+                "zip": "95642",
+                "phone": "(209) 554-5528"
+            },
+            "images": {
+                "hero": [
+                    "/assets/mail-center.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=594",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 0,
+            "nearbyPremium": 1,
+            "nearbyPremiumUrl": "/virtual-office/california/el-dorado-hills/location-1322/",
+            "nearbyPremiumText": "to view the nearby PREMIUM Locations for the same $99/mo",
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Jackson Virtual Office",
+            "body": "Are you looking for a distinguished business address in Jackson without the financial obligations that accompany a physical office? Opus VO affords you the singular opportunity to situate your enterprise in a noteworthy Jackson location, all without the hefty price tag of a traditional office lease. We offer contemporary conference rooms for pivotal business negotiations and impactful client encounters while enhancing your brand’s reputation with an established business address in Jackson.  Opting for a virtual office in Jackson through Opus VO provides you with a live receptionist dedicated to delivering customized, top-tier customer service. Our team assures that each client interaction aligns perfectly with your business ideology. Trust us with your company’s daily administrative tasks like complete mail coordination and expert call-forwarding to us, thereby granting you the luxury to focus intently on advancing your business. ",
+            "map": {
+                "lat": 38.3417111,
+                "lng": -120.7665776,
+                "zoom": 14,
+                "city": "Jackson"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Jackson, California even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Jackson. You can also adapt to better meet your clients’ unique needs within California. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Jackson virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Choose a Jackson Virtual Office?",
+                "body": "Jackson is not simply an idyllic Gold Rush-era town; it’s an emerging business landscape teeming with opportunities in sectors such as tourism, agriculture, and local services. Conveniently positioned near essential business hotspots, our Jackson office grants you complete access to invaluable industry partners and on-point networking gatherings.  By choosing an Opus Virtual Office in Jackson, you’re getting more than cost savings; you’re capturing a vital competitive advantage. Elevate your business to unmatched tiers of success by taking advantage of our premier virtual office services today.  Opus VO Jackson @ 603 S State Hwy 49, Jackson, CA 95642 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Jackson - 603 S State Hwy 49 | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our California, Jackson virtual office located at 603 S State Hwy 49. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/california/jackson/location-594/",
+            "og": {
+                "title": "Virtual Office in Jackson - 603 S State Hwy 49 | $99/Month",
+                "description": "Get the ultimate office solution for your business with our California, Jackson virtual office located at 603 S State Hwy 49. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/california/jackson/location-594/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+            }
+        }
+    }
+}

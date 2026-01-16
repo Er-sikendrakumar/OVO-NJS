@@ -1,0 +1,27 @@
+{
+    "success": true,
+    "count": 5,
+    "state": "michigan",
+    "data": [
+        {
+            "id": "137",
+            "name": "Ann Arbor"
+        },
+        {
+            "id": "191",
+            "name": "Detroit"
+        },
+        {
+            "id": "277",
+            "name": "Grand Rapids"
+        },
+        {
+            "id": "610",
+            "name": "Lansing"
+        },
+        {
+            "id": "561",
+            "name": "Livonia"
+        }
+    ]
+}

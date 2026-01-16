@@ -1,0 +1,89 @@
+{
+    "success": true,
+    "location_id": 503,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Kenosha",
+            "state": "WI",
+            "price": null,
+            "address": {
+                "line1": "7619 Sheridan Rd",
+                "suite": null,
+                "city": "Kenosha",
+                "state": "WI",
+                "zip": "53143",
+                "phone": "(262) 618-9034"
+            },
+            "images": {
+                "hero": [
+                    "/assets/mail-center.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=503",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 0,
+            "nearbyPremium": 1,
+            "nearbyPremiumUrl": "/virtual-office/illinois/mundelein/location-1399/",
+            "nearbyPremiumText": "to view the nearby PREMIUM Locations for the same $99/mo",
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Kenosha Virtual Office",
+            "body": "Thinking about a prestigious Kenosha address to catapult your startup or take your established business to the next level, yet hesitant about the financial commitments of a physical office? Opus VO has you covered. Anchor your brand in one of our prime Kenosha locations and revel in the status of a prestigious address without the monetary sacrifice. Whenever you require a premium setting for critical business meetings or significant client engagements, our high-tech conference rooms are at your beck and call.  The value adds go beyond an impressive address. When you opt for a virtual office with Opus VO in Kenosha, a live receptionist is part of the package. Rely on our team to expertly handle your client communications, fine-tuned to match your unique business goals. When it comes to routine administrative tasks like managing digital mail and intelligent call routing, leave that to us, freeing you to focus your energies on business growth. ",
+            "map": {
+                "lat": 42.5636912,
+                "lng": -87.8247525,
+                "zoom": 14,
+                "city": "Kenosha"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Kenosha, Wisconsin even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Kenosha. You can also adapt to better meet your clients’ unique needs within Wisconsin. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Kenosha virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Kenosha? Why Opus VO?",
+                "body": "Kenosha is more than a picturesque city; it’s an emerging hub for business across a variety of fields. Establishing your virtual office through Opus VO in Kenosha gives you direct access to a robust professional community, ripe with opportunities for collaboration and advancement.  Selecting Opus VO in Kenosha is not merely about cost-saving; it’s a strategic choice that paves the way for your business’s future achievements. Your next milestone could be just a virtual office away.  Opus VO Location in Kenosha @ 8032 22nd Ave., Kenosha, WI 53143   ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Kenosha - 7619 Sheridan Rd | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Wisconsin, Kenosha virtual office located at 7619 Sheridan Rd. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/wisconsin/kenosha/location-503/",
+            "og": {
+                "title": "Virtual Office in Kenosha - 7619 Sheridan Rd | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Wisconsin, Kenosha virtual office located at 7619 Sheridan Rd. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/wisconsin/kenosha/location-503/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+            }
+        }
+    }
+}

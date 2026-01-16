@@ -1,0 +1,108 @@
+{
+    "success": true,
+    "location_id": 1477,
+    "mode": "business-address",
+    "data": {
+        "header": {
+            "city": "Brooklyn",
+            "state": "NY",
+            "price": null,
+            "address": {
+                "line1": "32 Court Street",
+                "suite": "Suite 904",
+                "city": "Brooklyn",
+                "state": "NY",
+                "zip": "11201",
+                "phone": "(718) 957-1040"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/32-Court-St-Brooklyn-NY-Building-Photo-1-HighDefinition.webp",
+                    "/wp-content-mgr/wp-content/uploads/Opus-Virtual-Office-Brooklyn-32-Court-Street-Elegant-Lobby-Entrance.webp",
+                    "/wp-content-mgr/wp-content/uploads/Opus-Virtual-Office-Brooklyn-32-Court-Street-Mahogany-Boardroom.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 1
+            },
+            "addressOnlyOptionAvailable": 1,
+            "addressOnlyUrl": "/business-address/new-york/brooklyn/location-1477/",
+            "signupUrl": "/signup/?locid=1477",
+            "openingHours": {
+                "opens": "08:30:00",
+                "closes": "17:30:00",
+                "daysOfWeek": [
+                    "Monday",
+                    "Tuesday",
+                    "Wednesday",
+                    "Thursday",
+                    "Friday"
+                ]
+            },
+            "opusowned": 1,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "A VIRTUAL OFFICE IN BROOKLYN",
+            "body": "Take a bite out of the Big Apple with a prestigious business address and meeting room in Brooklyn from Opus VO. Home to dozens of reputable businesses, 32 Court Street makes its mark on the Brooklyn skyline, and with Opus VO, your business will have no issue joining them. 32 Court Street is unlike any Brooklyn skyscraper. Built in 1917 and considered Brooklyn’s first “true skyscraper,” new renovations feature high speed elevators, sparkling new bathrooms, and 24/7 access with doorman service. Conveniently located near the 2,3,4,5,6,R,A,C,M, and F subway lines, you and your clients have access to all of New York City without the hassle of waiting for a yellow cab or Uber.",
+            "map": {
+                "lat": 40.6929538,
+                "lng": -73.9910393,
+                "zoom": 14,
+                "city": "Brooklyn"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Brooklyn, New York even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Brooklyn. You can also adapt to better meet your clients’ unique needs within New York. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Brooklyn virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "WHY OPUS?",
+                "body": "Opting for a virtual office in Brooklyn through Opus VO gives you the exclusive advantage of a live receptionist committed to offering personalized, top-tier client service. Every point of client contact is carefully designed to resonate with your unique business objectives, supported by our wide range of administrative services. These amenities include a corporate mailing address, digital mail sorting, company phone and fax number, state-of-the-art call-forwarding options, and beyond. Our efficient administrative staff will manage your day-to-day tasks, freeing you to concentrate on your company’s strategic growth and success. Opus VO, Brooklyn @ 32 Court Street, Suite 904 Brooklyn, NY 11201 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            },
+            {
+                "title": "CHOOSE BROOKLYN",
+                "body": "Brooklyn is a mosaic of vivid neighborhoods, each with its own unique appeal. From the historic brownstones of Brooklyn Heights to the creative pulse of Bushwick, the borough is a combination of culture, art, and history. The iconic Brooklyn Bridge shapes a skyline that blends the old with the new, while the lush expanse of Prospect Park offers a verdant retreat from the urban hustle and bustle. From the award-winning food and shops of the DUMBO district to its famous cobblestone streets, Brooklyn is a place where the energy of its streets is as captivating as the views from its iconic waterfront.",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/botaraton-covered.png",
+                "layout": "image_text",
+                "imageAlignment": "left"
+            }
+        ],
+        "seo": {
+            "title": "Prestigious Business Address 32 Court Street Brooklyn | $59/month",
+            "meta_description": "Impress clients with a virtual office at 32 Court Street Brooklyn enjoy a prime location mail handling digital alerts and privacy for only $59/month",
+            "canonical": "https://www.opusvirtualoffices.com/business-address/new-york/brooklyn/location-1477/",
+            "og": {
+                "title": "Prestigious Business Address 32 Court Street Brooklyn | $59/month",
+                "description": "Impress clients with a virtual office at 32 Court Street Brooklyn enjoy a prime location mail handling digital alerts and privacy for only $59/month",
+                "url": "https://www.opusvirtualoffices.com/business-address/new-york/brooklyn/location-1477/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/32-Court-St-Brooklyn-NY-Building-Photo-1-HighDefinition.webp"
+            }
+        }
+    }
+}

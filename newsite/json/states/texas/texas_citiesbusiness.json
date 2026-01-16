@@ -1,0 +1,22 @@
+{
+    "success": true,
+    "count": 3,
+    "state": "texas",
+    "data": [
+        {
+            "id": "116",
+            "name": "Austin",
+            "popular": "1"
+        },
+        {
+            "id": "202",
+            "name": "Dallas",
+            "popular": "1"
+        },
+        {
+            "id": "117",
+            "name": "Houston",
+            "popular": "1"
+        }
+    ]
+}

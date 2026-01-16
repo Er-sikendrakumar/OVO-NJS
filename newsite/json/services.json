@@ -1,0 +1,183 @@
+{
+    "success": true,
+    "data": {
+        "regular_services": [
+            {
+                "id": 23,
+                "title": "Live Receptionist  Answering Calls",
+                "description": "<!-- wp:paragraph -->\r\n<p class=\"content\">Monday through Friday from 8:30am to 5:30pm (in PST timezone 8am to 5pm) a live receptionist will be answering all incoming calls on behalf of your company.</p>\r\n<!-- /wp:paragraph -->",
+                "order": "1",
+                "icon": "https://www.opusvirtualoffices.com/newsite/wp-content/uploads/2024/03/live-call-answering-icon.svg",
+                "read_more_link": "https://njs.opusvirtualoffices.com/services/live-call-answering#live-call-answering"
+            },
+            {
+                "id": 31,
+                "title": "Corporate Mailing Address",
+                "description": "<!-- wp:paragraph -->\r\n<div class=\"inc-feature-item icon-block\">\r\n<div class=\"inc-item-content\">\r\n<p class=\"content\">Select one of our Virtual Offices locations as your primary business address and use it to receive all your mail and packages.</p>\r\n</div>\r\n</div>\r\n<!-- /wp:paragraph -->",
+                "order": "2",
+                "icon": "https://www.opusvirtualoffices.com/newsite/wp-content/uploads/2018/11/building-07-1.svg",
+                "read_more_link": "https://www.opusvirtualoffices.com/corporate-mailing-address-service"
+            },
+            {
+                "id": 29,
+                "title": "Company Phone and Fax Number",
+                "description": "<!-- wp:paragraph -->\r\n<div class=\"inc-feature-item icon-block\">\r\n<div class=\"inc-item-content\">\r\n<p class=\"content\">Select one of our local phone and fax numbers as your primary company line.</p>\r\n</div>\r\n</div>\r\n<!-- /wp:paragraph -->",
+                "order": "3",
+                "icon": "https://www.opusvirtualoffices.com/newsite/wp-content/uploads/2024/03/business-phone-number-icon.svg",
+                "read_more_link": "https://www.opusvirtualoffices.com/services/live-call-answering/#company-phone-fax"
+            },
+            {
+                "id": 32,
+                "title": "Premium Call Transferring",
+                "description": "<!-- wp:paragraph -->\r\n<div class=\"inc-feature-item icon-block\">\r\n<div class=\"inc-item-content\">\r\n<div class=\"inc-feature-item icon-block\">\r\n<div class=\"inc-item-content\">\r\n<p class=\"content\">All calls that are being transferred to your personal extension by our Live Receptionist will ring up to 4 phone numbers provided by you. If the call is not answered, your personal extension voice mail box will activate</p>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n<!-- /wp:paragraph -->",
+                "order": "4",
+                "icon": "https://www.opusvirtualoffices.com/newsite/wp-content/uploads/2024/03/call-forwarding-icon.svg",
+                "read_more_link": "https://www.opusvirtualoffices.com/services/live-call-answering/#premium-call-transferring"
+            },
+            {
+                "id": 417,
+                "title": "Voicemail Converted to Email",
+                "description": "<!-- wp:paragraph -->\r\n<p>All voice mail messages are being forwarded to Tenant’s provided e-mail address as a WAV File.</p>\r\n<!-- /wp:paragraph -->",
+                "order": "5",
+                "icon": "https://www.opusvirtualoffices.com/newsite/wp-content/uploads/2018/11/mail-01.svg",
+                "read_more_link": ""
+            },
+            {
+                "id": 416,
+                "title": "Fax Converted to Email",
+                "description": "<!-- wp:paragraph -->\r\n<div class=\"inc-feature-item icon-block\">\r\n<div class=\"inc-item-content\">\r\n<p class=\"content\">All faxes received will be forwarded to your provided E-Mail address in a PDF format.</p>\r\n</div>\r\n</div>\r\n<!-- /wp:paragraph -->",
+                "order": "6",
+                "icon": "https://www.opusvirtualoffices.com/newsite/wp-content/uploads/2018/11/mail-01.svg",
+                "read_more_link": ""
+            },
+            {
+                "id": 418,
+                "title": "2 Voicemail Boxes",
+                "description": "<!-- wp:paragraph -->\r\n<div class=\"inc-feature-item icon-block\">\r\n<div class=\"inc-item-content\">\r\n<p class=\"content\">Have 2 customized voice mail boxes with individual prerecorded greetings. 1 primary business mail box and 1 personalized extension with mail box.</p>\r\n</div>\r\n</div>\r\n<!-- /wp:paragraph -->",
+                "order": "7",
+                "icon": "https://www.opusvirtualoffices.com/newsite/wp-content/uploads/2017/02/voicemail-icon.svg",
+                "read_more_link": ""
+            },
+            {
+                "id": 1669,
+                "title": "Business Credit Reporting",
+                "description": "<p class=\"content\">We provide complimentary monthly reporting of your payment history to Moody’s Credit Bureau.</p>",
+                "order": "8",
+                "icon": "https://www.opusvirtualoffices.com/newsite/wp-content/uploads/2024/03/credit-building-icon.svg",
+                "read_more_link": ""
+            }
+        ],
+        "optional_upgrades": [
+            {
+                "id": 355,
+                "title": "Callout Feature - $10/month",
+                "description": "<!-- wp:paragraph -->\r\n<p>Make unlimited domestic calls via our proprietary app or through our client portal, enabling you to show your chosen company phone number as the outbound caller ID. This feature acts as your USA phone should you reside internationally.</p>\r\n<p>*Cellular carrier rates may apply</p>\r\n<!-- /wp:paragraph -->",
+                "order": "1",
+                "icon": "https://www.opusvirtualoffices.com/newsite/wp-content/uploads/2018/11/building-07.svg",
+                "read_more_link": ""
+            },
+            {
+                "id": 360,
+                "title": "Texting Feature - $10/month",
+                "description": "<!-- wp:paragraph -->\r\n<p><span data-teams=\"true\">This feature allows you to send and receive texts using your smart phone/computer showing your chosen company phone number's caller ID. Included are unlimited texts using the \"Opus Texting App\" What's not included are MMS and verification texts from Financial Institutions.</span></p>\r\n<!-- /wp:paragraph -->",
+                "order": "2",
+                "icon": "https://www.opusvirtualoffices.com/newsite/wp-content/uploads/2018/11/building-07.svg",
+                "read_more_link": ""
+            },
+            {
+                "id": 617,
+                "title": "Toll-Free Number - $10/month",
+                "description": "<!-- wp:paragraph -->\r\n<p>Receive unlimited incoming calls from clients without incurring long-distance charges. Opus VO is the only company to offer unlimited toll-free calls for only $10 a month.</p>\r\n<!-- /wp:paragraph -->",
+                "order": "3",
+                "icon": "https://www.opusvirtualoffices.com/newsite/wp-content/uploads/2018/11/building-07.svg",
+                "read_more_link": ""
+            },
+            {
+                "id": 1308,
+                "title": "Audio Conferencing Bridge - $10/month",
+                "description": "<!-- wp:paragraph -->\r\n<p>This feature allows you to initiate unlimited calls using a dedicated conference bridge number, seamlessly connecting your team members and clients no matter their location.</p>\r\n<!-- /wp:paragraph -->",
+                "order": "4",
+                "icon": "https://www.opusvirtualoffices.com/newsite/wp-content/uploads/2018/11/building-07.svg",
+                "read_more_link": ""
+            },
+            {
+                "id": 354,
+                "title": "Additional Extension(s)/Voice Box(es) - $25/month per extension",
+                "description": "<p>Avoid constant transfers and confusion by adding additional extensions for your co-workers, employees, or departments. Clients can save time and call the extension directly.</p>",
+                "order": "5",
+                "icon": "https://www.opusvirtualoffices.com/newsite/wp-content/uploads/2018/11/building-07.svg",
+                "read_more_link": ""
+            },
+            {
+                "id": 1630,
+                "title": "International Call Transfer – $10/month",
+                "description": "Transfer all your incoming calls to your international number.",
+                "order": "5",
+                "icon": "https://www.opusvirtualoffices.com/newsite/wp-content/uploads/2018/11/building-07.svg",
+                "read_more_link": ""
+            },
+            {
+                "id": 5943,
+                "title": "Call Recording – $10/month",
+                "description": "You’ll have access to unlimited recordings of your incoming calls and conversations for record keeping.",
+                "order": "6",
+                "icon": "https://www.opusvirtualoffices.com/newsite/wp-content/uploads/2018/11/building-07.svg",
+                "read_more_link": ""
+            },
+            {
+                "id": 5945,
+                "title": "Incoming Call Log Feature - $10/month",
+                "description": "Easily keep track of all your incoming company calls by accessing your call log in real time via the client portal. You’ll have an up-to-date list of all inbound calls to your company phone number, giving you greater insight into your business.",
+                "order": "8",
+                "icon": "https://www.opusvirtualoffices.com/newsite/wp-content/uploads/2018/11/building-07.svg",
+                "read_more_link": ""
+            },
+            {
+                "id": 10198,
+                "title": "Supervised Transfer  - $50/month",
+                "description": "Our receptionist will call and inform you which specific person is calling before transferring. This ensures a smooth handoff of the call from one party to another and is a hallmark of excellent customer service.",
+                "order": "9",
+                "icon": "https://www.opusvirtualoffices.com/newsite/wp-content/uploads/2018/11/building-07.svg",
+                "read_more_link": ""
+            },
+            {
+                "id": 12636,
+                "title": "Message Taking - $50/month",
+                "description": "<!-- wp:paragraph -->\n<p>Your live receptionist will take a written message and deliver it to you via your preferred communication method either by e-mail, text message or both.</p>\n<!-- /wp:paragraph -->",
+                "order": "10",
+                "icon": "https://www.opusvirtualoffices.com/newsite/wp-content/uploads/2018/11/building-07.svg",
+                "read_more_link": ""
+            }
+        ],
+        "faqs": [
+            {
+                "question": "Can I use my mailing address as a permanent address?",
+                "answer": "<!-- wp:paragraph -->\n<p>Yes, you can use your address for all your ongoing mailing needs.</p>\n<!-- /wp:paragraph -->"
+            },
+            {
+                "question": "How is an address with Opus VO different from a PO Box?",
+                "answer": "<!-- wp:paragraph -->\n<p>Opus VO addresses are real physical street addresses. All are professionally staffed and secure, which can receive mail and packages from any carrier, including UPS and FedEx. With a PO Box, only USPS deliveries are accepted. You cannot use a PO box to register a business.</p>\n<!-- /wp:paragraph -->"
+            },
+            {
+                "question": "Is there a contract or agreement?",
+                "answer": "<!-- wp:paragraph -->\n<p>Yes. Our agreement is for 3 months, after which we will renew the terms on a month-to-month basis unless the client gives us 30 days written notice of cancellation.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p></p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p></p>\n<!-- /wp:paragraph -->"
+            },
+            {
+                "question": "Do you offer live answering?",
+                "answer": "<!-- wp:paragraph -->\n<p> Yes, our professional receptionists will answer your calls live, utilizing your company name, Monday through Friday from 8:30 AM to 5:30 PM (in PST time zone 8 AM to 5 PM). After hours, your calls will be answered by your company voice mail. </p>\n<!-- /wp:paragraph -->"
+            }
+        ]
+    },
+    "seo": {
+        "title": "Best Virtual Office: Live Receptionist & Mailing Address Service",
+        "meta_description": "Boost your business with a virtual office that offers telephone answering service, call forwarding, & a corporate mailing address for your business needs.",
+        "canonical": "https://www.opusvirtualoffices.com/services/",
+        "og": {
+            "title": "Best Virtual Office: Live Receptionist & Mailing Address Service",
+            "description": "Boost your business with a virtual office that offers telephone answering service, call forwarding, & a corporate mailing address for your business needs.",
+            "url": "https://www.opusvirtualoffices.com/services/",
+            "type": "website",
+            "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+        }
+    }
+}

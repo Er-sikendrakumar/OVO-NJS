@@ -1,0 +1,22 @@
+{
+    "success": true,
+    "page": "virtual-office/british-columbia",
+    "page_type": "location_state",
+    "view": "state",
+    "seo": {
+        "title": "Virtual Office in British Columbia | Locations Statewide | Opus VO",
+        "meta_description": "Get a prestigious British Columbia business address and professional phone answering services with Opus Virtual Offices, the perfect office solution for your business needs.",
+        "canonical": "https://www.opusvirtualoffices.com/virtual-office/british-columbia/",
+        "og": {
+            "title": "Virtual Office in British Columbia | Locations Statewide | Opus VO",
+            "description": "Get a prestigious British Columbia business address and professional phone answering services with Opus Virtual Offices, the perfect office solution for your business needs.",
+            "url": "https://www.opusvirtualoffices.com/virtual-office/british-columbia/",
+            "type": "website",
+            "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+        }
+    },
+    "data": {
+        "state": "British Columbia",
+        "mode": "virtual-office"
+    }
+}

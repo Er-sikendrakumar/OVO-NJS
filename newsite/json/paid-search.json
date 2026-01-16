@@ -1,0 +1,142 @@
+{
+    "success": true,
+    "data": {
+        "hero": {
+            "search_placeholder": "Search Over 650+ locations",
+            "search_help_text": "Type the City or State",
+            "title": "Establish your business presence",
+            "subtitle": "All-Inclusive | No Hidden Fees",
+            "features": [
+                "Live Call Answering",
+                "Prestigious Business Address",
+                "Company Phone/Fax Number",
+                "Premium Call Transferring",
+                "Voicemail/Fax Converted to Email"
+            ],
+            "badges": {
+                "google_rating": "/wp-content/themes/ThemeDec23/assets/images/paidsearch/google-rating.svg",
+                "all_inclusive": "/wp-content/themes/ThemeDec23/assets/images/paidsearch/all-inclusive.webp"
+            }
+        },
+        "competitor_comparison": {
+            "title": "Competitor Comparison",
+            "subtitle": "See how we beat the competition",
+            "features": [
+                "Unlimited Live Call Answer",
+                "Corporate Mailing Address",
+                "Callout Services*",
+                "Unlimited Toll-Free Calls*",
+                "Unlimited Texting*",
+                "Short Term Contract",
+                "Setup Fee",
+                "Cost Per Mo."
+            ],
+            "providers": [
+                {
+                    "name": "Opus",
+                    "logo": "/wp-content/themes/ThemeDec23/assets/images/paidsearch/opus-hori.svg",
+                    "features_data": {
+                        "unlimited_live_call_answer": true,
+                        "corporate_mailing_address": true,
+                        "callout_services": true,
+                        "unlimited_toll_free_calls": true,
+                        "unlimited_texting": true,
+                        "contract_length": "3 Months",
+                        "setup_fee": "$100",
+                        "monthly_cost": "$99 / Month",
+                        "monthly_cost_subtitle": "All Locations"
+                    },
+                    "is_best_value": true
+                },
+                {
+                    "name": "Davinci",
+                    "logo": "/wp-content/themes/ThemeDec23/assets/images/paidsearch/davinci.svg",
+                    "features_data": {
+                        "unlimited_live_call_answer": "50 Min. Included",
+                        "corporate_mailing_address": true,
+                        "callout_services": false,
+                        "unlimited_toll_free_calls": "50 Min. Included",
+                        "unlimited_texting": false,
+                        "contract_length": "6 Months",
+                        "setup_fee": "$199",
+                        "monthly_cost": "$179 - $228",
+                        "monthly_cost_subtitle": "per month"
+                    },
+                    "is_best_value": false
+                },
+                {
+                    "name": "Alliance",
+                    "logo": "/wp-content/themes/ThemeDec23/assets/images/paidsearch/alliance.svg",
+                    "features_data": {
+                        "unlimited_live_call_answer": "50 Min. Included",
+                        "corporate_mailing_address": true,
+                        "callout_services": false,
+                        "unlimited_toll_free_calls": "50 Min. Included",
+                        "unlimited_texting": false,
+                        "contract_length": "6 Months",
+                        "setup_fee": "$200",
+                        "monthly_cost": "$174 - $224",
+                        "monthly_cost_subtitle": "per month"
+                    },
+                    "is_best_value": false
+                },
+                {
+                    "name": "Regus",
+                    "logo": "/wp-content/themes/ThemeDec23/assets/images/paidsearch/regus.svg",
+                    "features_data": {
+                        "unlimited_live_call_answer": true,
+                        "corporate_mailing_address": true,
+                        "callout_services": false,
+                        "unlimited_toll_free_calls": false,
+                        "unlimited_texting": false,
+                        "contract_length": "6 Months",
+                        "setup_fee": "$99",
+                        "monthly_cost": "$234 - $330",
+                        "monthly_cost_subtitle": "per month"
+                    },
+                    "is_best_value": false
+                }
+            ],
+            "cta_text": "Choose Your Location"
+        },
+        "faq_section": {
+            "title": "Curious About Renting a Virtual Office?",
+            "heading": "FAQs",
+            "description": "Explore how a virtual office can elevate your business presence while offering unparalleled flexibility.",
+            "phone": "1 (888) 898 - 9868",
+            "cta_text": "Call Us",
+            "faqs": [
+                {
+                    "question": "Are there physical meeting rooms available for use?",
+                    "answer": "<!-- wp:paragraph -->\n<p>Yes! virtual offices offer physical meeting rooms for when you need to get together with your team, want to work in a quiet space or have client meetings and contracts to sign.</p>\n<!-- /wp:paragraph -->"
+                },
+                {
+                    "question": "How does a virtual office manage mail and package handling?",
+                    "answer": "<!-- wp:paragraph -->\n<p>With a virtual office, your mail and packages are sent to the office's address. They safely store your items until you're ready to pick them up. You can either collect them in person or have them forwarded to a different address.</p>\n<!-- /wp:paragraph -->"
+                },
+                {
+                    "question": "What is included in our package?",
+                    "answer": "<!-- wp:paragraph -->\n<p>For just $99/month, Opus Virtual Offices offers an all-inclusive package with no hidden fees. This package provides a live receptionist to professionally handle calls, a prestigious corporate mailing address, dedicated company phone and fax numbers, and the convenience of voicemail and fax conversions sent directly to your email. Additionally, they offer premium call transferring, ensuring you're always connected,. All these features are designed to give businesses a professional edge at an affordable rate.</p>\n<!-- /wp:paragraph -->"
+                }
+            ]
+        },
+        "location_card": {
+            "guarantee_badge": "/wp-content/themes/ThemeDec23/assets/images/paidsearch/guarentee.webp",
+            "price_label": "per Month",
+            "price_sublabel": "ALL-INCLUSIVE | NO HIDDEN FEES",
+            "cta_text": "Choose this Location"
+        }
+    },
+    "seo": {
+        "title": "Virtual Office Solutions - Opus Virtual Offices",
+        "meta_description": "Establish your business presence with Opus Virtual Offices. All-inclusive virtual office solutions with live call answering, prestigious addresses, and no hidden fees.",
+        "canonical": "https://www.opusvirtualoffices.com/paid-search/",
+        "og": {
+            "title": "Virtual Office Solutions - Opus Virtual Offices",
+            "description": "All-inclusive virtual office solutions with live call answering, prestigious addresses, and no hidden fees.",
+            "url": "https://www.opusvirtualoffices.com/paid-search/",
+            "type": "website",
+            "image": "https://njs.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/paidsearch/all-inclusive.webp"
+        }
+    }
+}

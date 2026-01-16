@@ -1,0 +1,87 @@
+{
+    "success": true,
+    "location_id": 1582,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "St. Petersburg",
+            "state": "FL",
+            "price": null,
+            "address": {
+                "line1": "100 2nd Avenue S",
+                "suite": null,
+                "city": "St. Petersburg",
+                "state": "FL",
+                "zip": "33701",
+                "phone": "(888) 898-9868"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/1582-001-Building.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1582-01.bldg_.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1582-02.meetingroom.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1582-03.front_.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1582-04.shared.jpg"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1582",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 1,
+            "nearbyPremiumUrl": "/virtual-office/florida/tampa/location-885/",
+            "nearbyPremiumText": "to view the most POPULAR locations nearby for the same $99/mo",
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "St. Petersburg Virtual Office",
+            "body": "Score a premium business address in St. Petersburg without the overhead of an actual office space. Opus VO allows you to place your business squarely in the mix of St. Petersburg’s vibrant entrepreneurial landscape, all while keeping your budget in check. Have a critical client meeting or a big presentation? Our state-of-the-art conference rooms are ready to make you shine.  When you opt for a virtual setup in St. Petersburg with Opus VO, a dedicated live receptionist is will aim to make each client interaction feel like a seamless extension of your brand, letting you offload routine admin work and focus on scaling your enterprise. ",
+            "map": {
+                "lat": 27.7693083,
+                "lng": -82.634502,
+                "zoom": 14,
+                "city": "St. Petersburg"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in St. Petersburg, Florida even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of St. Petersburg. You can also adapt to better meet your clients’ unique needs within Florida. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our St. Petersburg virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why St. Petersburg?",
+                "body": "St. Petersburg is not just a beachy paradise; it’s a bustling hub for various industries like tourism, technology, and finance. Establishing your virtual office here means you’re plugged into a network filled with potential partnerships and valuable contacts.  Choosing Opus VO in St. Petersburg is about more than smart money management—it’s about gaining a competitive advantage. Ready to take your business to the next level? Our superior virtual office services are at your fingertips.  Choose from two Opus VO locations in St. Petersburg @ 100 2nd Avenue S, St. Petersburg, FL 33701 or 9800 4th Street N, St. Petersburg, FL 33702 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "success": false,
+            "message": "Invalid page path format. Only alphanumeric characters, hyphens, underscores, and slashes allowed.",
+            "page": "virtual-office/florida/st.-petersburg/location-1582",
+            "data": []
+        }
+    }
+}

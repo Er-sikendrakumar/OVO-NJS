@@ -1,0 +1,93 @@
+{
+    "success": true,
+    "location_id": 1553,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Houma",
+            "state": "LA",
+            "price": null,
+            "address": {
+                "line1": "2043 Coteau Road",
+                "suite": null,
+                "city": "Houma",
+                "state": "LA",
+                "zip": "70364",
+                "phone": "(985) 289-2913"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/1553-01.building.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1553-02.meetingroom.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1553-03.meetingroom.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1553-04.lobby_.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1553-05.shared.jpg"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1553",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "HOUMA VIRTUAL OFFICE",
+            "body": "Join Opus Virtual Offices today and seize the opportunities that are taking the business community by storm. Multiply your business capabilities and enjoy unparalleled adaptability where you can run your company from anywhere in the world and still exude a polished corporate persona through our prestigious business address, all without breaking the bank on rent and overhead. Enhance your brand’s reputation, increase your cash reserves, and connect with markets both near and far by leveraging the power of your virtual office.  ",
+            "map": {
+                "lat": 29.6345191,
+                "lng": -90.70915579,
+                "zoom": 14,
+                "city": "Houma"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Houma, Louisiana even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Houma. You can also adapt to better meet your clients’ unique needs within Louisiana. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Houma virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Houma Virtual Office",
+                "body": "Secure a prestigious Houma business address without the cost associated with maintaining an actual office. With Opus VO, you can plant your business in the heart of Houma’s dynamic landscape, while keeping your expenditures in check. Hosting a vital client meeting or a pivotal pitch? Our state-of-the-art conference rooms are designed to leave an indelible impression.  With your virtual setup in Houma via Opus VO, an expert live receptionist is part of your entourage. We ensure that each interaction with your valued clientele is handled professionally, mirroring your brand’s ethos. Delegate your mundane clerical duties to us, enabling you to pursue your grand business vision. ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Houma - 2043 Coteau Road | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Louisiana, Houma virtual office located at 2043 Coteau Road. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/louisiana/houma/location-1553/",
+            "og": {
+                "title": "Virtual Office in Houma - 2043 Coteau Road | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Louisiana, Houma virtual office located at 2043 Coteau Road. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/louisiana/houma/location-1553/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/1553-01.building.jpg"
+            }
+        }
+    }
+}

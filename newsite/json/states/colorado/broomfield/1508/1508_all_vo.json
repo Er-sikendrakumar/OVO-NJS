@@ -1,0 +1,94 @@
+{
+    "success": true,
+    "location_id": 1508,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Broomfield",
+            "state": "CO",
+            "price": null,
+            "address": {
+                "line1": "11001 W 120th Avenue",
+                "suite": null,
+                "city": "Broomfield",
+                "state": "CO",
+                "zip": "80021",
+                "phone": "(720) 794-8056"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/1508-001-Building-1.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1508-02.meeting.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1508-03.lobby_.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1508-04.meeting.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1508-05.meeting.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1508-06.shared.jpg"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1508",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Broomfield Virtual Office",
+            "body": "Secure a top-notch business address in Broomfield without the financial burden of a physical office space. With Opus VO, you can position your business right in the middle of Broomfield’s bustling commerce scene and do it all without breaking the bank. When the time comes for important client meetings or business get-togethers, our modern conference rooms have got you covered. Plus, a Broomfield address is a great way to enhance your brand.  Go virtual in Broomfield through Opus VO, and you’ll also get the benefit of a live receptionist. We’re on point with making every client interaction perfectly mesh with your business ethos. Pass the routine admin tasks over to us, freeing up your time to drive your business forward. ",
+            "map": {
+                "lat": 39.9148173,
+                "lng": -105.1206877,
+                "zoom": 14,
+                "city": "Broomfield"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Broomfield, Colorado even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Broomfield. You can also adapt to better meet your clients’ unique needs within Colorado. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Broomfield virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Broomfield?",
+                "body": "Think Broomfield is just another Denver suburb? It’s time to reconsider. Broomfield is increasingly recognized as a hub for industries such as tech, healthcare, and retail. Our Broomfield spot puts you in easy reach of key industry players and networking events you won’t want to miss.  By opting for an Opus VO in Broomfield, you’re doing more than cutting costs—you’re snagging a legit competitive advantage. So, are you ready to step up your game? Our premium virtual office services are here to help you do just that.  Opus VO Broomfield @ 11001 W 120th Avenue, Broomfield, CO 80021 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Broomfield - 11001 W 120th Avenue | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Colorado, Broomfield virtual office located at 11001 W 120th Avenue. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/colorado/broomfield/location-1508/",
+            "og": {
+                "title": "Virtual Office in Broomfield - 11001 W 120th Avenue | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Colorado, Broomfield virtual office located at 11001 W 120th Avenue. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/colorado/broomfield/location-1508/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/1508-001-Building-1.jpg"
+            }
+        }
+    }
+}

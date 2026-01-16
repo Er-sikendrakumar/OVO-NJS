@@ -1,0 +1,23 @@
+{
+    "success": true,
+    "page": "virtual-office/texas/midland",
+    "page_type": "location_city",
+    "view": "city",
+    "seo": {
+        "title": "Virtual Office in Midland, TX | Multiple Locations Available",
+        "meta_description": "Find the ultimate office solution with Opus Virtual Offices in Midland, Texas. Our all-inclusive virtual offices cater to your business needs. Sign up today!",
+        "canonical": "https://www.opusvirtualoffices.com/virtual-office/texas/midland/",
+        "og": {
+            "title": "Virtual Office in Midland, TX | Multiple Locations Available",
+            "description": "Find the ultimate office solution with Opus Virtual Offices in Midland, Texas. Our all-inclusive virtual offices cater to your business needs. Sign up today!",
+            "url": "https://www.opusvirtualoffices.com/virtual-office/texas/midland/",
+            "type": "website",
+            "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+        }
+    },
+    "data": {
+        "state": "Texas",
+        "city": "Midland",
+        "mode": "virtual-office"
+    }
+}

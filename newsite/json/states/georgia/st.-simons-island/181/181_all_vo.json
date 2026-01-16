@@ -1,0 +1,83 @@
+{
+    "success": true,
+    "location_id": 181,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "St. Simons Island",
+            "state": "GA",
+            "price": null,
+            "address": {
+                "line1": "1700 Frederica Road",
+                "suite": null,
+                "city": "St. Simons Island",
+                "state": "GA",
+                "zip": "31522",
+                "phone": "(912) 436-0862"
+            },
+            "images": {
+                "hero": [
+                    "/assets/mail-center.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=181",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 0,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "St. Simons Island Virtual Office",
+            "body": "Secure a prestigious business address on St. Simon’s Island without the hefty price tag of a physical location. With Opus VO, you can set your business in the luxurious backdrop of St. Simon’s Island, while still maintaining budgetary discipline. Hosting an imperative meeting or closing a deal with a key client? Our top-tier conference rooms have got you covered.  When you choose a virtual office in St. Simon’s Island through Opus VO, you also get a dedicated live receptionist. We’re dedicated to ensuring each interaction with your clients mirrors your brand’s signature style. Say goodbye to routine admin work and focus on what truly matters—growing your business. ",
+            "map": {
+                "lat": 31.1631568,
+                "lng": -81.386656,
+                "zoom": 14,
+                "city": "St. Simons Island"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in St. Simons Island, Georgia even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of St. Simons Island. You can also adapt to better meet your clients’ unique needs within Georgia. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our St. Simons Island virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why St. Simon's Island?",
+                "body": "Don’t let St. Simon’s Island’s laid-back charm fool you. It’s a thriving hub for businesses across different sectors, including tourism, real estate, and retail. Opting for a virtual office here offers you a gateway to networking events and key business relationships.  With Opus VO in St. Simon’s Island, you’re not just saving money; you’re strategically positioning your business for success. Are you ready to turn the page on a new business chapter? Our elite virtual office services are here for you.  Opus VO, St. Simon’s Island @ 1700 Frederica Road, St. Simons Island, GA 31522 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "success": false,
+            "message": "Invalid page path format. Only alphanumeric characters, hyphens, underscores, and slashes allowed.",
+            "page": "virtual-office/georgia/st.-simons-island/location-181",
+            "data": []
+        }
+    }
+}

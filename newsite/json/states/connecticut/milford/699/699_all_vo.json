@@ -1,0 +1,89 @@
+{
+    "success": true,
+    "location_id": 699,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Milford",
+            "state": "CT",
+            "price": null,
+            "address": {
+                "line1": "167 Cherry Street",
+                "suite": null,
+                "city": "Milford",
+                "state": "CT",
+                "zip": "06460",
+                "phone": "(203) 405-4095"
+            },
+            "images": {
+                "hero": [
+                    "/assets/mail-center.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=699",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 0,
+            "nearbyPremium": 1,
+            "nearbyPremiumUrl": "/virtual-office/connecticut/branford/location-1668/",
+            "nearbyPremiumText": "to view the nearby PREMIUM Locations for the same $99/mo",
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Milford Virtual Office",
+            "body": "Secure a prominent business address in Milford without the financial burden of an actual office. With Opus VO, you can give your business a Milford address that stands out, all at a cost that won’t break the bank. Need a professional setting for important meetings? Our fully-equipped conference rooms are at your disposal, offering you the perfect venue for client interactions, all while boosting your brand’s reputation.  When you opt for a virtual office in Milford via Opus VO, you also get the bonus of a live receptionist, all about providing personalized, top-notch customer service that ensures every client interaction mirrors your unique business ethos. Leave the routine admin work to us—like mail sorting and call management—so you can concentrate on expanding your enterprise. ",
+            "map": {
+                "lat": 41.228709,
+                "lng": -73.049742,
+                "zoom": 14,
+                "city": "Milford"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Milford, Connecticut even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Milford. You can also adapt to better meet your clients’ unique needs within Connecticut. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Milford virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Milford?",
+                "body": "Milford isn’t just a scenic coastal city; it’s a burgeoning business hub with opportunities in industries like healthcare, tech, and retail. Our Milford location is ideally placed, giving you easy access to key industry contacts and essential networking events.  By choosing an Opus Virtual Office in Milford, you’re not merely reducing costs; you’re gaining a crucial competitive advantage. Ready to elevate your business game? Utilize our leading-edge virtual office services today.  Opus VO Milford @ 167 Cherry Street, Milford, CT 06460       ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Milford - 167 Cherry Street | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Connecticut, Milford virtual office located at 167 Cherry Street. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/connecticut/milford/location-699/",
+            "og": {
+                "title": "Virtual Office in Milford - 167 Cherry Street | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Connecticut, Milford virtual office located at 167 Cherry Street. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/connecticut/milford/location-699/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+            }
+        }
+    }
+}

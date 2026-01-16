@@ -1,0 +1,388 @@
+{
+    "success": true,
+    "count": 20,
+    "state": "new jersey",
+    "mode": "virtual-office",
+    "data": [
+        {
+            "id": 1540,
+            "location_name": "808 Springwood Avenue, Asbury Park, NJ 07712",
+            "city": "Asbury Park",
+            "state": "New Jersey",
+            "state_abbr": "NJ",
+            "address": "808 Springwood Avenue, Asbury Park, NJ 07712",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 40.2149349,
+            "point_y": -74.0143335,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/new-jersey/asbury-park/location-1540/",
+            "phone": "7329130602"
+        },
+        {
+            "id": 1664,
+            "location_name": "991 U.S. 22, Bridgewater, NJ 08807",
+            "city": "Bridgewater",
+            "state": "New Jersey",
+            "state_abbr": "NJ",
+            "address": "991 U.S. 22, Bridgewater, NJ 08807",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 40.5819163,
+            "point_y": -74.60482549,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1664.01.Building.webp",
+                "alttext": null
+            },
+            "url": "/virtual-office/new-jersey/bridgewater/location-1664/",
+            "phone": "7324263799"
+        },
+        {
+            "id": 417,
+            "location_name": "377 1/2 Valley Road, Clifton, NJ 07013",
+            "city": "Clifton",
+            "state": "New Jersey",
+            "state_abbr": "NJ",
+            "address": "377 1/2 Valley Road, Clifton, NJ 07013",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 40.885824,
+            "point_y": -74.178048,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/new-jersey/clifton/location-417/",
+            "phone": "9737356675"
+        },
+        {
+            "id": 1730,
+            "location_name": "2600 Tilton Road, Egg Harbor Township, NJ 08324",
+            "city": "Egg Harbor Township",
+            "state": "New Jersey",
+            "state_abbr": "NJ",
+            "address": "2600 Tilton Road, Egg Harbor Township, NJ 08324",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 39.4141076,
+            "point_y": -74.5673994,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/new-jersey/egg-harbor-township/location-1730/",
+            "phone": "6099985102"
+        },
+        {
+            "id": 1661,
+            "location_name": "30 Union Street, Elizabeth, NJ 07202",
+            "city": "Elizabeth",
+            "state": "New Jersey",
+            "state_abbr": "NJ",
+            "address": "30 Union Street, Elizabeth, NJ 07202",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 40.6654492,
+            "point_y": -74.21731369,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1661-01.bldg_.webp",
+                "alttext": null
+            },
+            "url": "/virtual-office/new-jersey/elizabeth/location-1661/",
+            "phone": "9082823840"
+        },
+        {
+            "id": 457,
+            "location_name": "2037 Lemoine Avenue, Fort Lee, NJ 07024",
+            "city": "Fort Lee",
+            "state": "New Jersey",
+            "state_abbr": "NJ",
+            "address": "2037 Lemoine Avenue, Fort Lee, NJ 07024",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 40.8525299,
+            "point_y": -73.9694971,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/new-jersey/fort-lee/location-457/",
+            "phone": "2012679726"
+        },
+        {
+            "id": 1065,
+            "location_name": "50 Harrison Street, Hoboken, NJ 07030",
+            "city": "Hoboken",
+            "state": "New Jersey",
+            "state_abbr": "NJ",
+            "address": "50 Harrison Street, Hoboken, NJ 07030",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 40.737444,
+            "point_y": -74.04313189,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1065-001-Building.png",
+                "alttext": null
+            },
+            "url": "/virtual-office/new-jersey/hoboken/location-1065/",
+            "phone": "2013458637"
+        },
+        {
+            "id": 462,
+            "location_name": "300 Main Street, Madison, NJ 07940",
+            "city": "Madison",
+            "state": "New Jersey",
+            "state_abbr": "NJ",
+            "address": "300 Main Street, Madison, NJ 07940",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 40.749813,
+            "point_y": -74.400176,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/new-jersey/madison/location-462/",
+            "phone": "9737356674"
+        },
+        {
+            "id": 1012,
+            "location_name": "525 Route 73 North, Marlton, NJ 08053",
+            "city": "Marlton",
+            "state": "New Jersey",
+            "state_abbr": "NJ",
+            "address": "525 Route 73 North, Marlton, NJ 08053",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 39.8758383,
+            "point_y": -74.923065,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1012-building-1743106952987.webp",
+                "alttext": "Exterior of building that houses Opus Virtual Offices located in Marlton, New Jersey"
+            },
+            "url": "/virtual-office/new-jersey/marlton/location-1012/",
+            "phone": "8565959024"
+        },
+        {
+            "id": 1115,
+            "location_name": "107 Tindall Road, Middletown, NJ 07748",
+            "city": "Middletown",
+            "state": "New Jersey",
+            "state_abbr": "NJ",
+            "address": "107 Tindall Road, Middletown, NJ 07748",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 40.4071548,
+            "point_y": -74.1008773,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1115-Exterior.jpg",
+                "alttext": "Exterior of building that houses Opus Virtual Offices located in Middletown, New Jersey"
+            },
+            "url": "/virtual-office/new-jersey/middletown/location-1115/",
+            "phone": "7323013514"
+        },
+        {
+            "id": 974,
+            "location_name": "188 Jefferson Street, Newark, NJ 07105",
+            "city": "Newark",
+            "state": "New Jersey",
+            "state_abbr": "NJ",
+            "address": "188 Jefferson Street, Newark, NJ 07105",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 40.726307,
+            "point_y": -74.163643,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/new-jersey/newark/location-974/",
+            "phone": "9737359276"
+        },
+        {
+            "id": 948,
+            "location_name": "110 Jabez Street, Newark, NJ 07105",
+            "city": "Newark",
+            "state": "New Jersey",
+            "state_abbr": "NJ",
+            "address": "110 Jabez Street, Newark, NJ 07105",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 40.72161,
+            "point_y": -74.1507746,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/new-jersey/newark/location-948/",
+            "phone": "9737359276"
+        },
+        {
+            "id": 1463,
+            "location_name": "8 Campus Drive, Parsippany, NJ 07054",
+            "city": "Parsippany",
+            "state": "New Jersey",
+            "state_abbr": "NJ",
+            "address": "8 Campus Drive, Parsippany, NJ 07054",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 40.8451476,
+            "point_y": -74.45210469,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1463-exterior.jpg",
+                "alttext": "Exterior of building that houses Opus Virtual Offices located in Parsippany, New Jersey"
+            },
+            "url": "/virtual-office/new-jersey/parsippany/location-1463/",
+            "phone": "6095421345"
+        },
+        {
+            "id": 1512,
+            "location_name": "300 Carnegie Center, Suite 150, Princeton, NJ 08540",
+            "city": "Princeton",
+            "state": "New Jersey",
+            "state_abbr": "NJ",
+            "address": "300 Carnegie Center, Suite 150, Princeton, NJ 08540",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 40.3100835,
+            "point_y": -74.6557709,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1512-01.bldg_.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/new-jersey/princeton/location-1512/",
+            "phone": "6093363843"
+        },
+        {
+            "id": 1541,
+            "location_name": "32 Monmouth Street, Red Bank, NJ 07701",
+            "city": "Red Bank",
+            "state": "New Jersey",
+            "state_abbr": "NJ",
+            "address": "32 Monmouth Street, Red Bank, NJ 07701",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 40.3497416,
+            "point_y": -74.0667991,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/new-jersey/red-bank/location-1541/",
+            "phone": "7329615328"
+        },
+        {
+            "id": 860,
+            "location_name": "1812 Front Street, Scotch Plains, NJ 07076",
+            "city": "Scotch Plains",
+            "state": "New Jersey",
+            "state_abbr": "NJ",
+            "address": "1812 Front Street, Scotch Plains, NJ 07076",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 40.6496271,
+            "point_y": -74.3993953,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/860-Exterior.png",
+                "alttext": "Exterior of building that houses Opus Virtual Offices located in Scotch Plains, New Jersey"
+            },
+            "url": "/virtual-office/new-jersey/scotch-plains/location-860/",
+            "phone": "9089771479"
+        },
+        {
+            "id": 407,
+            "location_name": "12 Route 50, Seaville, NJ 08230",
+            "city": "Seaville",
+            "state": "New Jersey",
+            "state_abbr": "NJ",
+            "address": "12 Route 50, Seaville, NJ 08230",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 39.2098069,
+            "point_y": -74.7056772,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/new-jersey/seaville/location-407/",
+            "phone": "6093363114"
+        },
+        {
+            "id": 945,
+            "location_name": "458 Elizabeth Avenue, Somerset, NJ 08873",
+            "city": "Somerset",
+            "state": "New Jersey",
+            "state_abbr": "NJ",
+            "address": "458 Elizabeth Avenue, Somerset, NJ 08873",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 40.5289949,
+            "point_y": -74.5404366,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/new-jersey/somerset/location-945/",
+            "phone": "7323013513"
+        },
+        {
+            "id": 1492,
+            "location_name": "247 East Front Street, Trenton, NJ 08611",
+            "city": "Trenton",
+            "state": "New Jersey",
+            "state_abbr": "NJ",
+            "address": "247 East Front Street, Trenton, NJ 08611",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 40.2189688,
+            "point_y": -74.7598804,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1462-02.bldg_.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/new-jersey/trenton/location-1492/",
+            "phone": "6093363843"
+        },
+        {
+            "id": 1196,
+            "location_name": "500 Paterson Plank Road, Union City, NJ 07087",
+            "city": "Union City",
+            "state": "New Jersey",
+            "state_abbr": "NJ",
+            "address": "500 Paterson Plank Road, Union City, NJ 07087",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 40.7567188,
+            "point_y": -74.04348249,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1Building-7.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/new-jersey/union-city/location-1196/",
+            "phone": "2013507639"
+        }
+    ]
+}

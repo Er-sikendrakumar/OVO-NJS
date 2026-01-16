@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "state": "washington",
+    "cities_virtual": [
+        {
+            "id": "322",
+            "name": "Bellevue",
+            "popular": "1"
+        },
+        {
+            "id": "421",
+            "name": "Issaquah",
+            "popular": "0"
+        },
+        {
+            "id": "323",
+            "name": "Mukilteo",
+            "popular": "0"
+        },
+        {
+            "id": "213",
+            "name": "Seattle",
+            "popular": "1"
+        },
+        {
+            "id": "565",
+            "name": "Spokane",
+            "popular": "1"
+        },
+        {
+            "id": "308",
+            "name": "Vancouver",
+            "popular": "0"
+        }
+    ],
+    "cities_business": [
+        {
+            "id": "213",
+            "name": "Seattle",
+            "popular": "1"
+        }
+    ],
+    "cities_popular": [
+        {
+            "id": "322",
+            "name": "Bellevue"
+        },
+        {
+            "id": "213",
+            "name": "Seattle"
+        },
+        {
+            "id": "565",
+            "name": "Spokane"
+        }
+    ],
+    "locations_business_address": [
+        {
+            "id": 1005,
+            "location_name": "4500 9th Avenue NE, Seattle, WA 98105",
+            "city": "Seattle",
+            "state": "Washington",
+            "state_abbr": "WA",
+            "address": "4500 9th Avenue NE, Seattle, WA 98105",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 47.661643,
+            "point_y": -122.3180587,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1005-exterior.jpg",
+                "alttext": "Exterior of building that houses Opus Virtual Offices located in Seattle, Washington"
+            },
+            "url": "/business-address/washington/seattle/location-1005/",
+            "phone": "2066819424"
+        },
+        {
+            "id": 1348,
+            "location_name": "9030 35th Avenue SW, Seattle, WA 98126",
+            "city": "Seattle",
+            "state": "Washington",
+            "state_abbr": "WA",
+            "address": "9030 35th Avenue SW, Seattle, WA 98126",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 47.5218731,
+            "point_y": -122.3763321,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1348-building-1743106952987.webp",
+                "alttext": "Exterior of building that houses Opus Virtual Offices located in Seattle, Washington"
+            },
+            "url": "/business-address/washington/seattle/location-1348/",
+            "phone": "2063856497"
+        }
+    ],
+    "meta": {
+        "cities_virtual_count": 6,
+        "cities_business_count": 1,
+        "cities_popular_count": 3,
+        "locations_business_address_count": 2
+    },
+    "seo": {
+        "title": "Virtual Business Address in Washington | Opus Virtual Offices",
+        "meta_description": "Get a prestigious business address in Washington with Opus. Multiple premium locations statewide mail handling privacy protection all for just $59/month.",
+        "canonical": "https://www.opusvirtualoffices.com/business-address/washington/",
+        "og": {
+            "title": "Virtual Business Address in Washington | Opus Virtual Offices",
+            "description": "Get a prestigious business address in Washington with Opus. Multiple premium locations statewide mail handling privacy protection all for just $59/month.",
+            "url": "https://www.opusvirtualoffices.com/business-address/washington/",
+            "type": "website",
+            "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+        }
+    }
+}

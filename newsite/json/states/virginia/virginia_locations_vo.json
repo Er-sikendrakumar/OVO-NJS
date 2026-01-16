@@ -1,0 +1,369 @@
+{
+    "success": true,
+    "count": 19,
+    "state": "virginia",
+    "mode": "virtual-office",
+    "data": [
+        {
+            "id": 1419,
+            "location_name": "2800 Eisenhower Avenue, Alexandria, VA 22314",
+            "city": "Alexandria",
+            "state": "Virginia",
+            "state_abbr": "VA",
+            "address": "2800 Eisenhower Avenue, Alexandria, VA 22314",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 38.8016031,
+            "point_y": -77.0817187,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1419-01.bldg_.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/virginia/alexandria/location-1419/",
+            "phone": "7033401416"
+        },
+        {
+            "id": 1585,
+            "location_name": "1550 Wilson Blvd, Arlington, VA 22209",
+            "city": "Arlington",
+            "state": "Virginia",
+            "state_abbr": "VA",
+            "address": "1550 Wilson Blvd, Arlington, VA 22209",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 38.8942529,
+            "point_y": -77.0759154,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1585-01.building.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/virginia/arlington/location-1585/",
+            "phone": "7032149026"
+        },
+        {
+            "id": 1755,
+            "location_name": "44679 Endicott Dr, Ashburn, VA 20147",
+            "city": "Ashburn",
+            "state": "Virginia",
+            "state_abbr": "VA",
+            "address": "44679 Endicott Dr, Ashburn, VA 20147",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 39.053669,
+            "point_y": -77.4546912,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1755-Exterior.jpg",
+                "alttext": "Exterior of building that houses Opus Virtual Offices located in Ashburn, Virginia"
+            },
+            "url": "/virtual-office/virginia/ashburn/location-1755/",
+            "phone": "7032397967"
+        },
+        {
+            "id": 1377,
+            "location_name": "969 2nd Street SE, Charlottesville, VA 22902",
+            "city": "Charlottesville",
+            "state": "Virginia",
+            "state_abbr": "VA",
+            "address": "969 2nd Street SE, Charlottesville, VA 22902",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 38.0242112,
+            "point_y": -78.48347919,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1377-000-Building.webp",
+                "alttext": null
+            },
+            "url": "/virtual-office/virginia/charlottesville/location-1377/",
+            "phone": "4342043287"
+        },
+        {
+            "id": 1379,
+            "location_name": "107B East Davis Street, Culpeper, VA 22701",
+            "city": "Culpeper",
+            "state": "Virginia",
+            "state_abbr": "VA",
+            "address": "107B East Davis Street, Culpeper, VA 22701",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 38.4731975,
+            "point_y": -77.99588229,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1379-01.bldg_.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/virginia/culpeper/location-1379/",
+            "phone": "5714438901"
+        },
+        {
+            "id": 1757,
+            "location_name": "3060 Williams Dr, Fairfax, VA 22031",
+            "city": "Fairfax",
+            "state": "Virginia",
+            "state_abbr": "VA",
+            "address": "3060 Williams Dr, Fairfax, VA 22031",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 38.8665223,
+            "point_y": -77.23413529,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1757-bldg.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/virginia/fairfax/location-1757/",
+            "phone": "7039624712"
+        },
+        {
+            "id": 1069,
+            "location_name": "2215 Plank Road, Fredericksburg, VA 22401",
+            "city": "Fredericksburg",
+            "state": "Virginia",
+            "state_abbr": "VA",
+            "address": "2215 Plank Road, Fredericksburg, VA 22401",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 38.2968907,
+            "point_y": -77.4973277,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/virginia/fredericksburg/location-1069/",
+            "phone": "5403698832"
+        },
+        {
+            "id": 679,
+            "location_name": "478 Elden Street, Herndon, VA 20170",
+            "city": "Herndon",
+            "state": "Virginia",
+            "state_abbr": "VA",
+            "address": "478 Elden Street, Herndon, VA 20170",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 38.9704268,
+            "point_y": -77.3757203,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/virginia/herndon/location-679/",
+            "phone": "7033401409"
+        },
+        {
+            "id": 1118,
+            "location_name": "722 E. Market Street, Leesburg, VA 20176",
+            "city": "Leesburg",
+            "state": "Virginia",
+            "state_abbr": "VA",
+            "address": "722 E. Market Street, Leesburg, VA 20176",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 39.1065925,
+            "point_y": -77.5470415,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1building.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/virginia/leesburg/location-1118/",
+            "phone": "7039572579"
+        },
+        {
+            "id": 252,
+            "location_name": "1390 Chain Bridge Road, McLean, VA 22101",
+            "city": "McLean",
+            "state": "Virginia",
+            "state_abbr": "VA",
+            "address": "1390 Chain Bridge Road, McLean, VA 22101",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 38.935382,
+            "point_y": -77.176248,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/virginia/mclean/location-252/",
+            "phone": "7033401413"
+        },
+        {
+            "id": 996,
+            "location_name": "8200 Greensboro Drive, McLean, VA 22102",
+            "city": "McLean",
+            "state": "Virginia",
+            "state_abbr": "VA",
+            "address": "8200 Greensboro Drive, McLean, VA 22102",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 38.9232246,
+            "point_y": -77.22834189,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/996-building.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/virginia/mclean/location-996/",
+            "phone": "7036824525"
+        },
+        {
+            "id": 1378,
+            "location_name": "8001 Forbes Place, North Springfield, VA 22151",
+            "city": "North Springfield",
+            "state": "Virginia",
+            "state_abbr": "VA",
+            "address": "8001 Forbes Place, North Springfield, VA 22151",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 38.8076339,
+            "point_y": -77.21958819,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1378-01.bldg_.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/virginia/north-springfield/location-1378/",
+            "phone": "5714438897"
+        },
+        {
+            "id": 1609,
+            "location_name": "3276 Academy Avenue, Portsmouth, VA 23703",
+            "city": "Portsmouth",
+            "state": "Virginia",
+            "state_abbr": "VA",
+            "address": "3276 Academy Avenue, Portsmouth, VA 23703",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 36.8639284,
+            "point_y": -76.397587,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/virginia/portsmouth/location-1609/",
+            "phone": "0"
+        },
+        {
+            "id": 1607,
+            "location_name": "100 7th Street, Portsmouth, VA 23704",
+            "city": "Portsmouth",
+            "state": "Virginia",
+            "state_abbr": "VA",
+            "address": "100 7th Street, Portsmouth, VA 23704",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 36.8293865,
+            "point_y": -76.304165,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1607-01.bldg_.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/virginia/portsmouth/location-1607/",
+            "phone": "0"
+        },
+        {
+            "id": 988,
+            "location_name": "10825 Midlothian Turnpike, Richmond, VA 23235",
+            "city": "Richmond",
+            "state": "Virginia",
+            "state_abbr": "VA",
+            "address": "10825 Midlothian Turnpike, Richmond, VA 23235",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 37.506163699,
+            "point_y": -77.5970706,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/virginia/richmond/location-988/",
+            "phone": "8047230403"
+        },
+        {
+            "id": 1704,
+            "location_name": "919 E Main Street, Richmond, VA 23219",
+            "city": "Richmond",
+            "state": "Virginia",
+            "state_abbr": "VA",
+            "address": "919 E Main Street, Richmond, VA 23219",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 37.537549,
+            "point_y": -77.43604289,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1704-01.bldg_.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/virginia/richmond/location-1704/",
+            "phone": "8047230403"
+        },
+        {
+            "id": 1498,
+            "location_name": "7918 Jones Branch Drive, Tysons, VA 22102",
+            "city": "Tysons",
+            "state": "Virginia",
+            "state_abbr": "VA",
+            "address": "7918 Jones Branch Drive, Tysons, VA 22102",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 38.9259403,
+            "point_y": -77.2170731,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1498-exterior.jpg",
+                "alttext": "Exterior of building that houses Opus Virtual Offices located in Tyson, Virginia"
+            },
+            "url": "/virtual-office/virginia/tysons/location-1498/",
+            "phone": "7032397935"
+        },
+        {
+            "id": 1779,
+            "location_name": "4445 Corporation Ln, Virginia Beach, VA 23462",
+            "city": "Virginia Beach",
+            "state": "Virginia",
+            "state_abbr": "VA",
+            "address": "4445 Corporation Ln, Virginia Beach, VA 23462",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 36.8470411,
+            "point_y": -76.1264465,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1779-Exterior.jpg",
+                "alttext": "Exterior of building that houses Opus Virtual Offices located in Virginia Beach, Virginia"
+            },
+            "url": "/virtual-office/virginia/virginia-beach/location-1779/",
+            "phone": "0"
+        },
+        {
+            "id": 1145,
+            "location_name": "7307 George Washington Memorial Hwy, Yorktown, VA 23692",
+            "city": "Yorktown",
+            "state": "Virginia",
+            "state_abbr": "VA",
+            "address": "7307 George Washington Memorial Hwy, Yorktown, VA 23692",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 37.180142,
+            "point_y": -76.484902,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/virginia/yorktown/location-1145/",
+            "phone": "7572969474"
+        }
+    ]
+}

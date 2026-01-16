@@ -1,0 +1,89 @@
+{
+    "success": true,
+    "location_id": 1489,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Biddeford",
+            "state": "ME",
+            "price": null,
+            "address": {
+                "line1": "40 Main Street",
+                "suite": null,
+                "city": "Biddeford",
+                "state": "ME",
+                "zip": "04005",
+                "phone": "(888) 898-9868"
+            },
+            "images": {
+                "hero": [
+                    "/assets/mail-center.webp"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1489",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 0,
+            "nearbyPremium": 1,
+            "nearbyPremiumUrl": "/virtual-office/maine/portland/location-1112/",
+            "nearbyPremiumText": "to view the nearby PREMIUM Locations for the same $99/mo",
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Biddeford Virtual Office",
+            "body": "Acquire an esteemed business presence in Biddeford without the financial constraints of maintaining a brick-and-mortar location. Utilizing Opus VO allows you to root your enterprise within the lively landscape of Biddeford while managing your budget wisely. For high-stakes meetings and significant client presentations, our state-of-the-art conference rooms are designed to leave a lasting impression.  Selecting a virtual office in Biddeford through Opus VO also furnishes you with the support of a live receptionist. We take special care to ensure each client engagement harmonizes with your brand’s unique character. Leave the mundane administrative tasks to us, giving you the freedom to pursue your business objectives. ",
+            "map": {
+                "lat": 43.4933126,
+                "lng": -70.4532858,
+                "zoom": 14,
+                "city": "Biddeford"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Biddeford, Maine even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Biddeford. You can also adapt to better meet your clients’ unique needs within Maine. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Biddeford virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Biddeford?",
+                "body": "Beyond its picturesque surroundings, Biddeford is a burgeoning hub for an array of businesses, from tech innovators to service providers. Anchoring your virtual office in Biddeford provides access to a broad network of professionals and industry events, thereby enriching your business prospects.  Engaging the services of Opus VO in Biddeford isn’t merely a sound fiscal choice—it offers you a distinct competitive edge. Are you set to uplift your business to new heights? Our exceptional virtual office services are ready to assist you.  Opus VO, Biddeford @ 40 Main Street, Biddeford, ME 04005 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Biddeford - 40 Main Street | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Maine, Biddeford virtual office located at 40 Main Street. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/maine/biddeford/location-1489/",
+            "og": {
+                "title": "Virtual Office in Biddeford - 40 Main Street | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Maine, Biddeford virtual office located at 40 Main Street. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/maine/biddeford/location-1489/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+            }
+        }
+    }
+}

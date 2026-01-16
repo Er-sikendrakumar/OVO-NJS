@@ -1,0 +1,93 @@
+{
+    "success": true,
+    "location_id": 1705,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Cumming",
+            "state": "GA",
+            "price": null,
+            "address": {
+                "line1": "431 Vision Drive",
+                "suite": null,
+                "city": "Cumming",
+                "state": "GA",
+                "zip": "30040",
+                "phone": "(678) 965-3076"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/1705-01.bldg_.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1705-02.meeting.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1705-03.meeting.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1705-04.shared.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1705-05.shared-.jpg"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1705",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 1,
+            "nearbyPremiumUrl": "/virtual-office/georgia/atlanta/location-684/",
+            "nearbyPremiumText": "to view the most POPULAR locations nearby for the same $99/mo",
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "CUMMING VIRTUAL OFFICE",
+            "body": "You can start a business just about anywhere in Georgia, but some cities offer more benefits for your company’s goals. At Opus, we have compiled a list of the most popular cities to start a business, for any type of business. Growth is important for a business, not only when you are in the early stages of starting your business but also when you are looking to expand. Check out each one to see which one could benefit your business long-term prospects. Considering the increase in leasing fees, having a virtual office and business presence in these locations could save you a fortune and help you profit immensely. Take advantage of a virtual office in Georgia today.”",
+            "map": {
+                "lat": 34.2169483,
+                "lng": -84.145691,
+                "zoom": 14,
+                "city": "Cumming"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Cumming, Georgia even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Cumming. You can also adapt to better meet your clients’ unique needs within Georgia. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Cumming virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "CUMMING VIRTUAL OFFICE",
+                "body": "",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Cumming - 431 Vision Drive | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Georgia, Cumming virtual office located at 431 Vision Drive. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/georgia/cumming/location-1705/",
+            "og": {
+                "title": "Virtual Office in Cumming - 431 Vision Drive | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Georgia, Cumming virtual office located at 431 Vision Drive. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/georgia/cumming/location-1705/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/1705-01.bldg_.jpg"
+            }
+        }
+    }
+}

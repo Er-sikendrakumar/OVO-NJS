@@ -1,0 +1,93 @@
+{
+    "success": true,
+    "location_id": 1542,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Newnan",
+            "state": "GA",
+            "price": null,
+            "address": {
+                "line1": "15 Perry Street",
+                "suite": null,
+                "city": "Newnan",
+                "state": "GA",
+                "zip": "30263",
+                "phone": "(770) 659-0601"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/1542-01.bldg_.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1542-02.meeting.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1542-03.meeting.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1542-04.space_.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1542-05.space_.jpg"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1542",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Newnan Virtual Office",
+            "body": "Secure an elite business address in Newnan without the hassle of a traditional office space. With Opus VO, your company can establish itself in Newnan’s thriving business community, and you won’t have to part with an arm and a leg to do so. Upcoming high-stakes meeting or a game-changing client rendezvous? Our cutting-edge conference rooms are designed to impress.  Going virtual in Newnan with Opus VO includes a personalized live receptionist as part of your package. We aim to make every client interaction an organic extension of your one-of-a-kind brand. Offload those tedious admin tasks to us and free up your time to chase those big business dreams.   ",
+            "map": {
+                "lat": 33.3732614,
+                "lng": -84.7985983,
+                "zoom": 14,
+                "city": "Newnan"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Newnan, Georgia even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Newnan. You can also adapt to better meet your clients’ unique needs within Georgia. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Newnan virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Newnan? Why a Virtual Office?",
+                "body": "Newnan is more than just a charming Southern town; it’s a burgeoning center for businesses spanning the healthcare, retail, and tech sectors. Setting up shop in Newnan offers you a chance to connect with influential industry players and networking opportunities.  By choosing Opus VO in Newnan, you’re doing more than just cutting costs—you’re gaining a significant competitive advantage. Ready to ascend to the next level? Our world-class virtual office services are standing by to assist you.  Opus VO, Newnan @ 15 Perry Street, Newnan, GA 30263 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Newnan - 15 Perry Street | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Georgia, Newnan virtual office located at 15 Perry Street. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/georgia/newnan/location-1542/",
+            "og": {
+                "title": "Virtual Office in Newnan - 15 Perry Street | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Georgia, Newnan virtual office located at 15 Perry Street. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/georgia/newnan/location-1542/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/1542-01.bldg_.jpg"
+            }
+        }
+    }
+}

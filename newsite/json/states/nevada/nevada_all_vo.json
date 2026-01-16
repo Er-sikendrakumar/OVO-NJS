@@ -1,0 +1,223 @@
+{
+    "success": true,
+    "state": "nevada",
+    "cities_virtual": [
+        {
+            "id": "422",
+            "name": "Henderson",
+            "popular": "1"
+        },
+        {
+            "id": "661",
+            "name": "Incline Village",
+            "popular": "1"
+        },
+        {
+            "id": "178",
+            "name": "Las Vegas",
+            "popular": "1"
+        },
+        {
+            "id": "659",
+            "name": "Reno",
+            "popular": "1"
+        }
+    ],
+    "cities_business": [
+        {
+            "id": "178",
+            "name": "Las Vegas",
+            "popular": "1"
+        }
+    ],
+    "cities_popular": [
+        {
+            "id": "422",
+            "name": "Henderson"
+        },
+        {
+            "id": "661",
+            "name": "Incline Village"
+        },
+        {
+            "id": "178",
+            "name": "Las Vegas"
+        },
+        {
+            "id": "659",
+            "name": "Reno"
+        }
+    ],
+    "locations_virtual_office": [
+        {
+            "id": 676,
+            "location_name": "2880 Bicentennial Pkwy., Henderson, NV 89044",
+            "city": "Henderson",
+            "state": "Nevada",
+            "state_abbr": "NV",
+            "address": "2880 Bicentennial Pkwy., Henderson, NV 89044",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 35.941272,
+            "point_y": -115.116317,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/nevada/henderson/location-676/",
+            "phone": "7025419315"
+        },
+        {
+            "id": 1201,
+            "location_name": "3535 Executive Terminal Drive, Henderson, NV 89052",
+            "city": "Henderson",
+            "state": "Nevada",
+            "state_abbr": "NV",
+            "address": "3535 Executive Terminal Drive, Henderson, NV 89052",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 35.9760781,
+            "point_y": -115.1417693,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1201-001-Building-e1709841416813.png",
+                "alttext": null
+            },
+            "url": "/virtual-office/nevada/henderson/location-1201/",
+            "phone": "7029960827"
+        },
+        {
+            "id": 1481,
+            "location_name": "885 Tahoe Blvd, Incline Village, NV 89451",
+            "city": "Incline Village",
+            "state": "Nevada",
+            "state_abbr": "NV",
+            "address": "885 Tahoe Blvd, Incline Village, NV 89451",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 39.2494664,
+            "point_y": -119.9543212,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1481-01.building.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/nevada/incline-village/location-1481/",
+            "phone": "7754734824"
+        },
+        {
+            "id": 834,
+            "location_name": "3430 E. Russell Road, Las Vegas, NV 89120",
+            "city": "Las Vegas",
+            "state": "Nevada",
+            "state_abbr": "NV",
+            "address": "3430 E. Russell Road, Las Vegas, NV 89120",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 36.087314,
+            "point_y": -115.0995266,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/834-0001-Building.png",
+                "alttext": null
+            },
+            "url": "/virtual-office/nevada/las-vegas/location-834/",
+            "phone": "7022733256"
+        },
+        {
+            "id": 839,
+            "location_name": "6130 Elton Avenue, Las Vegas, NV 89107",
+            "city": "Las Vegas",
+            "state": "Nevada",
+            "state_abbr": "NV",
+            "address": "6130 Elton Avenue, Las Vegas, NV 89107",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 36.1724916,
+            "point_y": -115.2254507,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/839-building.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/nevada/las-vegas/location-839/",
+            "phone": "7025606619"
+        },
+        {
+            "id": 1726,
+            "location_name": "625 S 6th Street, Las Vegas, NV 89101",
+            "city": "Las Vegas",
+            "state": "Nevada",
+            "state_abbr": "NV",
+            "address": "625 S 6th Street, Las Vegas, NV 89101",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 36.161972899,
+            "point_y": -115.1436732,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1726-building-1747071183203.jpg",
+                "alttext": "Exterior of building that houses Opus Virtual Offices located in Las Vegas, Nevada"
+            },
+            "url": "/virtual-office/nevada/las-vegas/location-1726/",
+            "phone": "7252405502"
+        },
+        {
+            "id": 1081,
+            "location_name": "8565 S. Eastern Avenue, Las Vegas, NV 89123",
+            "city": "Las Vegas",
+            "state": "Nevada",
+            "state_abbr": "NV",
+            "address": "8565 S. Eastern Avenue, Las Vegas, NV 89123",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 36.0340176,
+            "point_y": -115.1200855,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1081-001-Building-e1709912025885.png",
+                "alttext": null
+            },
+            "url": "/virtual-office/nevada/las-vegas/location-1081/",
+            "phone": "7025606619"
+        },
+        {
+            "id": 1614,
+            "location_name": "5150 Mae Anne Ave, Reno, NV 89523",
+            "city": "Reno",
+            "state": "Nevada",
+            "state_abbr": "NV",
+            "address": "5150 Mae Anne Ave, Reno, NV 89523",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 39.5314266,
+            "point_y": -119.8662793,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/nevada/reno/location-1614/",
+            "phone": "0"
+        }
+    ],
+    "meta": {
+        "cities_virtual_count": 4,
+        "cities_business_count": 1,
+        "cities_popular_count": 4,
+        "locations_virtual_office_count": 8
+    },
+    "seo": {
+        "title": "Virtual Office in Nevada | Locations Statewide | Opus VO",
+        "meta_description": "Get a prestigious Nevada business address and professional phone answering services with Opus Virtual Offices, the perfect office solution for your business needs.",
+        "canonical": "https://www.opusvirtualoffices.com/virtual-office/nevada/",
+        "og": {
+            "title": "Virtual Office in Nevada | Locations Statewide | Opus VO",
+            "description": "Get a prestigious Nevada business address and professional phone answering services with Opus Virtual Offices, the perfect office solution for your business needs.",
+            "url": "https://www.opusvirtualoffices.com/virtual-office/nevada/",
+            "type": "website",
+            "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+        }
+    }
+}

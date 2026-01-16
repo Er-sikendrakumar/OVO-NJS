@@ -1,0 +1,12 @@
+{
+    "success": true,
+    "count": 1,
+    "state": "west virginia",
+    "data": [
+        {
+            "id": "662",
+            "name": "Martinsburg",
+            "popular": "1"
+        }
+    ]
+}

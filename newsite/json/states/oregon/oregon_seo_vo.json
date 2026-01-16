@@ -1,0 +1,22 @@
+{
+    "success": true,
+    "page": "virtual-office/oregon",
+    "page_type": "location_state",
+    "view": "state",
+    "seo": {
+        "title": "Virtual Office in Oregon | Locations Statewide | Opus VO",
+        "meta_description": "Get a prestigious Oregon business address and professional phone answering services with Opus Virtual Offices, the perfect office solution for your business needs.",
+        "canonical": "https://www.opusvirtualoffices.com/virtual-office/oregon/",
+        "og": {
+            "title": "Virtual Office in Oregon | Locations Statewide | Opus VO",
+            "description": "Get a prestigious Oregon business address and professional phone answering services with Opus Virtual Offices, the perfect office solution for your business needs.",
+            "url": "https://www.opusvirtualoffices.com/virtual-office/oregon/",
+            "type": "website",
+            "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+        }
+    },
+    "data": {
+        "state": "Oregon",
+        "mode": "virtual-office"
+    }
+}

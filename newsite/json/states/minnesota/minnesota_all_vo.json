@@ -1,0 +1,281 @@
+{
+    "success": true,
+    "state": "minnesota",
+    "cities_virtual": [
+        {
+            "id": "389",
+            "name": "Apple Valley",
+            "popular": "0"
+        },
+        {
+            "id": "752",
+            "name": "Bloomington",
+            "popular": "0"
+        },
+        {
+            "id": "596",
+            "name": "Edina",
+            "popular": "1"
+        },
+        {
+            "id": "554",
+            "name": "Minneapolis",
+            "popular": "1"
+        },
+        {
+            "id": "753",
+            "name": "Minnetonka",
+            "popular": "0"
+        },
+        {
+            "id": "226",
+            "name": "Saint Paul",
+            "popular": "1"
+        },
+        {
+            "id": "595",
+            "name": "St. Louis Park",
+            "popular": "1"
+        },
+        {
+            "id": "227",
+            "name": "Woodbury",
+            "popular": "0"
+        }
+    ],
+    "cities_business": [
+        {
+            "id": "752",
+            "name": "Bloomington",
+            "popular": "0"
+        }
+    ],
+    "cities_popular": [
+        {
+            "id": "596",
+            "name": "Edina"
+        },
+        {
+            "id": "554",
+            "name": "Minneapolis"
+        },
+        {
+            "id": "226",
+            "name": "Saint Paul"
+        },
+        {
+            "id": "595",
+            "name": "St. Louis Park"
+        }
+    ],
+    "locations_virtual_office": [
+        {
+            "id": 634,
+            "location_name": "14870 Granada Ave, Apple Valley, MN 55124",
+            "city": "Apple Valley",
+            "state": "Minnesota",
+            "state_abbr": "MN",
+            "address": "14870 Granada Ave, Apple Valley, MN 55124",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 44.732858,
+            "point_y": -93.221177,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/minnesota/apple-valley/location-634/",
+            "phone": "9525943406"
+        },
+        {
+            "id": 1392,
+            "location_name": "7900 International Drive, Bloomington, MN 55425",
+            "city": "Bloomington",
+            "state": "Minnesota",
+            "state_abbr": "MN",
+            "address": "7900 International Drive, Bloomington, MN 55425",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 44.8595598,
+            "point_y": -93.2263347,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1392-building-1743106952987.jpg",
+                "alttext": "Exterior of building housing Opus Virtual Offices located in Bloomington, Minnesota"
+            },
+            "url": "/virtual-office/minnesota/bloomington/location-1392/",
+            "phone": "9522064974"
+        },
+        {
+            "id": 1390,
+            "location_name": "3800 American Blvd West, Bloomington, MN 55431",
+            "city": "Bloomington",
+            "state": "Minnesota",
+            "state_abbr": "MN",
+            "address": "3800 American Blvd West, Bloomington, MN 55431",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 44.8567517,
+            "point_y": -93.3284249,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1390-01.bldg_.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/minnesota/bloomington/location-1390/",
+            "phone": "9525633146"
+        },
+        {
+            "id": 1023,
+            "location_name": "5200 Willson Road, Edina, MN 55424",
+            "city": "Edina",
+            "state": "Minnesota",
+            "state_abbr": "MN",
+            "address": "5200 Willson Road, Edina, MN 55424",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 44.9093227,
+            "point_y": -93.3494021,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1023-exterior.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/minnesota/edina/location-1023/",
+            "phone": "9525633147"
+        },
+        {
+            "id": 1636,
+            "location_name": "2909 S Wayzata Blvd, Minneapolis, MN 55405",
+            "city": "Minneapolis",
+            "state": "Minnesota",
+            "state_abbr": "MN",
+            "address": "2909 S Wayzata Blvd, Minneapolis, MN 55405",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 44.9697598,
+            "point_y": -93.31777629,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1636-01.Building.webp",
+                "alttext": null
+            },
+            "url": "/virtual-office/minnesota/minneapolis/location-1636/",
+            "phone": "6124842089"
+        },
+        {
+            "id": 918,
+            "location_name": "40 S 7th Street, Minneapolis, MN 55402",
+            "city": "Minneapolis",
+            "state": "Minnesota",
+            "state_abbr": "MN",
+            "address": "40 S 7th Street, Minneapolis, MN 55402",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 44.9772066,
+            "point_y": -93.272869,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/minnesota/minneapolis/location-918/",
+            "phone": "6123553719"
+        },
+        {
+            "id": 1391,
+            "location_name": "12800 Whitewater Drive, Minnetonka, MN 55343",
+            "city": "Minnetonka",
+            "state": "Minnesota",
+            "state_abbr": "MN",
+            "address": "12800 Whitewater Drive, Minnetonka, MN 55343",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 44.896561,
+            "point_y": -93.4431255,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1391-01.bldg_.jpg",
+                "alttext": null
+            },
+            "url": "/virtual-office/minnesota/minnetonka/location-1391/",
+            "phone": "9522064979"
+        },
+        {
+            "id": 425,
+            "location_name": "2136 Ford Parkway, Saint Paul, MN 55116",
+            "city": "Saint Paul",
+            "state": "Minnesota",
+            "state_abbr": "MN",
+            "address": "2136 Ford Parkway, Saint Paul, MN 55116",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 44.917729,
+            "point_y": -93.190725,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/minnesota/saint-paul/location-425/",
+            "phone": "6512366497"
+        },
+        {
+            "id": 1393,
+            "location_name": "5775 Wayzata Blvd, St. Louis Park, MN 55416",
+            "city": "St. Louis Park",
+            "state": "Minnesota",
+            "state_abbr": "MN",
+            "address": "5775 Wayzata Blvd, St. Louis Park, MN 55416",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 44.9689748,
+            "point_y": -93.3541108,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1393-building-1743107049776.jpg",
+                "alttext": "Exterior of building that houses Opus Virtual Offices located in St. Lois Park, Minnesota"
+            },
+            "url": "/virtual-office/minnesota/st.-louis-park/location-1393/",
+            "phone": "9525633148"
+        },
+        {
+            "id": 1394,
+            "location_name": "2042 Wooddale Drive, Woodbury, MN 55125",
+            "city": "Woodbury",
+            "state": "Minnesota",
+            "state_abbr": "MN",
+            "address": "2042 Wooddale Drive, Woodbury, MN 55125",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 44.9193078,
+            "point_y": -92.9747273,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1394-building-1743107144242.jpg",
+                "alttext": "Exterior of building that houses Opus Virtual Offices located in Woodbury, Minnesota"
+            },
+            "url": "/virtual-office/minnesota/woodbury/location-1394/",
+            "phone": "6512366498"
+        }
+    ],
+    "meta": {
+        "cities_virtual_count": 8,
+        "cities_business_count": 1,
+        "cities_popular_count": 4,
+        "locations_virtual_office_count": 10
+    },
+    "seo": {
+        "title": "Virtual Office in Minnesota | Locations Statewide | Opus VO",
+        "meta_description": "Get a prestigious Minnesota business address and professional phone answering services with Opus Virtual Offices, the perfect office solution for your business needs.",
+        "canonical": "https://www.opusvirtualoffices.com/virtual-office/minnesota/",
+        "og": {
+            "title": "Virtual Office in Minnesota | Locations Statewide | Opus VO",
+            "description": "Get a prestigious Minnesota business address and professional phone answering services with Opus Virtual Offices, the perfect office solution for your business needs.",
+            "url": "https://www.opusvirtualoffices.com/virtual-office/minnesota/",
+            "type": "website",
+            "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+        }
+    }
+}

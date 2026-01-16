@@ -1,0 +1,94 @@
+{
+    "success": true,
+    "location_id": 1516,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Merrillville",
+            "state": "IN",
+            "price": null,
+            "address": {
+                "line1": "5164 E 81st Avenue",
+                "suite": null,
+                "city": "Merrillville",
+                "state": "IN",
+                "zip": "46410",
+                "phone": "(219) 245-6748"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/1516-exterior.jpeg",
+                    "/wp-content-mgr/wp-content/uploads/1516-conference.png",
+                    "/wp-content-mgr/wp-content/uploads/1516-conference2.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1516-louunge.png",
+                    "/wp-content-mgr/wp-content/uploads/1516-kitchen.jpeg",
+                    "/wp-content-mgr/wp-content/uploads/1516-lounge2.png"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1516",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Merrillville Virtual Office",
+            "body": "Experience the benefits of a distinguished business address in Merrillville without the burdens and costs that come with a traditional office environment. Opus VO offers you the convenience of a first-rate business location in Merrillville at a fraction of the cost of a physical office. Manage your business mail, welcome your clients, and hold your meetings in our modern, fully-equipped conference rooms. Boost your business profile with a reputable address in one of Merrillville’s key business districts.  Selecting a virtual office in Merrillville through Opus VO gives you the distinct advantage of a live receptionist who delivers a personalized, top-notch service experience for your clients. Each client encounter is crafted to suit your specific business needs, supported by our full array of administrative services, including complete mail management, advanced call forwarding options, and more. Allow our dedicated admin team to take care of day-to-day operational tasks so you can focus on the bigger picture and the strategic growth of your business. ",
+            "map": {
+                "lat": 41.4717241,
+                "lng": -87.2741533,
+                "zoom": 14,
+                "city": "Merrillville"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Merrillville, Indiana even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Merrillville. You can also adapt to better meet your clients’ unique needs within Indiana. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Merrillville virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Choose a Merrillville Virtual Office?",
+                "body": "Merrillville isn’t just a suburban crossroad; it’s a vital economic center with industries ranging from retail to healthcare. Align your business with this expanding market to unlock local opportunities that can significantly boost your revenue. Conveniently situated near important business centers and networking venues, our Merrillville location offers you effortless access to valuable industry events and connections.  By opting for an Opus Virtual Office in Merrillville, you position your business for success while saving significantly on the expenses associated with traditional office setups. Take the next step in business excellence by embracing our innovative virtual office solutions today.  Opus VO, Merrillville @ 5164 E 81st Avenue, Merrillville, IN 46410  ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Merrillville - 5164 E 81st Avenue | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Indiana, Merrillville virtual office located at 5164 E 81st Avenue. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/indiana/merrillville/location-1516/",
+            "og": {
+                "title": "Virtual Office in Merrillville - 5164 E 81st Avenue | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Indiana, Merrillville virtual office located at 5164 E 81st Avenue. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/indiana/merrillville/location-1516/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/1516-exterior.jpeg"
+            }
+        }
+    }
+}

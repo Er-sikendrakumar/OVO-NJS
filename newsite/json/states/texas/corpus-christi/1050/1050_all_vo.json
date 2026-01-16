@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "location_id": 1050,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Corpus Christi",
+            "state": "TX",
+            "price": null,
+            "address": {
+                "line1": "710 Buffalo Street",
+                "suite": null,
+                "city": "Corpus Christi",
+                "state": "TX",
+                "zip": "78401",
+                "phone": "(361) 271-3078"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/1050-001-Building.png",
+                    "/wp-content-mgr/wp-content/uploads/1050-02.Meeting-Room-1_Corpus_Christi-733x550.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1050-03.Meeting-Room-2_Corpus_Christi-413x550.jpg"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1050",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Corpus Christi Virtual Office",
+            "body": "Contemplating a Corpus Christi location to either jumpstart your budding enterprise or elevate your existing business, but concerned about the financial commitment of a brick-and-mortar office? Meet Opus VO. Secure your business in one of our prime Corpus Christi locations, providing you with the prestige of an established address without the monetary constraints. When high-stakes meetings or impactful client interactions come up, our state-of-the-art conference rooms are at your service.  There’s more to love. Selecting a virtual office through Opus VO in Corpus Christi also furnishes you with the benefit of a live receptionist. Our top-notch team is committed to handling your customer interactions in a manner that perfectly complements your specific business aspirations. From streamlined email management to expert call-routing, leave the administrative work to us while you concentrate on propelling your business forward. ",
+            "map": {
+                "lat": 27.7985173,
+                "lng": -97.3981848,
+                "zoom": 14,
+                "city": "Corpus Christi"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Corpus Christi, Texas even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Corpus Christi. You can also adapt to better meet your clients’ unique needs within Texas. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Corpus Christi virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Corpus Christi? Why Opus VO?",
+                "body": "Corpus Christi is not just a beachfront city; it’s a pulsating commercial center with a diverse range of industries. When you align your virtual office with Opus VO in Corpus Christi, you’re not merely trimming expenses; you’re plunging into a robust community of professionals, teeming with opportunities for partnerships and business growth.  Choosing Opus VO in Corpus Christi isn’t just about being cost-effective; it’s a savvy move that positions your venture for enduring achievements. Your next monumental business milestone could very well be just one virtual office decision away.  Opus VO Location in Corpus Christi @ 710 Buffalo Street, Corpus Christi, TX 78401   ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Corpus Christi - 710 Buffalo Street | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Texas, Corpus Christi virtual office located at 710 Buffalo Street. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/texas/corpus-christi/location-1050/",
+            "og": {
+                "title": "Virtual Office in Corpus Christi - 710 Buffalo Street | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Texas, Corpus Christi virtual office located at 710 Buffalo Street. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/texas/corpus-christi/location-1050/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/1050-001-Building.png"
+            }
+        }
+    }
+}

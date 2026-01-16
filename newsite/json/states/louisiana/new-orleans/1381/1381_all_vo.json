@@ -1,0 +1,92 @@
+{
+    "success": true,
+    "location_id": 1381,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "New Orleans",
+            "state": "LA",
+            "price": null,
+            "address": {
+                "line1": "3205 Orleans Avenue",
+                "suite": null,
+                "city": "New Orleans",
+                "state": "LA",
+                "zip": "70119",
+                "phone": "(504) 872-3853"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/1381-01.building.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1381-03.front_.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1381-04.shared-space.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1381-02.meeting.jpg"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 1,
+            "addressOnlyUrl": "/business-address/louisiana/new-orleans/location-1381/",
+            "signupUrl": "/signup/?locid=1381",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 1,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "New Orleans Virtual Office",
+            "body": "Secure a prestigious New Orleans business address without the financial commitment of brick-and-mortar office space. At Opus VO, you can root your business in the heart of New Orleans’ dynamic cultural and commercial landscape, all the while maximizing your fiscal resources. Need to host an essential meeting or deliver a game-changing pitch? Our state-of-the-art conference rooms are designed to impress.  Choose a virtual office in New Orleans with Opus VO, and a specialized live receptionist will be a part of your suite of services. We ensure each client interaction resonates with the uniqueness of your brand, offering a level of customer service that feels inherently yours. Delegate your daily administrative duties to us, allowing you the freedom to pursue your loftiest business ambitions. ",
+            "map": {
+                "lat": 29.9747445,
+                "lng": -90.0883448,
+                "zoom": 14,
+                "city": "New Orleans"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in New Orleans, Louisiana even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of New Orleans. You can also adapt to better meet your clients’ unique needs within Louisiana. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our New Orleans virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "VIrtual Office in New Orleans? Here's Why",
+                "body": "Don’t overlook New Orleans—this city offers more than Mardi Gras and jazz. It’s a thriving nexus for industries ranging from tourism to technology, creating an opportune platform for building beneficial relationships. By situating your business virtually in New Orleans, you’re not only making a sound financial choice but also a strategic one.  Selecting Opus VO in New Orleans is more than just a shrewd economic move—it positions you for success. Ready to ascend to greater business heights? Our exceptional virtual office solutions are at your service.  Choose from two of our Opus VO locations in New Orleans @ 3436 Magazine Street, New Orleans, LA 70115, or 3205 Orleans Avenue, New Orleans, LA 70119 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in New Orleans - 3205 Orleans Avenue | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Louisiana, New Orleans virtual office located at 3205 Orleans Avenue. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/louisiana/new-orleans/location-1381/",
+            "og": {
+                "title": "Virtual Office in New Orleans - 3205 Orleans Avenue | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Louisiana, New Orleans virtual office located at 3205 Orleans Avenue. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/louisiana/new-orleans/location-1381/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/1381-01.building.jpg"
+            }
+        }
+    }
+}

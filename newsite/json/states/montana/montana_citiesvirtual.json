@@ -1,0 +1,17 @@
+{
+    "success": true,
+    "count": 2,
+    "state": "montana",
+    "data": [
+        {
+            "id": "493",
+            "name": "Billings",
+            "popular": "1"
+        },
+        {
+            "id": "581",
+            "name": "Helena",
+            "popular": "1"
+        }
+    ]
+}

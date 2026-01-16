@@ -1,0 +1,141 @@
+{
+    "success": true,
+    "state": "arizona",
+    "city": "phoenix",
+    "wp_city_post_id": null,
+    "locations": [
+        {
+            "id": "862",
+            "name": "Phoenix",
+            "locname": "18444 N 25th Ave, Phoenix, AZ 85023",
+            "address": "18444 N 25th Ave, Phoenix, AZ 85023",
+            "city": "phoenix",
+            "state": "arizona",
+            "state_english": "Arizona",
+            "abbr": "AZ",
+            "phone": "6026442508",
+            "premium": "1",
+            "opusowned": "0",
+            "showpopular": "0",
+            "point_x": "33.653881",
+            "point_y": "-112.111879",
+            "url": "/virtual-office/arizona/phoenix/location-862/",
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/862-Exterior.png",
+                "alttext": "Exterior of building that houses Opus Virtual Offices located in Pheonix, Arizona"
+            }
+        },
+        {
+            "id": "825",
+            "name": "Phoenix",
+            "locname": "2942 N 24th Street, Phoenix, AZ 85016",
+            "address": "2942 N 24th Street, Phoenix, AZ 85016",
+            "city": "phoenix",
+            "state": "arizona",
+            "state_english": "Arizona",
+            "abbr": "AZ",
+            "phone": "6023842372",
+            "premium": "1",
+            "opusowned": "0",
+            "showpopular": "0",
+            "point_x": "33.481891399",
+            "point_y": "-112.0309761",
+            "url": "/virtual-office/arizona/phoenix/location-825/",
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/Opus-Virtual-Office-Phoenix-Building-Exterior-Sign-scaled.webp",
+                "alttext": "Exterior of Biltmore Office Plaza in Phoenix, AZ with a sign at 2942 N 24th Street"
+            }
+        }
+    ],
+    "popular_locations": [],
+    "premium_locations": [
+        {
+            "id": "862",
+            "name": "Phoenix",
+            "locname": "18444 N 25th Ave, Phoenix, AZ 85023",
+            "address": "18444 N 25th Ave, Phoenix, AZ 85023",
+            "city": "phoenix",
+            "state": "arizona",
+            "state_english": "Arizona",
+            "abbr": "AZ",
+            "phone": "6026442508",
+            "premium": "1",
+            "opusowned": "0",
+            "showpopular": "0",
+            "point_x": "33.653881",
+            "point_y": "-112.111879",
+            "url": "/virtual-office/arizona/phoenix/location-862/",
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/862-Exterior.png",
+                "alttext": "Exterior of building that houses Opus Virtual Offices located in Pheonix, Arizona"
+            }
+        },
+        {
+            "id": "825",
+            "name": "Phoenix",
+            "locname": "2942 N 24th Street, Phoenix, AZ 85016",
+            "address": "2942 N 24th Street, Phoenix, AZ 85016",
+            "city": "phoenix",
+            "state": "arizona",
+            "state_english": "Arizona",
+            "abbr": "AZ",
+            "phone": "6023842372",
+            "premium": "1",
+            "opusowned": "0",
+            "showpopular": "0",
+            "point_x": "33.481891399",
+            "point_y": "-112.0309761",
+            "url": "/virtual-office/arizona/phoenix/location-825/",
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/Opus-Virtual-Office-Phoenix-Building-Exterior-Sign-scaled.webp",
+                "alttext": "Exterior of Biltmore Office Plaza in Phoenix, AZ with a sign at 2942 N 24th Street"
+            }
+        }
+    ],
+    "regular_locations": [],
+    "sections": [
+        {
+            "title": "OUR PHOENIX\nVIRTUAL OFFICES",
+            "body": "<h2></h2>\n<p>Enjoy the benefits of having a business address in Phoenix Arizona without the stress and expense surrounding a “traditional office environment”. OpusVO gives you the prestige of having an office with the budget of working from home. Receive all your business mail at a professional office building. No post office box number, just a great business address to use on your business cards and other marketing material.</p>\n<p>You don’t just get a business phone number with your Phoenix virtual office, but also a live receptionist answering your calls the way you want them to be. Stop choosing between capturing new leads for your business and working on current clients. Do both. Get someone who looks out for you while you’re unable to break away.</p>\n",
+            "image": {
+                "url": "/newsite/wp-content/themes/ThemeDec23/assets/images/califonia-v-office.jpg",
+                "alt": "OUR PHOENIX\nVIRTUAL OFFICES",
+                "title": "OUR PHOENIX\nVIRTUAL OFFICES"
+            },
+            "layout": "image_text",
+            "imageAlignment": "right"
+        },
+        {
+            "title": "GET A VIRTUAL OFFICE\nIN PHOENIX",
+            "body": "<h2></h2>\n<p>Whether you choose to work out of your home or on the road, a Phoenix virtual office will give you the freedom and flexibility to get the job done in the place and style of your choosing. With a local company phone number, live receptionist, premium call transferring, and a professional business address, Opus VO provides a cost-effective way for your company to grow or establish a presence in a new market without any long-term commitments.</p>\n",
+            "image": {
+                "url": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "alt": "GET A VIRTUAL OFFICE\nIN PHOENIX",
+                "title": "GET A VIRTUAL OFFICE\nIN PHOENIX"
+            },
+            "layout": "image_text",
+            "imageAlignment": "left"
+        }
+    ],
+    "faqs": [],
+    "meta": {
+        "locations_count": 2,
+        "popular_locations_count": 0,
+        "premium_locations_count": 2,
+        "regular_locations_count": 0,
+        "sections_count": 2,
+        "faqs_count": 0
+    },
+    "seo": {
+        "title": "Virtual Office in Phoenix, AZ | Multiple Locations Available",
+        "meta_description": "Find the ultimate office solution with Opus Virtual Offices in Phoenix, Arizona. Our all-inclusive virtual offices cater to your business needs. Sign up today!",
+        "canonical": "https://www.opusvirtualoffices.com/virtual-office/arizona/phoenix/",
+        "og": {
+            "title": "Virtual Office in Phoenix, AZ | Multiple Locations Available",
+            "description": "Find the ultimate office solution with Opus Virtual Offices in Phoenix, Arizona. Our all-inclusive virtual offices cater to your business needs. Sign up today!",
+            "url": "https://www.opusvirtualoffices.com/virtual-office/arizona/phoenix/",
+            "type": "website",
+            "image": "https://www.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+        }
+    }
+}

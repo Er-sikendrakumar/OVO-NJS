@@ -1,0 +1,93 @@
+{
+    "success": true,
+    "location_id": 1586,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Palmer",
+            "state": "AK",
+            "price": null,
+            "address": {
+                "line1": "247 S Alaska Street",
+                "suite": null,
+                "city": "Palmer",
+                "state": "AK",
+                "zip": "99645",
+                "phone": "(907) 891-8815"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/1586-001-Building.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1396-01.bldg_-738x550.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1396-02.meeting-704x550.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1396-03.shared.jpg",
+                    "/wp-content-mgr/wp-content/uploads/1396-04.shared.jpg"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=1586",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 0,
+            "nearbyPremiumUrl": null,
+            "nearbyPremiumText": null,
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Palmer Virtual Office",
+            "body": "Experience the advantages of a prestigious business address in Palmer without the overhead associated with a physical location. Opus VO allows you to establish your enterprise in one of two prime Palmer settings at a fraction of the cost of a conventional office lease. Leverage our modern conference rooms for key meetings and client engagements, all while enhancing your company’s prestige with an esteemed Palmer address.  Choosing a virtual office in Palmer through Opus VO gives you the unique benefit of a live receptionist. Focused on delivering customized, exceptional customer service, our team ensures that each client interaction is in sync with your unique business goals. Delegate routine administrative tasks such as digital mail sorting and advanced call-forwarding to us, freeing you to focus on scaling your business. ",
+            "map": {
+                "lat": 61.6044842,
+                "lng": -149.1138626,
+                "zoom": 14,
+                "city": "Palmer"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Palmer, Alaska even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Palmer. You can also adapt to better meet your clients’ unique needs within Alaska. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Palmer virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Choose a Palmer Virtual Office?",
+                "body": "Palmer is more than just a scenic gateway to Alaska’s wilderness; it’s an evolving business environment with diverse agriculture, tourism, and local service opportunities. Ideally located near critical business hubs, our Palmer offices offer seamless access to vital industry contacts and networking events.  By opting for an Opus Virtual Office in Palmer, you’re doing more than reducing your operational costs; you’re obtaining a valuable competitive advantage. Elevate your business to new levels by taking advantage of our top-tier virtual office solutions today.  Choose from one of our two Palmer locations @ 247 S Alaska Street, Palmer, AK 99645, or @  1150 S.  Colony Way, Palmer, AK 99645. ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Palmer - 247 S Alaska Street | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Alaska, Palmer virtual office located at 247 S Alaska Street. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/alaska/palmer/location-1586/",
+            "og": {
+                "title": "Virtual Office in Palmer - 247 S Alaska Street | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Alaska, Palmer virtual office located at 247 S Alaska Street. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/alaska/palmer/location-1586/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/1586-001-Building.jpg"
+            }
+        }
+    }
+}

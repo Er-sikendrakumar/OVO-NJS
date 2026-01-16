@@ -1,0 +1,46 @@
+{
+    "success": true,
+    "count": 2,
+    "state": "delaware",
+    "mode": "virtual-office",
+    "data": [
+        {
+            "id": 942,
+            "location_name": "1201 North Market Street, Suite 111, Wilmington, DE 19801",
+            "city": "Wilmington",
+            "state": "Delaware",
+            "state_abbr": "DE",
+            "address": "1201 North Market Street, Suite 111, Wilmington, DE 19801",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 1,
+            "point_x": 39.7479883,
+            "point_y": -75.5469842,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/Opus-Virtual-Office-Wilmington-1201-North-Market-Street-Exterior.webp",
+                "alttext": "Exterior view of the modern office building at 1201 North Market Street, Wilmington, Delaware, home to Opus Virtual Office."
+            },
+            "url": "/virtual-office/delaware/wilmington/location-942/",
+            "phone": "3022980000"
+        },
+        {
+            "id": 243,
+            "location_name": "19266 Coastal Highway, Rehoboth Beach, DE 19971",
+            "city": "Rehoboth Beach",
+            "state": "Delaware",
+            "state_abbr": "DE",
+            "address": "19266 Coastal Highway, Rehoboth Beach, DE 19971",
+            "premium": 0,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 38.724577,
+            "point_y": -75.12516,
+            "image": {
+                "url": "/assets/mail-center.webp",
+                "alttext": "Mail Center"
+            },
+            "url": "/virtual-office/delaware/rehoboth-beach/location-243/",
+            "phone": "3024685876"
+        }
+    ]
+}

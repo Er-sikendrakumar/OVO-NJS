@@ -1,0 +1,27 @@
+{
+    "success": true,
+    "count": 1,
+    "state": "michigan",
+    "mode": "business-address",
+    "data": [
+        {
+            "id": 1358,
+            "location_name": "607 Shelby Street, Detroit, MI 48226",
+            "city": "Detroit",
+            "state": "Michigan",
+            "state_abbr": "MI",
+            "address": "607 Shelby Street, Detroit, MI 48226",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 42.329286499,
+            "point_y": -83.04842959,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1358-001-Building.jpg",
+                "alttext": null
+            },
+            "url": "/business-address/michigan/detroit/location-1358/",
+            "phone": "3133050594"
+        }
+    ]
+}

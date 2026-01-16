@@ -1,0 +1,19 @@
+{
+    "success": true,
+    "count": 3,
+    "state": "west virginia",
+    "data": [
+        {
+            "id": "702",
+            "name": "Clarksburg"
+        },
+        {
+            "id": "662",
+            "name": "Martinsburg"
+        },
+        {
+            "id": "817",
+            "name": "South Charleston"
+        }
+    ]
+}

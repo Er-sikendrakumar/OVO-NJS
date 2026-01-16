@@ -1,0 +1,94 @@
+{
+    "success": true,
+    "location_id": 822,
+    "mode": "virtual-office",
+    "data": {
+        "header": {
+            "city": "Katy",
+            "state": "TX",
+            "price": null,
+            "address": {
+                "line1": "24044 Cinco Village Center Blvd.",
+                "suite": null,
+                "city": "Katy",
+                "state": "TX",
+                "zip": "77494",
+                "phone": "(281) 677-9315"
+            },
+            "images": {
+                "hero": [
+                    "/wp-content-mgr/wp-content/uploads/822-building.png",
+                    "/wp-content-mgr/wp-content/uploads/822-Conference2.png",
+                    "/wp-content-mgr/wp-content/uploads/822-Conference.png",
+                    "/wp-content-mgr/wp-content/uploads/822-Reception1.png",
+                    "/wp-content-mgr/wp-content/uploads/822-Kitchen.png",
+                    "/wp-content-mgr/wp-content/uploads/822-Reception.png"
+                ]
+            },
+            "features": {
+                "showMailX": 0
+            },
+            "addressOnlyOptionAvailable": 0,
+            "addressOnlyUrl": null,
+            "signupUrl": "/signup/?locid=822",
+            "openingHours": null,
+            "opusowned": 0,
+            "ismail": 0,
+            "premium": 1,
+            "nearbyPremium": 1,
+            "nearbyPremiumUrl": "/virtual-office/texas/houston/location-1323/",
+            "nearbyPremiumText": "to view the most POPULAR locations nearby for the same $99/mo",
+            "locationDescription": ""
+        },
+        "overview": {
+            "heading": "Katy Virtual Office",
+            "body": "Looking for an impressive Katy address to kickstart your new venture or elevate your current business, without the hefty price tag of a traditional office? Opus VO has the perfect solution for you. Establish your company in one of our prime Katy locations and reap the rewards of a distinguished address without straining your budget. Plus, when you need a professional setting for crucial meetings or client discussions, our state-of-the-art conference rooms are at your service.  But the benefits go beyond a top-notch address. Choose a virtual office at Opus VO in Katy, and you’ll also get a live receptionist as part of the deal. Our team is ready to manage your client communications and handle essential tasks like sorting digital mail and directing calls, freeing you to focus on what you do best—growing your business. ",
+            "map": {
+                "lat": 29.739608,
+                "lng": -95.778108,
+                "zoom": 14,
+                "city": "Katy"
+            },
+            "pointsOfInterest": []
+        },
+        "faqs": [
+            {
+                "question": "Can I receive mail under my company name and personal name?",
+                "answer": "Yes, you can receive mail under both once your account has been activated."
+            },
+            {
+                "question": "Do you use an automated phone service or a receptionist to answer?",
+                "answer": "We offer a live, personalized receptionist to transfer your calls during business hours Monday to Friday. Calls made after hours will be met with a professional voicemail."
+            },
+            {
+                "question": "Can I have a virtual office in Katy, Texas even if I don’t reside there?",
+                "answer": "Yes, and it is a fantastic way to expand your presence to new clients. It will build trust with residents by having your business in the heart of Katy. You can also adapt to better meet your clients’ unique needs within Texas. "
+            },
+            {
+                "question": "What do you mean by “all-inclusive services”?  ",
+                "answer": "Our Katy virtual office offerings include all features listed at the same monthly cost, regardless of the location you choose. Please note that mail centers and some premium locations may not include all options. If you would like additional information, you can compare Opus to our competitors or contact us.  "
+            }
+        ],
+        "sections": [
+            {
+                "title": "Why Choose Katy, Texas? Why Choose Opus VO?",
+                "body": "Katy isn’t just a suburb of Houston; it’s a vibrant business community with a host of opportunities across various sectors. By setting up your virtual office through Opus VO in Katy, you connect with a bustling professional landscape ripe for networking and business growth.  Opting for Opus VO in Katy isn’t merely about cutting costs; it’s a strategic move to give your business a leg up on the competition. Your next major milestone could be just one virtual office decision away.  Choose from two of our Opus VO locations in Katy, Texas @ 24044 Cinco Village Center Blvd., Katy, TX 77494, or 24285 Katy Freeway, Katy, TX 77494 ",
+                "image": "/newsite/wp-content/themes/ThemeDec23/assets/images/coral-springs.jpg",
+                "layout": "image_text",
+                "imageAlignment": "right"
+            }
+        ],
+        "seo": {
+            "title": "Virtual Office in Katy - 24044 Cinco Village Center Blvd. | $99/Month",
+            "meta_description": "Get the ultimate office solution for your business with our Texas, Katy virtual office located at 24044 Cinco Village Center Blvd.. Grow your business now!",
+            "canonical": "https://www.opusvirtualoffices.com/virtual-office/texas/katy/location-822/",
+            "og": {
+                "title": "Virtual Office in Katy - 24044 Cinco Village Center Blvd. | $99/Month",
+                "description": "Get the ultimate office solution for your business with our Texas, Katy virtual office located at 24044 Cinco Village Center Blvd.. Grow your business now!",
+                "url": "https://www.opusvirtualoffices.com/virtual-office/texas/katy/location-822/",
+                "type": "website",
+                "image": "https://www.opusvirtualoffices.com/wp-content-mgr/wp-content/uploads/822-building.png"
+            }
+        }
+    }
+}

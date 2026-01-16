@@ -1,0 +1,17 @@
+{
+    "success": true,
+    "page": "faq",
+    "page_type": "faq",
+    "seo": {
+        "title": "FAQs on Virtual Office Services | Opus Virtual Offices",
+        "meta_description": "Get answers to your virtual office inquiries on services like live answering, and more. Find out how Opus Virtual Offices can benefit your business.",
+        "canonical": "https://njs.opusvirtualoffices.com/faq/",
+        "og": {
+            "title": "FAQs on Virtual Office Services | Opus Virtual Offices",
+            "description": "Get answers to your virtual office inquiries on services like live answering, and more. Find out how Opus Virtual Offices can benefit your business.",
+            "url": "https://njs.opusvirtualoffices.com/faq/",
+            "type": "website",
+            "image": "https://njs.opusvirtualoffices.com/newsite/wp-content/themes/ThemeDec23/assets/images/opus-logo-main.svg"
+        }
+    }
+}

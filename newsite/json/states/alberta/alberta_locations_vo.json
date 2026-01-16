@@ -1,0 +1,46 @@
+{
+    "success": true,
+    "count": 2,
+    "state": "alberta",
+    "mode": "virtual-office",
+    "data": [
+        {
+            "id": 1762,
+            "location_name": "638 11 Ave SW, Calgary, AB T2R 0E2",
+            "city": "Calgary",
+            "state": "Alberta",
+            "state_abbr": "AB",
+            "address": "638 11 Ave SW, Calgary, AB T2R 0E2",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 51.042996,
+            "point_y": -114.0761603,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1762-Exterior.jpg",
+                "alttext": "Exterior of building that houses Opus Virtual Offices located in Calgary, Alberta"
+            },
+            "url": "/virtual-office/alberta/calgary/location-1762/",
+            "phone": "0"
+        },
+        {
+            "id": 1550,
+            "location_name": "10060 Jasper Avenue Tower 1, Edmonton, AB T5J3R8",
+            "city": "Edmonton",
+            "state": "Alberta",
+            "state_abbr": "AB",
+            "address": "10060 Jasper Avenue Tower 1, Edmonton, AB T5J3R8",
+            "premium": 1,
+            "showpopular": 0,
+            "opusowned": 0,
+            "point_x": 53.5413977,
+            "point_y": -113.4925398,
+            "image": {
+                "url": "/wp-content-mgr/wp-content/uploads/1550-building-1743002333217.png",
+                "alttext": "Exterior of high-rise building that houses Opus Virtual Offices located in Edmonton, Alberta"
+            },
+            "url": "/virtual-office/alberta/edmonton/location-1550/",
+            "phone": "7808001637"
+        }
+    ]
+}
