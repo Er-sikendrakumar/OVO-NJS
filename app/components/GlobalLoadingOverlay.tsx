@@ -2,7 +2,7 @@
 'use client';
 
 import { useEffect, useRef, useState, createContext, useContext } from 'react';
-import { usePathname, useRouter as useNextRouter } from 'next/navigation';
+import { usePathname, useRouter as useNextRouter, useSearchParams } from 'next/navigation';
 import type { AppRouterInstance } from 'next/dist/shared/lib/app-router-context.shared-runtime';
 
 const FALLBACK_HIDE_DELAY = 1500;
@@ -65,9 +65,11 @@ export function useRouter(): AppRouterInstance {
  */
 export function GlobalLoadingOverlay({ children }: { children?: React.ReactNode }) {
   const pathname = usePathname();
+  const searchParams = useSearchParams();
   const [isVisible, setIsVisible] = useState(false);
   const fallbackTimeout = useRef<NodeJS.Timeout | null>(null);
   const previousPathRef = useRef(pathname);
+  const previousSearchRef = useRef(searchParams.toString());
 
   const hideOverlay = () => {
     if (fallbackTimeout.current) {
@@ -136,6 +138,14 @@ export function GlobalLoadingOverlay({ children }: { children?: React.ReactNode 
       hideOverlay();
     }
   }, [pathname]);
+
+  useEffect(() => {
+    const currentSearch = searchParams.toString();
+    if (currentSearch !== previousSearchRef.current) {
+      previousSearchRef.current = currentSearch;
+      hideOverlay();
+    }
+  }, [searchParams]);
 
   return (
     <LoadingContext.Provider value={contextValue}>

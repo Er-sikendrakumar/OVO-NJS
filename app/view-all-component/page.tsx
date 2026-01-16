@@ -1,24 +1,36 @@
 "use client";
 
-import React, { useState } from "react";
+import React, { useEffect, useMemo } from "react";
+import Link from "next/link";
+import { useSearchParams } from "next/navigation";
 import { ComponentsShowcaseA } from "@/app/view-all-component/ComponentsShowcaseA";
 import { ComponentsShowcaseB } from "@/app/view-all-component/ComponentsShowcaseB";
 import { ComponentFilterProvider } from "@/app/view-all-component/ComponentFilterContext";
-import { componentGroups } from "@/app/view-all-component/component-list";
+import {
+  allComponentNames,
+  componentGroups,
+} from "@/app/view-all-component/component-list";
 
 export default function ViewAllComponentPage() {
-  const [activeComponent, setActiveComponent] = useState<string | null>(null);
+  const searchParams = useSearchParams();
   const totalComponents = componentGroups.reduce(
     (count, group) => count + group.items.length,
     0
   );
 
-  const handleSelect = (name: string | null) => {
-    setActiveComponent(name);
+  const activeComponent = useMemo(() => {
+    const selected = searchParams.get("component");
+    if (selected && allComponentNames.includes(selected)) {
+      return selected;
+    }
+    return null;
+  }, [searchParams]);
+
+  useEffect(() => {
     if (typeof window !== "undefined") {
       window.scrollTo({ top: 0, behavior: "smooth" });
     }
-  };
+  }, [activeComponent]);
 
   return (
     <main className="w-full px-4 py-8 flex flex-col gap-10 pt-[72px] lg:pt-[104px]">
@@ -32,13 +44,12 @@ export default function ViewAllComponentPage() {
         <aside className="lg:w-[320px] w-full lg:sticky lg:top-[96px] h-fit border border-[#0BA5EC] rounded-[12px] p-4 bg-white">
           <div className="flex flex-col gap-3 pb-4 border-b border-[#E2E8F0]">
             <div className="text-[18px] font-semibold text-[#026aa2]">Component List</div>
-            <button
-              type="button"
-              onClick={() => handleSelect(null)}
+            <Link
+              href="/view-all-component"
               className="w-full rounded-[8px] border border-[#0BA5EC] px-3 py-2 text-left font-semibold text-[#026aa2] hover:bg-[#E6F7FF]"
             >
               Show All Components ({totalComponents})
-            </button>
+            </Link>
             {activeComponent ? (
               <div className="text-[14px] text-[#475467]">
                 Showing: <span className="font-semibold">{activeComponent}</span>
@@ -56,10 +67,11 @@ export default function ViewAllComponentPage() {
                   {group.items.map((name) => {
                     const isActive = activeComponent === name;
                     return (
-                      <button
+                      <Link
                         key={name}
-                        type="button"
-                        onClick={() => handleSelect(name)}
+                        href={`/view-all-component?component=${encodeURIComponent(
+                          name
+                        )}`}
                         className={`text-left px-2 py-1 rounded-[6px] text-[14px] ${
                           isActive
                             ? "bg-[#0BA5EC] text-white font-semibold"
@@ -67,7 +79,7 @@ export default function ViewAllComponentPage() {
                         }`}
                       >
                         {name}
-                      </button>
+                      </Link>
                     );
                   })}
                 </div>
