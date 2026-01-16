@@ -55,11 +55,11 @@ scripts/
 .git.bad/
 *.md
 api-responses/
-app/locations/
 next-env.d.tsNUL
 
 # Ignore markdown files except specific ones
 *.md
 !.github/**/*.md
 !.github/workflows/*.yml
+
 
